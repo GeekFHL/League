@@ -1,0 +1,183 @@
+header1 = "WELCOME TO THE GFHL!";
+story1 =  "Welcome to the greatest fantasy hockey league in the world!";
+header2 = "2024 GFHL Draft #1, #2 and #3";
+story2 =  "???? goes #1, ??? goes #2 and ??? goes #3";
+header3 = "WHAT'S GOING ON?";
+story3 =  "Trading is open for business. New Signings are frozen! Until after the Summer Draft.";
+header4 = "COMMITMENT";
+story4 =  "Is everyone ready for another year of commitment? Let us know if you're thinking on leaving.";
+header5 = "Kassandra Cup visits Los Angeles";
+story5 =  "Congrats Tom!";
+header6 = "VOICE YOUR OPINION";
+story6 =  "Make your thoughts known by voting on the GFHL Poll on the main page.";
+header7 = "INTERESTED IN JOINING?";
+story7 =  "If you are interested in becoming a GM with the GFHL, please contact the league office at gfhl22@hotmail.com.  You will be required to complete an application and a short interview.  New GMs will be brought in based on openings and upon successful completion of our screening process.  Thank you for your interest.";
+document.writeln("<font size='+0' >");
+document.writeln("<span style='FONT-STYLE: normal'>");
+document.writeln("<div id='mainDiv5790' style='border:1px #000000 solid;width:165px;height:265px;overflow:hidden;position: relative;background:#FFFFFF;0'>");
+document.writeln("<div id=bill5790 style='position:relative;background:#FFFFFF;left:0;top:0;margin-left:8px;margin-right:8px'>");
+document.writeln("<div id=news_item05790 onmouseover = mouse_in5790(0) onmouseout = mouse_out5790(0)  onclick = mouse_clicked5790(0) style='position:absolute;visibility:hidden;width:150px; background:#FFFFFF; COLOR: #000000; left:0; top:0; FONT-FAMILY: helvetica,arial; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-DECORATION: none; margin:0px;overflow-x:hidden;overflow-y:hidden;LINE-HEIGHT: 12px; text-align:left;padding:0px;'>");
+document.writeln("<div id=news_title05790 style='position:relative;background: #FFFFFF; COLOR:#414A77; width:150px; FONT-FAMILY: verdana,arial,sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: bold; TEXT-DECORATION: none; LINE-HEIGHT: 13px; text-align:left;padding:0px'>");
+document.writeln(header1);
+document.writeln("</div>");
+document.writeln(story1);
+document.writeln("</div>");
+document.writeln("<div id=news_item15790 onmouseover = mouse_in5790(1) onmouseout = mouse_out5790(1)  onclick = mouse_clicked5790(1) style='position:absolute;visibility:hidden;width:150px; background:#FFFFFF; COLOR: #000000; left:0; top:0; FONT-FAMILY: helvetica,arial; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-DECORATION: none; margin:0px;overflow-x:hidden;overflow-y:hidden;LINE-HEIGHT: 12px; text-align:left;padding:0px;'>");
+document.writeln("<div id=news_title15790 style='position:relative;background: #FFFFFF; COLOR:#414A77; width:150px; FONT-FAMILY: verdana,arial,sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: bold; TEXT-DECORATION: none; LINE-HEIGHT: 13px; text-align:left;padding:0px'>");
+document.writeln(header2);
+document.writeln("</div>");
+document.writeln(story2);
+document.writeln("</div>");
+document.writeln("<div id=news_item25790 onmouseover = mouse_in5790(2) onmouseout = mouse_out5790(2)  onclick = mouse_clicked5790(2) style='position:absolute;visibility:hidden;width:150px; background:#FFFFFF; COLOR: #000000; left:0; top:0; FONT-FAMILY: helvetica,arial; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-DECORATION: none; margin:0px;overflow-x:hidden;overflow-y:hidden;LINE-HEIGHT: 12px; text-align:left;padding:0px;'>");
+document.writeln("<div id=news_title25790 style='position:relative;background: #FFFFFF; COLOR:#414A77; width:150px; FONT-FAMILY: verdana,arial,sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: bold; TEXT-DECORATION: none; LINE-HEIGHT: 13px; text-align:left;padding:0px'>");
+document.writeln(header3);
+document.writeln("</div>");
+document.writeln(story3);
+document.writeln("</div>");
+document.writeln("<div id=news_item35790 onmouseover = mouse_in5790(3) onmouseout = mouse_out5790(3)  onclick = mouse_clicked5790(3) style='position:absolute;visibility:hidden;width:150px; background:#FFFFFF; COLOR: #000000; left:0; top:0; FONT-FAMILY: helvetica,arial; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-DECORATION: none; margin:0px;overflow-x:hidden;overflow-y:hidden;LINE-HEIGHT: 12px; text-align:left;padding:0px;'>");
+document.writeln("<div id=news_title35790 style='position:relative;background: #FFFFFF; COLOR:#414A77; width:150px; FONT-FAMILY: verdana,arial,sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: bold; TEXT-DECORATION: none; LINE-HEIGHT: 13px; text-align:left;padding:0px'>");
+document.writeln(header4);
+document.writeln("</div>");
+document.writeln(story4);
+document.writeln("</div>");
+document.writeln("<div id=news_item45790 onmouseover = mouse_in5790(4) onmouseout = mouse_out5790(4)  onclick = mouse_clicked5790(4) style='position:absolute;visibility:hidden;width:150px; background:#FFFFFF; COLOR: #000000; left:0; top:0; FONT-FAMILY: helvetica,arial; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-DECORATION: none; margin:0px;overflow-x:hidden;overflow-y:hidden;LINE-HEIGHT: 12px; text-align:left;padding:0px;'>");
+document.writeln("<div id=news_title45790 style='position:relative;background: #FFFFFF; COLOR:#414A77; width:150px; FONT-FAMILY: verdana,arial,sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: bold; TEXT-DECORATION: none; LINE-HEIGHT: 13px; text-align:left;padding:0px'>");
+document.writeln(header5);
+document.writeln("</div>");
+document.writeln(story5);
+document.writeln("</div>");
+document.writeln("<div id=news_item55790 onmouseover = mouse_in5790(5) onmouseout = mouse_out5790(5)  onclick = mouse_clicked5790(5) style='position:absolute;visibility:hidden;width:150px; background:#FFFFFF; COLOR: #000000; left:0; top:0; FONT-FAMILY: helvetica,arial; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-DECORATION: none; margin:0px;overflow-x:hidden;overflow-y:hidden;LINE-HEIGHT: 12px; text-align:left;padding:0px;'>");
+document.writeln("<div id=news_title55790 style='position:relative;background: #FFFFFF; COLOR:#414A77; width:150px; FONT-FAMILY: verdana,arial,sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: bold; TEXT-DECORATION: none; LINE-HEIGHT: 13px; text-align:left;padding:0px'>");
+document.writeln(header6);
+document.writeln("</div>");
+document.writeln(story6);
+document.writeln("</div>");
+document.writeln("<div id=news_item65790 onmouseover = mouse_in5790(6) onmouseout = mouse_out5790(6)  onclick = mouse_clicked5790(6) style='position:absolute;visibility:hidden;width:150px; background:#FFFFFF; COLOR: #000000; left:0; top:0; FONT-FAMILY: helvetica,arial; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-DECORATION: none; margin:0px;overflow-x:hidden;overflow-y:hidden;LINE-HEIGHT: 12px; text-align:left;padding:0px;'>");
+document.writeln("<div id=news_title65790 style='position:relative;background: #FFFFFF; COLOR:#414A77; width:150px; FONT-FAMILY: verdana,arial,sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: bold; TEXT-DECORATION: none; LINE-HEIGHT: 13px; text-align:left;padding:0px'>");
+document.writeln(header7);
+document.writeln("</div>");
+document.writeln(story7);
+document.writeln("</div>");
+document.writeln("<div id=news_item75790 onmouseover = mouse_in5790(7) onmouseout = mouse_out5790(7)  onclick = mouse_clicked5790(7) style='position:absolute;visibility:hidden;width:150px; background:#FFFFFF; COLOR: #000000; left:0; top:0; FONT-FAMILY: helvetica,arial; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: normal; TEXT-DECORATION: none; margin:0px;overflow-x:hidden;overflow-y:hidden;LINE-HEIGHT: 12px; text-align:left;padding:0px;'>");
+document.writeln("<div id=news_title65790 style='position:relative;background: #FFFFFF; COLOR:#414A77; width:150px; FONT-FAMILY: verdana,arial,sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-WEIGHT: bold; TEXT-DECORATION: none; LINE-HEIGHT: 13px; text-align:left;padding:0px'>");
+document.writeln("</div>");
+document.writeln("</div>");
+document.writeln("</span>");
+document.writeln("</font>");
+var stopPoint5790 = new Array(30);
+stopPoint5790[0] = -10;
+function mouse_clicked5790(index) 
+{  
+var targets = new Array(30);
+var links = new Array(30);     links[0] = "mailto:gfhl22@hotamil.com"; links[1] = "mailto:gfhl22@hotamil.com"; links[2] = "mailto:gfhl22@hotamil.com"; links[3] = "mailto:gfhl22@hotamil.com"; links[4] = "mailto:gfhl22@hotamil.com"; links[5] = "mailto:gfhl22@hotamil.com"; links[6] = "mailto:gfhl22@hotamil.com"; links[7] = "mailto:gfhl22@hotamil.com"; links[8] = "mailto:gfhl22@hotamil.com"; links[9] = "mailto:gfhl22@hotamil.com"; links[10]= "mailto:gfhl22@hotamil.com"; links[11]= "mailto:gfhl22@hotamil.com"; links[12] = "mailto:gfhl22@hotamil.com"; links[13]= "mailto:gfhl22@hotamil.com"; links[14]= "mailto:gfhl22@hotamil.com"; links[15]= "mailto:gfhl22@hotamil.com"; links[16] = "mailto:gfhl22@hotamil.com"; links[17]= "mailto:gfhl22@hotamil.com"; links[18]= "mailto:gfhl22@hotamil.com"; links[19]= "mailto:gfhl22@hotamil.com"; links[20] = "mailto:gfhl22@hotamil.com"; links[21]= "mailto:gfhl22@hotamil.com"; links[22]= "mailto:gfhl22@hotamil.com"; links[23]= "mailto:gfhl22@hotamil.com"; links[24] = "mailto:gfhl22@hotamil.com"; links[25]= "mailto:gfhl22@hotamil.com"; links[26]= "mailto:gfhl22@hotamil.com"; links[27]= "mailto:gfhl22@hotamil.com"; links[28] = "mailto:gfhl22@hotamil.com"; links[29] = "mailto:gfhl22@hotamil.com";  
+targets[0] = "myself";  targets[1] = "myself";  
+targets[2] = "myself";  targets[3] = "myself";  
+targets[4] = "myself";  targets[5] = "myself";  
+targets[6] = "myself";  targets[7] = "myself";  
+targets[8] = "myself";  targets[9] = "myself";  
+targets[10] = "myself";  targets[11] = "myself";  
+targets[12] = "myself";  targets[13] = "myself";  
+targets[14] = "myself";  targets[15] = "myself";  
+targets[16] = "myself";  targets[17] = "myself";  
+targets[18] = "myself";  targets[19] = "myself";  
+targets[20] = "myself";  targets[21] = "myself";  
+targets[22] = "myself";  targets[23] = "myself";  
+targets[24] = "myself";  targets[25] = "myself";  
+targets[26] = "myself";  targets[27] = "myself";  
+targets[28] = "myself";  targets[29] = "myself";
+if ((targets[index] == "parent") || (targets[index] == "") || (targets[index] == "myself") ) 
+{  document.location = links[index];}
+else 
+{  if (targets[index] == "window") 
+{     window.open(links[index],"newsScrollerWindow","");  }  else {    parent.frames[targets[index]].document.location.href = links[index];  }}}
+function mouse_in5790(index) {  var scroll_id = 5790;  var links = new Array(30);  
+links[0] = "";  links[1] = "";  links[2] = "";  links[3] = "";  links[4] = "";  links[5] = "";  links[6] = "";  links[7] = "";  links[8] = "";  links[9] = "";  links[10]= "";  links[11]= "";  links[12]= "";  links[13]= "";  links[14]= "";  links[15]= "";  links[16]= "";  links[17]= "";  links[18]= "";  links[19]= "";  links[20]= "";  links[21]= "";  links[22]= "";  links[23]= "";  links[24]= "";  links[25]= "";  links[26]= "";  links[27]= "";  links[28]= "";  links[29]= "";  
+news_item_div = document.getElementById('news_item'+index +scroll_id );  
+news_title_div = document.getElementById('news_title'+index + scroll_id);  
+if ( (links[index] == 'http://') || (links[index] == '') ) 
+{    
+news_item_div.style.cursor = 'crosshair';    
+news_title_div.style.cursor = 'crosshair';    
+news_title_div.title='Move cursor away to continue scrolling';    
+news_item_div.title='Move cursor away to continue scrolling';  
+}  
+else 
+{    
+window.status = links[index];    
+news_item_div.style.color = '#8E0606';    
+news_title_div.style.color = '#B90000';    
+news_item_div.style.cursor = 'pointer';    
+news_item_div.title='Click here to read more';  
+}  
+paused5790=true;
+}
+function mouse_out5790(index) 
+{    
+window.status = "";  
+var scroll_id = 5790;  
+news_item_div = document.getElementById('news_item'+index + scroll_id);
+news_title_div = document.getElementById('news_title'+index + scroll_id);  
+news_item_div.style.color = '#000000';  
+news_title_div.style.color = '#414A77';  
+paused5790=false;
+}
+function scroll5790() 
+{  
+if(paused5790==false)
+{    
+total_height_offset5790--;    
+if(total_height_offset5790 <( -1 * news_scroller_height5790)) 
+{      
+total_height_offset5790=265;    
+}    
+scrolling_div5790.style.top=total_height_offset5790+"px";
+}  
+setTimeout('scroll5790()',30);
+}
+var waitCount5790=0;
+function waitImageLoad5790()
+{  
+document.getElementById('bannerIcon5790').visibility = 'visible';  
+document.getElementById('bannerIcon5790').style.display = 'inline';  
+if ((document.getElementById('bannerIcon5790').height > 25) || (waitCount5790 > 20)) 
+{    
+setTimeout("init5790()",60);  
+}  
+else 
+{    
+waitCount5790++;    
+setTimeout("waitImageLoad5790()",200); 
+}
+}
+function reset_it5790()
+{  
+var height = 0;  
+var scroll_id = 5790;  
+var news_item_count = 7;  
+news_scroller_height5790 = 0;  
+news_scroller_width5790 = 165;  
+for( i=0; i < news_item_count; i++)	
+{    
+news_item_div=document.getElementById('news_item'+i+scroll_id);    
+news_item_div.style.visibility="visible";    
+news_item_div.style.top=""+news_scroller_height5790+"px";    
+height=news_item_div.offsetHeight;  
+news_scroller_height5790 =news_scroller_height5790 + height + 10;  
+}  
+scrolling_div5790=document.getElementById('bill5790');  
+scrolling_div5790.style.height=news_scroller_height5790+"px";  
+scrolling_div5790.style.width="165px";  
+total_height_offset5790 = 265;  
+total_width_offset5790 = 165;
+}
+function init5790() 
+{  
+reset_it5790();  
+scroll5790();
+}
+setTimeout("init5790()",1000);
+var scrolling_div5790=null;
+var total_height_offset5790=265;
+var total_width_offset5790=165;
+var news_scroller_height5790=5;
+var paused5790=false;
