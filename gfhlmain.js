@@ -35,5 +35,5 @@ function random_mainpic(){
 		
 		if (ry==0)
 		ry=1
-		document.write('<img src="http://geekfhl.angelfire.com/'+mainpic[ry]+'" width="544" vspace="2" class="center"></img><center>'+maintext[ry]+'</center>');
+		document.write('<img src="Images/Main/2024/'+mainpic[ry]+'" width="544" vspace="2" class="center"></img><center>'+maintext[ry]+'</center>');
 	
