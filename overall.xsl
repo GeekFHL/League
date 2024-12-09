@@ -6,7 +6,7 @@
 
 <head>      
 <title>2024-25 GFHL Standings</title>      
-<link rel="stylesheet" type="text/css" href="https://geekfhl.angelfire.com/gfhlmain.css" />
+<link rel="stylesheet" type="text/css" href="gfhlmain.css" />
 </head>    
 
 <body>   
