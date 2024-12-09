@@ -53,259 +53,7 @@ a:hover, a:active {
 
 </head>
 
-<body data-new-gr-c-s-check-loaded="14.1211.0" data-gr-ext-installed=""><noscript><NoEmbed><XMP><body><!--'"</title></head>-->
-
-<script type="text/javascript">
-//OwnerIQ
-var __oiq_pct = 50;
-if( __oiq_pct>=100 || Math.floor(Math.random()*100/(100-__oiq_pct)) > 0 ) {
-var _oiqq = _oiqq || [];
-_oiqq.push(['oiq_addPageBrand','Lycos']);
-_oiqq.push(['oiq_addPageCat','Internet > Websites']);
-_oiqq.push(['oiq_addPageLifecycle','Intend']);
-_oiqq.push(['oiq_doTag']);
-(function() {
-var oiq = document.createElement('script'); oiq.type = 'text/javascript'; oiq.async = true;
-oiq.src = document.location.protocol + '//px.owneriq.net/stas/s/lycosn.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oiq, s);
-})();
-}
-
-/////// Google Analytics
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-21402695-21']);
-_gaq.push(['_setDomainName', 'angelfire.com']);
-_gaq.push(['_setCustomVar', 1, 'member_name', 'geekfhl', 3]);
-_gaq.push(['_trackPageview']);
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
-////// Lycos Initialization /////////////////////
-var lycos_ad = Array();
-var lycos_search_query = "";
-var lycos_onload_timer;
-
-var cm_role = "live";
-var cm_host = "angelfire.lycos.com";
-var cm_taxid = "/memberembedded";
-var angelfire_member_name = "geekfhl";
-var angelfire_member_page = "geekfhl/newtransactions.html";
-var angelfire_ratings_hash = "1733696976:f3dfdb8d084cc74f67a4d792330c48c5";
-
-var lycos_ad_category = null;
-
-var lycos_ad_remote_addr = "209.202.244.9";
-var lycos_ad_www_server = "www.angelfire.lycos.com";
-var edit_site_url = "www.angelfire.lycos.com/landing/landing.tmpl?utm_source=house&utm_medium=landingpage&utm_campaign=toolbarlink";
-
-</script>
-<script type="text/javascript" src="https://scripts.lycos.com/catman/init.js"></script>
-
-<script type='text/javascript'>
- var googletag = googletag || {};
- googletag.cmd = googletag.cmd || [];
- (function() {
-   var gads = document.createElement('script');
-   gads.async = true;
-   gads.type = 'text/javascript';
-   var useSSL = 'https:' == document.location.protocol;
-   gads.src = (useSSL ? 'https:' : 'http:') +
-     '//www.googletagservices.com/tag/js/gpt.js';
-   var node = document.getElementsByTagName('script')[0];
-   node.parentNode.insertBefore(gads, node);
- })();
-</script>
-
-
-<script type='text/javascript'>
- googletag.cmd.push(function() {
-   googletag.defineSlot('/95963596/ANG_300x250_dfp', [300, 250], 'div-gpt-ad-1450207484070-0').addService(googletag.pubads());
-   googletag.enableServices();
- });
-</script>
-
-<script type='text/javascript'>
- googletag.cmd.push(function() {
-   googletag.defineSlot('/95963596/ANG_above_728x90_dfp', [728, 90], 'div-gpt-ad-1450207484070-1').addService(googletag.pubads());
-   googletag.enableServices();
- });
-</script>
-
-<script type='text/javascript'>
- googletag.cmd.push(function() {
-   googletag.defineSlot('/95963596/ANG_below_728X90_dfp', [728, 90], 'div-gpt-ad-1450207484070-2').addService(googletag.pubads());
-   googletag.enableServices();
- });
-</script>
-
-
-<script type="text/javascript">
-(function(isV) {
-    if (!isV) {
-        return;
-    }
-
-    //this.lycos_search_query = lycos_get_search_referrer();
-    var adMgr = new AdManager();
-    var lycos_prod_set = adMgr.chooseProductSet();
-    var slots = ["leaderboard", "leaderboard2", "toolbar_image", "toolbar_text", "smallbox", "top_promo", "footer2","slider"];
-    var adCat = this.lycos_ad_category;
-    adMgr.setForcedParam('page', (adCat && adCat.dmoz) ? adCat.dmoz : 'member');
-
-    if (this.lycos_search_query) {
-        adMgr.setForcedParam("keyword", this.lycos_search_query);
-    } 
-    else if (adCat && adCat.find_what) {
-        adMgr.setForcedParam('keyword', adCat.find_what);
-    }
-
-    for (var s in slots) {
-        var slot = slots[s];
-        if (adMgr.isSlotAvailable(slot)) {
-            this.lycos_ad[slot] = adMgr.getSlot(slot);
-        }
-    }
-
-
-    adMgr.renderHeader();
-    adMgr.renderFooter();
-}((function() {
-    var w = 0, h = 0, minimumThreshold = 300;
-    if (top == self) {
-        return true;
-    }
-
-    if (typeof(window.innerWidth) == 'number' ) {
-        w = window.innerWidth;
-        h = window.innerHeight;
-    }
-    else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
-        w = document.documentElement.clientWidth;
-        h = document.documentElement.clientHeight;
-    }
-    else if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
-        w = document.body.clientWidth;
-        h = document.body.clientHeight;
-    }
-
-    return ((w > minimumThreshold) && (h > minimumThreshold));
-}())));
-
-
-
-window.onload = function() {
-    var f = document.getElementById("lycosFooterAd");
-    var b = document.getElementsByTagName("body")[0];
-    b.appendChild(f);
-    f.style.display = "block";
-    document.getElementById('lycosFooterAdiFrame').src = '/adm/ad/footerAd.iframe.html';
-
-    // Slider Injection
-    (function() {
-        var e = document.createElement('iframe');
-        e.style.border = '0';
-        e.style.margin = 0;
-        e.style.display = 'block';
-        e.style.cssFloat = 'right';
-        e.style.height = '254px';
-        e.style.overflow = 'hidden';
-        e.style.padding = 0;
-        e.style.width = '300px';
-    })();
-
-
-    // Bottom Ad Injection
-    ( function() {
-        var b = document.getElementsByTagName("body")[0];
-
-        var iif = document.createElement('iframe');
-        iif.style.border = '0';
-        iif.style.margin = 0;
-        iif.style.display = 'block';
-        iif.style.cssFloat = 'right';
-        iif.style.height = '254px';
-        iif.style.overflow = 'hidden';
-        iif.style.padding = 0;
-        iif.style.width = '300px';
-        iif.src = '/adm/ad/injectAd.iframe.html';
-        
-        var cdiv = document.createElement('div');
-        cdiv.style = "width:300px;margin:10px auto;";
-        cdiv.appendChild( iif );
-        if( b )
-        {
-            b.insertBefore(cdiv, b.lastChild);
-        }
-    })();
-
-}
-
-
-</script>
-
-<style>
-#body .adCenterClass {
-  margin:0 auto;
-  display:block !important;
-  overflow:hidden;
-  width:100%;
-}
-#body .adCenterClass #ad_container {
-  display:block !important;
-  float:left;
-  width:728px;
-}
-@media (min-width: 768px) {
-  <!-- For 300px or less ads ONLY -->
-  #body .adCenterClass #ad_container {
-    width: calc(100% - 372px);
-  }
-}
-@media (min-width: 1110px) {
-  <!-- For 728px or less ads -->
-  #body .adCenterClass #ad_container {
-    width: calc(100% - 372px);
-  }
-}
-
-</style>
-
-<div style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999">
-
-    <div class="adCenterClass">
-        <a href="https://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; float:left; width:186px; border:0">
-          <img src="/adm/ad/angelfire-freeAd.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
-        </a>
-        <div id="ad_container">
-            <script type="text/javascript">document.write(lycos_ad['leaderboard']);</script>
-        </div>
-    </div>
-</div>
-
-<!-- ///////////////////////////////////// -->
-<script type="text/javascript">document.write(lycos_ad['slider']);</script>
-
-
-<div id="lycosFooterAd" style="background:#abe6f6; border-top:1px solid #507a87; clear:both; display:none; position:relative; z-index:9999999">
-<div class="adCenterClass" style="display:block!important; overflow:hidden; width:936px;">
-	<div id="aflinksholder" style="float:left; width:186px;">
-        <a href="https://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; border:0">
-            <img src="/adm/ad/angelfire-freeAd2.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
-        </a>
-    </div>
-    <iframe id="lycosFooterAdiFrame" style="border:0; display:block; float:left; height:96px; overflow:hidden; padding:0; width:750px"></iframe>
-</div>
-</div>
-
-
-<!--- UNDERDOGMEDIA EDGE_lycos.com JavaScript ADCODE START--->
-<script data-cfasync="false" language="javascript" async src="//udmserve.net/udm/img.fetch?sid=17754;tid=1;dt=6;"></script>
-<!--- UNDERDOGMEDIA EDGE_lycos.com JavaScript ADCODE END--->
-
-</xmp></NoEmbed></noscript>
+<noscript><NoEmbed><XMP><body></xmp></NoEmbed></noscript>
 
 <h1><b><center>Transactions</center></b></h1>
 <p>
@@ -315,18 +63,18 @@ window.onload = function() {
 <br>
 <center>
 <br>
-<a href="https://geekfhl.angelfire.com/transjan.html">January</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transfeb.html">February</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transmar.html">March</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transapril.html">April</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transmay.html">May</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transjune.html">June</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transjuly.html">July</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transaug.html">August</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transsept.html">September</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transoct.html">October</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transnov.html">November</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transdec.html">December</a>
+<a href="transjan.html">January</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transfeb.html">February</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transmar.html">March</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transapril.html">April</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transmay.html">May</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transjune.html">June</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transjuly.html">July</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transaug.html">August</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transsept.html">September</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transoct.html">October</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transnov.html">November</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transdec.html">December</a>
 </center>
 </span></div>
 <p>
@@ -334,77 +82,77 @@ window.onload = function() {
 </p><center>
 <table>
 <tbody><tr>
-<td><img src="./newtransactions_files/Florida" style="width:75px;height:50px"></td>
+<td><img src="Florida" style="width:75px;height:50px"></td>
 <td>claims Brett Howden (F) off waivers from Los Angeles (*1 claim)<p>releases Rasmus Kupari (F)</p></td>
 </tr>
 
 </tbody></table><table>
 <tbody><tr>
-<td><img src="./newtransactions_files/Edmonton" style="width:75px;height:50px"></td>
+<td><img src="Edmonton" style="width:75px;height:50px"></td>
 <td>Kristopher Letang (D)</td>
 <td align="right">Min's 2026 2nd round pick</td>
-<td align="right"><img src="./newtransactions_files/Minnesota" style="width:75px;height:50px"></td>
+<td align="right"><img src="Minnesota" style="width:75px;height:50px"></td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr>
-<td><img src="./newtransactions_files/TampaBay" style="width:75px;height:50px"></td>
+<td><img src="TampaBay" style="width:75px;height:50px"></td>
 <td>Kiefer Sherwood (F)</td>
 <td align="right">Car's 2025 2nd round pick</td>
-<td align="right"><img src="./newtransactions_files/Edmonton" style="width:75px;height:50px"></td>
+<td align="right"><img src="Edmonton" style="width:75px;height:50px"></td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr>
-<td><img src="./newtransactions_files/TampaBay" style="width:75px;height:50px"></td>
+<td><img src="TampaBay" style="width:75px;height:50px"></td>
 <td>signs Colton Sissons (F)</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr>
-<td><img src="./newtransactions_files/NewYorkRangers" style="width:75px;height:50px"></td>
+<td><img src="NewYorkRangers" style="width:75px;height:50px"></td>
 <td>signs Jaxson Stauber (G) <p></p> releases Ronnie Attard (D)</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr>
-<td><img src="./newtransactions_files/Ottawa" style="width:75px;height:50px"></td>
+<td><img src="Ottawa" style="width:75px;height:50px"></td>
 <td>signs Grant Hutton (D) <p>releases Blake Wheeler (F)</p></td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr>
-<td><img src="./newtransactions_files/Boston" style="width:75px;height:50px"></td>
+<td><img src="Boston" style="width:75px;height:50px"></td>
 <td>signs Matt Murray (G) <p>releases Brett Berard (F)</p></td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr>
-<td><img src="./newtransactions_files/Vancouver" style="width:75px;height:50px"></td>
+<td><img src="Vancouver" style="width:75px;height:50px"></td>
 <td>signs Ethan Cardwell (F) <p>releases Filip Bystedt (F)</p></td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr>
-<td><img src="./newtransactions_files/Washington" style="width:75px;height:50px"></td>
+<td><img src="Washington" style="width:75px;height:50px"></td>
 <td>signs Ville Koivunen (F) <p>releases Nolan Foote (F)</p></td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr>
-<td><img src="./newtransactions_files/Detroit" style="width:75px;height:50px"></td>
+<td><img src="Detroit" style="width:75px;height:50px"></td>
 <td>signs Dmitri Buchelnikov (F) <p>releases Stanislav Svozil (D)</p></td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr>
-<td><img src="./newtransactions_files/Edmonton" style="width:75px;height:50px"></td>
+<td><img src="Edmonton" style="width:75px;height:50px"></td>
 <td>signs Sam Rinzel (D) <p>releases Michael McCarron (F)</p></td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr>
-<td><img src="./newtransactions_files/LosAngeles" style="width:75px;height:50px"></td>
+<td><img src="LosAngeles" style="width:75px;height:50px"></td>
 <td>claims Brett Berard (F) off of waivers from Boston (*1 claim)<p>releases Ivan Ivan (F)</p></td>
 </tr>
 
@@ -415,483 +163,22 @@ window.onload = function() {
 <center>
 <br>
 <span style="font-weight:bold;">
-<a href="https://geekfhl.angelfire.com/transjan.html">January</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transfeb.html">February</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transmar.html">March</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transapril.html">April</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transmay.html">May</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transjune.html">June</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transjuly.html">July</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transaug.html">August</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transsept.html">September</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transoct.html">October</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transnov.html">November</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://geekfhl.angelfire.com/transdec.html">December</a>
+<a href="transjan.html">January</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transfeb.html">February</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transmar.html">March</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transapril.html">April</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transmay.html">May</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transjune.html">June</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transjuly.html">July</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transaug.html">August</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transsept.html">September</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transoct.html">October</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transnov.html">November</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="transdec.html">December</a>
 </span>
 </center>
 </div>
 <br>
 
 <noscript><NoEmbed><XMP></body></xmp></NoEmbed></noscript>
-
-<div class="ss-shadow-host"><template shadowrootmode="open">
-<style>
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-*{
-    font-family: 'Roboto', sans-serif;
-}
-.ss-sd-main-container {
-    height: 100%;
-    width: 0;
-    position: fixed;
-    z-index: 9999999999999;
-    top: 0;
-    right: 0;
-    background: #fbfcfe;
-    background-repeat: no-repeat;
-    background-position: 0px -150px, 5px 350px, 280px 5px, left bottom;
-    background-size: contain, auto, 125px 125px, contain;
-    overflow-x: hidden;
-    transition: 0.5s;
-    padding-top: 60px;
-}
-
-
-.ss-sd-main-container a {
-    padding: 8px 8px 8px 32px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
-    transition: 0.3s;
-}
-
-.ss-sd-main-container a:hover {
-    color: #f1f1f1;
-}
-
-.ss-sd-main-container .surfsafe_closebtn {
-    position: absolute;
-    top: 5px;
-    left: 0;
-    font-size: 36px;
-    cursor: pointer;
-}
-
-@media screen and (max-height: 450px) {
-    .ss-sd-main-container {padding-top: 15px;}
-    .ss-sd-main-container a {font-size: 18px;}
-}
-.ss-sd-title {
-    margin-left: 50px;
-    margin-bottom: 10px;
-    color: #9a9a9a;
-}
-.ss-sd-title h1 {
-    font-size: 30px;
-}
-.ss-sb-top-image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.ss-sb-top-image :hover {
-  margin-top: -5px;
-}
-
-.ss-sb-status-container{
-    display: flex;
-    margin-left: 18px;
-    margin-right: 18px;
-    justify-content: center;
-    align-items:center;
-    flex-wrap: wrap;
-    text-align: center;
-}
-.ss-sb-status-container > p {
-    color: #1d4e6e;
-    font-size: 15px;
-    font-weight: bold;
-}
-#ss_sb_status_icon {
-    margin-right: 12px;
-    width: 50px;
-}
-
-.ss-sd-reports-container {
-    display: flex;
-    justify-content: flex-end;
-    flex-wrap: wrap;
-    flex-direction: column;
-    align-content: flex-start;
-    margin-right: 46px;
-}
-.ss-sd-reports-container .report {
-    display:flex;
-    flex-direction: row;
-    align-items: center;
-    margin: 12px 14px 12px 14px;
-}
-.ss-sd-reports-container .report > h3 {
-    font-size: 17px;
-    line-height: 1.4em;
-    color: rgb(36,81,112);
-    font-weight: bold;
-}
-.ss-sd-reports-container .report > h2{
-    color: #1d4e6e;
-    font-size: 24px;
-    margin-left: 34px;
-    font-weight: bold;
-}
-.ss-sd-image-gallery {
-    margin-top: 40px;
-    margin-bottom: 100px;
-    justify-content: center;
-    align-items: center;
-    display: none;
-}
-.ss-sd-image-gallery-count {
-    margin-top: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.ss-sd-image-gallery ul {
-    display: flex;
-    flex-flow: row wrap;
-    list-style: none;
-    margin: 8px 0;
-}
-
-.ss-sd-image-gallery  li {
-    margin: 10px 10px;
-    flex-basis: calc(50% - 20px);
-    box-shadow: 0px 10px 12px #888888;
-    word-break:break-all;
-    background-color: #ffff;
-
-}
-.ss-sd-image-gallery  img {
-    width: 100%;
-    height: auto;
-}
-.ss-sd-image-text-container {
-    margin: 4px, 8px, 4px, 8px;
-    background-color: #ffff
-}
-.ss-sd-image-text-container p {
-    padding-left: 4px;
-    padding-right: 4px;
-    font-size: 14px;
-    word-break: normal;
-    color: #1d4e6e;
-    width: 120px;
-    text-overflow: ellipsis;
-}
-
-
-
-
-
-
-.report-modal-container {
-    background-color:#556;
-    background-image: linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-    linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-    linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-    linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-    linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a),
-    linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);
-    background-size:80px 140px;
-    background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
-    display: none;
-    z-index: 99999999999999;
-}
-
-#ss_person_warning{
-    margin-top: 20px;
-}
-
-#top_h1_title{
-  margin-left : 30px;
-  font-size: 24px;
-  font-weight: 700;
-  margin-top: 30px;
-
-}
-
-#top_h2_title{
-
-  font-size: 20px;
-  font-weight: 700;
-  margin-bottom: 10px;
-}
-
-.report-modal {
-    width: 400px;
-
-    height: 620px;
-
-    position: fixed;
-
-    z-index: 99999999;
-    border-radius: 5px;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    background-color: white;
-    background-repeat: no-repeat;
-    background-position: 0px -0px, right center;
-    box-shadow: 0 0 60px 10px rgba(0, 0, 0, 0.9);
-}
-s
-.report-modal-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 50;
-    background: rgba(0, 0, 0, 0.6);
-}
-
-.report-modal-guts {
-    display: flex;
-    flex: 1;
-    flex-direction: column;
-}
-
-.report-modal-guts .title {
-    margin-top: 20px;
-    align-items: center;
-}
-
-.report-modal-guts .labels {
-    margin-left: 30px;
-    margin-top: 40px;
-}
-
-.report-modal-guts .footer {
-    flex-grow: 1;
-    margin-top: 10px;
-}
-
-.report-btn {
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border-radius: 5px;
-    width: 90%;
-    text-align: center;
-    transition: 0.5s;
-    background-size: 200% auto;
-    color: white;
-    font-size: 17px;
-    border: none;
-    background-image: linear-gradient(to right, #0395c8 0%, #0178ad 51%, #004f82 100%);
-}
-
-.report-btn:hover {
-    background-position: right center;
-}
-
-
-.report-modal .close-report-button {
-    position: absolute;
-    cursor: pointer;
-    z-index: 1;
-    top: 5px;
-    right: 5px;
-    border: 0;
-    color: black;
-    padding: 5px 10px;
-    font-size: 1.5rem;
-}
-
-
-.report-options {
-    display: flex;
-    width: 50%;
-    position: relative;
-    padding-left: 35px;
-    margin-bottom: 12px;
-    cursor: pointer;
-    font-size: 22px;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-
-.report-options input {
-    position: absolute;
-    opacity: 0;
-    cursor: pointer;
-}
-
-.report-checkmark {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 25px;
-    width: 25px;
-    background-color: #eee;
-}
-
-.report-options:hover input ~ .report-checkmark {
-    background-color: #ccc;
-}
-
-.report-options input:checked ~ .report-checkmark {
-    background-color: #2196F3;
-}
-
-.report-checkmark:after {
-    content: "";
-    position: absolute;
-    display: none;
-}
-
-.report-options input:checked ~ .report-checkmark:after {
-    display: block;
-}
-
-.report-options .report-checkmark:after {
-    left: 9px;
-    top: 5px;
-    width: 5px;
-    height: 10px;
-    border: solid white;
-    border-width: 0 3px 3px 0;
-    -webkit-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
-}
-
-
-</style>
-
-<style>
-@keyframes playLoading{
-  100% { background-position: -90.5px; }
-
-}
-</style>
-<div class="right_surfsafe_overlay ss-exclude" style="position: absolute; opacity: 0; display: none; cursor: pointer; border: none; top: 0; left: 0; z-index: 8675310;"></div>
-<span class="left_surfsafe_overlay" style="border-radius: 3px; text-indent: 4px; width: autopx; padding: 0px 4px 0px 0px; text-align: center; font: 11px/20px &#39;Helvetica Neue&#39;, Helvetica, sans-serif; color: rgb(255, 255, 255); background: rgba(60, 60, 60, 0.9); position: absolute; opacity: 0; display: none; cursor: pointer; border: none; -webkit-font-smoothing: antialiased; top: 0; left: 0; z-index: 8675310;">
-Fact Check
-</span>
-
-<div id="surfsafeSidenav" class="ss-sd-main-container">
-<a class="surfsafe_closebtn">×</a>
-<div style="display: flex; flex-direction: column;">
-<div class="ss-sd-title">
-<h1 id="ss_sd_title">Analyzing</h1>
-</div>
-<div class="ss-sb-top-image">
-<img src="chrome-extension://hbpagabeiphkfhbboacggckhkkipgdmh/icons/loading-image.png" style="max-height: 200px; margin: 10px; box-shadow: 5px 10px 18px #888888;" class="ss-exclude">
-</div>
-<div class="ss-sb-status-container">
-<div style="min-width: 0;margin: 5px;"><img id="ss_sb_status_icon" src="chrome-extension://hbpagabeiphkfhbboacggckhkkipgdmh/icons/loading-sprites.svg"></div>
-<p id="ss_sd_status_text">Loading...</p>
-</div>
-<br>
-<div class="ss-sd-reports-container">
-<div class="ss-sd-reports-container report">
-<h3>Reports</h3><h3>
-</h3><h2 id="ss_sd_report_report_num">-</h2>
-</div>
-<div class="ss-sd-reports-container report">
-<h3>Sources</h3>
-<h2 id="ss_sd_report_sources_num">-</h2>
-</div>
-<!--<div class="ss-sd-reports-container report">
-<h3>Views</h3>
-<h2 id="ss_sd_report_views_num">0</h2>
-</div>
--->
-</div>
-
-
-<div class="ss-sd-image-gallery">
-<div class="ss-sd-image-gallery-count">
-<p style="font-size: 15px; font-weight:bold; display: inline-block;">Photo seen in &nbsp;</p>
-<p style="font-size: 20px; font-weight:bold; display: inline-block" id="ss_sd_appearances_num"></p>
-<p style="font-size: 15px; font-weight:bold; display: inline-block;">
-&nbsp;other articles
-</p>
-</div>
-<ul id="ss_sd_img">
-</ul>
-</div>
-
-</div>
-</div>
-
-
-
-
-
-
-<div class="report-modal-container" id="surfsafeReport">
-<div class="report-modal-overlay" id="report_modal_overlay"></div>
-
-<div class="report-modal" id="report_modal">
-<span class="close-report-button" id="close_report_button">×</span>
-<div class="report-modal-guts">
-<text id="top_h1_title">Request a Fact Check</text>
-<center>
-<img height="200px" id="ss_person_warning" src="chrome-extension://hbpagabeiphkfhbboacggckhkkipgdmh/icons/loading-image.png">
-</center>
-<div class="report-modal-guts">
-</div>
-<div class="report-modal-guts labels">
-<text id="top_h2_title">Check this image for being...</text>
-<label class="report-options">
-Propaganda
-<input id="surfsafe_propaganda" type="radio" name="radio">
-<span class="report-checkmark"></span>
-</label>
-<label class="report-options">
-Misleading
-<input id="surfsafe_misleading" type="radio" name="radio">
-<span class="report-checkmark"></span>
-</label>
-<label class="report-options">
-Photoshopped
-<input id="surfsafe_photoshopped" type="radio" name="radio">
-<span class="report-checkmark"></span>
-</label>
-<div class="report-modal-guts footer">
-<button class="report-btn" id="send_report">Fact Check Me</button>
-</div>
-</div>
-
-</div>
-<br>
-<center><a href="mailto:surfsafe@robhat.com?subject=I%20found%20a%20bug%20on%20SurfSafe%21&amp;body=My%20bug%3A" style="color:#6d6f74">Found a bug? Tell us &amp; we'll squash it :)</a></center>
-
-</div>
-</div></template></div><div id="speechify-global-notifications"><template shadowrootmode="open"><div id="speechify-global-notifications-root" style="position: fixed; top: 0px; left: 0px; height: 100vh; z-index: 2147483644; width: 0vw;"></div></template></div><div id="speechify-settings-modal" style="position: absolute; bottom: 0px; right: 0px;"><template shadowrootmode="open"><div id="speechify-settings-modal-root" style="position: fixed; z-index: 2147483646; top: 0px; left: 0px; height: fit-content; font-size: initial;"></div></template></div><div id="speechify-screenshot-mode" style="position: fixed; top: 0px; right: 0px; width: 100%; min-height: 100%; z-index: 2147483640; display: none !important;"><template shadowrootmode="open"><div id="speechify-screenshot-mode-root" style="width: 100%; height: 100%; position: relative;"></div></template></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"><template shadowrootmode="open"><style>
-      div.grammarly-desktop-integration {
-        position: absolute;
-        width: 1px;
-        height: 1px;
-        padding: 0;
-        margin: -1px;
-        overflow: hidden;
-        clip: rect(0, 0, 0, 0);
-        white-space: nowrap;
-        border: 0;
-        -moz-user-select: none;
-        -webkit-user-select: none;
-        -ms-user-select:none;
-        user-select:none;
-      }
-
-      div.grammarly-desktop-integration:before {
-        content: attr(data-content);
-      }
-    </style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integration></html>
+</html>
