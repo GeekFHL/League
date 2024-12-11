@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="gfhldb.xsl"?>
 <GFHL>
-	<UPDATED>December 5, 2024</UPDATED>
-	<LASTTRANS>Los Angeles releases Ivan Ivan (F)</LASTTRANS>
+	<UPDATED>December 9, 2024</UPDATED>
+	<LASTTRANS>Washington signs Blake Lizotte (F) releases David Perron (F)</LASTTRANS>
 	<DB>
 
                 <Player>
@@ -2386,7 +2386,7 @@
 		</Player>
 		<Player><NAME>STANLEY, LOGAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177612</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3404,7 +3404,7 @@
 			<POS>FWD</POS>
 			<SLOT>9</SLOT>
 		</Player>
-		<Player><NAME>STÜTZLE, TIM</NAME>
+		<Player><NAME>STÃœTZLE, TIM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226509</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -3766,7 +3766,7 @@
 		</Player>
 		<Player><NAME>ROBINSON, ERIC</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170338</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4012,7 +4012,7 @@
 		</Player>
 		<Player><NAME>LIZOTTE, BLAKE</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176501</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4942,7 +4942,7 @@
 		</Player>
 		<Player><NAME>KUNIN, LUKE</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170310</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5020,7 +5020,7 @@
 		</Player>
 		<Player><NAME>MILLER, COLIN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130532</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6820,7 +6820,7 @@
 		</Player>
 		<Player><NAME>PERRON, DAVID</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=95960</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7766,12 +7766,10 @@
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
-
-		<Player>
-			<NAME>A</NAME>
-			<WEB>http://www.hockeydb.com</WEB>
-			<TEAM/>
-			<POS/>
+                <Player><NAME>PROTAS, ILYA</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270607</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
