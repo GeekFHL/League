@@ -91,260 +91,8 @@ var cm_role = "live";
 var cm_host = "angelfire.lycos.com";
 var cm_taxid = "/memberembedded";
 var angelfire_member_name = "geekfhl";
-var angelfire_member_page = "geekfhl/newtransactions.html";
-var angelfire_ratings_hash = "1737717852:27451435a42c02ee2856539146bc3112";
-
-var lycos_ad_category = null;
-
-var lycos_ad_remote_addr = "209.202.244.9";
-var lycos_ad_www_server = "www.angelfire.lycos.com";
-var edit_site_url = "www.angelfire.lycos.com/landing/landing.tmpl?utm_source=house&utm_medium=landingpage&utm_campaign=toolbarlink";
-
-</script>
-<script type="text/javascript" src="https://scripts.lycos.com/catman/init.js"></script>
-
-<script type='text/javascript'>
- var googletag = googletag || {};
- googletag.cmd = googletag.cmd || [];
- (function() {
-   var gads = document.createElement('script');
-   gads.async = true;
-   gads.type = 'text/javascript';
-   var useSSL = 'https:' == document.location.protocol;
-   gads.src = (useSSL ? 'https:' : 'http:') +
-     '//www.googletagservices.com/tag/js/gpt.js';
-   var node = document.getElementsByTagName('script')[0];
-   node.parentNode.insertBefore(gads, node);
- })();
-</script>
-
-
-<script type='text/javascript'>
- googletag.cmd.push(function() {
-   googletag.defineSlot('/95963596/ANG_300x250_dfp', [300, 250], 'div-gpt-ad-1450207484070-0').addService(googletag.pubads());
-   googletag.enableServices();
- });
-</script>
-
-<script type='text/javascript'>
- googletag.cmd.push(function() {
-   googletag.defineSlot('/95963596/ANG_above_728x90_dfp', [728, 90], 'div-gpt-ad-1450207484070-1').addService(googletag.pubads());
-   googletag.enableServices();
- });
-</script>
-
-<script type='text/javascript'>
- googletag.cmd.push(function() {
-   googletag.defineSlot('/95963596/ANG_below_728X90_dfp', [728, 90], 'div-gpt-ad-1450207484070-2').addService(googletag.pubads());
-   googletag.enableServices();
- });
-</script>
-
-
-<script type="text/javascript">
-(function(isV) {
-    if (!isV) {
-        return;
-    }
-
-    //this.lycos_search_query = lycos_get_search_referrer();
-    var adMgr = new AdManager();
-    var lycos_prod_set = adMgr.chooseProductSet();
-    var slots = ["leaderboard", "leaderboard2", "toolbar_image", "toolbar_text", "smallbox", "top_promo", "footer2","slider"];
-    var adCat = this.lycos_ad_category;
-    adMgr.setForcedParam('page', (adCat && adCat.dmoz) ? adCat.dmoz : 'member');
-
-    if (this.lycos_search_query) {
-        adMgr.setForcedParam("keyword", this.lycos_search_query);
-    } 
-    else if (adCat && adCat.find_what) {
-        adMgr.setForcedParam('keyword', adCat.find_what);
-    }
-
-    for (var s in slots) {
-        var slot = slots[s];
-        if (adMgr.isSlotAvailable(slot)) {
-            this.lycos_ad[slot] = adMgr.getSlot(slot);
-        }
-    }
-
-
-    adMgr.renderHeader();
-    adMgr.renderFooter();
-}((function() {
-    var w = 0, h = 0, minimumThreshold = 300;
-    if (top == self) {
-        return true;
-    }
-
-    if (typeof(window.innerWidth) == 'number' ) {
-        w = window.innerWidth;
-        h = window.innerHeight;
-    }
-    else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
-        w = document.documentElement.clientWidth;
-        h = document.documentElement.clientHeight;
-    }
-    else if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
-        w = document.body.clientWidth;
-        h = document.body.clientHeight;
-    }
-
-    return ((w > minimumThreshold) && (h > minimumThreshold));
-}())));
-
-
-
-window.onload = function() {
-    var f = document.getElementById("lycosFooterAd");
-    var b = document.getElementsByTagName("body")[0];
-    b.appendChild(f);
-    f.style.display = "block";
-    document.getElementById('lycosFooterAdiFrame').src = '/adm/ad/footerAd.iframe.html';
-
-    // Slider Injection
-    (function() {
-        var e = document.createElement('iframe');
-        e.style.border = '0';
-        e.style.margin = 0;
-        e.style.display = 'block';
-        e.style.cssFloat = 'right';
-        e.style.height = '254px';
-        e.style.overflow = 'hidden';
-        e.style.padding = 0;
-        e.style.width = '300px';
-    })();
-
-
-    // Bottom Ad Injection
-    ( function() {
-        var b = document.getElementsByTagName("body")[0];
-
-        var iif = document.createElement('iframe');
-        iif.style.border = '0';
-        iif.style.margin = 0;
-        iif.style.display = 'block';
-        iif.style.cssFloat = 'right';
-        iif.style.height = '254px';
-        iif.style.overflow = 'hidden';
-        iif.style.padding = 0;
-        iif.style.width = '300px';
-        iif.src = '/adm/ad/injectAd.iframe.html';
-        
-        var cdiv = document.createElement('div');
-        cdiv.style = "width:300px;margin:10px auto;";
-        cdiv.appendChild( iif );
-        if( b )
-        {
-            b.insertBefore(cdiv, b.lastChild);
-        }
-    })();
-
-}
-
-
-</script>
-
-<style>
-#body .adCenterClass {
-  margin:0 auto;
-  display:block !important;
-  overflow:hidden;
-  width:100%;
-}
-#body .adCenterClass #ad_container {
-  display:block !important;
-  float:left;
-  width:728px;
-}
-@media (min-width: 768px) {
-  <!-- For 300px or less ads ONLY -->
-  #body .adCenterClass #ad_container {
-    width: calc(100% - 372px);
-  }
-}
-@media (min-width: 1110px) {
-  <!-- For 728px or less ads -->
-  #body .adCenterClass #ad_container {
-    width: calc(100% - 372px);
-  }
-}
-
-</style>
-
-<div style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999">
-
-    <div class="adCenterClass">
-        <a href="https://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; float:left; width:186px; border:0">
-          <img src="/adm/ad/angelfire-freeAd.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
-        </a>
-        <div id="ad_container">
-            <script type="text/javascript">document.write(lycos_ad['leaderboard']);</script>
-        </div>
-    </div>
-</div>
-
-<!-- ///////////////////////////////////// -->
-<script type="text/javascript">document.write(lycos_ad['slider']);</script>
-
-
-<div id="lycosFooterAd" style="background:#abe6f6; border-top:1px solid #507a87; clear:both; display:none; position:relative; z-index:9999999">
-<div class="adCenterClass" style="display:block!important; overflow:hidden; width:936px;">
-	<div id="aflinksholder" style="float:left; width:186px;">
-        <a href="https://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; border:0">
-            <img src="/adm/ad/angelfire-freeAd2.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
-        </a>
-    </div>
-    <iframe id="lycosFooterAdiFrame" style="border:0; display:block; float:left; height:96px; overflow:hidden; padding:0; width:750px"></iframe>
-</div>
-</div>
-
-
-<!--- UNDERDOGMEDIA EDGE_lycos.com JavaScript ADCODE START--->
-<script data-cfasync="false" language="javascript" async src="//udmserve.net/udm/img.fetch?sid=17754;tid=1;dt=6;"></script>
-<!--- UNDERDOGMEDIA EDGE_lycos.com JavaScript ADCODE END--->
-
-<!--'"</title></head>-->
-
-<script type="text/javascript">
-//OwnerIQ
-var __oiq_pct = 50;
-if( __oiq_pct>=100 || Math.floor(Math.random()*100/(100-__oiq_pct)) > 0 ) {
-var _oiqq = _oiqq || [];
-_oiqq.push(['oiq_addPageBrand','Lycos']);
-_oiqq.push(['oiq_addPageCat','Internet > Websites']);
-_oiqq.push(['oiq_addPageLifecycle','Intend']);
-_oiqq.push(['oiq_doTag']);
-(function() {
-var oiq = document.createElement('script'); oiq.type = 'text/javascript'; oiq.async = true;
-oiq.src = document.location.protocol + '//px.owneriq.net/stas/s/lycosn.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oiq, s);
-})();
-}
-
-/////// Google Analytics
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-21402695-21']);
-_gaq.push(['_setDomainName', 'angelfire.com']);
-_gaq.push(['_setCustomVar', 1, 'member_name', 'geekfhl', 3]);
-_gaq.push(['_trackPageview']);
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
-////// Lycos Initialization /////////////////////
-var lycos_ad = Array();
-var lycos_search_query = "";
-var lycos_onload_timer;
-
-var cm_role = "live";
-var cm_host = "angelfire.lycos.com";
-var cm_taxid = "/memberembedded";
-var angelfire_member_name = "geekfhl";
-var angelfire_member_page = "geekfhl/newtransactions.html";
-var angelfire_ratings_hash = "1736615849:6fa1ce2d428647129a051a459d7eace0";
+var angelfire_member_page = "geekfhl/transdec.html";
+var angelfire_ratings_hash = "1737725864:7552710f9b930941f20094b2f0f68481";
 
 var lycos_ad_category = null;
 
@@ -560,7 +308,7 @@ window.onload = function() {
 
 <h1><b><center>Transactions</center></b></h1>
 <p />
-<h2><b><center>January's Transactions</center></b></h2>
+<h2><b><center>December's Transactions</center></b></h2>
 <p />
 <div><span style="font-weight:bold;">Past Trades
 <br />
@@ -583,197 +331,269 @@ window.onload = function() {
 <p />
 <p />
 <center>
+<table>
+<tr>
+<td><img src="Florida" style="width:75px;height:50px"></td>
+<td>claims Brett Howden (F) off waivers from Los Angeles (*1 claim)<p />releases Rasmus Kupari (F)</td>
+</tr>
 
 <table>
 <tr>
-<td><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td>signs Uvis Balinskis (D) releases Dylan Demelo (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Ottawa" style="width:75px;height:50px"></td>
-<td>signs Dustin Tokarski (G) releases Hudson Fasching (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="NewYorkIslanders" style="width:75px;height:50px"></td>
-<td>signs Connor Brown (F) releases Sean Behrens (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Florida" style="width:75px;height:50px"></td>
-<td>signs Alexander Alexeyev (D) releases Chris Tanev (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Florida" style="width:75px;height:50px"></td>
-<td>signs Ivan Ivan (F) releases Pat Maroon (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Florida" style="width:75px;height:50px"></td>
-<td>signs Terik Parascak (F) releases Joel Edmundson (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Florida" style="width:75px;height:50px"></td>
-<td>signs Vasili Ponomaryov (F) releases Christian Dvorak (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td>signs Luca Del Bel Belluz (F) releases Igor Chernyshov (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Washington" style="width:75px;height:50px"></td>
-<td>signs Noah Cates (F) releases Will Borgen (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Boston" style="width:75px;height:50px"></td>
-<td>signs Colton Dach (F) releases Mason Appleton (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Montreal" style="width:75px;height:50px"></td>
-<td>signs Nic Dowd (F) releases Spencer Martin (G)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Toronto" style="width:75px;height:50px"></td>
-<td>Simon Nemec (D) <p/>Toronto 2025 1st Round pick</td>
-<td align="right">Ryker Evans (D) <p/>Florida 2026 2nd Round pick</td>
-<td align="right"><img src="Florida" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
 <td><img src="Edmonton" style="width:75px;height:50px"></td>
-<td>signs Joel Armia (F), Joel Edmundson (D) and <p/>releases Eric Robinson (F), Jamie Oleksiak (D)</td>
+<td>Kristopher Letang (D)</td>
+<td align="right">Min's 2026 2nd round pick</td>
+<td align="right"><img src="Minnesota" style="width:75px;height:50px"></td>
 </tr>
 </table>
 <table>
 <tr>
-<td><img src="Anaheim" style="width:75px;height:50px"></td>
-<td>signs Adam Jiricek (D), Sergei Murashov (G) and <p/>releases Johnathan Kovacevic (D), Adam Gajan (G)</td>
+<td><img src="TampaBay" style="width:75px;height:50px"></td>
+<td>Kiefer Sherwood (F)</td>
+<td align="right">Car's 2025 2nd round pick</td>
+<td align="right"><img src="Edmonton" style="width:75px;height:50px"></td>
 </tr>
 </table>
 <table>
 <tr>
-<td><img src="Boston" style="width:75px;height:50px"></td>
-<td>signs Jesper Boqvist (F) and releases Anthony Mantha (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td>signs Ethen Frank (F) and releases Brett Berard (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Boston" style="width:75px;height:50px"></td>
-<td>signs Henry Mews (D) and releases Logan Stanley (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Washington" style="width:75px;height:50px"></td>
-<td>signs Zach Bogosian (D) and releases Tyson Barrie (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Vegas" style="width:75px;height:50px"></td>
-<td>signs Anthony Mantha (F) and releases Kevin Labanc (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Ottawa" style="width:75px;height:50px"></td>
-<td>signs Tanner Pearson (F), Johnathan Kovacevic (F), Joel Kiviranta (F) <p/>
-    and releases Carl Grundstrom (F), Casey Cizikas (F), Grant Hutton (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td>signs Rory Kerins (F) and releases Nate Danielson (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="NewJersey" style="width:75px;height:50px"></td>
-<td>signs Logan Stanley (D) and releases Zach Whitecloud (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Calgary" style="width:75px;height:50px"></td>
-<td>claims Nate Danielson (F) off waivers (*1 claim) and releases Drew Helleson (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Ottawa" style="width:75px;height:50px"></td>
-<td>signs Filip Bystedt (F) and Grigori Denisenko (F), releases Dustin Tokarski (G) and Tanner Pearson (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="Nashville" style="width:75px;height:50px"></td>
-<td>signs Patrick Maroon (F) and releases Corey Perry (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td>signs Igor Chernyshov (F) and releases Ethen Frank (F)</td>
+<td><img src="TampaBay" style="width:75px;height:50px"></td>
+<td>signs Colton Sissons (F)</td>
 </tr>
 </table>
 <table>
 <tr>
 <td><img src="NewYorkRangers" style="width:75px;height:50px"></td>
-<td>signs Jordan Dumais (F) and releases Michael Rasmussen (F)</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td><img src="Edmonton" style="width:75px;height:50px"></td>
-<td>signs Jamie Oleksiak (F) and releases Joel Edmundson (D)</td>
+<td>signs Jaxson Stauber (G) </p> releases Ronnie Attard (D)</td>
 </tr>
 </table>
 <table>
 <tr>
-<td><img src="NewJersey" style="width:75px;height:50px"></td>
-<td>signs Artyom Galimov (F) and releases Alexei Toropchenko (F)</td>
+<td><img src="Ottawa" style="width:75px;height:50px"></td>
+<td>signs Grant Hutton (D) <p />releases Blake Wheeler (F)</td>
 </tr>
 </table>
 <table>
 <tr>
-<td><img src="Nashville" style="width:75px;height:50px"></td>
-<td>signs Brett Berard (F) and releases Mitchell Chaffee (F)</td>
+<td><img src="Boston" style="width:75px;height:50px"></td>
+<td>signs Matt Murray (G) <p />releases Brett Berard (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Vancouver" style="width:75px;height:50px"></td>
+<td>signs Ethan Cardwell (F) <p />releases Filip Bystedt (F)</td>
 </tr>
 </table>
 <table>
 <tr>
 <td><img src="Washington" style="width:75px;height:50px"></td>
-<td>signs Tyler Tucker (D) and releases Zach Bogosian (D)</td>
+<td>signs Ville Koivunen (F) <p />releases Nolan Foote (F)</td>
 </tr>
 </table>
+<table>
+<tr>
+<td><img src="Detroit" style="width:75px;height:50px"></td>
+<td>signs Dmitri Buchelnikov (F) <p />releases Stanislav Svozil (D)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Edmonton" style="width:75px;height:50px"></td>
+<td>signs Sam Rinzel (D) <p />releases Michael McCarron (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="LosAngeles" style="width:75px;height:50px"></td>
+<td>claims Brett Berard (F) off of waivers from Boston (*1 claim)<p />releases Ivan Ivan (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Edmonton" style="width:75px;height:50px"></td>
+<td>signs Eric Robinson (F) <p />releases Luke Kunin (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Boston" style="width:75px;height:50px"></td>
+<td>signs Logan Stanley (D) <p />releases Colin Miller (D)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Boston" style="width:75px;height:50px"></td>
+<td>signs Ilya Protas (F) <p />releases Matt Murray (G)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Washington" style="width:75px;height:50px"></td>
+<td>signs Blake Lizotte (F) <p />releases David Perron (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="NewYorkRangers" style="width:75px;height:50px"></td>
+<td>signs Carson Rehkopf (F) <p />releases Cody Glass (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Edmonton" style="width:75px;height:50px"></td>
+<td>signs Devin Cooley (G) <p />releases Brendan Dillon (D)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Montreal" style="width:75px;height:50px"></td>
+<td>claims Luke Kunin (F) off of waivers from Edmonton (*1 claim) <p />releases Mike Amadio (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Philadelphia" style="width:75px;height:50px"></td>
+<td>signs Scott Laughton (F) <p />releases Sasha Pastujov (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Nashville" style="width:75px;height:50px"></td>
+<td>claims Brendan Dillon (D) off waivers from Edmonton (*1 claim) <p />releases Dylan DeMelo (D)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Vegas" style="width:75px;height:50px"></td>
+<td>claims Cody Glass (F) off waivers from NY Rangers (*2 claims) <p />releases Jeff Petry (D)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="LosAngeles" style="width:75px;height:50px"></td>
+<td>signs Dylan Demelo (D) <p />releases Uvis Balinski (D)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Edmonton" style="width:75px;height:50px"></td>
+<td>signs Roman Kantserov (F)<p />releases Devin Cooley (G)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Buffalo" style="width:75px;height:50px"></td>
+<td>Kasperi Kapanen (F) <p/>Erik Brannstrom (D)</td>
+<td align="right">Owen Pickering (D)</td>
+<td align="right"><img src="Carolina" style="width:75px;height:50px"></td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Buffalo" style="width:75px;height:50px"></td>
+<td>releasing Kailer Yamamoto (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Carolina" style="width:75px;height:50px"></td>
+<td>signing Danil Gushchin (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="NewJersey" style="width:75px;height:50px"></td>
+<td>signing Nick Blankenburg (D) <p /> released Sergei Murashov (G)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Montreal" style="width:75px;height:50px"></td>
+<td>signing Jeff Petry (D) <p /> released Marc DelGaizo (D)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="NewJersey" style="width:75px;height:50px"></td>
+<td>signing Eric Pohlkamp (D) <p /> released Sam Malinski (D)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="NewYorkRangers" style="width:75px;height:50px"></td>
+<td>signs Jakub Dobes (G) <p /> releases Sam Steel (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Vancouver" style="width:75px;height:50px"></td>
+<td>signs Leevi Merilainen (G) <p /> releases Ethan Cardwell (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Chicago" style="width:75px;height:50px"></td>
+<td>signs Jake Evans (F) <p /> releases Frederick Gaudreau (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Boston" style="width:75px;height:50px"></td>
+<td>signs Robby Fabbri (F) <p /> releases Samuel Fagemo (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Toronto" style="width:75px;height:50px"></td>
+<td>Tyler Bertuzzi (F) <p/>Toronto 2025 2nd Round pick <p/>Future Considerations</td>
+<td align="right">Vegas 2026 1st Round pick</td>
+<td align="right"><img src="Vegas" style="width:75px;height:50px"></td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Vegas" style="width:75px;height:50px"></td>
+<td>releases Tomas Tatar (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Toronto" style="width:75px;height:50px"></td>
+<td>Seattle 2025 2nd Round pick <p/></td>
+<td align="right">Mathieu Olivier (F)</td>
+<td align="right"><img src="NewJersey" style="width:75px;height:50px"></td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="NewJersey" style="width:75px;height:50px"></td>
+<td>signs Alexandre Texier (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="LosAngeles" style="width:75px;height:50px"></td>
+<td>signs John Klingberg (D) releases Jack Thompson (D)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Buffalo" style="width:75px;height:50px"></td>
+<td>claims Frederick Gaudreau (F) (*1 claim) releases Adam Jecho (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Chicago" style="width:75px;height:50px"></td>
+<td>signs Luke Schenn (D) releases Brandon Duhaime (F)</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="Columbus" style="width:75px;height:50px"></td>
+<td>signs Adam Wilsby (D) releases Artyom Duda (D)</td>
+</tr>
+</table>
+
 
 </center>
 <div>
