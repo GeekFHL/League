@@ -9,7 +9,7 @@
 <body>
 <center>
 <h1>
-<b>2010-11 Standings</b>
+<b>2005-06 Standings</b>
 </h1>
 <table class="noborder">
 <tr>
@@ -176,28 +176,7 @@
 </td>
 </tr>
 </table>
-<table class="noborder">
-<tr>
-<td class="no">
-<a class="url" href="../2005-06/overall.xml">2005-06</a>
-</td>
-<td class="no">
-<a class="url" href="../2006-07/overall.xml">2006-07</a>
-</td>
-<td class="no">
-<a class="url" href="../2007-08/overall.xml">2007-08</a>
-</td>
-<td class="no">
-<a class="url" href="../2008-09/overall.xml">2008-09</a>
-</td>
-<td class="no">
-<a class="url" href="../2009-10/overall.xml">2009-10</a>
-</td>
-<td class="no">
-<a class="url" href="../2010-11/overall.xml">2010-11</a>
-</td>
-</tr>
-</table>
+
 </center>
 </body>
 </html>
