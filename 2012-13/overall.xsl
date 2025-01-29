@@ -5,13 +5,13 @@
 <html>    
 
 <head>      
-<title>2013-14 GFHL Standings</title>      
+<title>2012-13 GFHL Standings</title>      
 <link rel="stylesheet" type="text/css" href="../gfhlmain.css" />
 </head>    
 
 <body>   
 <center>
-<h1><b>2013-14 Standings</b></h1>
+<h1><b>2012-13 Standings</b></h1>
 
 <table class="noborder">
 <tr>
