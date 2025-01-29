@@ -5,13 +5,13 @@
 <html>    
 
 <head>      
-<title>2019-20 GFHL Standings</title>      
+<title>2013-14 GFHL Standings</title>      
 <link rel="stylesheet" type="text/css" href="../gfhlmain.css" />
 </head>    
 
 <body>   
 <center>
-<h1><b>2019-20 Standings</b></h1>
+<h1><b>2013-14 Standings</b></h1>
 
 <table class="noborder">
 <tr>
@@ -374,32 +374,6 @@
 </td>
 <td class="no">
 <a class="url" href="../2012-13/overall.xml" >2012-13</a>
-</td>
-</tr>
-<tr>
-<td class="no">
-<a class="url" href="../2013-14/overall.xml" >2013-14</a>
-</td>
-<td class="no">
-<a class="url" href="../2014-15/overall.xml" >2014-15</a>
-</td>
-<td class="no">
-<a class="url" href="../2015-16/overall.xml" >2015-16</a>
-</td>
-<td class="no">
-<a class="url" href="../2016-17/overall.xml" >2016-17</a>
-</td>
-<td class="no">
-<a class="url" href="../2017-18/overall.xml" >2017-18</a>
-</td>
-<td class="no">
-<a class="url" href="../2018-19/overall.xml" >2018-19</a>
-</td>
-<td class="no">
-<a class="url" href="../2019-20/overall.xml" >2019-20</a>
-</td>
-<td class="no">
-<a class="url" href="../2020-21/overall.xml" >2020-21</a>
 </td>
 </tr>
 </table>
