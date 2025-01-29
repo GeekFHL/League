@@ -5,13 +5,13 @@
 <html>    
 
 <head>      
-<title>2012-13 GFHL Standings</title>      
+<title>2011-12 GFHL Standings</title>      
 <link rel="stylesheet" type="text/css" href="../gfhlmain.css" />
 </head>    
 
 <body>   
 <center>
-<h1><b>2012-13 Standings</b></h1>
+<h1><b>2011-12 Standings</b></h1>
 <table class="noborder">
 <tr>
 <td valign="top" class="no">
@@ -182,12 +182,6 @@
 </td>
 <td class="no">
 <a class="url" href="../2010-11/overall.xml" >2010-11</a>
-</td>
-<td class="no">
-<a class="url" href="../2011-12/overall.xml" >2011-12</a>
-</td>
-<td class="no">
-<a class="url" href="../2012-13/overall.xml" >2012-13</a>
 </td>
 </tr>
 </table>
