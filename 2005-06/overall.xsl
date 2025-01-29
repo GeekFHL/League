@@ -3,7 +3,7 @@
 <xsl:template match="/">
 <html>
 <head>
-<title>2010-11 GFHL Standings</title>
+<title>2005-06 GFHL Standings</title>
 <link rel="stylesheet" type="text/css" href="../gfhlmain.css"/>
 </head>
 <body>
