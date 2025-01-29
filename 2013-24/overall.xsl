@@ -23,10 +23,10 @@
 <table class="yesborder">    
 	<tr>
 	<xsl:attribute name="class">colourhead</xsl:attribute>
-		<td class="yes">Rank</td>	
+<!--		<td class="yes">Rank</td>	-->
 		<td class="yes">Team Name</td>	
 		<td class="yes">Wins</td> 			
-               	<td class="yes">Loses</td> 	
+        <td class="yes">Loses</td> 	
 		<td class="yes">Ties</td> 	
 		<td class="yes">Points</td> 	
 	</tr>     
@@ -36,11 +36,13 @@
       	<xsl:sort select="Name" data-type="text" order="ascending"/>
 	<tr>      
 		<xsl:if test="position() &gt; 0">        
-			<xsl:attribute name="class">colourother</xsl:attribute>      
+			<xsl:attribute name="class">coloruother</xsl:attribute>      
 		</xsl:if>   
+<!--
 		<td class="yes">        
 			<xsl:value-of select="position()" />   
 		</td>      
+-->
 		<td class="yes">        
 			<xsl:value-of select="Name" />   
 		</td>      
@@ -61,28 +63,74 @@
 
 </table>    
 <br></br>
-	<div class="text"><h2><center><b>Metropolitan Division</b></center></h2></div>
+	<div class="text"><h2><center><b>North East Division</b></center></h2></div>
 <table class="yesborder">    
 	<tr>
 	<xsl:attribute name="class">colourhead</xsl:attribute>
-		<td class="yes">Rank</td>	
+<!--		<td class="yes">Rank</td>	-->
 		<td class="yes">Team Name</td>	
 		<td class="yes">Wins</td> 			
-               	<td class="yes">Loses</td> 	
+        <td class="yes">Loses</td> 	
 		<td class="yes">Ties</td> 	
 		<td class="yes">Points</td> 	
 	</tr>     
-	<xsl:for-each select="standing/Team[Div='Metropolitan']">
+	<xsl:for-each select="standing/Team[Div='Northeast']">
       	<xsl:sort select="W*2+T" data-type="number" order="descending"/>
       	<xsl:sort select="G" data-type="number" order="descending"/>
       	<xsl:sort select="Name" data-type="text" order="ascending"/>
 	<tr>      
 		<xsl:if test="position() &gt; 0">        
-			<xsl:attribute name="class">colourother</xsl:attribute>      
+			<xsl:attribute name="class">coloruother</xsl:attribute>      
 		</xsl:if>   
+<!--
 		<td class="yes">        
 			<xsl:value-of select="position()" />   
 		</td>      
+-->
+		<td class="yes">        
+			<xsl:value-of select="Name" />   
+		</td>      
+		<td class="yes">        
+			<xsl:value-of select="W" />      
+		</td>      
+		<td class="yes">
+			<xsl:value-of select="L" /> 	
+		</td>      
+		<td class="yes">        
+			<xsl:value-of select="T" />      
+		</td>      
+		<td class="yes">        
+			<xsl:value-of select="W*2+T" />      
+		</td>    
+	</tr>
+	</xsl:for-each>
+
+</table>    
+<br></br>
+	<div class="text"><h2><center><b>South East Division</b></center></h2></div>
+<table class="yesborder">    
+	<tr>
+	<xsl:attribute name="class">colourhead</xsl:attribute>
+<!--		<td class="yes">Rank</td>	-->
+		<td class="yes">Team Name</td>	
+		<td class="yes">Wins</td> 			
+        <td class="yes">Loses</td> 	
+		<td class="yes">Ties</td> 	
+		<td class="yes">Points</td> 	
+	</tr>     
+	<xsl:for-each select="standing/Team[Div='Southeast']">
+      	<xsl:sort select="W*2+T" data-type="number" order="descending"/>
+      	<xsl:sort select="G" data-type="number" order="descending"/>
+      	<xsl:sort select="Name" data-type="text" order="ascending"/>
+	<tr>      
+		<xsl:if test="position() &gt; 0">        
+			<xsl:attribute name="class">coloruother</xsl:attribute>      
+		</xsl:if>   
+<!--
+		<td class="yes">        
+			<xsl:value-of select="position()" />   
+		</td>      
+-->
 		<td class="yes">        
 			<xsl:value-of select="Name" />   
 		</td>      
@@ -112,10 +160,10 @@
 <table class="yesborder">    
 	<tr>
 	<xsl:attribute name="class">colourhead</xsl:attribute>
-		<td class="yes">Rank</td>	
+<!--		<td class="yes">Rank</td>	-->
 		<td class="yes">Team Name</td>	
 		<td class="yes">Wins</td> 			
-               	<td class="yes">Loses</td> 	
+        <td class="yes">Loses</td> 	
 		<td class="yes">Ties</td> 	
 		<td class="yes">Points</td> 	
 	</tr>     
@@ -125,11 +173,57 @@
       	<xsl:sort select="Name" data-type="text" order="ascending"/>
 	<tr>      
 		<xsl:if test="position() &gt; 0">        
-			<xsl:attribute name="class">colourother</xsl:attribute>      
+			<xsl:attribute name="class">coloruother</xsl:attribute>      
 		</xsl:if>   
+<!--
 		<td class="yes">        
 			<xsl:value-of select="position()" />   
 		</td>      
+-->
+		<td class="yes">        
+			<xsl:value-of select="Name" />   
+		</td>      
+		<td class="yes">        
+			<xsl:value-of select="W" />      
+		</td>      
+		<td class="yes">
+			<xsl:value-of select="L" /> 	
+		</td>      
+		<td class="yes">        
+			<xsl:value-of select="T" />      
+		</td>      
+		<td class="yes">        
+			<xsl:value-of select="W*2+T" />      
+		</td>    
+	</tr>
+	</xsl:for-each>
+
+</table>    
+<br></br>
+	<div class="text"><h2><center><b>North West Division</b></center></h2></div>
+<table class="yesborder">    
+	<tr>
+	<xsl:attribute name="class">colourhead</xsl:attribute>
+<!--		<td class="yes">Rank</td>	-->
+		<td class="yes">Team Name</td>	
+		<td class="yes">Wins</td> 			
+        <td class="yes">Loses</td> 	
+		<td class="yes">Ties</td> 	
+		<td class="yes">Points</td> 	
+	</tr>     
+	<xsl:for-each select="standing/Team[Div='Northwest']">
+      	<xsl:sort select="W*2+T" data-type="number" order="descending"/>
+      	<xsl:sort select="G" data-type="number" order="descending"/>
+      	<xsl:sort select="Name" data-type="text" order="ascending"/>
+	<tr>      
+		<xsl:if test="position() &gt; 0">        
+			<xsl:attribute name="class">coloruother</xsl:attribute>      
+		</xsl:if>   
+<!--
+		<td class="yes">        
+			<xsl:value-of select="position()" />   
+		</td>      
+-->
 		<td class="yes">        
 			<xsl:value-of select="Name" />   
 		</td>      
@@ -154,10 +248,10 @@
 <table class="yesborder">    
 	<tr>
 	<xsl:attribute name="class">colourhead</xsl:attribute>
-		<td class="yes">Rank</td>	
+<!--		<td class="yes">Rank</td>	-->
 		<td class="yes">Team Name</td>	
 		<td class="yes">Wins</td> 			
-               	<td class="yes">Loses</td> 	
+        <td class="yes">Loses</td> 	
 		<td class="yes">Ties</td> 	
 		<td class="yes">Points</td> 	
 	</tr>     
@@ -167,11 +261,13 @@
       	<xsl:sort select="Name" data-type="text" order="ascending"/>
 	<tr>      
 		<xsl:if test="position() &gt; 0">        
-			<xsl:attribute name="class">colourother</xsl:attribute>      
+			<xsl:attribute name="class">coloruother</xsl:attribute>      
 		</xsl:if>   
+<!--
 		<td class="yes">        
 			<xsl:value-of select="position()" />   
 		</td>      
+-->
 		<td class="yes">        
 			<xsl:value-of select="Name" />   
 		</td>      
@@ -203,7 +299,7 @@
 		<td class="yes">Rank</td>	
 		<td class="yes">Team Name</td>	
 		<td class="yes">Wins</td> 			
-               	<td class="yes">Loses</td> 	
+        <td class="yes">Loses</td> 	
 		<td class="yes">Ties</td> 	
 		<td class="yes">Points</td> 	
 	</tr>     
@@ -256,7 +352,7 @@
 		<td class="yes">Rank</td>	
 		<td class="yes">Team Name</td>	
 		<td class="yes">Wins</td> 			
-               	<td class="yes">Loses</td> 	
+        <td class="yes">Loses</td> 	
 		<td class="yes">Ties</td> 	
 		<td class="yes">Points</td> 	
 	</tr>     
@@ -310,7 +406,7 @@
 		<td class="yes">Rank</td>	
 		<td class="yes">Team Name</td>	
 		<td class="yes">Wins</td> 			
-               	<td class="yes">Loses</td> 	
+        <td class="yes">Loses</td> 	
 		<td class="yes">Ties</td> 	
 		<td class="yes">Points</td> 	
 	</tr>     
@@ -320,7 +416,7 @@
       	<xsl:sort select="Name" data-type="text" order="ascending"/>
 	<tr>      
 		<xsl:if test="position() &gt; 0">        
-			<xsl:attribute name="class">colourother</xsl:attribute>      
+			<xsl:attribute name="class">coloruother</xsl:attribute>      
 		</xsl:if>   
 		<td class="yes">        
 			<xsl:value-of select="position()" />   
