@@ -3,13 +3,13 @@
 <xsl:template match="/">
 <html>
 <head>
-<title>2010-11 GFHL Standings</title>
+<title>2009-10 GFHL Standings</title>
 <link rel="stylesheet" type="text/css" href="../gfhlmain.css"/>
 </head>
 <body>
 <center>
 <h1>
-<b>2010-11 Standings</b>
+<b>2009-10 Standings</b>
 </h1>
 <table class="noborder">
 <tr>
@@ -189,12 +189,6 @@
 </td>
 <td class="no">
 <a class="url" href="../2008-09/overall.xml">2008-09</a>
-</td>
-<td class="no">
-<a class="url" href="../2009-10/overall.xml">2009-10</a>
-</td>
-<td class="no">
-<a class="url" href="../2010-11/overall.xml">2010-11</a>
 </td>
 </tr>
 </table>
