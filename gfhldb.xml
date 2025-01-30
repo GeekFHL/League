@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="gfhldb.xsl"?>
 <GFHL>
-	<UPDATED>January 24, 2025</UPDATED>
-	<LASTTRANS>Washington signs Tyler Tucker (D) and releases Zach Bogosian (F)</LASTTRANS>
+	<UPDATED>January 27, 2025</UPDATED>
+	<LASTTRANS>Boston signs Michael Rasmussen (F) and releases Robby Fabbri (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>GALIMOV, ARTYOM</NAME>
@@ -245,7 +245,7 @@
 		<Player>
 			<NAME>GRAF, COLLIN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226641</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -644,7 +644,7 @@
 		<Player>
 			<NAME>HEINEMAN, EMIL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232198</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1043,7 +1043,7 @@
 		<Player>
 			<NAME>KOVALENKO, NIKOLAI</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213172</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2471,7 +2471,7 @@
 		<Player>
 			<NAME>KOLOSOV, ALEXEI</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=237650</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4242,7 +4242,7 @@
 		<Player>
 			<NAME>ROBINSON, ERIC</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170338</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5131,7 +5131,7 @@
 		<Player>
 			<NAME>FABBRI, ROBBY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151737</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6965,7 +6965,7 @@
 		<Player>
 			<NAME>MITTELSTADT, CASEY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192483</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7000,7 +7000,7 @@
 		<Player>
 			<NAME>VATRANO, FRANK</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=131009</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7287,7 +7287,7 @@
 		<Player>
 			<NAME>JOHANSSON, MARCUS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98452</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8008,7 +8008,7 @@
 		<Player>
 			<NAME>HAYES, KEVIN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127775</WEB>
-			<TEAM>NYI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8141,7 +8141,7 @@
 		<Player>
 			<NAME>DEANGELO, TONY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130876</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8722,7 +8722,7 @@
 		<Player>
 			<NAME>TALBOT, CAMERON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=100197</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8827,7 +8827,7 @@
 		<Player>
 			<NAME>RASMUSSEN, MICHAEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=178651</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8890,7 +8890,7 @@
 		<Player>
 			<NAME>HELLESON, DREW</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209478</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8933,6 +8933,13 @@
 			<NAME>FRANK, ETHEN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179667</WEB>
 			<TEAM>fa</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+                <Player>
+			<NAME>EDSTROM, ADAM</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218031</WEB>
+			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
