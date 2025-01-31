@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="gfhldb.xsl"?>
 <GFHL>
-	<UPDATED>January 27, 2025</UPDATED>
-	<LASTTRANS>Boston signs Michael Rasmussen (F) and releases Robby Fabbri (F)</LASTTRANS>
+	<UPDATED>January 30, 2025</UPDATED>
+	<LASTTRANS>Boston signs David Perron (F) and releases Jesper Boqvist (F)</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>JOHANSSON, ALBERT</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218279</WEB>
+			<TEAM>SEA</TEAM>
+			<POS>DEF</POS>
+			<SLOT>1</SLOT>
+		</Player>
 		<Player>
 			<NAME>GALIMOV, ARTYOM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219665</WEB>
@@ -98,7 +105,7 @@
 		<Player>
 			<NAME>MANCINI, VICTOR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219756</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -378,7 +385,7 @@
 		<Player>
 			<NAME>LUCHANKO, JETT</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262249</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>5</SLOT>
 		</Player>
@@ -4858,7 +4865,7 @@
 		<Player>
 			<NAME>BOQVIST, JESPER</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192047</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5131,7 +5138,7 @@
 		<Player>
 			<NAME>FABBRI, ROBBY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151737</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6349,7 +6356,7 @@
 		<Player>
 			<NAME>TERRY, TROY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172202</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7805,7 +7812,7 @@
 		<Player>
 			<NAME>PERRON, DAVID</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=95960</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8575,7 +8582,7 @@
 		<Player>
 			<NAME>TANEV, CHRISTOPHER</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105112</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8827,7 +8834,7 @@
 		<Player>
 			<NAME>RASMUSSEN, MICHAEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=178651</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8890,7 +8897,7 @@
 		<Player>
 			<NAME>HELLESON, DREW</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209478</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
