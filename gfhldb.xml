@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="gfhldb.xsl"?>
 <GFHL>
-	<UPDATED>January 30, 2025</UPDATED>
-	<LASTTRANS>Boston signs David Perron (F) and releases Jesper Boqvist (F)</LASTTRANS>
+	<UPDATED>February 3, 2025</UPDATED>
+	<LASTTRANS>Boston signs Collin Graf (F) and releases Henry Mews (D)</LASTTRANS>
 	<DB>
-		<Player>
+		
+                 <Player>
+			<NAME>SLAGGERT, LANDON</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217367</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+                 <Player>
 			<NAME>JOHANSSON, ALBERT</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218279</WEB>
 			<TEAM>SEA</TEAM>
@@ -28,7 +36,7 @@
 		<Player>
 			<NAME>MEWS, HENRY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262251</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -224,7 +232,7 @@
 		<Player>
 			<NAME>THOMPSON, JACK</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=212039</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -252,7 +260,7 @@
 		<Player>
 			<NAME>GRAF, COLLIN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226641</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2149,7 +2157,7 @@
 		<Player>
 			<NAME>PERBIX, NICKLAUS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=205480</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3827,7 +3835,7 @@
 			<SLOT>9</SLOT>
 		</Player>
 		<Player>
-			<NAME>STÃœTZLE, TIM</NAME>
+			<NAME>STÃoTZLE, TIM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226509</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -6657,7 +6665,7 @@
 		<Player>
 			<NAME>ARMIA, JOEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130454</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8162,7 +8170,7 @@
 		<Player>
 			<NAME>OLEKSIAK, JAMIE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117317</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8379,7 +8387,7 @@
 		<Player>
 			<NAME>COMRIE, ERIC</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132742</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
