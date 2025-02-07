@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="gfhldb.xsl"?>
 <GFHL>
-	<UPDATED>February 3, 2025</UPDATED>
-	<LASTTRANS>Boston signs Collin Graf (F) and releases Henry Mews (D)</LASTTRANS>
+	<UPDATED>February 6, 2025</UPDATED>
+	<LASTTRANS>Boston signs Gage Goncalves (F) and releases Colton Dach (F)</LASTTRANS>
 	<DB>
 		
                  <Player>
@@ -36,7 +36,7 @@
 		<Player>
 			<NAME>MEWS, HENRY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262251</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -104,9 +104,9 @@
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
-			<NAME>GONCLAVES, GAGE</NAME>
+			<NAME>GONCALVES, GAGE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209896</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2339,7 +2339,7 @@
 		<Player>
 			<NAME>SCHMID, AKIRA</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=214508</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2591,7 +2591,7 @@
 		<Player>
 			<NAME>DACH, COLTON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227279</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3835,7 +3835,7 @@
 			<SLOT>9</SLOT>
 		</Player>
 		<Player>
-			<NAME>STÃoTZLE, TIM</NAME>
+			<NAME>STÃƒoTZLE, TIM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226509</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -4495,7 +4495,7 @@
 		<Player>
 			<NAME>BLUEGER, TEDDY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155334</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4544,7 +4544,7 @@
 		<Player>
 			<NAME>LIZOTTE, BLAKE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176501</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6329,7 +6329,7 @@
 		<Player>
 			<NAME>JOKIHARJU, HENRI</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196298</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6665,7 +6665,7 @@
 		<Player>
 			<NAME>ARMIA, JOEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130454</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7036,7 +7036,7 @@
 		<Player>
 			<NAME>DEMELO, DYLAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122857</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>WSH</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8905,7 +8905,7 @@
 		<Player>
 			<NAME>HELLESON, DREW</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209478</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
