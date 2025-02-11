@@ -6,6 +6,13 @@
 	<DB>
 		
                  <Player>
+			<NAME>YEGOROV, MIKHAIL</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270615</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>GLT</POS>
+			<SLOT>1</SLOT>
+		</Player>
+                 <Player>
 			<NAME>SLAGGERT, LANDON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217367</WEB>
 			<TEAM>EDM</TEAM>
@@ -1156,7 +1163,7 @@
 		<Player>
 			<NAME>SALE, EDUARD</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251299</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2038,7 +2045,7 @@
 		<Player>
 			<NAME>SAVOIE, MATTHEW</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227300</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2157,7 +2164,7 @@
 		<Player>
 			<NAME>PERBIX, NICKLAUS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=205480</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8387,7 +8394,7 @@
 		<Player>
 			<NAME>COMRIE, ERIC</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132742</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
