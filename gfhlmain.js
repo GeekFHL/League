@@ -1,18 +1,18 @@
 function random_mainpic(){
 		var mainpic=new Array()
-		mainpic[1]="Images/Main/2024/la_icerink.jpg"
-	        mainpic[2]="Images/Main/2024/la_stanleycup.jpg"
-		mainpic[3]="Images/Main/2024/la_teampic.jpg"
-		mainpic[4]="Images/Main/2024/la_win.jpg"
-		mainpic[5]="Images/Main/2024/la_vspens.jpg"
-		mainpic[6]="Images/Main/2024/la_kingsrings.jpg"
-		mainpic[7]="Images/Main/2024/la_icerink.jpg"
-	        mainpic[8]="Images/Main/2024/la_stanleycup.jpg"
-		mainpic[9]="Images/Main/2024/la_teampic.jpg"
-		mainpic[10]="Images/Main/2024/la_win.jpg"
-		mainpic[11]="Images/Main/2024/la_vspens.jpg"
-		mainpic[12]="Images/Main/2024/la_kingsrings.jpg"
-		mainpic[13]="Images/Main/2024/la_wil.jpg"
+		mainpic[1]="/Images/Main/2024/la_icerink.jpg"
+	        mainpic[2]="/Images/Main/2024/la_stanleycup.jpg"
+		mainpic[3]="/Images/Main/2024/la_teampic.jpg"
+		mainpic[4]="/Images/Main/2024/la_win.jpg"
+		mainpic[5]="/Images/Main/2024/la_vspens.jpg"
+		mainpic[6]="/Images/Main/2024/la_kingsrings.jpg"
+		mainpic[7]="/Images/Main/2024/la_icerink.jpg"
+	        mainpic[8]="/Images/Main/2024/la_stanleycup.jpg"
+		mainpic[9]="/Images/Main/2024/la_teampic.jpg"
+		mainpic[10]="/Images/Main/2024/la_win.jpg"
+		mainpic[11]="/Images/Main/2024/la_vspens.jpg"
+		mainpic[12]="/Images/Main/2024/la_kingsrings.jpg"
+		mainpic[13]="/Images/Main/2024/la_wil.jpg"
 
 		
 
