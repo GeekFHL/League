@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="gfhldb.xsl"?>
 <GFHL>
-	<UPDATED>February 10, 2025</UPDATED>
-	<LASTTRANS>Edmonton signs Mikhail Yegorov (G) and releases Eric Comrie (G)</LASTTRANS>
+	<UPDATED>February 13, 2025</UPDATED>
+	<LASTTRANS>Washington release Nils Lundkvist (D)</LASTTRANS>
 	<DB>
 		
                  <Player>
+			<NAME>LARDIS, NICK</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248626</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
 			<NAME>YEGOROV, MIKHAIL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270615</WEB>
 			<TEAM>EDM</TEAM>
@@ -1065,7 +1072,7 @@
 		<Player>
 			<NAME>KOVALENKO, NIKOLAI</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213172</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1177,7 +1184,7 @@
 		<Player>
 			<NAME>BARLOW, COLBY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248686</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1968,7 +1975,7 @@
 		<Player>
 			<NAME>CATES, NOAH</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192490</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3319,7 +3326,7 @@
 		<Player>
 			<NAME>KURASHEV, PHILIPP</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195945</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3872,7 +3879,7 @@
 		<Player>
 			<NAME>LUNDKVIST, NILS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210202</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7673,7 +7680,7 @@
 		<Player>
 			<NAME>FARABEE, JOEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196111</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8786,7 +8793,7 @@
 		<Player>
 			<NAME>NIEDERREITER, NINO</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123014</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8933,7 +8940,7 @@
 		<Player>
 			<NAME>PROTAS, ILYA</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270607</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
