@@ -1,18 +1,18 @@
 function random_mainpic(){
 		var mainpic=new Array()
-		mainpic[1]="/Images/Main/2024/la_icerink.jpg"
-	        mainpic[2]="/Images/Main/2024/la_stanleycup.jpg"
-		mainpic[3]="/Images/Main/2024/la_teampic.jpg"
-		mainpic[4]="/Images/Main/2024/la_win.jpg"
-		mainpic[5]="/Images/Main/2024/la_vspens.jpg"
-		mainpic[6]="/Images/Main/2024/la_kingsrings.jpg"
-		mainpic[7]="/Images/Main/2024/la_icerink.jpg"
-	        mainpic[8]="/Images/Main/2024/la_stanleycup.jpg"
-		mainpic[9]="/Images/Main/2024/la_teampic.jpg"
-		mainpic[10]="/Images/Main/2024/la_win.jpg"
-		mainpic[11]="/Images/Main/2024/la_vspens.jpg"
-		mainpic[12]="/Images/Main/2024/la_kingsrings.jpg"
-		mainpic[13]="/Images/Main/2024/la_wil.jpg"
+		mainpic[1]="la_icerink.jpg"
+	        mainpic[2]="la_stanleycup.jpg"
+		mainpic[3]="la_teampic.jpg"
+		mainpic[4]="la_win.jpg"
+		mainpic[5]="la_vspens.jpg"
+		mainpic[6]="la_kingsrings.jpg"
+		mainpic[7]="la_icerink.jpg"
+	        mainpic[8]="la_stanleycup.jpg"
+		mainpic[9]="la_teampic.jpg"
+		mainpic[10]="la_win.jpg"
+		mainpic[11]="la_vspens.jpg"
+		mainpic[12]="la_kingsrings.jpg"
+		mainpic[13]="la_wil.jpg"
 
 		
 
@@ -35,5 +35,5 @@ function random_mainpic(){
 		
 		if (ry==0)
 		ry=1
-		document.write('<img src="mainpic[ry]+'" width="544" vspace="2" class="center"></img><center>'+maintext[ry]+'</center>');
+		document.write('<img src="https://geekfhl.github.io/League/Images/Main/2024/'+mainpic[ry]+'" width="544" vspace="2" class="center"></img><center>'+maintext[ry]+'</center>');
 	
