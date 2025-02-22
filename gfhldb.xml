@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="gfhldb.xsl"?>
 <GFHL>
-	<UPDATED>February 13, 2025</UPDATED>
-	<LASTTRANS>Washington releases Nils Lundkvist (D)</LASTTRANS>
+	<UPDATED>February 21, 2025</UPDATED>
+	<LASTTRANS>CURRENTLY UPDATING</LASTTRANS>
 	<DB>
 		
                  <Player>
@@ -8282,7 +8282,7 @@
 		<Player>
 			<NAME>HALL, TAYLOR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106818</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8562,7 +8562,7 @@
 		<Player>
 			<NAME>GLASS, CODY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179680</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
