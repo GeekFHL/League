@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="gfhldb.xsl"?>
 <GFHL>
 	<UPDATED>February 21, 2025</UPDATED>
-	<LASTTRANS>CURRENTLY UPDATING</LASTTRANS>
+	<LASTTRANS>Dallas signs Will Borgen (D) and releases Joakim Kemell (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>PACHEL, BRAYDEN</NAME>
@@ -539,7 +539,7 @@
 		<Player>
 			<NAME>BUIUM, ZEEV</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248116</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -658,7 +658,7 @@
 		<Player>
 			<NAME>TSYPLAKOV, MAXIM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207683</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1617,7 +1617,7 @@
 		<Player>
 			<NAME>BORGEN, WILL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=178955</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2037,7 +2037,7 @@
 		<Player>
 			<NAME>KEMELL, JOAKIM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241535</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6083,7 +6083,7 @@
 		<Player>
 			<NAME>GUENTZEL, JAKE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160569</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8400,7 +8400,7 @@
 		<Player>
 			<NAME>LYON, ALEX</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139929</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
