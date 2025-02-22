@@ -84,7 +84,7 @@
 		<Player>
 			<NAME>RINZEL, SAM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=250050</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1183,7 +1183,7 @@
 		<Player>
 			<NAME>PERREAULT, GABRIEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248129</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3864,7 +3864,7 @@
 		<Player>
 			<NAME>BYFIELD, QUINTON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210630</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6013,7 +6013,7 @@
 		<Player>
 			<NAME>GIBSON, JOHN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123445</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7628,7 +7628,7 @@
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
-			<NAME>NYQUIST, GUSTAV</NAME>
+			<NAME>NYQUIST, </NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=113830</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -7791,7 +7791,7 @@
 		<Player>
 			<NAME>GUSTAVSSON, FILIP</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192086</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
