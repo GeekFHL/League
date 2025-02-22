@@ -4,7 +4,13 @@
 	<UPDATED>February 21, 2025</UPDATED>
 	<LASTTRANS>CURRENTLY UPDATING</LASTTRANS>
 	<DB>
-		
+		<Player>
+			<NAME>SALOMONSSON, ELIAS</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238776</WEB>
+			<TEAM>LA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
                  <Player>
 			<NAME>LARDIS, NICK</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248626</WEB>
@@ -2115,7 +2121,7 @@
 		<Player>
 			<NAME>STEEVES, ALEX</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=189542</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2171,7 +2177,7 @@
 		<Player>
 			<NAME>PERBIX, NICKLAUS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=205480</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7834,7 +7840,7 @@
 		<Player>
 			<NAME>PERRON, DAVID</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=95960</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
