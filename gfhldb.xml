@@ -5,6 +5,13 @@
 	<LASTTRANS>CURRENTLY UPDATING</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME>PACHEL, BRAYDEN</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180928</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>DEF</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
 			<NAME>SALOMONSSON, ELIAS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238776</WEB>
 			<TEAM>LA</TEAM>
@@ -672,7 +679,7 @@
 		<Player>
 			<NAME>PONOMAREV, VASILY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227515</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
