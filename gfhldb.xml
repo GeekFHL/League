@@ -569,14 +569,14 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251359</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>PAREKH, ZAYNE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=252857</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDSTROM, CAYDEN</NAME>
@@ -604,7 +604,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261744</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>CAGNONI, LUCA</NAME>
@@ -6972,7 +6972,7 @@
 		<Player>
 			<NAME>PERRY, COREY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=59656</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8295,7 +8295,7 @@
 		<Player>
 			<NAME>PASTRNAK, DAVID</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=166010</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
