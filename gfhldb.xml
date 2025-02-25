@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="gfhldb.xsl"?>
 <GFHL>
-	<UPDATED>February 21, 2025</UPDATED>
-	<LASTTRANS>Dallas signs Will Borgen (D) and releases Joakim Kemell (F)</LASTTRANS>
+	<UPDATED>February 24, 2025</UPDATED>
+	<LASTTRANS>Nashville releases Brett Berard (F)</LASTTRANS>
 	<DB>
 		<Player>
-			<NAME>PACHEL, BRAYDEN</NAME>
+			<NAME>PACHAL, BRAYDEN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180928</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
