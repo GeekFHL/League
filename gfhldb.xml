@@ -5,6 +5,27 @@
 	<LASTTRANS>Nashville releases Brett Berard (F)</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME>XHEKAJ, FLORIAN</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262259</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>STEZKA, ALES</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=182217</WEB>
+			<TEAM>MTL</TEAM>
+			<POS>GOL</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>SMITH, TARIN</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251364</WEB>
+			<TEAM>ANA</TEAM>
+			<POS>DEF</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
 			<NAME>PACHAL, BRAYDEN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180928</WEB>
 			<TEAM>fa</TEAM>
