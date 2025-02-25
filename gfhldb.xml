@@ -1226,7 +1226,7 @@
 			<NAME>SANDIN-PELLIKA, AXEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249530</WEB>
 			<TEAM>EDM</TEAM>
-			<POS>FWD</POS>
+			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
@@ -2548,7 +2548,7 @@
 		<Player>
 			<NAME>VAN RIEMSDYK, TREVOR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=146221</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2597,7 +2597,7 @@
 		<Player>
 			<NAME>VEJMELKA, KAREL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176778</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3143,7 +3143,7 @@
 		<Player>
 			<NAME>RUTTA, JAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=159997</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3213,7 +3213,7 @@
 		<Player>
 			<NAME>NIEMELA, TOPI</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226938</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>22</SLOT>
 		</Player>
@@ -3493,7 +3493,7 @@
 		<Player>
 			<NAME>GEEKIE, MORGAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172640</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>7</SLOT>
 		</Player>
@@ -4011,7 +4011,7 @@
 		<Player>
 			<NAME>JOHANSSON, JONAS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170670</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4048,13 +4048,6 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123288</WEB>
 			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
-		</Player>
-		<Player>
-			<NAME>JOHNS, STEPHEN</NAME>
-			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123333</WEB>
-			<TEAM>fa</TEAM>
-			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
@@ -5033,7 +5026,7 @@
 		<Player>
 			<NAME>DOROFEYEV, PAVEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218842</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5586,7 +5579,7 @@
 		<Player>
 			<NAME>JOSEPH, MATHIEU</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172231</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5635,7 +5628,7 @@
 		<Player>
 			<NAME>EDMUNDSON, JOEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130643</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5915,7 +5908,7 @@
 		<Player>
 			<NAME>KREIDER, CHRIS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120939</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6356,7 +6349,7 @@
 		<Player>
 			<NAME>JOKIHARJU, HENRI</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196298</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6391,7 +6384,7 @@
 		<Player>
 			<NAME>TERRY, TROY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172202</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7154,7 +7147,7 @@
 		<Player>
 			<NAME>NICHUSHKIN, VALERI</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162486</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8239,7 +8232,7 @@
 		<Player>
 			<NAME>ELLER, LARS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105385</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8414,7 +8407,7 @@
 		<Player>
 			<NAME>COMRIE, ERIC</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132742</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8505,7 +8498,7 @@
 		<Player>
 			<NAME>SCHMIDT, NATE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123400</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8605,7 +8598,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177831</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>SHERWOOD, KIEFER</NAME>
@@ -8946,7 +8939,7 @@
 		<Player>
 			<NAME>BERARD, BRETT</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217360</WEB>
-			<TEAM>NSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
