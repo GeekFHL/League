@@ -7,7 +7,7 @@
 		<Player>
 			<NAME>PACHAL, BRAYDEN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180928</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -21,14 +21,14 @@
                  <Player>
 			<NAME>LARDIS, NICK</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248626</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>YEGOROV, MIKHAIL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270615</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
