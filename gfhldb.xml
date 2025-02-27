@@ -5,6 +5,27 @@
 	<LASTTRANS>Los Angeles signs Nick Perbix (D)</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME>SIDOROV, YEGOR</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248102</WEB>
+			<TEAM>OTT</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>UNGER SORUM, FELIX</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=250774</WEB>
+			<TEAM>OTT</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>HAMEENAHO, LENNI</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251537</WEB>
+			<TEAM>CLB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
 			<NAME>XHEKAJ, FLORIAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262259</WEB>
 			<TEAM>EDM</TEAM>
