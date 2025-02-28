@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="gfhldb.xsl"?>
 <GFHL>
-	<UPDATED>February 26, 2025</UPDATED>
-	<LASTTRANS>Montreal releases Michael Essyimont (F)</LASTTRANS>
+	<UPDATED>February 27, 2025</UPDATED>
+	<LASTTRANS>Boston Sign Emil Bemstrom (F) and releasing Robby Fabbri (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>SIDOROV, YEGOR</NAME>
@@ -1470,7 +1470,7 @@
 		<Player>
 			<NAME>POIRIER, JEREMIE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216568</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1687,7 +1687,7 @@
 		<Player>
 			<NAME>HARRIS, JORDAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213349</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5208,7 +5208,7 @@
 		<Player>
 			<NAME>FABBRI, ROBBY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151737</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6447,7 +6447,7 @@
 		<Player>
 			<NAME>BEMSTROM, EMIL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=201679</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
