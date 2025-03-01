@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="gfhldb.xsl"?>
 <GFHL>
-	<UPDATED>February 27, 2025</UPDATED>
-	<LASTTRANS>Boston Sign Emil Bemstrom (F) and releasing Robby Fabbri (F)</LASTTRANS>
+	<UPDATED>March 1, 2025</UPDATED>
+	<LASTTRANS>Calgary trades Spencer Knight (G) to New Jersey for Seth Jarvis (F) and picks</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>JUGNAUTH, TYSON</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230836</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>DEF</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>BACK, OSKAR</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207945</WEB>
+			<TEAM>VAN</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
 		<Player>
 			<NAME>SIDOROV, YEGOR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248102</WEB>
@@ -28,7 +42,7 @@
 		<Player>
 			<NAME>XHEKAJ, FLORIAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262259</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -175,7 +189,7 @@
 		<Player>
 			<NAME>GONCALVES, GAGE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209896</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -203,7 +217,7 @@
 		<Player>
 			<NAME>ALLAN, NOLAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217929</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -280,14 +294,14 @@
 		<Player>
 			<NAME>BALINSKIS, UVIS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191621</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOLYACHONOK, VLADISLAV</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216625</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -350,7 +364,7 @@
 		<Player>
 			<NAME>BLAKE, JACKSON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238085</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -364,7 +378,7 @@
 		<Player>
 			<NAME>DUKE, DYLAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228211</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -798,7 +812,7 @@
 		<Player>
 			<NAME>STRUBLE, JAYDEN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=224707</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1092,7 +1106,7 @@
 		<Player>
 			<NAME>MERKULOV, GEORGII</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229105</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1113,7 +1127,7 @@
 		<Player>
 			<NAME>SILOVS, ARTURS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225170</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>GLT</POS>
 			<SLOT>23</SLOT>
 		</Player>
@@ -1267,7 +1281,7 @@
 		<Player>
 			<NAME>SANDIN-PELLIKA, AXEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249530</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1351,7 +1365,7 @@
 		<Player>
 			<NAME>KYROU, CHRISTIAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228638</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1372,7 +1386,7 @@
 		<Player>
 			<NAME>STAUBER, JAXSON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209767</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1414,7 +1428,7 @@
 		<Player>
 			<NAME>JOSHUA, DAKOTA</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161083</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1519,7 +1533,7 @@
 		<Player>
 			<NAME>KULICH, JIRI</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=245580</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1575,7 +1589,7 @@
 		<Player>
 			<NAME>BUSSI, BRANDON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195617</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1603,7 +1617,7 @@
 		<Player>
 			<NAME>PARSSINEN, JUUSO</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219620</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>8</SLOT>
 		</Player>
@@ -2373,7 +2387,7 @@
 		<Player>
 			<NAME>MOSER, J.J.</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213738</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>WSH</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2471,7 +2485,7 @@
 		<Player>
 			<NAME>MCLEOD, RYAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187431</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2541,7 +2555,7 @@
 		<Player>
 			<NAME>DUHAIME, BRANDON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171261</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2898,7 +2912,7 @@
 		<Player>
 			<NAME>LUCIUS, CHAZ</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228220</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3360,7 +3374,7 @@
 		<Player>
 			<NAME>SCHENN, LUKE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89981</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3780,7 +3794,7 @@
 		<Player>
 			<NAME>MERCER, DAWSON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=2089970</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3850,7 +3864,7 @@
 		<Player>
 			<NAME>JARVIS, SETH</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211436</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4053,7 +4067,7 @@
 		<Player>
 			<NAME>JOHANSSON, JONAS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170670</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4816,7 +4830,7 @@
 		<Player>
 			<NAME>WEEGAR, MACKENZIE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=142279</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5075,7 +5089,7 @@
 		<Player>
 			<NAME>KNIGHT, SPENCER</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209480</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>GLT</POS>
 			<SLOT>19</SLOT>
 		</Player>
@@ -5327,7 +5341,7 @@
 		<Player>
 			<NAME>HILL, ADIN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170947</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5397,7 +5411,7 @@
 		<Player>
 			<NAME>LAUGHTON, SCOTT</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=128062</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6006,7 +6020,7 @@
 		<Player>
 			<NAME>MARCHAND, BRAD</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80463</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6055,7 +6069,7 @@
 		<Player>
 			<NAME>GIBSON, JOHN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123445</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6076,7 +6090,7 @@
 		<Player>
 			<NAME>KAPRIZOV, KIRILL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180678</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6167,7 +6181,7 @@
 		<Player>
 			<NAME>EKHOLM, MATTIAS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=112754</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7021,7 +7035,7 @@
 		<Player>
 			<NAME>BARZAL, MATHEW</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162987</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7070,7 +7084,7 @@
 		<Player>
 			<NAME>GALLAGHER, BRENDAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116134</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7406,7 +7420,7 @@
 		<Player>
 			<NAME>MANTHA, ANTHONY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=136790</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7462,7 +7476,7 @@
 		<Player>
 			<NAME>PAGEAU, JEAN-GABRIEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122661</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7742,7 +7756,7 @@
 		<Player>
 			<NAME>RADDYSH, TAYLOR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177601</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8232,7 +8246,7 @@
 		<Player>
 			<NAME>OLEKSIAK, JAMIE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117317</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8498,7 +8512,7 @@
 		<Player>
 			<NAME>DUCHENE, MATT</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106808</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8589,7 +8603,7 @@
 		<Player>
 			<NAME>ZADOROV, NIKITA</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160323</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8736,7 +8750,7 @@
 		<Player>
 			<NAME>DOMI, MAX</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130519</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8918,7 +8932,7 @@
 		<Player>
 			<NAME>HEIDT, RILEY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241129/</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
