@@ -5,6 +5,13 @@
 	<LASTTRANS>Calgary trades Spencer Knight (G) to New Jersey for Seth Jarvis (F) and picks</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME>GARNDER, EVAN</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270130</WEB>
+			<TEAM>ANA</TEAM>
+			<POS>GOL</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
 			<NAME>JUGNAUTH, TYSON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230836</WEB>
 			<TEAM>EDM</TEAM>
@@ -231,7 +238,7 @@
 		<Player>
 			<NAME>GEORGE, CARTER</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=263763</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>GLT</POS>
 			<SLOT>21</SLOT>
 		</Player>
@@ -434,7 +441,7 @@
 		<Player>
 			<NAME>JIRICEK, ADAM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265618</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1379,7 +1386,7 @@
 		<Player>
 			<NAME>LACOMBE, JACKSON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219748</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2065,7 +2072,7 @@
 		<Player>
 			<NAME>MINTYUKOV, PAVEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249248</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2184,7 +2191,7 @@
 		<Player>
 			<NAME>STEEVES, ALEX</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=189542</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2744,7 +2751,7 @@
 		<Player>
 			<NAME>CARRIER, ALEXANDRE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160343</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>13</SLOT>
 		</Player>
@@ -2786,7 +2793,7 @@
 		<Player>
 			<NAME>SKINNER, STUART</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172646</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>GLT</POS>
 			<SLOT>19</SLOT>
 		</Player>
@@ -3829,14 +3836,14 @@
 		<Player>
 			<NAME>HOLLOWAY, DYLAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=199624</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>MITCHELL, IAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179508</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3850,7 +3857,7 @@
 		<Player>
 			<NAME>QUINN, JACK</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208510</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6097,7 +6104,7 @@
 		<Player>
 			<NAME>KAHKONEN, KAAPO</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162341</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7546,7 +7553,7 @@
 		<Player>
 			<NAME>NEDELJKOVIC, ALEX</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160299</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
