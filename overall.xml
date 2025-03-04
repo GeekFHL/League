@@ -5,55 +5,55 @@
 		<Name>Pittsburgh</Name>
 		<Conf>East</Conf>
                 <Div>Metropolitan</Div> 
-		<W>40</W>		
+		<W>42</W>		
 		<L>8</L>		
-		<T>6</T>		
-		<OP>8627.75</OP>	
+		<T>7</T>		
+		<OP>9355</OP>	
 	</Team>	
 	<Team>		
 		<Name>NY Rangers</Name>		
 		<Conf>East</Conf>
                 <Div>Metropolitan</Div> 
-		<W>14</W>		
-		<L>36</L>		
+		<W>16</W>		
+		<L>37</L>		
 		<T>4</T>		
-		<OP>4737.25</OP>
+		<OP>5190.5</OP>
 	</Team>	
 	<Team>		
 		<Name>New Jersey</Name>		
 		<Conf>East</Conf>
                 <Div>Metropolitan</Div> 
 		<W>25</W>		
-		<L>25</L>		
-		<T>4</T>		
-		<OP>5975.75</OP>	
+		<L>27</L>		
+		<T>5</T>		
+		<OP>6339.5</OP>	
 	</Team>	
 	<Team>		
 		<Name>Philadelphia</Name>		
 		<Conf>East</Conf>
                 <Div>Metropolitan</Div> 
-		<W>25</W>		
-		<L>26</L>		
+		<W>26</W>		
+		<L>28</L>		
 		<T>3</T>		
-		<OP>6234.25</OP>	
+		<OP>6786.25</OP>	
 	</Team>	
 	<Team>		
 		<Name>NY Islanders</Name>		
 		<Conf>East</Conf>
                 <Div>Metropolitan</Div> 
-		<W>35</W>		
-		<L>16</L>		
-		<T>3</T>		
-		<OP>7744.25</OP>
+		<W>36</W>		
+		<L>17</L>		
+		<T>4</T>		
+		<OP>8490.75</OP>
 	</Team>
 	<Team>		
 		<Name>Ottawa</Name>		
 		<Conf>East</Conf>
                 <Div>Atlantic</Div>
-		<W>16</W>		
-		<L>35</L>		
+		<W>17</W>		
+		<L>37</L>		
 		<T>3</T>		
-		<OP>5518.75</OP>
+		<OP>5924.5</OP>
 	</Team>	
 	<Team>		
 		<Name>Toronto</Name>		
