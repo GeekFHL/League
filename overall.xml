@@ -59,92 +59,92 @@
 		<Name>Toronto</Name>		
 		<Conf>East</Conf>
                 <Div>Atlantic</Div>
-		<W>37</W>		
-		<L>14</L>		
+		<W>39</W>		
+		<L>15</L>		
 		<T>3</T>		
-		<OP>8625</OP>
+		<OP>9431</OP>
 	
 	</Team>	
 	<Team>		
 		<Name>Buffalo</Name>		
 		<Conf>East</Conf>
                 <Div>Atlantic</Div>
-		<W>28</W>		
+		<W>30</W>		
 		<L>22</L>		
-		<T>4</T>		
-		<OP>7522.5</OP>	
+		<T>5</T>		
+		<OP>8103</OP>	
 	</Team>	
 	<Team>	
 		<Name>Montreal</Name>		
 		<Conf>East</Conf>
                 <Div>Atlantic</Div> 
-		<W>32</W>		
+		<W>35</W>		
 		<L>17</L>		
 		<T>5</T>		
-		<OP>7083.75</OP>
+		<OP>7758.25</OP>
 	</Team>		
 	<Team>		
 		<Name>Boston</Name>		
 		<Conf>East</Conf>
                 <Div>Atlantic</Div> 
-		<W>38</W>		
+		<W>40</W>		
 		<L>12</L>		
-		<T>4</T>		
-		<OP>7431</OP>
+		<T>5</T>		
+		<OP>8115.5</OP>
 	</Team>	
 	<Team>		
 		<Name>Detroit</Name>		
 		<Conf>East</Conf>
                 <Div>Atlantic</Div> 
 		<W>25</W>		
-		<L>24</L>		
+		<L>27</L>		
 		<T>5</T>		
-		<OP>5887.25</OP>
+		<OP>6428.5</OP>
 	</Team>	
 	<Team>		
 		<Name>Florida</Name>		
 		<Conf>East</Conf>
                 <Div>Atlantic</Div> 
-		<W>13</W>		
-		<L>39</L>		
+		<W>14</W>		
+		<L>41</L>		
 		<T>2</T>		
-		<OP>4787.75</OP>	
+		<OP>5152.25</OP>	
 	</Team>	
 	<Team>		
 		<Name>Tampa Bay</Name>		
 		<Conf>East</Conf>
                 <Div>Atlantic</Div> 
-		<W>16</W>		
-		<L>30</L>		
-		<T>8</T>		
-		<OP>5777.5</OP>	
+		<W>17</W>		
+		<L>31</L>		
+		<T>9</T>		
+		<OP>6246.5</OP>	
 	</Team>
 	<Team>		
 		<Name>Carolina</Name>		
 		<Conf>East</Conf>
                 <Div>Metropolitan</Div> 
-		<W>14</W>		
-		<L>35</L>		
-		<T>5</T>		
-		<OP>4487</OP>
+		<W>15</W>		
+		<L>36</L>		
+		<T>6</T>		
+		<OP>4874.5</OP>
         </Team>
         <Team>		
 		<Name>Columbus</Name>		
 		<Conf>East</Conf>
                 <Div>Metropolitan</Div> 
-		<W>16</W>		
+		<W>19</W>		
 		<L>33</L>		
 		<T>5</T>		
-		<OP>5635.25</OP>
+		<OP>6399.25</OP>
         </Team>
 	<Team>		
 		<Name>Washington</Name>		
 		<Conf>East</Conf>
                 <Div>Metropolitan</Div> 
 		<W>21</W>		
-		<L>32</L>		
+		<L>35</L>		
 		<T>1</T>		
-		<OP>5228.25</OP>	
+		<OP>5580</OP>	
 	</Team>	
 	<Team>
 		<Name>San Jose</Name>
