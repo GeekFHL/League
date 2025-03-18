@@ -150,144 +150,144 @@
 		<Name>San Jose</Name>
 		<Conf>West</Conf>
                 <Div>Pacific</Div> 
-		<W>10</W>		
+		<W>13</W>		
 		<L>46</L>		
 		<T>4</T>		
-		<OP>5199</OP>
+		<OP>5580.75</OP>
 	</Team>
 	<Team>
 		<Name>Anaheim</Name>
 		<Conf>West</Conf>
                 <Div>Pacific</Div> 
-		<W>22</W>		
-		<L>31</L>		
+		<W>23</W>		
+		<L>33</L>		
 		<T>7</T>		
-		<OP>6455.75</OP>
+		<OP>6737.5</OP>
 	</Team>
 	<Team>
 		<Name>Dallas</Name>
 		<Conf>West</Conf>
                 <Div>Central</Div> 
 		<W>10</W>		
-		<L>44</L>		
+		<L>47</L>		
 		<T>6</T>		
-		<OP>5241.5</OP>	
+		<OP>5477.75</OP>	
 	</Team>
         <Team>
 		<Name>Los Angeles</Name>
 		<Conf>West</Conf>
                 <Div>Pacific</Div> 
 		<W>35</W>		
-		<L>24</L>		
+		<L>27</L>		
 		<T>1</T>		
-		<OP>7775.25</OP>
+		<OP>7948.75</OP>
 	</Team>
 	<Team>
 		<Name>Utah</Name>
 		<Conf>West</Conf>
                 <Div>Central</Div> 
-		<W>43</W>		
-		<L>10</L>		
+		<W>44</W>		
+		<L>12</L>		
 		<T>7</T>		
-		<OP>9227.75</OP>
+		<OP>9607.5</OP>
 	</Team>
 	<Team>
 		<Name>Calgary</Name>
 		<Conf>West</Conf>
                 <Div>Pacific</Div> 
-		<W>49</W>		
-		<L>6</L>		
+		<W>51</W>		
+		<L>7</L>		
 		<T>5</T>		
-		<OP>9967.25</OP>
+		<OP>10442.5</OP>
 	</Team>
 	<Team>
 		<Name>Edmonton</Name>
 		<Conf>West</Conf>
                 <Div>Pacific</Div> 
-		<W>41</W>		
+		<W>44</W>		
 		<L>15</L>		
 		<T>4</T>		
-		<OP>9993.75</OP>
+		<OP>10425.75</OP>
 	</Team>
 	<Team>
 	        <Name>Colorado</Name>
 		<Conf>West</Conf>
                 <Div>Central</Div> 
-		<W>19</W>		
-		<L>36</L>		
+		<W>21</W>		
+		<L>37</L>		
 		<T>5</T>		
-		<OP>6806.75</OP>
+		<OP>7179.75</OP>
 	</Team>
 	<Team>
 		<Name>Vancouver</Name>
 		<Conf>West</Conf>
                 <Div>Pacific</Div> 
 		<W>13</W>		
-		<L>42</L>		
+		<L>45</L>		
 		<T>5</T>		
-		<OP>5803.75</OP>
+		<OP>6017.25</OP>
 	</Team>
 	<Team>
 		<Name>Minnesota</Name>
 		<Conf>West</Conf>
                 <Div>Central</Div> 
-		<W>41</W>		
+		<W>44</W>		
 		<L>13</L>		
 		<T>6</T>		
-		<OP>9996</OP>
+		<OP>10560.75</OP>
 	</Team>
 	<Team>
 		<Name>Nashville</Name>
 		<Conf>West</Conf>
                 <Div>Central</Div> 
-		<W>46</W>		
+		<W>49</W>		
 		<L>11</L>		
 		<T>3</T>		
-		<OP>9634.75</OP>
+		<OP>10146.75</OP>
 	</Team>
 	<Team>
 		<Name>Vegas</Name>
 		<Conf>West</Conf>
                 <Div>Pacific</Div> 
-		<W>28</W>		
+		<W>31</W>		
 		<L>31</L>		
 		<T>1</T>		
-		<OP>7300</OP>
+		<OP>7700</OP>
 	</Team>
         <Team>
 		<Name>Seattle</Name>
 		<Conf>West</Conf>
                 <Div>Pacific</Div> 
 		<W>18</W>		
-		<L>37</L>		
+		<L>40</L>		
 		<T>5</T>		
-		<OP>5788.5</OP>
+		<OP>6101</OP>
 	</Team>
 	<Team>
 		<Name>St. Louis</Name>
 		<Conf>West</Conf>
                 <Div>Central</Div> 
 		<W>23</W>		
-		<L>31</L>		
+		<L>34</L>		
 		<T>6</T>		
-		<OP>6092.75</OP>
+		<OP>6392.75</OP>
 	</Team>
 	<Team>
 		<Name>Chicago</Name>
 		<Conf>West</Conf>
                 <Div>Central</Div> 
-		<W>18</W>		
+		<W>21</W>		
 		<L>35</L>		
 		<T>7</T>		
-		<OP>6738</OP>
+		<OP>7172.75</OP>
 	</Team>
 	<Team>
 		<Name>Winnipeg</Name>
 		<Conf>West</Conf>
                 <Div>Central</Div> 
 		<W>28</W>		
-		<L>27</L>		
+		<L>30</L>		
 		<T>5</T>		
-		<OP>7328.25</OP>
+		<OP>7542.75</OP>
 	</Team>	
 </standing>
