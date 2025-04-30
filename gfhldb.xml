@@ -98,7 +98,7 @@
                  <Player>
 			<NAME>SLAGGERT, LANDON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217367</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -609,7 +609,7 @@
 		<Player>
 			<NAME>IGINLA, TIJ</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251359</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -798,14 +798,14 @@
 		<Player>
 			<NAME>KESSELRING, MICHAEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213346</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUNT, DAEMON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209294</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -924,7 +924,7 @@
 		<Player>
 			<NAME>ENGLUND, ANDREAS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172935</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1176,7 +1176,7 @@
 		<Player>
 			<NAME>WILLANDER, TOM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248575</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1225,7 +1225,7 @@
 		<Player>
 			<NAME>WOOD, MATTHEW</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241511</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1330,7 +1330,7 @@
 		<Player>
 			<NAME>SMITH, WILLIAM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248133</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1785,7 +1785,7 @@
 		<Player>
 			<NAME>SODERBLOM, ELMER</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225171</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1925,7 +1925,7 @@
 		<Player>
 			<NAME>KELLY, PARKER</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229345</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2058,7 +2058,7 @@
 		<Player>
 			<NAME>PICKERING, OWEN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240695</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2163,7 +2163,7 @@
 		<Player>
 			<NAME>COOLEY, LOGAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238269</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2345,7 +2345,7 @@
 		<Player>
 			<NAME>SAMUELSSON, MATTIAS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196144</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -2597,7 +2597,7 @@
 		<Player>
 			<NAME>DAWS, NICO</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209902</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3045,7 +3045,7 @@
 		<Player>
 			<NAME>POWER, OWEN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217120</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3059,7 +3059,7 @@
 		<Player>
 			<NAME>SOGAARD, MADS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192024</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3213,7 +3213,7 @@
 		<Player>
 			<NAME>PINTO, SHANE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217084</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3374,7 +3374,7 @@
 		<Player>
 			<NAME>JONES, ZAC</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217053</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3542,7 +3542,7 @@
 		<Player>
 			<NAME>BERNARD-DOCKER, JACOB</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195426</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3766,7 +3766,7 @@
 		<Player>
 			<NAME>LAPIERRE, HENDRIX</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216556</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3794,7 +3794,7 @@
 		<Player>
 			<NAME>GREIG, RIDLEY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210831</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -3941,7 +3941,7 @@
 		<Player>
 			<NAME>LAFRENIERE, ALEXIS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208990</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4403,7 +4403,7 @@
 		<Player>
 			<NAME>MARINO, JOHN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=174819</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4690,7 +4690,7 @@
 		<Player>
 			<NAME>VERHAEGHE, CARTER</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145093</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4963,7 +4963,7 @@
 		<Player>
 			<NAME>JOSEPH, PIERRE-OLIVIER</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=188337</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5166,7 +5166,7 @@
 		<Player>
 			<NAME>BOLDY, MATTHEW</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209491</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5194,7 +5194,7 @@
 		<Player>
 			<NAME>BYRAM, BOWEN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196997</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5376,7 +5376,7 @@
 		<Player>
 			<NAME>SMITH, TY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187361</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6559,7 +6559,7 @@
 		<Player>
 			<NAME>PESCE, BRETT</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=158164</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6608,7 +6608,7 @@
 		<Player>
 			<NAME>DESMITH, CASEY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123307</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6825,7 +6825,7 @@
 		<Player>
 			<NAME>TAVARES, JOHN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89823</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -6867,7 +6867,7 @@
 		<Player>
 			<NAME>PELECH, ADAM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130615</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7049,7 +7049,7 @@
 		<Player>
 			<NAME>POEHLING, RYAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191764</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7112,7 +7112,7 @@
 		<Player>
 			<NAME>JOSI, ROMAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=100921</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7140,7 +7140,7 @@
 		<Player>
 			<NAME>CHABOT, THOMAS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169575</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7266,7 +7266,7 @@
 		<Player>
 			<NAME>FOUDY, LIAM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195711</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7280,7 +7280,7 @@
 		<Player>
 			<NAME>NUGENT-HOPKINS, RYAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117125</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7455,7 +7455,7 @@
 		<Player>
 			<NAME>DRAISAITL, LEON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160174</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7497,7 +7497,7 @@
 		<Player>
 			<NAME>SPURGEON, JARED</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89986</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -7875,7 +7875,7 @@
 		<Player>
 			<NAME>STAAL, JORDAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80489</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8141,7 +8141,7 @@
 		<Player>
 			<NAME>TARASENKO, VLADIMIR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117204</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8393,7 +8393,7 @@
 		<Player>
 			<NAME>BEAUVILLIER, ANTHONY</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169563</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8498,7 +8498,7 @@
 		<Player>
 			<NAME>MALKIN, EVGENI</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=77329</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8526,7 +8526,7 @@
 		<Player>
 			<NAME>LARKIN, DYLAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160580</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8589,7 +8589,7 @@
 		<Player>
 			<NAME>HELLEBUYCK, CONNOR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144065</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>GLT</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8617,7 +8617,7 @@
 		<Player>
 			<NAME>HEDMAN, VICTOR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=107121</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8750,7 +8750,7 @@
 		<Player>
 			<NAME>POINT, BRAYDEN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151992</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -8771,7 +8771,7 @@
 		<Player>
 			<NAME>VAN RIEMSDYK, JAMES</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105417</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
