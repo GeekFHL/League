@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="overall.xsl"?> 
 <standing>	
 	<Team>		
-		<Name>Pittsburgh</Name>
+		<Name>Carolina (Pittsburgh)</Name>
 		<Conf>East</Conf>
                 <Div>Metropolitan</Div> 
 		<W>46</W>		
@@ -120,7 +120,7 @@
 		<OP>6843.5</OP>	
 	</Team>
 	<Team>		
-		<Name>Carolina</Name>		
+		<Name>Pittsburgh (Carolina)</Name>		
 		<Conf>East</Conf>
                 <Div>Metropolitan</Div> 
 		<W>15</W>		
