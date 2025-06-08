@@ -70,11 +70,7 @@ a.colorforward	 {color:#FFFFFF;}
 
 <b>GFHL - Western Roster</b>
 <p />
-<table>
-	<tr><td>ANAHEIM DUCKS</td></tr>
-	<tr><td>GM / <a href="mailto:timjhamilton@hotmail.com" >TIM</a></td></tr>
-	<tr><td><br /></td></tr>
-</table>
+
 <table class="noborder">
 	<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
       	<xsl:sort select="SLOT" data-type="text" order="ascending"/>
