@@ -74,7 +74,7 @@ a.colorforward	 {color:#FFFFFF;}
 	
 <table class="noborder">
 	<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
-      	<xsl:sort select="SLOT" data-type="text" order="ascending"/>
+      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 	<tr>
 		<xsl:choose>
