@@ -73,7 +73,8 @@ a.colorforward	 {color:#FFFFFF;}
 
 <table class="noborder">
 	<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
-      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+      	<xsl:sort select="SLOT" data-type="text" order="ascending"/>
+	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 	<tr>
 		<xsl:choose>
           	<xsl:when test="TEAM='fa'">
@@ -97,9 +98,11 @@ a.colorforward	 {color:#FFFFFF;}
 		</xsl:choose>
 
 
-		<td class="no"><center>
-                    <xsl:value-of select="TEAM"/>
-                </center></td>
+		<td class="no">
+		<center>
+                    <xsl:value-of select="POS"/>
+                </center>
+		</td>
 		<xsl:variable name="_web" select="WEB"/>
                 <td class="no">
 		<center>
@@ -134,11 +137,7 @@ a.colorforward	 {color:#FFFFFF;}
 		</xsl:choose>
                 </center>
 		</td>
-		<td class="no">
-		<center>
-                    <xsl:value-of select="POS"/>
-                </center>
-		</td>
+		
 	</tr>
 	</xsl:for-each>
 </table>
