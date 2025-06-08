@@ -99,7 +99,7 @@ a.colorforward	 {color:#FFFFFF;}
 
 
 		<td class="no">
-		<left>
+		<center>
                     <xsl:value-of select="POS"/>
                 </center>
 		</td>
