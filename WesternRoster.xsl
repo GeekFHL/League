@@ -70,7 +70,8 @@ a.colorforward	 {color:#FFFFFF;}
 
 <b>GFHL - Western Roster</b>
 <p />
-
+</center>
+	
 <table class="noborder">
 	<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
       	<xsl:sort select="SLOT" data-type="text" order="ascending"/>
@@ -99,13 +100,10 @@ a.colorforward	 {color:#FFFFFF;}
 
 
 		<td class="no">
-		<center>
                     <xsl:value-of select="POS"/>
-                </center>
 		</td>
 		<xsl:variable name="_web" select="WEB"/>
                 <td class="no">
-		<center>
 		<xsl:choose>
 		<xsl:when test="WEB='http://www.hockeydb.com'">
 			<xsl:value-of select="NAME"/>
@@ -135,13 +133,11 @@ a.colorforward	 {color:#FFFFFF;}
 			</a>
             	</xsl:otherwise>
 		</xsl:choose>
-                </center>
 		</td>
 		
 	</tr>
 	</xsl:for-each>
 </table>
-</center>
 
 </body>
 </html>
