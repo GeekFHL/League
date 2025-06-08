@@ -4,7 +4,11 @@
 <xsl:template match="/">    
 <html lang="en">
 <head>
-<title>GFHL - Western Roster</title>
+<title>GFHL - Players Database</title>
+
+<script type="text/javascript" src="searchPage.js">
+</script>
+
 <style>
 body
 {
@@ -70,8 +74,60 @@ a.colorforward	 {color:#FFFFFF;}
 <p />
 <table class="noborder">
 	<tr>
-		<td><center><b>Position</b></center></td>
+	<td class="no"><b>Last Updated:</b>
+	</td>
+	<td class="no"><xsl:value-of select="GFHL/UPDATED"/>	</td>
+	</tr>
+	<tr>
+	<td class="no"><b>Last Transaction:</b></td>
+	<td class="no"><xsl:value-of select="GFHL/LASTTRANS"/>
+	</td>
+	</tr>
+</table>
+<p />
+<table><tr><td>
+<center>KEY</center></td>
+</tr>
+	<tr>
+		<td class="no"> Forward - denotes FWD
+		</td>
+	</tr>
+	<tr>
+		<xsl:attribute name="class">colourdefman
+		</xsl:attribute> 
+		<td class="no"> Defencemen - denotes DEF
+		</td>
+	</tr>
+	<tr>
+		<xsl:attribute name="class">colourgoalie
+		</xsl:attribute> 
+		<td class="no"> Goaltender - denotes GLT
+		</td>
+	</tr>
+	<tr>
+		<xsl:attribute name="class">colourfreeagent
+		</xsl:attribute> 
+		<td class="no"> fa - denotes free agent
+		</td>
+	</tr>
+</table>
+<p />
+
+<table class="nobroder">
+<form name="player" method="post" action="http://www.hockeydb.com/ihdb/stats/findplayer.php">
+<tr>
+    <td class="no" align="center"><a href="http://hockeydb.com" target="_blank"><img src="http://www.hockeydb.com/images/logo.gif" alt="hockey DB" width="65%" border="0"></img></a></td>
+    <td class="no" width="25%" align="center"> <input type="text" name="full_name" class="inp2" /> </td>
+    <td class="no" width="25%" align="center"> <input name="imageField" type="image" src="http://www.hockeydb.com/images/btn_player-search.gif" width="147" height="30" border="0" /> </td>
+</tr>
+</form>
+</table>
+<p />
+<table class="noborder">
+	<tr>
+		<td><center><b>Team</b></center></td>
 		<td><center><b>Player's Name</b></center></td>
+		<td><center><b>Position</b></center></td>
 	</tr>
 	<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
       	<xsl:sort select="NAME" data-type="text" order="ascending"/>
@@ -99,7 +155,7 @@ a.colorforward	 {color:#FFFFFF;}
 
 
 		<td class="no"><center>
-                    <xsl:value-of select="POS"/>
+                    <xsl:value-of select="TEAM"/>
                 </center></td>
 		<xsl:variable name="_web" select="WEB"/>
                 <td class="no">
@@ -135,6 +191,11 @@ a.colorforward	 {color:#FFFFFF;}
 		</xsl:choose>
                 </center>
 		</td>
+		<td class="no">
+		<center>
+                    <xsl:value-of select="POS"/>
+                </center>
+		</td>
 	</tr>
 	</xsl:for-each>
 </table>
@@ -144,3 +205,4 @@ a.colorforward	 {color:#FFFFFF;}
 </html>
 </xsl:template> 
 </xsl:stylesheet> 
+
