@@ -103,17 +103,9 @@ a.colorforward	 {color:#FFFFFF;}
 
 
 		<td class="no"><center>
-			<xsl:choose>
-				<!--<xsl:when test="SLOT gt; 21">
-				RES
-				</xsl:when>
-				
-				<xsl:otherwise>-->
+
                     		<xsl:value-of select="POS"/>
-				<!--
-			</xsl:otherwise>
-			</xsl:choose>
-			-->
+
                 </center></td>
 		<xsl:variable name="_web" select="WEB"/>
                 <td class="no">
