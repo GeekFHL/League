@@ -103,7 +103,16 @@ a.colorforward	 {color:#FFFFFF;}
 
 
 		<td class="no"><center>
-                    <xsl:value-of select="POS"/>
+			<xsl:choose>
+				<xsl:when test="SLOT gt; 21">
+				RES
+				</xsl:when>
+				
+				<xsl:otherwise>
+                    		<xsl:value-of select="POS"/>
+				</xsl:otherwise>
+			</xsl:choose>
+
                 </center></td>
 		<xsl:variable name="_web" select="WEB"/>
                 <td class="no">
@@ -116,21 +125,21 @@ a.colorforward	 {color:#FFFFFF;}
 			<a href="{$_web}" target="_blank">
 				<xsl:choose>
           			<xsl:when test="TEAM='fa'">
-				<xsl:attribute name="class">colorfreeagent
-				</xsl:attribute> 
-          	</xsl:when>
-          	<xsl:when test="POS='GLT'">
-				<xsl:attribute name="class">colorgoalie
-				</xsl:attribute> 
-          	</xsl:when>
-          	<xsl:when test="POS='DEF'">
-				<xsl:attribute name="class">colordefman
-				</xsl:attribute> 
-          	</xsl:when>
-          	<xsl:when test="POS='FWD'">
-				<xsl:attribute name="class">colorforward
-				</xsl:attribute> 
-          	</xsl:when>
+					<xsl:attribute name="class">colorfreeagent
+					</xsl:attribute> 
+          			</xsl:when>
+          			<xsl:when test="POS='GLT'">
+					<xsl:attribute name="class">colorgoalie
+					</xsl:attribute> 
+          			</xsl:when>
+          			<xsl:when test="POS='DEF'">
+					<xsl:attribute name="class">colordefman
+					</xsl:attribute> 
+          			</xsl:when>
+          			<xsl:when test="POS='FWD'">
+					<xsl:attribute name="class">colorforward
+					</xsl:attribute> 
+          			</xsl:when>
 				</xsl:choose>
 				<xsl:value-of select="NAME"/>
 			</a>
