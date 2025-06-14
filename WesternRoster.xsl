@@ -109,7 +109,7 @@ a.colorforward	 {color:#FFFFFF;}
 			    	<xsl:otherwise>
 					<xsl:value-of select="POS"/>
 			    	</xsl:otherwise>
-			    </xs;:choose>
+			    </xsl:choose>
 			</center></td>
 			<xsl:variable name="_web" select="WEB"/>
 	                <td class="no">
