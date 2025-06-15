@@ -73,11 +73,12 @@ a.colorforward	 {color:#FFFFFF;}
 
 <table class="noborder">
 	<tr class="noborder">
-		<td class="noborder"><img height=75 width=113 src="Anaheim" border></td>
+		<td class="noborder"><img src="Anaheim" style="width:75px;height:50px"></td>
 		<td class="noborder"><center><b>Anaheim Ducks</b></center></td>
 	</tr>
-	<tr class="noborder"><td class="noborder" text-align: right><b>GM</b>/</center></td>
-		<td class="noborder";text-align: left>TIM</td>
+	<tr class="noborder">
+		<td class="noborder"><b>GM</b>/</td>
+		<td class="noborder"><b>TIM</b></td>
 	</tr>
 </table>
 <table>
