@@ -66,26 +66,25 @@ a.colorforward	 {color:#FFFFFF;}
 <body>
 
 <center>
-
 <b>Western Roster</b>
 </center>
 <p />
 
 <table class="noborder">
-	<tr class="noborder">
-		<td class="noborder"><img src="Anaheim" style="width:75px;height:50px"></td>
-		<td class="noborder"><center><b>Anaheim Ducks</b></center></td>
+	<tr>
+		<td class="no"><img src="Anaheim" style="width:75px;height:50px"></td>
+		<td class="no"><center><b>Anaheim Ducks</b></center></td>
 	</tr>
-	<tr class="noborder">
-		<td class="noborder"><b>GM</b>/</td>
-		<td class="noborder"><b>TIM</b></td>
+	<tr>
+		<td class="no"><b>GM</b>/</td>
+		<td class="no"><b>TIM</b></td>
 	</tr>
 </table>
 <table>
 	<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
 	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
       	<xsl:sort select="NAME" data-type="text" order="ascending"/>
-	<tr>
+	<tr >
 		<xsl:choose>
           	<xsl:when test="TEAM='fa'">
 			<xsl:attribute name="class"> colourfreeagent
