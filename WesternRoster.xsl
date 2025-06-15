@@ -72,7 +72,7 @@ a.colorforward	 {color:#FFFFFF;}
 <table class="noborder">
 	<tr>
 		<td class="no"><img src="Anaheim" style="width:75px;height:50px"/></td>
-		<td class="no";color=#F47A38><center><b>Anaheim Ducks - </b><a href="mailto:timjhamilton@hotmail.com"><b>TIM</b></a></center></td>
+		<td class="no"><center><b>Anaheim Ducks - </b><a href="mailto:timjhamilton@hotmail.com"><b>TIM</b></a></center></td>
 	</tr>
 </table>
 <table>
