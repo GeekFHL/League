@@ -52,7 +52,6 @@ a, a:link, a:visited {
 	font-family: Verdana, sans-serif; 
 	}
 a:hover, a:active {
-	text-decoration: underline;
 	}
 
 a.colorgoalie	 {color:#FF0000;}
