@@ -72,8 +72,13 @@ a.colorforward	 {color:#FFFFFF;}
 <p />
 
 <table class="noborder">
-	<tr><td><center><b>Anaheim Ducks</b></center></td></tr>
-	<tr><td><center><b>GM / TIM</b></center></td></tr>
+	<tr class="noborder">
+		<td class="no"><img height=75 width=113 src="Anaheim" border></td>
+		<td class="noborder"><center><b>Anaheim Ducks</b></center></td>
+	</tr>
+	<tr class="noborder"><td class="noborder" text-align: right><b>GM</b>/</center></td>
+		<td class="noborder";text-align: left>TIM</td>
+	</tr>
 </table>
 <table>
 	<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
