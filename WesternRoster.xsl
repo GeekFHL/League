@@ -45,7 +45,7 @@ td
     tr.colourgoalie    td {color:#FF0000;}
     tr.colourdefman    td {color:#7CFC00;}
     tr.colourfreeagent td {color:#800080;}
-    tr.colourheader    td {color:#FFFF00;font-size: 24px;}
+    tr.colourheader    td {color:#FFFF00;font-size: 18px;}
 
 a, a:link, a:visited {
 	text-decoration: none; 
