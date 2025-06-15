@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
 <title>GFHL - Western Roster</title>
-
+<link rel="stylesheet" type="text/css" href="gfhlmain.css" />
 <style>
 body
 {
