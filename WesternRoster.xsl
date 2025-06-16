@@ -58,6 +58,7 @@ a.colorgoalie	 {color:#FF0000;}
 a.colordefman	 {color:#7CFC00;}
 a.colorfreeagent {color:#800080;}
 a.colorforward	 {color:#FFFFFF;}
+a.Anaheim {color:#CF4520;}
 
 </style>
 </head>
@@ -72,7 +73,9 @@ a.colorforward	 {color:#FFFFFF;}
 <table class="noborder">
 	<tr>
 		<td class="no"><img src="Anaheim" style="width:75px;height:50px"/></td>
-		<td class="no"><center><b>Anaheim Ducks - </b><a href="mailto:timjhamilton@hotmail.com"><b>TIM</b></a></center></td>
+		<td class="no"><center>
+			<xsl:attribute name="class">Anaheim</xsl:attribute>
+			<b>Anaheim Ducks - </b><a href="mailto:timjhamilton@hotmail.com"><b>TIM</b></a></center></td>
 	</tr>
 </table>
 <table>
@@ -81,10 +84,6 @@ a.colorforward	 {color:#FFFFFF;}
       	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 	<tr >
 		<xsl:choose>
-          	<xsl:when test="TEAM='fa'">
-			<xsl:attribute name="class"> colourfreeagent
-			</xsl:attribute> 
-          	</xsl:when>
           	<xsl:when test="POS='GLT'">
 			<xsl:attribute name="class">colourgoalie
 			</xsl:attribute> 
@@ -138,10 +137,6 @@ a.colorforward	 {color:#FFFFFF;}
 		<xsl:otherwise>
 			<a href="{$_web}" target="_blank">
 				<xsl:choose>
-          			<xsl:when test="TEAM='fa'">
-					<xsl:attribute name="class">colorfreeagent
-					</xsl:attribute> 
-          			</xsl:when>
           			<xsl:when test="POS='GLT'">
 					<xsl:attribute name="class">colorgoalie
 					</xsl:attribute> 
