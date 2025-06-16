@@ -435,7 +435,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=252163</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>JIRICEK, ADAM</NAME>
@@ -2094,7 +2094,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238286</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>KEMELL, JOAKIM</NAME>
@@ -2360,7 +2360,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176927</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>LARSSON, JOHAN</NAME>
@@ -3319,7 +3319,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145580</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>FREDERIC, TRENT</NAME>
@@ -3550,7 +3550,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=202503</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>GEEKIE, MORGAN</NAME>
@@ -5685,7 +5685,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120283</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>EDMUNDSON, JOEL</NAME>
@@ -8254,7 +8254,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117317</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>GUSTAFSSON, ERIK</NAME>
@@ -8380,7 +8380,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124022</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>YAMAMOTO, KAILER</NAME>
