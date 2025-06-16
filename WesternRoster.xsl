@@ -39,7 +39,8 @@ td
 
     td.no  {border-width: 0px;
             border-style: ridge; 
-            padding: 3px;}
+            padding: 3px;
+	    width:500px}
 
 
     tr.colourgoalie    td {color:#FF0000;}
@@ -74,7 +75,7 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 <body>
 
 <center>
-<b>Western Roster</b>
+<b>WESTERN ROSTER</b>
 </center>
 <p />
 <table class="noborder">
