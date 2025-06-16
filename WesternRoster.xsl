@@ -74,7 +74,7 @@ a.Anaheim:hover {color:#CF4520;text-decoration:none;}
 
 <table class="noborder">
 	<tr>
-		<td class="no"><img src="Anaheim" style="width:75px;height:50px"/></td>
+		<td class="no"><img src="Anaheim" /></td>
 		<td class="no"><center>
 			<div style='color:#CF4520;'><b>Anaheim Ducks - </b><a class='Anaheim' href="mailto:timjhamilton@hotmail.com"><b>TIM</b></a></div>
 		</center></td>
