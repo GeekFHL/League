@@ -40,7 +40,7 @@ td
     td.no  {border-width: 0px;
             border-style: ridge; 
             padding: 3px;
-	    width:500px}
+	    }
 
 
     tr.colourgoalie    td {color:#FF0000;}
