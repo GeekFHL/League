@@ -63,6 +63,10 @@ a.Anaheim {color:#CF4520;text-decoration:none;}
 a.Anaheim:hover {color:#CF4520;text-decoration:none;}
 a.Calgary {color:#C8102E;text-decoration:none;}
 a.Calgary:hover {color:#C8102E;text-decoration:none;}
+a.Chicago {color:#C8102E;text-decoration:none;}
+a.Chicago:hover {color:#C8102E;text-decoration:none;}
+a.Colorado {color:#236192;text-decoration:none;}
+a.Colorado:hover {color:#236192;text-decoration:none;}
 
 </style>
 </head>
