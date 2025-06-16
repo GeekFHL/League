@@ -253,7 +253,184 @@ a.Calgary:hover {color:#C8102E;text-decoration:none;}
 			</xsl:for-each>
 		</table>
 	</td>
-	
+	<td class="no">
+		<table class="noborder">
+			<tr>
+				<td class="no"><img src="Chicago" /></td>
+				<td class="no"><center>
+				<div style='color:#CF4520;'><b>CHICAGO BLACKHAWKS</b></div><br />
+				<div style='color:#CF4520;'><b>GM - </b><a class='Chicago' href="mailto:jdfitz12@yahoo.com"><b>JOHN</b></a></div>
+				</center></td>
+			</tr>
+		</table>
+		<table>
+			<xsl:for-each select="GFHL/DB/Player[TEAM='CHI']">
+				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+				<tr >
+					<xsl:choose>
+			          	<xsl:when test="POS='GLT'">
+						<xsl:attribute name="class">colourgoalie
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='DEF'">
+						<xsl:attribute name="class">colourdefman
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS!='FWD'">
+						<xsl:attribute name="class">colourheader
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:otherwise>
+			            	</xsl:otherwise>
+					</xsl:choose>
+					<td class="no">
+						<center>
+						<xsl:choose>
+						      <xsl:when test="SLOT = '17'">
+						         <td class="no">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '18'">
+						         <td class="no">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '21'">
+						         <td class="no">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '22'">
+						         <td class="no">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '23'">
+						         <td class="no">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '24'">
+						         <td class="no">RES</td>
+						      </xsl:when>
+						      <xsl:otherwise>
+						          <td class="no"><xsl:value-of select="POS"/></td>
+						      </xsl:otherwise>
+						</xsl:choose>
+			                	</center>
+					</td>
+					<xsl:variable name="_web" select="WEB"/>
+			                <td class="no">
+						<xsl:choose>
+						<xsl:when test="WEB='http://www.hockeydb.com'">
+							<xsl:value-of select="NAME"/>
+						</xsl:when>
+						<xsl:otherwise>
+							<a href="{$_web}" target="_blank">
+							<xsl:choose>
+			          			<xsl:when test="POS='GLT'">
+								<xsl:attribute name="class">colorgoalie
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='DEF'">
+								<xsl:attribute name="class">colordefman
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='FWD'">
+								<xsl:attribute name="class">colorforward
+								</xsl:attribute> 
+			          			</xsl:when>
+							</xsl:choose>
+							<xsl:value-of select="NAME"/>
+							</a>
+			            		</xsl:otherwise>
+						</xsl:choose>
+					</td>
+				</tr>
+			</xsl:for-each>
+		</table>
+	</td>
+	<td class="no">
+		<table class="noborder">
+			<tr>
+				<td class="no"><img src="Colorado" /></td>
+				<td class="no"><center>
+				<div style='color:#C8102E;'><b>COLORADO AVALANCHE</b></div><br />
+				<div style='color:#C8102E;'><b>GM - </b><a class='Colorado' href="mailto:hektormcdonnell@gmail.com"><b>SHANNON</b></a></div>
+				</center></td>
+			</tr>
+		</table>
+		<table>
+			<xsl:for-each select="GFHL/DB/Player[TEAM='COL']">
+				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+				<tr >
+					<xsl:choose>
+			          	<xsl:when test="POS='GLT'">
+						<xsl:attribute name="class">colourgoalie
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='DEF'">
+						<xsl:attribute name="class">colourdefman
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS!='FWD'">
+						<xsl:attribute name="class">colourheader
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:otherwise>
+			            	</xsl:otherwise>
+					</xsl:choose>
+					<td class="no">
+						<center>
+						<xsl:choose>
+						      <xsl:when test="SLOT = '17'">
+						         <td class="no">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '18'">
+						         <td class="no">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '21'">
+						         <td class="no">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '22'">
+						         <td class="no">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '23'">
+						         <td class="no">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '24'">
+						         <td class="no">RES</td>
+						      </xsl:when>
+						      <xsl:otherwise>
+						          <td class="no"><xsl:value-of select="POS"/></td>
+						      </xsl:otherwise>
+						</xsl:choose>
+			                	</center>
+					</td>
+					<xsl:variable name="_web" select="WEB"/>
+			                <td class="no">
+						<xsl:choose>
+						<xsl:when test="WEB='http://www.hockeydb.com'">
+							<xsl:value-of select="NAME"/>
+						</xsl:when>
+						<xsl:otherwise>
+							<a href="{$_web}" target="_blank">
+							<xsl:choose>
+			          			<xsl:when test="POS='GLT'">
+								<xsl:attribute name="class">colorgoalie
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='DEF'">
+								<xsl:attribute name="class">colordefman
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='FWD'">
+								<xsl:attribute name="class">colorforward
+								</xsl:attribute> 
+			          			</xsl:when>
+							</xsl:choose>
+							<xsl:value-of select="NAME"/>
+							</a>
+			            		</xsl:otherwise>
+						</xsl:choose>
+					</td>
+				</tr>
+			</xsl:for-each>
+		</table>
+	</td>
 </tr>
 </table>
 	
