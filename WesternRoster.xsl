@@ -58,7 +58,9 @@ a.colorgoalie	 {color:#FF0000;}
 a.colordefman	 {color:#7CFC00;}
 a.colorfreeagent {color:#800080;}
 a.colorforward	 {color:#FFFFFF;}
-a.Anaheim        {color:#CF4520;}
+
+a.Anaheim {color:#CF4520;text-decoration:none;}
+a.Anaheim:hover {color:#CF4520;text-decoration:none;}
 
 </style>
 </head>
@@ -74,7 +76,7 @@ a.Anaheim        {color:#CF4520;}
 	<tr>
 		<td class="no"><img src="Anaheim" style="width:75px;height:50px"/></td>
 		<td class="no"><center>
-			<b>Anaheim Ducks - </b><a href="mailto:timjhamilton@hotmail.com"><b>TIM</b></a>
+			<div style='color:#CF4520;'><b>Anaheim Ducks - </b><a class='Anaheim' href="mailto:timjhamilton@hotmail.com"><b>TIM</b></a></div>
 		</center></td>
 	</tr>
 </table>
