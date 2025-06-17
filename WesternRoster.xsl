@@ -49,7 +49,7 @@ td
     td.Name  {border-width: 0px;
             border-style: ridge; 
             padding: 3px;
-	    width:350px
+	    width:300px
 	    }
 
 
