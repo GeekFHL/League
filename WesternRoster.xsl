@@ -59,8 +59,16 @@ td
     tr.AnaheimDEF      td {color:#CF4520;}
     tr.AnaheimGLT      td {color:#B9975B;}
     tr.AnaheimFWD      td {color:#FFFFFF;}
-   
-
+    tr.CalgaryDEF      td {color:#C8102E;}
+    tr.CalgaryGLT      td {color:#F1BE48;}
+    tr.CalgaryFWD      td {color:#FFFFFF;}  
+    tr.ChicagoDEF      td {color:#C8102E;}
+    tr.ChicagoGLT      td {color:#CC8A00;}
+    tr.ChicagoFWD      td {color:#FFFFFF;}
+    tr.ColoradoDEF     td {color:#236192;}
+    tr.ColoradoGLT     td {color:#A2AAAD;}
+    tr.ColoradoFWD     td {color:#FFFFFF;}
+	
 a, a:link, a:visited {
 	text-decoration: none; 
 	font-family: Verdana, sans-serif; 
@@ -74,7 +82,15 @@ a.colorforward	 {color:#FFFFFF;}
 a.AnaheimDEF     {color:#CF4520;}
 a.AnaheimGLT     {color:#B9975B;}
 a.AnaheimFWD     {color:#FFFFFF;}
-
+a.CalgaryDEF     {color:#C8102E;}
+a.CalgaryGLT     {color:#F1BE48;}
+a.CalgaryFWD     {color:#FFFFFF;}
+a.ChicagoDEF     {color:#C8102E;}
+a.ChicagoGLT     {color:#CC8A00;}
+a.ChicagoFWD     {color:#FFFFFF;}
+a.ColoradoDEF     {color:#236192;}
+a.ColoradoGLT     {color:#A2AAAD;}
+a.ColoradoFWD     {color:#FFFFFF;}
 
 a.Anaheim {color:#CF4520;text-decoration:none;}
 a.Anaheim:hover {color:#CF4520;text-decoration:none;}
@@ -120,8 +136,8 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 						<xsl:attribute name="class">AnaheimDEF
 						</xsl:attribute> 
 			          	</xsl:when>
-			          	<xsl:when test="POS!='FWD'">
-						<xsl:attribute name="class">colourheader
+			          	<xsl:when test="POS='FWD'">
+						<xsl:attribute name="class">AnaheimFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -202,15 +218,15 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">colourgoalie
+						<xsl:attribute name="class">CalgaryGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">colourdefman
+						<xsl:attribute name="class">CalgaryDEF
 						</xsl:attribute> 
 			          	</xsl:when>
-			          	<xsl:when test="POS!='FWD'">
-						<xsl:attribute name="class">colourheader
+			          	<xsl:when test="POS='FWD'">
+						<xsl:attribute name="class">CalgaryFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -253,15 +269,15 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">colorgoalie
+								<xsl:attribute name="class">CalgaryGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">colordefman
+								<xsl:attribute name="class">CalgaryDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">colorforward
+								<xsl:attribute name="class">CalgaryFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -291,15 +307,15 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">colourgoalie
+						<xsl:attribute name="class">ChicagoGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">colourdefman
+						<xsl:attribute name="class">ChicagoDEF
 						</xsl:attribute> 
 			          	</xsl:when>
-			          	<xsl:when test="POS!='FWD'">
-						<xsl:attribute name="class">colourheader
+			          	<xsl:when test="POS='FWD'">
+						<xsl:attribute name="class">ChicagoFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -342,15 +358,15 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">colorgoalie
+								<xsl:attribute name="class">ChicagoGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">colordefman
+								<xsl:attribute name="class">ChicagoDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">colorforward
+								<xsl:attribute name="class">ChicagoFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -380,15 +396,15 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">colourgoalie
+						<xsl:attribute name="class">Coloradoglt
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">colourdefman
+						<xsl:attribute name="class">Coloradodef
 						</xsl:attribute> 
 			          	</xsl:when>
-			          	<xsl:when test="POS!='FWD'">
-						<xsl:attribute name="class">colourheader
+			          	<xsl:when test="POS='FWD'">
+						<xsl:attribute name="class">ColoradoFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -431,15 +447,15 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">colorgoalie
+								<xsl:attribute name="class">ColoradoGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">colordefman
+								<xsl:attribute name="class">ColoradoDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">colorforward
+								<xsl:attribute name="class">ColoradoFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
