@@ -12,11 +12,11 @@ body
 	background-color:#000000; 
         color:#FFFFFF; 	
         font-family: Verdana, sans-serif;
-        font-size:18px;
+        font-size:16px;
 }
 table 
 {	border-width:2px;	
-        font-size:18px; 	
+        font-size:16px; 	
         border-color:#ffffff; 	
         border-style:ridge;  
         border-collapse:collapse;
@@ -32,7 +32,7 @@ td
 
 /* Tables  */
     table.noborder {border-width: 0px;
-                    font-size: 18px;
+                    font-size: 16px;
                     font-family: Verdana, sans-serif; 
                     border-style: ridge;
                     border-collapse: collapse;} 
@@ -45,7 +45,6 @@ td
     td.Pos  {border-width: 0px;
             border-style: ridge; 
             padding: 3px;
-	    width:50px
 	    }
     td.Name  {border-width: 0px;
             border-style: ridge; 
@@ -57,7 +56,7 @@ td
     tr.colourgoalie    td {color:#FF0000;}
     tr.colourdefman    td {color:#7CFC00;}
     tr.colourfreeagent td {color:#800080;}
-    tr.colourheader    td {color:#FFFF00;font-size: 18px;}
+    tr.colourheader    td {color:#FFFF00;font-size: 16px;}
 
 a, a:link, a:visited {
 	text-decoration: none; 
