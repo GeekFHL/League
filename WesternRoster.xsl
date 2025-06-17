@@ -273,7 +273,7 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Chicago" /></td>
 				<td class="no"><center>
-				<div style='color:#C8102E;'><b>CHICAGO BLACKHAWKS</b></div><br />
+				<div style='color:#C8102E;'><b>CHICAGO<br />BLACKHAWKS</b></div><br />
 				<div style='color:#C8102E;'><b>GM - </b><a class='Chicago' href="mailto:jdfitz12@yahoo.com"><b>JOHN</b></a></div>
 				</center></td>
 			</tr>
@@ -362,7 +362,7 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Colorado" /></td>
 				<td class="no"><center>
-				<div style='color:#236192;'><b>COLORADO AVALANCHE</b></div><br />
+				<div style='color:#236192;'><b>COLORADO<br />AVALANCHE</b></div><br />
 				<div style='color:#236192;'><b>GM - </b><a class='Colorado' href="mailto:hektormcdonnell@gmail.com"><b>SHANNON</b></a></div>
 				</center></td>
 			</tr>
