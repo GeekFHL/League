@@ -32,7 +32,7 @@ td
 
 /* Tables  */
     table.noborder {border-width: 0px;
-                    font-size: 18px;
+                    font-size: 12px;
                     font-family: Verdana, sans-serif; 
                     border-style: ridge;
                     border-collapse: collapse;} 
@@ -40,6 +40,17 @@ td
     td.no  {border-width: 0px;
             border-style: ridge; 
             padding: 3px;
+	    }
+	
+    td.Pos  {border-width: 0px;
+            border-style: ridge; 
+            padding: 3px;
+	    width:85px
+	    }
+    td.Name  {border-width: 0px;
+            border-style: ridge; 
+            padding: 3px;
+	    width:450px
 	    }
 
 
@@ -75,7 +86,7 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 <body>
 
 <center>
-<b>WESTERN ROSTER</b>
+<span style="font-size:18pt;"><b>WESTERN ROSTER</b></span>
 </center>
 <p />
 <table class="noborder">
@@ -111,35 +122,35 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 			          	<xsl:otherwise>
 			            	</xsl:otherwise>
 					</xsl:choose>
-					<td class="no">
+					<td class="Pos">
 						<center>
 						<xsl:choose>
 						      <xsl:when test="SLOT = '17'">
-						         <td class="no">ENF</td>
+						         <td class="Pos">ENF</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '18'">
-						         <td class="no">ENF</td>
+						         <td class="Pos">ENF</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '21'">
-						         <td class="no">RES</td>
+						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '22'">
-						         <td class="no">RES</td>
+						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '23'">
-						         <td class="no">RES</td>
+						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
-						         <td class="no">RES</td>
+						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
-						          <td class="no"><xsl:value-of select="POS"/></td>
+						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
 						</xsl:choose>
 			                	</center>
 					</td>
 					<xsl:variable name="_web" select="WEB"/>
-			                <td class="no">
+			                <td class="Name">
 						<xsl:choose>
 						<xsl:when test="WEB='http://www.hockeydb.com'">
 							<xsl:value-of select="NAME"/>
