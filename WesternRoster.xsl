@@ -12,7 +12,7 @@ body
 	background-color:#000000; 
         color:#FFFFFF; 	
         font-family: Verdana, sans-serif;
-        font-size:24px;
+        font-size:18px;
 }
 table 
 {	border-width:2px;	
@@ -32,7 +32,7 @@ td
 
 /* Tables  */
     table.noborder {border-width: 0px;
-                    font-size: 12px;
+                    font-size: 18px;
                     font-family: Verdana, sans-serif; 
                     border-style: ridge;
                     border-collapse: collapse;} 
@@ -45,12 +45,12 @@ td
     td.Pos  {border-width: 0px;
             border-style: ridge; 
             padding: 3px;
-	    width:85px
+	    width:50px
 	    }
     td.Name  {border-width: 0px;
             border-style: ridge; 
             padding: 3px;
-	    width:450px
+	    width:350px
 	    }
 
 
@@ -86,7 +86,7 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 <body>
 
 <center>
-<span style="font-size:18pt;"><b>WESTERN ROSTER</b></span>
+<span style="font-size:24pt;"><b>WESTERN ROSTER</b></span>
 </center>
 <p />
 <table class="noborder">
