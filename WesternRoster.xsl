@@ -12,11 +12,11 @@ body
 	background-color:#000000; 
         color:#FFFFFF; 	
         font-family: Verdana, sans-serif;
-        font-size:16px;
+        font-size:14px;
 }
 table 
 {	border-width:2px;	
-        font-size:16px; 	
+        font-size:14px; 	
         border-color:#ffffff; 	
         border-style:ridge;  
         border-collapse:collapse;
@@ -32,8 +32,9 @@ td
 
 /* Tables  */
     table.noborder {border-width: 0px;
-                    font-size: 16px;
-                    font-family: Verdana, sans-serif; 
+                    font-size: 14px;
+                    font-family: Verdana, sans-serif;
+	            font-weight:bold;
                     border-style: ridge;
                     border-collapse: collapse;} 
 
@@ -46,16 +47,13 @@ td
             border-style: ridge; 
             padding: 3px;
 	    }
+	
     td.Name  {border-width: 0px;
             border-style: ridge; 
             padding: 3px;
 	    width:325px
 	    }
 
-
-    tr.colourgoalie    td {color:#FF0000;}
-    tr.colourdefman    td {color:#7CFC00;}
-    tr.colourheader    td {color:#FFFF00;font-size: 16px;}
     tr.AnaheimDEF      td {color:#CF4520;}
     tr.AnaheimGLT      td {color:#B9975B;}
     tr.AnaheimFWD      td {color:#FFFFFF;}
@@ -76,21 +74,19 @@ a, a:link, a:visited {
 a:hover, a:active {
 	}
 
-a.colorgoalie	 {color:#FF0000;}
-a.colordefman	 {color:#7CFC00;}
-a.colorforward	 {color:#FFFFFF;}
+a.AnaheimFWD     {color:#FFFFFF;}
 a.AnaheimDEF     {color:#CF4520;}
 a.AnaheimGLT     {color:#B9975B;}
-a.AnaheimFWD     {color:#FFFFFF;}
+a.CalgaryFWD     {color:#FFFFFF;}
 a.CalgaryDEF     {color:#C8102E;}
 a.CalgaryGLT     {color:#F1BE48;}
-a.CalgaryFWD     {color:#FFFFFF;}
+a.ChicagoFWD     {color:#FFFFFF;}
 a.ChicagoDEF     {color:#C8102E;}
 a.ChicagoGLT     {color:#CC8A00;}
-a.ChicagoFWD     {color:#FFFFFF;}
-a.ColoradoDEF     {color:#236192;}
-a.ColoradoGLT     {color:#A2AAAD;}
-a.ColoradoFWD     {color:#FFFFFF;}
+a.ColoradoFWD    {color:#FFFFFF;}
+a.ColoradoDEF    {color:#236192;}
+a.ColoradoGLT    {color:#A2AAAD;}
+
 
 a.Anaheim {color:#CF4520;text-decoration:none;}
 a.Anaheim:hover {color:#CF4520;text-decoration:none;}
