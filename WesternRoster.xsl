@@ -55,8 +55,11 @@ td
 
     tr.colourgoalie    td {color:#FF0000;}
     tr.colourdefman    td {color:#7CFC00;}
-    tr.colourfreeagent td {color:#800080;}
     tr.colourheader    td {color:#FFFF00;font-size: 16px;}
+    tr.AnaheimDEF      td {color:#CF4520;}
+    tr.AnaheimGLT      td {color:#B9975B;}
+    tr.AnaheimFWD      td {color:#FFFFFF;}
+   
 
 a, a:link, a:visited {
 	text-decoration: none; 
@@ -67,8 +70,11 @@ a:hover, a:active {
 
 a.colorgoalie	 {color:#FF0000;}
 a.colordefman	 {color:#7CFC00;}
-a.colorfreeagent {color:#800080;}
 a.colorforward	 {color:#FFFFFF;}
+a.AnaheimDEF     {color:#CF4520;}
+a.AnaheimGLT     {color:#B9975B;}
+a.AnaheimFWD     {color:#FFFFFF;}
+
 
 a.Anaheim {color:#CF4520;text-decoration:none;}
 a.Anaheim:hover {color:#CF4520;text-decoration:none;}
@@ -107,11 +113,11 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">colourgoalie
+						<xsl:attribute name="class">AnaheimGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">colourdefman
+						<xsl:attribute name="class">AnaheimDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS!='FWD'">
@@ -158,15 +164,15 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">colorgoalie
+								<xsl:attribute name="class">AnaheimGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">colordefman
+								<xsl:attribute name="class">AnaheimDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">colorforward
+								<xsl:attribute name="class">AnaheimFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
