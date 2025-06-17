@@ -396,11 +396,11 @@ a.Colorado:hover {color:#236192;text-decoration:none;}
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">Coloradoglt
+						<xsl:attribute name="class">ColoradoGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">Coloradodef
+						<xsl:attribute name="class">ColoradoDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
