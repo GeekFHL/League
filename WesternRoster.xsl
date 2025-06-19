@@ -54,18 +54,54 @@ td
 	    width:325px
 	    }
 
+    tr.AnaheimFWD      td {color:#FFFFFF;}
     tr.AnaheimDEF      td {color:#CF4520;}
     tr.AnaheimGLT      td {color:#B9975B;}
-    tr.AnaheimFWD      td {color:#FFFFFF;}
+    tr.CalgaryFWD      td {color:#FFFFFF;}  
     tr.CalgaryDEF      td {color:#C8102E;}
     tr.CalgaryGLT      td {color:#F1BE48;}
-    tr.CalgaryFWD      td {color:#FFFFFF;}  
+    tr.ChicagoFWD      td {color:#FFFFFF;}
     tr.ChicagoDEF      td {color:#C8102E;}
     tr.ChicagoGLT      td {color:#CC8A00;}
-    tr.ChicagoFWD      td {color:#FFFFFF;}
+    tr.ColoradoFWD     td {color:#FFFFFF;}
     tr.ColoradoDEF     td {color:#236192;}
     tr.ColoradoGLT     td {color:#A2AAAD;}
-    tr.ColoradoFWD     td {color:#FFFFFF;}
+    tr.DallasFWD       td {color:#FFFFFF;}
+    tr.DallasDEF       td {color:#00843D;}
+    tr.DallasGLT       td {color:#A2AAAD;}
+    tr.EdmontonFWD     td {color:#FFFFFF;}
+    tr.EdmontonDEF     td {color:#00205B;}
+    tr.EdmontonGLT     td {color:#CF4520;}
+    tr.LosAngelesFWD   td {color:#FFFFFF;}
+    tr.LosAngelesDEF   td {color:#A2AAAD;}
+    tr.LosAngelesGLT   td {color:#868787;}
+    tr.MinnesotaFWD    td {color:#FFFFFF;}
+    tr.MinnesotaDEF    td {color:#154734;}
+    tr.MinnesotaGLT    td {color:#EAAA00;}
+    tr.NashvilleFWD    td {color:#FFFFFF;}
+    tr.NashvilleDEF    td {color:#041E42;}
+    tr.NashvilleGLT    td {color:#FFB81C;}
+    tr.StLouisFWD      td {color:#FFFFFF;}
+    tr.StLouisDEF      td {color:#003087;}
+    tr.StLouisGLT      td {color:#FFB81C;}
+    tr.SanJoseFWD      td {color:#FFFFFF;}  
+    tr.SanJoseDEF      td {color:#006271;}
+    tr.SanJoseGLT      td {color:#F1BE48;}
+    tr.SeattleFWD      td {color:#FFFFFF;}
+    tr.SeattleDEF      td {color:#6BA4B8;}
+    tr.SeattleGLT      td {color:#E57200;}
+    tr.UtahFWD         td {color:#FFFFFF;}
+    tr.UtahDEF         td {color:#69B3E7;}
+    	tr.UtahGLT         td {color:#010101;}
+    tr.VancouverFWD    td {color:#FFFFFF;}
+    tr.VancouverDEF    td {color:#00205B;}
+    tr.VancouverGLT    td {color:#00205B;}
+    tr.VegasFWD        td {color:#FFFFFF;}
+    tr.VegasDEF        td {color:#333F48;}
+    tr.VegasGLT        td {color:#B9975B;}
+    tr.WinnipegFWD     td {color:#FFFFFF;}
+    tr.WinnipegDEF     td {color:#004C97;}
+    tr.WinnipegGLT     td {color:#A2AAAD;}
 	
 a, a:link, a:visited {
 	text-decoration: none; 
@@ -86,7 +122,47 @@ a.ChicagoGLT     {color:#CC8A00;}
 a.ColoradoFWD    {color:#FFFFFF;}
 a.ColoradoDEF    {color:#236192;}
 a.ColoradoGLT    {color:#A2AAAD;}
+a.DallasFWD      {color:#FFFFFF;}
+a.DallasDEF      {color:#00843D;}
+a.DallasGLT      {color:#A2AAAD;}
+a.EdmontonFWD    {color:#FFFFFF;}
+a.EdmontonDEF    {color:#00205B;}
+a.EdmontonGLT    {color:#CF4520;}
+a.LosAngelesFWD  {color:#FFFFFF;}
+a.LosAngelesDEF  {color:#A2AAAD;}
+a.LosAngelesGLT  {color:#868787;}
+a.MinnesotaFWD  {color:#FFFFFF;}
+a.MinnesotaDEF  {color:#154734;}
+a.MinnesotaGLT  {color:#EAAA00;}
+a.NashvilleFWD  {color:#FFFFFF;}
+a.NashvilleDEF  {color:#041E42;}
+a.NashvilleGLT  {color:#FFB81C;}
+a.NashvilleFWD  {color:#FFFFFF;}
+a.NashvilleDEF  {color:#041E42;}
+a.NashvilleGLT  {color:#FFB81C;}
+a.StLouisFWD    {color:#FFFFFF;}
+a.StLouisDEF    {color:#003087;}
+a.StLouisGLT    {color:#FFB81C;}
+a.SanJoseFWD    {color:#FFFFFF;}  
+a.SanJoseDEF    {color:#006271;}
+a.SanJoseGLT    {color:#F1BE48;}
+a.SeattleFWD    {color:#FFFFFF;}
+a.SeattleDEF    {color:#6BA4B8;}
+a.SeattleGLT    {color:#E57200;}
+a.UtahFWD       {color:#FFFFFF;}
+a.UtahDEF       {color:#69B3E7;}
+    	a.UtahGLT         {color:#010101;}
+a.VancouverFWD  {color:#FFFFFF;}
+a.VancouverDEF  {color:#00205B;}
+a.VancouverGLT  {color:#00205B;}
+a.VegasFWD      {color:#FFFFFF;}
+a.VegasDEF      {color:#333F48;}
+a.VegasGLT      {color:#B9975B;}
+a.WinnipegFWD   {color:#FFFFFF;}
+a.WinnipegDEF   {color:#004C97;}
+a.WinnipegGLT   {color:#A2AAAD;}
 
+	
 
 a.Anaheim {color:#CF4520;text-decoration:none;}
 a.Anaheim:hover {color:#CF4520;text-decoration:none;}
@@ -96,6 +172,30 @@ a.Chicago {color:#C8102E;text-decoration:none;}
 a.Chicago:hover {color:#C8102E;text-decoration:none;}
 a.Colorado {color:#236192;text-decoration:none;}
 a.Colorado:hover {color:#236192;text-decoration:none;}
+a.Dallas {color:#00843D;text-decoration:none;}
+a.Dallas:hover {color:#00843D;text-decoration:none;}
+a.Edmonton {color:#00205B;text-decoration:none;}
+a.Edmonton:hover {color:#00205B;text-decoration:none;}
+a.LosAngeles {color:#A2AAAD;text-decoration:none;}
+a.LosAngeles:hover {color:#A2AAAD;text-decoration:none;}
+a.Minnesota {color:#154734;text-decoration:none;}
+a.Minnesota:hover {color:#154734;text-decoration:none;}
+a.Nashville {color:#FFB81C;text-decoration:none;}
+a.Nashville:hover {color:#FFB81C;text-decoration:none;}
+a.StLouis {color:#003087;text-decoration:none;}
+a.StLouis:hover {color:#003087;text-decoration:none;}
+a.SanJose {color:#006271;text-decoration:none;}
+a.SanJose:hover {color:#006271;text-decoration:none;}
+a.Seattle {color:#9CDBD9;text-decoration:none;}
+a.Seattle:hover {color:#9CDBD9;text-decoration:none;}
+a.Utah {color:#69B3E7;text-decoration:none;}
+a.Utah:hover {color:#69B3E7;text-decoration:none;}
+a.Vancouver {color:#00205B;text-decoration:none;}
+a.Vancouver:hover {color:#00205B;text-decoration:none;}
+a.Vegas {color:#B9975B;text-decoration:none;}
+a.Vegas:hover {color:#B9975B;text-decoration:none;}
+a.Winnipeg {color:#004C97;text-decoration:none;}
+a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 
 </style>
 </head>
