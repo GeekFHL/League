@@ -1473,7 +1473,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='VEG']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='VGK']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
