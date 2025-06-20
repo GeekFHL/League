@@ -294,6 +294,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 									</xsl:attribute> 
 				          			</xsl:when>
 								</xsl:choose>
+								<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
 								</xsl:when>
