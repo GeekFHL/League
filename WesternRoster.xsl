@@ -1197,7 +1197,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="StLouis" /></td>
 				<td class="no"><center>
-				<div style='color:#003087v;'><b>ST LOUIS BLUES</b></div><br />
+				<div style='color:#003087;'><b>ST LOUIS BLUES</b></div><br />
 				<div style='color:#003087;'><b>GM - </b><a class='StLouis' href="mailto:cultsuperhero@gmail.com"><b>MIKE</b></a></div>
 				</center></td>
 			</tr>
