@@ -924,6 +924,366 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	</td>
 </tr>
 
+<tr>
+	<td class="no">
+		<table class="noborder">
+			<tr>
+				<td class="no"><img src="Nashville" /></td>
+				<td class="no"><center>
+				<div style='color:#00843D;'><b>NASHVILLE PREDATORS</b></div><br />
+				<div style='color:#00843D;'><b>GM - </b><a class='Nashville' href="mailto:bharwood84@hotmail.com"><b>BRETT</b></a></div>
+				</center></td>
+			</tr>
+		</table>
+		<table>
+			<xsl:for-each select="GFHL/DB/Player[TEAM='NSH']">
+				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+				<tr >
+					<xsl:choose>
+			          	<xsl:when test="POS='GLT'">
+						<xsl:attribute name="class">NashvilleGLT
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='DEF'">
+						<xsl:attribute name="class">NashvilleDEF
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='FWD'">
+						<xsl:attribute name="class">NashvilleFWD
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:otherwise>
+			            	</xsl:otherwise>
+					</xsl:choose>
+					<td class="Pos">
+						<center>
+						<xsl:choose>
+						      <xsl:when test="SLOT = '17'">
+						         <td class="Pos">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '18'">
+						         <td class="Pos">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '21'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '22'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '23'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:otherwise>
+						          <td class="Pos"><xsl:value-of select="POS"/></td>
+						      </xsl:otherwise>
+						</xsl:choose>
+			                	</center>
+					</td>
+					<xsl:variable name="_web" select="WEB"/>
+			                <td class="Name">
+						<xsl:choose>
+						<xsl:when test="WEB='http://www.hockeydb.com'">
+							<xsl:value-of select="NAME"/>
+						</xsl:when>
+						<xsl:otherwise>
+							<a href="{$_web}" target="_blank">
+							<xsl:choose>
+			          			<xsl:when test="POS='GLT'">
+								<xsl:attribute name="class">NashvilleGLT
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='DEF'">
+								<xsl:attribute name="class">NashvilleDEF
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='FWD'">
+								<xsl:attribute name="class">NashvilleFWD
+								</xsl:attribute> 
+			          			</xsl:when>
+							</xsl:choose>
+							<xsl:value-of select="NAME"/>
+							</a>
+			            		</xsl:otherwise>
+						</xsl:choose>
+					</td>
+				</tr>
+			</xsl:for-each>
+		</table>
+	</td>
+	<td class="no">
+		<table class="noborder">
+			<tr>
+				<td class="no"><img src="SanJose" /></td>
+				<td class="no"><center>
+				<div style='color:#00205B;'><b>SAN JOSE SHARKS</b></div><br />
+				<div style='color:#00205B;'><b>GM - </b><a class='SanJose' href="mailto:bealls77corvette@gmail.com"><b>PHIL</b></a></div>
+				</center></td>
+			</tr>
+		</table>
+		<table>
+			<xsl:for-each select="GFHL/DB/Player[TEAM='SJ']">
+				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+				<tr >
+					<xsl:choose>
+			          	<xsl:when test="POS='GLT'">
+						<xsl:attribute name="class">SanJoseGLT
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='DEF'">
+						<xsl:attribute name="class">SanJoseDEF
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='FWD'">
+						<xsl:attribute name="class">SanJoseFWD
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:otherwise>
+			            	</xsl:otherwise>
+					</xsl:choose>
+					<td class="Pos">
+						<center>
+						<xsl:choose>
+						      <xsl:when test="SLOT = '17'">
+						         <td class="Pos">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '18'">
+						         <td class="Pos">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '21'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '22'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '23'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:otherwise>
+						          <td class="Pos"><xsl:value-of select="POS"/></td>
+						      </xsl:otherwise>
+						</xsl:choose>
+			                	</center>
+					</td>
+					<xsl:variable name="_web" select="WEB"/>
+			                <td class="Name">
+						<xsl:choose>
+						<xsl:when test="WEB='http://www.hockeydb.com'">
+							<xsl:value-of select="NAME"/>
+						</xsl:when>
+						<xsl:otherwise>
+							<a href="{$_web}" target="_blank">
+							<xsl:choose>
+			          			<xsl:when test="POS='GLT'">
+								<xsl:attribute name="class">SanJoseGLT
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='DEF'">
+								<xsl:attribute name="class">SanJoseDEF
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='FWD'">
+								<xsl:attribute name="class">SanJoseFWD
+								</xsl:attribute> 
+			          			</xsl:when>
+							</xsl:choose>
+							<xsl:value-of select="NAME"/>
+							</a>
+			            		</xsl:otherwise>
+						</xsl:choose>
+					</td>
+				</tr>
+			</xsl:for-each>
+		</table>
+	</td>
+	<td class="no">
+		<table class="noborder">
+			<tr>
+				<td class="no"><img src="Seattle" /></td>
+				<td class="no"><center>
+				<div style='color:#A2AAAD;'><b>SEATTLE KRAKEN</b></div><br />
+				<div style='color:#A2AAAD;'><b>GM - </b><a class='Seattle' href="mailto:nspaeth@hotmail.com"><b>NEIL</b></a></div>
+				</center></td>
+			</tr>
+		</table>
+		<table>
+			<xsl:for-each select="GFHL/DB/Player[TEAM='SEA']">
+				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+				<tr >
+					<xsl:choose>
+			          	<xsl:when test="POS='GLT'">
+						<xsl:attribute name="class">SeattleGLT
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='DEF'">
+						<xsl:attribute name="class">SeattleDEF
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='FWD'">
+						<xsl:attribute name="class">SeattleFWD
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:otherwise>
+			            	</xsl:otherwise>
+					</xsl:choose>
+					<td class="Pos">
+						<center>
+						<xsl:choose>
+						      <xsl:when test="SLOT = '17'">
+						         <td class="Pos">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '18'">
+						         <td class="Pos">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '21'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '22'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '23'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:otherwise>
+						          <td class="Pos"><xsl:value-of select="POS"/></td>
+						      </xsl:otherwise>
+						</xsl:choose>
+			                	</center>
+					</td>
+					<xsl:variable name="_web" select="WEB"/>
+			                <td class="Name">
+						<xsl:choose>
+						<xsl:when test="WEB='http://www.hockeydb.com'">
+							<xsl:value-of select="NAME"/>
+						</xsl:when>
+						<xsl:otherwise>
+							<a href="{$_web}" target="_blank">
+							<xsl:choose>
+			          			<xsl:when test="POS='GLT'">
+								<xsl:attribute name="class">SeattleGLT
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='DEF'">
+								<xsl:attribute name="class">SeattleDEF
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='FWD'">
+								<xsl:attribute name="class">SeattleFWD
+								</xsl:attribute> 
+			          			</xsl:when>
+							</xsl:choose>
+							<xsl:value-of select="NAME"/>
+							</a>
+			            		</xsl:otherwise>
+						</xsl:choose>
+					</td>
+				</tr>
+			</xsl:for-each>
+		</table>
+	</td>
+	<td class="no">
+		<table class="noborder">
+			<tr>
+				<td class="no"><img src="StLouis" /></td>
+				<td class="no"><center>
+				<div style='color:#154734;'><b>ST LOUIS BLUES</b></div><br />
+				<div style='color:#154734;'><b>GM - </b><a class='StLouis' href="mailto:cultsuperhero@gmail.com"><b>MIKE</b></a></div>
+				</center></td>
+			</tr>
+		</table>
+		<table>
+			<xsl:for-each select="GFHL/DB/Player[TEAM='STL']">
+				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+				<tr >
+					<xsl:choose>
+			          	<xsl:when test="POS='GLT'">
+						<xsl:attribute name="class">StLouisGLT
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='DEF'">
+						<xsl:attribute name="class">StLouisDEF
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='FWD'">
+						<xsl:attribute name="class">StLouisFWD
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:otherwise>
+			            	</xsl:otherwise>
+					</xsl:choose>
+					<td class="Pos">
+						<center>
+						<xsl:choose>
+						      <xsl:when test="SLOT = '17'">
+						         <td class="Pos">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '18'">
+						         <td class="Pos">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '21'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '22'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '23'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:otherwise>
+						          <td class="Pos"><xsl:value-of select="POS"/></td>
+						      </xsl:otherwise>
+						</xsl:choose>
+			                	</center>
+					</td>
+					<xsl:variable name="_web" select="WEB"/>
+			                <td class="Name">
+						<xsl:choose>
+						<xsl:when test="WEB='http://www.hockeydb.com'">
+							<xsl:value-of select="NAME"/>
+						</xsl:when>
+						<xsl:otherwise>
+							<a href="{$_web}" target="_blank">
+							<xsl:choose>
+			          			<xsl:when test="POS='GLT'">
+								<xsl:attribute name="class">StLouisGLT
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='DEF'">
+								<xsl:attribute name="class">StLouisDEF
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='FWD'">
+								<xsl:attribute name="class">StLouisFWD
+								</xsl:attribute> 
+			          			</xsl:when>
+							</xsl:choose>
+							<xsl:value-of select="NAME"/>
+							</a>
+			            		</xsl:otherwise>
+						</xsl:choose>
+					</td>
+				</tr>
+			</xsl:for-each>
+		</table>
+	</td>
+</tr>
+
+
 </table>
 	
 </body>
