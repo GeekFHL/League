@@ -1023,7 +1023,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><center>
 				<div style='color:#006271;'><b>SAN JOSE SHARKS</b></div><br />
 				<div style='color:#006271;'><b>GM - </b><a class='SanJose' href="mailto:bealls77corvette@gmail.com"><b>PHIL</b></a></div><br />
-				
+				<div style='color:#006271;'><b>HC: MIKE RICCI​</b></div>
 				</center></td>
 			</tr>
 		</table>
