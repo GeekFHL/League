@@ -572,7 +572,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Dallas" /></td>
 				<td class="no"><center>
 				<div style='color:#00843D;'><b>DALLAS STARS</b></div><br />
-				<div style='color:#00843D;'><b>GM - </b><a class='Anaheim' href="mailto:simonyu84@gmail.com"><b>SIMON</b></a></div>
+				<div style='color:#00843D;'><b>GM - </b><a class='Dallas' href="mailto:simonyu84@gmail.com"><b>SIMON</b></a></div>
 				</center></td>
 			</tr>
 		</table>
@@ -660,8 +660,8 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Edmonton" /></td>
 				<td class="no"><center>
-				<div style='color:#CF4520;'><b>EDMONTON OILERD</b></div><br />
-				<div style='color:#CF4520;'><b>GM - </b><a class='Edmonton' href="mailto:mjohns05@outlook.com"><b>MIKEY</b></a></div>
+				<div style='color:#00205B;'><b>EDMONTON OILERS</b></div><br />
+				<div style='color:#00205B;'><b>GM - </b><a class='Edmonton' href="mailto:mjohns05@outlook.com"><b>MIKEY</b></a></div>
 				</center></td>
 			</tr>
 		</table>
@@ -838,8 +838,8 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Minnesota" /></td>
 				<td class="no"><center>
-				<div style='color:#236192;'><b>MINNESOTA WILD</b></div><br />
-				<div style='color:#236192;'><b>GM - </b><a class='Minnesota' href="mailto:leduc_paul@hotmail.com"><b>PAUL</b></a></div>
+				<div style='color:#154734;'><b>MINNESOTA WILD</b></div><br />
+				<div style='color:#154734;'><b>GM - </b><a class='Minnesota' href="mailto:leduc_paul@hotmail.com"><b>PAUL</b></a></div>
 				</center></td>
 			</tr>
 		</table>
