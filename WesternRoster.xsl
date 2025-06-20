@@ -42,6 +42,12 @@ td
             border-style: ridge; 
             padding: 3px;
 	    }
+
+    td.TeamName  {border-width: 0px;
+            border-style: ridge; 
+            padding: 3px;
+	    width: 260px;
+	    }
 	
     td.Pos  {border-width: 0px;
             border-style: ridge; 
@@ -212,7 +218,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 		<table class="noborder">
 			<tr>
 				<td class="no"><img src="Anaheim" /></td>
-				<td class="no"><center>
+				<td class="TeamName"><center>
 				<div style='color:#CF4520;'><b>ANAHEIM DUCKS</b></div><br />
 				<div style='color:#CF4520;'><b>GM - </b><a class='Anaheim' href="mailto:timjhamilton@hotmail.com"><b>TIM</b></a></div>
 				</center></td>
