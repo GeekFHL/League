@@ -296,13 +296,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 								</xsl:choose>
 								<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -398,13 +398,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -500,13 +500,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -602,13 +602,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -706,13 +706,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -808,13 +808,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -910,13 +910,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -1013,13 +1013,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -1119,13 +1119,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -1222,13 +1222,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -1324,13 +1324,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -1426,13 +1426,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -1532,13 +1532,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -1634,13 +1634,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -1736,13 +1736,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
@@ -1838,13 +1838,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							</xsl:choose>
 							<xsl:choose>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
 								</xsl:when>
 								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
 									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
 								</xsl:when>
 								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+									<xsl:value-of select="NAME"/> *****
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of select="NAME"/>
