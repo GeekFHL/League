@@ -930,8 +930,8 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Nashville" /></td>
 				<td class="no"><center>
-				<div style='color:#00843D;'><b>NASHVILLE PREDATORS</b></div><br />
-				<div style='color:#00843D;'><b>GM - </b><a class='Nashville' href="mailto:bharwood84@hotmail.com"><b>BRETT</b></a></div>
+				<div style='color:#FFB81C;'><b>NASHVILLE PREDATORS</b></div><br />
+				<div style='color:#FFB81C;'><b>GM - </b><a class='Nashville' href="mailto:bharwood84@hotmail.com"><b>BRETT</b></a></div>
 				</center></td>
 			</tr>
 		</table>
@@ -1019,8 +1019,8 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="SanJose" /></td>
 				<td class="no"><center>
-				<div style='color:#00205B;'><b>SAN JOSE SHARKS</b></div><br />
-				<div style='color:#00205B;'><b>GM - </b><a class='SanJose' href="mailto:bealls77corvette@gmail.com"><b>PHIL</b></a></div>
+				<div style='color:#006271;'><b>SAN JOSE SHARKS</b></div><br />
+				<div style='color:#006271;'><b>GM - </b><a class='SanJose' href="mailto:bealls77corvette@gmail.com"><b>PHIL</b></a></div>
 				</center></td>
 			</tr>
 		</table>
@@ -1108,8 +1108,8 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Seattle" /></td>
 				<td class="no"><center>
-				<div style='color:#A2AAAD;'><b>SEATTLE KRAKEN</b></div><br />
-				<div style='color:#A2AAAD;'><b>GM - </b><a class='Seattle' href="mailto:nspaeth@hotmail.com"><b>NEIL</b></a></div>
+				<div style='color:#9CDBD9;'><b>SEATTLE KRAKEN</b></div><br />
+				<div style='color:#9CDBD9;'><b>GM - </b><a class='Seattle' href="mailto:nspaeth@hotmail.com"><b>NEIL</b></a></div>
 				</center></td>
 			</tr>
 		</table>
@@ -1197,8 +1197,8 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="StLouis" /></td>
 				<td class="no"><center>
-				<div style='color:#154734;'><b>ST LOUIS BLUES</b></div><br />
-				<div style='color:#154734;'><b>GM - </b><a class='StLouis' href="mailto:cultsuperhero@gmail.com"><b>MIKE</b></a></div>
+				<div style='color:#003087v;'><b>ST LOUIS BLUES</b></div><br />
+				<div style='color:#003087;'><b>GM - </b><a class='StLouis' href="mailto:cultsuperhero@gmail.com"><b>MIKE</b></a></div>
 				</center></td>
 			</tr>
 		</table>
