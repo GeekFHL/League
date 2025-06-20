@@ -280,21 +280,33 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 						</xsl:when>
 						<xsl:otherwise>
 							<a href="{$_web}" target="_blank">
-							<xsl:choose>
-			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">AnaheimGLT
-								</xsl:attribute> 
-			          			</xsl:when>
-			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">AnaheimDEF
-								</xsl:attribute> 
-			          			</xsl:when>
-			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">AnaheimFWD
-								</xsl:attribute> 
-			          			</xsl:when>
-							</xsl:choose>
-							<xsl:value-of select="NAME"/>
+								<xsl:choose>
+				          			<xsl:when test="POS='GLT'">
+									<xsl:attribute name="class">AnaheimGLT
+									</xsl:attribute> 
+				          			</xsl:when>
+				          			<xsl:when test="POS='DEF'">
+									<xsl:attribute name="class">AnaheimDEF
+									</xsl:attribute> 
+				          			</xsl:when>
+				          			<xsl:when test="POS='FWD'">
+									<xsl:attribute name="class">AnaheimFWD
+									</xsl:attribute> 
+				          			</xsl:when>
+								</xsl:choose>
+								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> <xsl:value-of select="UNPROTECTED"/>
+								</xsl:when>
+								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
+								</xsl:when>
+								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
+									<xsl:value-of select="NAME"/> <xsl:value-of select="UNPROTECTED"/>
+								</xsl:when>
+								<xsl:otherwise>
+									<xsl:value-of select="NAME"/>
+								</xsl:otherwise>
+								</xsl:choose>
 							</a>
 			            		</xsl:otherwise>
 						</xsl:choose>
