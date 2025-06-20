@@ -839,7 +839,8 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Minnesota" /></td>
 				<td class="no"><center>
 				<div style='color:#154734;'><b>MINNESOTA WILD</b></div><br />
-				<div style='color:#154734;'><b>GM - </b><a class='Minnesota' href="mailto:leduc_paul@hotmail.com"><b>PAUL</b></a></div>
+				<div style='color:#154734;'><b>GM - </b><a class='Minnesota' href="mailto:leduc_paul@hotmail.com"><b>PAUL</b></a></div><br />
+				<div style='color:#154734;'><b>HC: MARIAN GABORIK​</b></div>
 				</center></td>
 			</tr>
 		</table>
@@ -931,7 +932,8 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Nashville" /></td>
 				<td class="no"><center>
 				<div style='color:#FFB81C;'><b>NASHVILLE PREDATORS</b></div><br />
-				<div style='color:#FFB81C;'><b>GM - </b><a class='Nashville' href="mailto:bharwood84@hotmail.com"><b>BRETT</b></a></div>
+				<div style='color:#FFB81C;'><b>GM - </b><a class='Nashville' href="mailto:bharwood84@hotmail.com"><b>BRETT</b></a></div><br />
+				<div style='color:#FFB81C;'><b>HC: MIKE FISHER</b></div>
 				</center></td>
 			</tr>
 		</table>
@@ -1020,7 +1022,8 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="SanJose" /></td>
 				<td class="no"><center>
 				<div style='color:#006271;'><b>SAN JOSE SHARKS</b></div><br />
-				<div style='color:#006271;'><b>GM - </b><a class='SanJose' href="mailto:bealls77corvette@gmail.com"><b>PHIL</b></a></div>
+				<div style='color:#006271;'><b>GM - </b><a class='SanJose' href="mailto:bealls77corvette@gmail.com"><b>PHIL</b></a></div><br/>
+				<div style='color:#006271;'><b>HC: MIKE RICCI​/b></div>
 				</center></td>
 			</tr>
 		</table>
@@ -1290,7 +1293,8 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Utah" /></td>
 				<td class="no"><center>
 				<div style='color:#69B3E7;'><b>UTAH MAMMOTH</b></div><br />
-				<div style='color:#69B3E7;'><b>GM - </b><a class='Utah' href="mailto:gbunn19@gmail.com"><b>GARY</b></a></div>
+				<div style='color:#69B3E7;'><b>GM - </b><a class='Utah' href="mailto:gbunn19@gmail.com"><b>GARY</b></a></div><br />
+				<div style='color:#69B3E7;'><b>HC: JEREMY ROENICK​</b></div>
 				</center></td>
 			</tr>
 		</table>
