@@ -92,7 +92,7 @@ td
     tr.SeattleGLT      td {color:#E57200;}
     tr.UtahFWD         td {color:#FFFFFF;}
     tr.UtahDEF         td {color:#69B3E7;}
-    	tr.UtahGLT         td {color:#010101;}
+    	tr.UtahGLT         td {color:#69B3E7;}
     tr.VancouverFWD    td {color:#FFFFFF;}
     tr.VancouverDEF    td {color:#00205B;}
     tr.VancouverGLT    td {color:#00205B;}
@@ -151,7 +151,7 @@ a.SeattleDEF    {color:#6BA4B8;}
 a.SeattleGLT    {color:#E57200;}
 a.UtahFWD       {color:#FFFFFF;}
 a.UtahDEF       {color:#69B3E7;}
-    	a.UtahGLT         {color:#010101;}
+    	a.UtahGLT         {color:#69B3E7;}
 a.VancouverFWD  {color:#FFFFFF;}
 a.VancouverDEF  {color:#00205B;}
 a.VancouverGLT  {color:#00205B;}
