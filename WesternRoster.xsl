@@ -833,9 +833,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="LosAngeles" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#A2AAAD;'><b>LOS ANGELES KINGS</b></div><br />
-				<div style='color:#A2AAAD;'><b>GM - </b><a class='LosAngeles' href="mailto:tblain1@gmail.com"><b>TOM</b></a></div><br />
-				<div style='color:#A2AAAD;'><b>&#160;</b></div><br />	
+					<table class="noborder">
+						<tr><td class="no">
+				<div style='color:#A2AAAD;'><b>LOS ANGELES KINGS</b></div>
+						</td></tr>
+						<tr><td class="no">
+				<div style='color:#A2AAAD;'><b>GM - </b><a class='LosAngeles' href="mailto:tblain1@gmail.com"><b>TOM</b></a></div>
+						</td></tr>
+						<tr><td class="no">
+				<div style='color:#A2AAAD;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -936,9 +944,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Minnesota" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#154734;'><b>MINNESOTA WILD</b></div><br />
-				<div style='color:#154734;'><b>GM - </b><a class='Minnesota' href="mailto:leduc_paul@hotmail.com"><b>PAUL</b></a></div><br />
-				<div style='color:#154734;'><b>HC: MARIAN GABORIK​</b></div>
+					<table class="noborder">
+						<tr><td class="no">
+							<div style='color:#154734;'><b>MINNESOTA WILD</b></div>
+						</td></tr>
+						<tr><td class="no">
+							<div style='color:#154734;'><b>GM - </b><a class='Minnesota' href="mailto:leduc_paul@hotmail.com"><b>PAUL</b></a></div>
+						</td></tr>
+						<tr><td class="no">
+							<div style='color:#154734;'><b>HC: MARIAN GABORIK​</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
