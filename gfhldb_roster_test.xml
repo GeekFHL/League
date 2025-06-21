@@ -7035,7 +7035,7 @@
 		<Player>
 			<NAME>OVECHKIN, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=63735</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -7737,7 +7737,7 @@
 		<Player>
 			<NAME>FORSBERG, FILIP</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=142620</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -7746,7 +7746,7 @@
 		<Player>
 			<NAME>HUBERDEAU, JONATHAN</NAME>
 			<CAPTAIN>A</CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122625</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -7755,7 +7755,7 @@
 		<Player>
 			<NAME>STONE, MARK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116184</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
