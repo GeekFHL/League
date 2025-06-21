@@ -347,13 +347,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoCGY">
-							<b>CALGARY FLAMES</b>
+							CALGARY FLAMES
 						</td></tr>
 						<tr><td class="TeamInfoCGY">
-							<b>GM - </b><a class='Calgary' href="mailto:jachan87@gmail.com"><b>JASON</b></a>
+							GM - <a class='Calgary' href="mailto:jachan87@gmail.com">JASON</a>
 						</td></tr>
 						<tr><td class="TeamInfoCGY">
-							<b>&#160;</b>
+							&#160;
 						</td></tr>
 					</table>
 				</center></td>
@@ -458,13 +458,13 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoCHI">
-							<b>CHICAGO BLACKHAWKS</b>
+							CHICAGO BLACKHAWKS
 						</td></tr>
 						<tr><td class="TeamInfoCHI">
-							<b>GM - </b><a class='Chicago' href="mailto:jdfitz12@yahoo.com"><b>JOHN</b></a>
+							GM - <a class='Chicago' href="mailto:jdfitz12@yahoo.com">JOHN</a>
 						</td></tr>
 						<tr><td class="TeamInfoCHI">
-							<b>&#160;</b>
+							&#160;
 						</td></tr>
 					</table>
 				</center></td>
@@ -568,14 +568,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Colorado" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#236192;'><b>COLORADO AVALANCHE</b></div>
+						<tr><td class="TeamInfoCOL">
+							COLORADO AVALANCHE
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#236192;'><b>GM - </b><a class='Colorado' href="mailto:hektormcdonnell@gmail.com"><b>SHANNON</b></a></div>
+						<tr><td class="TeamInfoCOL">
+							GM - <a class='Colorado' href="mailto:hektormcdonnell@gmail.com">SHANNON</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#236192;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoCOL">
+							&#160;
 						</td></tr>
 					</table>
 				</center></td>
@@ -681,14 +681,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Dallas" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#00843D;'><b>DALLAS STARS</b></div>
+						<tr><td class="TeamInfoDAL">
+							DALLAS STARS
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#00843D;'><b>GM - </b><a class='Dallas' href="mailto:simonyu84@gmail.com"><b>SIMON</b></a></div>
+						<tr><td class="TeamInfoDAL">
+							GM - <a class='Dallas' href="mailto:simonyu84@gmail.com">SIMON</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#00843D;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoDAL">
+							&#160;
 						</td></tr>
 					</table>
 				</center></td>
@@ -792,14 +792,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Edmonton" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#00205B;'><b>EDMONTON OILERS</b></div>
+						<tr><td class="TeamInfoEDM">
+							EDMONTON OILERS
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#00205B;'><b>GM - </b><a class='Edmonton' href="mailto:mjohns05@outlook.com"><b>MIKEY</b></a></div>
+						<tr><td class="TeamInfoEDM">
+							GM - <a class='Edmonton' href="mailto:mjohns05@outlook.com">MIKEY</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#00205B;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoEDM">
+							&#160;
 						</td></tr>
 					</table>
 				</center></td>
@@ -903,14 +903,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="LosAngeles" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#A2AAAD;'><b>LOS ANGELES KINGS</b></div>
+						<tr><td class="TeamInfoLA">
+							LOS ANGELES KINGS
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#A2AAAD;'><b>GM - </b><a class='LosAngeles' href="mailto:tblain1@gmail.com"><b>TOM</b></a></div>
+						<tr><td class="TeamInfoLA">
+							GM - <a class='LosAngeles' href="mailto:tblain1@gmail.com">TOM</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#A2AAAD;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoLA">
+							&#160;
 						</td></tr>
 					</table>
 				</center></td>
@@ -1014,14 +1014,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Minnesota" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#154734;'><b>MINNESOTA WILD</b></div>
+						<tr><td class="TeamInfoMIN">
+							MINNESOTA WILD
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#154734;'><b>GM - </b><a class='Minnesota' href="mailto:leduc_paul@hotmail.com"><b>PAUL</b></a></div>
+						<tr><td class="TeamInfoMIN">
+							GM - <a class='Minnesota' href="mailto:leduc_paul@hotmail.com">PAUL</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#154734;'><b>HC: MARIAN GABORIK​</b></div>
+						<tr><td class="TeamInfoMIN">
+							HC: MARIAN GABORIK​
 						</td></tr>
 					</table>
 				</center></td>
@@ -1128,14 +1128,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Nashville" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#FFB81C;'><b>NASHVILLE PREDATORS</b></div>
+						<tr><td class="TeamInfoNSH">
+							NASHVILLE PREDATORS
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#FFB81C;'><b>GM - </b><a class='Nashville' href="mailto:bharwood84@hotmail.com"><b>BRETT</b></a></div>
+						<tr><td class="TeamInfoNSH">
+							GM - <a class='Nashville' href="mailto:bharwood84@hotmail.com">BRETT</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#FFB81C;'><b>HC: MIKE FISHER</b></div>
+						<tr><td class="TeamInfoNSH">
+							HC: MIKE FISHER
 						</td></tr>
 					</table>
 				</center></td>
@@ -1239,14 +1239,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="SanJose" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#006271;'><b>SAN JOSE SHARKS</b></div>
+						<tr><td class="TeamInfoSJ">
+							SAN JOSE SHARKS
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#006271;'><b>GM - </b><a class='SanJose' href="mailto:bealls77corvette@gmail.com"><b>PHIL</b></a></div>
+						<tr><td class="TeamInfoSJ">
+							GM -<a class='SanJose' href="mailto:bealls77corvette@gmail.com">PHIL</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#006271;'><b>HC: MIKE RICCI​</b></div>
+						<tr><td class="TeamInfoSJ">
+							HC: MIKE RICCI​
 						</td></tr>
 					</table>
 				</center></td>
@@ -1350,14 +1350,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Seattle" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#9CDBD9;'><b>SEATTLE KRAKEN</b></div>
+						<tr><td class="TeamInfoSEA">
+							SEATTLE KRAKEN
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#9CDBD9;'><b>GM - </b><a class='Seattle' href="mailto:nspaeth@hotmail.com"><b>NEIL</b></a></div>
+						<tr><td class="TeamInfoSEA">
+							GM - <a class='Seattle' href="mailto:nspaeth@hotmail.com">NEIL</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#9CDBD9;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoSEA">
+							&#160;
 						</td></tr>
 					</table>
 				</center></td>
@@ -1461,14 +1461,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="StLouis" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#003087;'><b>ST LOUIS BLUES</b></div>
+						<tr><td class="TeamInfoSTL">
+							ST. LOUIS BLUES
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#003087;'><b>GM - </b><a class='StLouis' href="mailto:cultsuperhero@gmail.com"><b>MIKE</b></a></div>
+						<tr><td class="TeamInfoSTL">
+							GM - <a class='StLouis' href="mailto:cultsuperhero@gmail.com">MIKE</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#003087;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoSTL">
+							&#160;
 						</td></tr>
 					</table>
 					</center></td>
@@ -1575,14 +1575,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Utah" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#69B3E7;'><b>UTAH MAMMOTH</b></div>
+						<tr><td class="TeamInfoUTA">
+							UTAH MAMMOTH
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#69B3E7;'><b>GM - </b><a class='Utah' href="mailto:gbunn19@gmail.com"><b>GARY</b></a></div>
+						<tr><td class="TeamInfoUTA">
+							GM - <a class='Utah' href="mailto:gbunn19@gmail.com">GARY</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#69B3E7;'><b>HC: JEREMY ROENICK​</b></div>
+						<tr><td class="TeamInfoUTA">
+							HC: JEREMY ROENICK​
 						</td></tr>
 					</table>
 				</center></td>
@@ -1686,14 +1686,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Vancouver" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#00205B;'><b>VANCOUVER CANUCKS</b></div>
+						<tr><td class="TeamInfoVAN">
+							VANCOUVER CANUCKS
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#00205B;'><b>GM - </b><a class='Vancouver' href="mailto:mcgrawtalen@gmail.com"><b>TALEN</b></a></div>
+						<tr><td class="TeamInfoVAN">
+							<GM - <a class='Vancouver' href="mailto:mcgrawtalen@gmail.com">TALEN</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#00205B;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoVAN">
+							&#160;
 						</td></tr>
 					</table>
 				</center></td>
@@ -1797,14 +1797,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Vegas" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#B9975B;'><b>VEGAS GOLDEN KNIGHTS</b></div>
+						<tr><td class="TeamInfoVGK">
+							VEGAS GOLDEN KNIGHTS
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#B9975B;'><b>GM - </b><a class='Vegas' href="mailto:martybaroni@gmail.com"><b>MARTY</b></a></div>
+						<tr><td class="TeamInfoVGK">
+							GM - <a class='Vegas' href="mailto:martybaroni@gmail.com">MARTY</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#B9975B;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoVGK">
+							&#160;
 						</td></tr>
 					</table>
 				</center></td>
@@ -1908,14 +1908,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Winnipeg" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#004C97;'><b>WINNIPEG JETS</b></div>
+						<tr><td class="TeamInfoWPG">
+							WINNIPEG JETS
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#004C97;'><b>GM - </b><a class='Winnipeg' href="mailto:kyle.gartner@gmail.com"><b>KYLE</b></a></div>
+						<tr><td class="TeamInfoWPG">
+							GM - <a class='Winnipeg' href="mailto:kyle.gartner@gmail.com">KYLE</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#004C97;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoWPG">
+							&#160;
 						</td></tr>
 					</table>
 				</center></td>
