@@ -225,8 +225,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Anaheim" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#CF4520;'><b>ANAHEIM DUCKS</b></div><br />
-				<div style='color:#CF4520;'><b>GM - </b><a class='Anaheim' href="mailto:timjhamilton@hotmail.com"><b>TIM</b></a></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#CF4520;'><b>ANAHEIM DUCKS</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#CF4520;'><b>GM - </b><a class='Anaheim' href="mailto:timjhamilton@hotmail.com"><b>TIM</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#CF4520;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -327,8 +336,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Calgary" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#C8102E;'><b>CALGARY FLAMES</b></div><br />
-				<div style='color:#C8102E;'><b>GM - </b><a class='Calgary' href="mailto:jachan87@gmail.com"><b>JASON</b></a></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#C8102E;'><b>CALGARY FLAMES</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#C8102E;'><b>GM - </b><a class='Calgary' href="mailto:jachan87@gmail.com"><b>JASON</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#C8102E;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -429,8 +447,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Chicago" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#C8102E;'><b>CHICAGO BLACKHAWKS</b></div><br />
-				<div style='color:#C8102E;'><b>GM - </b><a class='Chicago' href="mailto:jdfitz12@yahoo.com"><b>JOHN</b></a></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#C8102E;'><b>CHICAGO BLACKHAWKS</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#C8102E;'><b>GM - </b><a class='Chicago' href="mailto:jdfitz12@yahoo.com"><b>JOHN</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#C8102E;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -531,8 +558,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Colorado" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#236192;'><b>COLORADO AVALANCHE</b></div><br />
-				<div style='color:#236192;'><b>GM - </b><a class='Colorado' href="mailto:hektormcdonnell@gmail.com"><b>SHANNON</b></a></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#236192;'><b>COLORADO AVALANCHE</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#236192;'><b>GM - </b><a class='Colorado' href="mailto:hektormcdonnell@gmail.com"><b>SHANNON</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#236192;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -635,8 +671,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Dallas" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#00843D;'><b>DALLAS STARS</b></div><br />
-				<div style='color:#00843D;'><b>GM - </b><a class='Dallas' href="mailto:simonyu84@gmail.com"><b>SIMON</b></a></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#00843D;'><b>DALLAS STARS</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#00843D;'><b>GM - </b><a class='Dallas' href="mailto:simonyu84@gmail.com"><b>SIMON</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#00843D;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -737,8 +782,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Edmonton" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#00205B;'><b>EDMONTON OILERS</b></div><br />
-				<div style='color:#00205B;'><b>GM - </b><a class='Edmonton' href="mailto:mjohns05@outlook.com"><b>MIKEY</b></a></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#00205B;'><b>EDMONTON OILERS</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#00205B;'><b>GM - </b><a class='Edmonton' href="mailto:mjohns05@outlook.com"><b>MIKEY</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#00205B;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -1064,9 +1118,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Nashville" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#FFB81C;'><b>NASHVILLE PREDATORS</b></div><br />
-				<div style='color:#FFB81C;'><b>GM - </b><a class='Nashville' href="mailto:bharwood84@hotmail.com"><b>BRETT</b></a></div><br />
-				<div style='color:#FFB81C;'><b>HC: MIKE FISHER</b></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#FFB81C;'><b>NASHVILLE PREDATORS</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#FFB81C;'><b>GM - </b><a class='Nashville' href="mailto:bharwood84@hotmail.com"><b>BRETT</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#FFB81C;'><b>HC: MIKE FISHER</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -1167,9 +1229,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="SanJose" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#006271;'><b>SAN JOSE SHARKS</b></div><br />
-				<div style='color:#006271;'><b>GM - </b><a class='SanJose' href="mailto:bealls77corvette@gmail.com"><b>PHIL</b></a></div><br />
-				<div style='color:#006271;'><b>HC: MIKE RICCI​</b></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#006271;'><b>SAN JOSE SHARKS</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#006271;'><b>GM - </b><a class='SanJose' href="mailto:bealls77corvette@gmail.com"><b>PHIL</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#006271;'><b>HC: MIKE RICCI​</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -1270,8 +1340,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Seattle" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#9CDBD9;'><b>SEATTLE KRAKEN</b></div><br />
-				<div style='color:#9CDBD9;'><b>GM - </b><a class='Seattle' href="mailto:nspaeth@hotmail.com"><b>NEIL</b></a></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#9CDBD9;'><b>SEATTLE KRAKEN</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#9CDBD9;'><b>GM - </b><a class='Seattle' href="mailto:nspaeth@hotmail.com"><b>NEIL</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#9CDBD9;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -1372,9 +1451,18 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="StLouis" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#003087;'><b>ST LOUIS BLUES</b></div><br />
-				<div style='color:#003087;'><b>GM - </b><a class='StLouis' href="mailto:cultsuperhero@gmail.com"><b>MIKE</b></a></div>
-				</center></td>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#003087;'><b>ST LOUIS BLUES</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#003087;'><b>GM - </b><a class='StLouis' href="mailto:cultsuperhero@gmail.com"><b>MIKE</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#003087;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
+					</center></td>
 			</tr>
 		</table>
 		<table>
@@ -1477,9 +1565,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Utah" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#69B3E7;'><b>UTAH MAMMOTH</b></div><br />
-				<div style='color:#69B3E7;'><b>GM - </b><a class='Utah' href="mailto:gbunn19@gmail.com"><b>GARY</b></a></div><br />
-				<div style='color:#69B3E7;'><b>HC: JEREMY ROENICK​</b></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#69B3E7;'><b>UTAH MAMMOTH</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#69B3E7;'><b>GM - </b><a class='Utah' href="mailto:gbunn19@gmail.com"><b>GARY</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#69B3E7;'><b>HC: JEREMY ROENICK​</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -1580,8 +1676,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Vancouver" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#00205B;'><b>VANCOUVER CANUCKS</b></div><br />
-				<div style='color:#00205B;'><b>GM - </b><a class='Vancouver' href="mailto:mcgrawtalen@gmail.com"><b>TALEN</b></a></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#00205B;'><b>VANCOUVER CANUCKS</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#00205B;'><b>GM - </b><a class='Vancouver' href="mailto:mcgrawtalen@gmail.com"><b>TALEN</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#00205B;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -1682,8 +1787,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Vegas" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#B9975B;'><b>VEGAS GOLDEN KNIGHTS</b></div><br />
-				<div style='color:#B9975B;'><b>GM - </b><a class='Vegas' href="mailto:martybaroni@gmail.com"><b>MARTY</b></a></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#B9975B;'><b>VEGAS GOLDEN KNIGHTS</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#B9975B;'><b>GM - </b><a class='Vegas' href="mailto:martybaroni@gmail.com"><b>MARTY</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#B9975B;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
@@ -1784,8 +1898,17 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="Winnipeg" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#004C97;'><b>WINNIPEG JETS</b></div><br />
-				<div style='color:#004C97;'><b>GM - </b><a class='Winnipeg' href="mailto:kyle.gartner@gmail.com"><b>KYLE</b></a></div>
+					<table class="noborder">
+						<tr><td class="TeamInfo">
+							<div style='color:#004C97;'><b>WINNIPEG JETS</b></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#004C97;'><b>GM - </b><a class='Winnipeg' href="mailto:kyle.gartner@gmail.com"><b>KYLE</b></a></div>
+						</td></tr>
+						<tr><td class="TeamInfo">
+							<div style='color:#004C97;'><b>&#160;</b></div>
+						</td></tr>
+					</table>
 				</center></td>
 			</tr>
 		</table>
