@@ -42,6 +42,12 @@ td
             border-style: ridge; 
             padding: 3px;
 	    }
+	
+    td.TeamInfo{border-width: 0px;
+            border-style: ridge; 
+            padding: 3px;
+	    text-align: center;
+	    }
 
     td.TeamName  {border-width: 0px;
             border-style: ridge; 
@@ -834,14 +840,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="LosAngeles" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="no">
-				<div style='color:#A2AAAD;text-align: center;'><b>LOS ANGELES KINGS</b></div>
+						<tr><td class="TeamInfo">
+							<div style='color:#A2AAAD;'><b>LOS ANGELES KINGS</b></div>
 						</td></tr>
-						<tr><td class="no">
-				<div style='color:#A2AAAD;text-align: center;'><b>GM - </b><a class='LosAngeles' href="mailto:tblain1@gmail.com"><b>TOM</b></a></div>
+						<tr><td class="TeamInfo">
+							<div style='color:#A2AAAD;'><b>GM - </b><a class='LosAngeles' href="mailto:tblain1@gmail.com"><b>TOM</b></a></div>
 						</td></tr>
-						<tr><td class="no">
-				<div style='color:#A2AAAD;text-align: center;'><b>&#160;</b></div>
+						<tr><td class="TeamInfo">
+							<div style='color:#A2AAAD;'><b>&#160;</b></div>
 						</td></tr>
 					</table>
 				</center></td>
@@ -945,14 +951,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Minnesota" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="no">
-							<div style='color:#154734;text-align: center;'><b>MINNESOTA WILD</b></div>
+						<tr><td class="TeamInfo">
+							<div style='color:#154734;'><b>MINNESOTA WILD</b></div>
 						</td></tr>
-						<tr><td class="no">
-							<div style='color:#154734;text-align: center;'><b>GM - </b><a class='Minnesota' href="mailto:leduc_paul@hotmail.com"><b>PAUL</b></a></div>
+						<tr><td class="TeamInfo">
+							<div style='color:#154734;'><b>GM - </b><a class='Minnesota' href="mailto:leduc_paul@hotmail.com"><b>PAUL</b></a></div>
 						</td></tr>
-						<tr><td class="no">
-							<div style='color:#154734;text-align: center;'><b>HC: MARIAN GABORIK​</b></div>
+						<tr><td class="TeamInfo">
+							<div style='color:#154734;'><b>HC: MARIAN GABORIK​</b></div>
 						</td></tr>
 					</table>
 				</center></td>
