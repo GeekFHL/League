@@ -21,7 +21,6 @@ table
         border-style:ridge;  
         border-collapse:collapse;
 }      
-
 td 
 {	border-width:1px;
 	border-color:#FFFFFF;
@@ -31,40 +30,52 @@ td
 }
 
 /* Tables  */
-    table.noborder {border-width: 0px;
-                    font-size: 14px;
-                    font-family: Verdana, sans-serif;
-	            font-weight:bold;
-                    border-style: ridge;
-                    border-collapse: collapse;} 
+    table.noborder {border-width: 0px; 
+                    font-size: 14px; 
+                    font-family: Verdana, sans-serif; 
+	            font-weight:bold; 
+                    border-style: ridge; 
+                    border-collapse: collapse;
+	            } 
 
-    td.no  {border-width: 0px;
+    td.no  {border-width: 0px; 
             border-style: ridge; 
             padding: 3px;
-	    }
-	
-    td.TeamInfo{border-width: 0px;
-            border-style: ridge; 
-            padding: 3px;
-	    text-align: center;
 	    }
 
-    td.TeamName  {border-width: 0px;
-            border-style: ridge; 
-            padding: 3px;
-	    width: 260px;
-	    }
+    td.TeamName  {border-width: 0px; 
+                  border-style: ridge; 
+                  padding: 3px; 
+	          width: 260px; 
+	         }
 	
-    td.Pos  {border-width: 0px;
-            border-style: ridge; 
-            padding: 3px;
+    td.Pos  {border-width: 0px; 
+             border-style: ridge; 
+             padding: 3px;
 	    }
 	
     td.Name  {border-width: 0px;
-            border-style: ridge; 
-            padding: 3px;
-	    width:325px
-	    }
+              border-style: ridge; 
+              padding: 3px;
+	      width:325px
+	     }
+    td.TeamInfo {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center;}
+    td.TeamInfoANA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#CF4520;}
+    td.TeamInfoCGY {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
+    td.TeamInfoCHI {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
+    td.TeamInfoCOL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#236192;}
+    td.TeamInfoDAL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00843D;}
+    td.TeamInfoEDM {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00205B;}
+    td.TeamInfoLA  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#A2AAAD;}
+    td.TeamInfoMIN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#154734;}
+    td.TeamInfoNSH {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#FFB81C;}
+    td.TeamInfoSJ  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#006271;}
+    td.TeamInfoSEA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#9CDBD9;}
+    td.TeamInfoSTL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#003087;}
+    td.TeamInfoUTA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#69B3E7;}
+    td.TeamInfoVAN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00205B;}
+    td.TeamInfoVGK {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#B9975B;}
+    td.TeamInfoWPG {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#004C97;}
 
     tr.AnaheimFWD      td {color:#FFFFFF;}
     tr.AnaheimDEF      td {color:#CF4520;}
@@ -107,7 +118,7 @@ td
     	tr.UtahGLT         td {color:#69B3E7;}
     tr.VancouverFWD    td {color:#FFFFFF;}
     tr.VancouverDEF    td {color:#00205B;}
-    tr.VancouverGLT    td {color:#00205B;}
+    tr.VancouverGLT    td {color:#00843D;}
     tr.VegasFWD        td {color:#FFFFFF;}
     tr.VegasDEF        td {color:#333F48;}
     tr.VegasGLT        td {color:#B9975B;}
@@ -115,7 +126,7 @@ td
     tr.WinnipegDEF     td {color:#004C97;}
     tr.WinnipegGLT     td {color:#A2AAAD;}
 	
-a, a:link, a:visited {
+a, a: link, a: visited {
 	text-decoration: none; 
 	font-family: Verdana, sans-serif; 
 	}
@@ -166,15 +177,13 @@ a.UtahDEF       {color:#69B3E7;}
     	a.UtahGLT         {color:#69B3E7;}
 a.VancouverFWD  {color:#FFFFFF;}
 a.VancouverDEF  {color:#00205B;}
-a.VancouverGLT  {color:#00205B;}
+a.VancouverGLT  {color:#00843D;}
 a.VegasFWD      {color:#FFFFFF;}
 a.VegasDEF      {color:#333F48;}
 a.VegasGLT      {color:#B9975B;}
 a.WinnipegFWD   {color:#FFFFFF;}
 a.WinnipegDEF   {color:#004C97;}
 a.WinnipegGLT   {color:#A2AAAD;}
-
-	
 
 a.Anaheim {color:#CF4520;text-decoration:none;}
 a.Anaheim:hover {color:#CF4520;text-decoration:none;}
@@ -226,14 +235,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Anaheim" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#CF4520;'><b>ANAHEIM DUCKS</b></div>
+						<tr><td class="TeamInfoANA">
+							ANAHEIM DUCKS
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#CF4520;'><b>GM - </b><a class='Anaheim' href="mailto:timjhamilton@hotmail.com"><b>TIM</b></a></div>
+						<tr><td class="TeamInfoANA">
+							GM - <a class='Anaheim' href="mailto:timjhamilton@hotmail.com">TIM</a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#CF4520;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoANA">
+							&#160;
 						</td></tr>
 					</table>
 				</center></td>
@@ -337,14 +346,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Calgary" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#C8102E;'><b>CALGARY FLAMES</b></div>
+						<tr><td class="TeamInfoCGY">
+							<b>CALGARY FLAMES</b>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#C8102E;'><b>GM - </b><a class='Calgary' href="mailto:jachan87@gmail.com"><b>JASON</b></a></div>
+						<tr><td class="TeamInfoCGY">
+							<b>GM - </b><a class='Calgary' href="mailto:jachan87@gmail.com"><b>JASON</b></a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#C8102E;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoCGY">
+							<b>&#160;</b>
 						</td></tr>
 					</table>
 				</center></td>
@@ -448,14 +457,14 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<td class="no"><img src="Chicago" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfo">
-							<div style='color:#C8102E;'><b>CHICAGO BLACKHAWKS</b></div>
+						<tr><td class="TeamInfoCHI">
+							<b>CHICAGO BLACKHAWKS</b>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#C8102E;'><b>GM - </b><a class='Chicago' href="mailto:jdfitz12@yahoo.com"><b>JOHN</b></a></div>
+						<tr><td class="TeamInfoCHI">
+							<b>GM - </b><a class='Chicago' href="mailto:jdfitz12@yahoo.com"><b>JOHN</b></a>
 						</td></tr>
-						<tr><td class="TeamInfo">
-							<div style='color:#C8102E;'><b>&#160;</b></div>
+						<tr><td class="TeamInfoCHI">
+							<b>&#160;</b>
 						</td></tr>
 					</table>
 				</center></td>
