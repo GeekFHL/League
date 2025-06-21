@@ -1243,7 +1243,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							SAN JOSE SHARKS
 						</td></tr>
 						<tr><td class="TeamInfoSJ">
-							GM -<a class='SanJose' href="mailto:bealls77corvette@gmail.com">PHIL</a>
+							GM - <a class='SanJose' href="mailto:bealls77corvette@gmail.com">PHIL</a>
 						</td></tr>
 						<tr><td class="TeamInfoSJ">
 							HC: MIKE RICCI​
@@ -1690,7 +1690,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							VANCOUVER CANUCKS
 						</td></tr>
 						<tr><td class="TeamInfoVAN">
-							<GM - <a class='Vancouver' href="mailto:mcgrawtalen@gmail.com">TALEN</a>
+							GM - <a class='Vancouver' href="mailto:mcgrawtalen@gmail.com">TALEN</a>
 						</td></tr>
 						<tr><td class="TeamInfoVAN">
 							&#160;
