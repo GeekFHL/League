@@ -833,8 +833,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			<tr>
 				<td class="no"><img src="LosAngeles" /></td>
 				<td class="TeamName"><center>
-				<div style='color:#A2AAAD;'><b>LOS ANGELES KINGS </b></div><br />
+				<div style='color:#A2AAAD;'><b>LOS ANGELES KINGS</b></div><br />
 				<div style='color:#A2AAAD;'><b>GM - </b><a class='LosAngeles' href="mailto:tblain1@gmail.com"><b>TOM</b></a></div><br />
+				<div style='color:#A2AAAD;'><b>&#160;</b></div><br />	
 				</center></td>
 			</tr>
 		</table>
