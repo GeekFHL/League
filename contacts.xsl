@@ -48,7 +48,7 @@
     
   <table class="contactnoborder">
   <tr>
-    <td class="no"><img height="75" width="113" src="Boston" border="0"></td>
+    <td class="no"><img height="75" width="113" src="Boston" border="0"/></td>
     <td class="no">
       <p class="contact">Boston Bruins - Wally - E-mail: <a href="mailto:walman197209@gmail.com">walman197209@gmail.com</a></p>
       <p class="season">Since Season 7</p>
@@ -88,7 +88,7 @@
   <p class="season">Since Season 26</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Florida" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Florida" border="0"/></td>
   <td class="no">
   <p class="contact">Florida Panthers - John - E-mail: <a href="mailto:cupskeyj@yahoo.com">cupskeyj@yahoo.com</a></p>
   <p class="season">Since Season 19</p>
@@ -100,50 +100,50 @@
   <p class="season">Since Season 3</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="NewJersey" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="NewJersey" border="0"/></td>
   <td class="no">
   <p class="contact">New Jersey Devils - Ryan - E-mail: <a href="mailto:rsmcna89@gmail.com">rsmcna89@gmail.com</a></p>
   <p class="season">Since Season 21</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="NewYorkIslanders" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="NewYorkIslanders" border="0"/></td>
   <td class="no">
   <p class="contact">New York Islanders - Gregg - E-mail: <a href="mailto:ghuculak@hotmail.com">ghuculak@hotmail.com</a></p>
   <p class="season">Since Season 21</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="NewYorkRangers" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="NewYorkRangers" border="0"/></td>
   <td class="no">
   <p class="contact">New York Rangers - Francois - E-mail: <a href="mailto:francoistalbot77@hotmail.com">francoistalbot77@hotmail.com</a></p>
   <p class="season">Since Season 11</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Ottawa" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Ottawa" border="0"/></td>
   <td class="no">
   <p class="contact">Ottawa Senators - Dave - E-mail: <a href="mailto:davidw.wishart@gmail.com">davidw.wishart@gmail.com</a></p>
   <p class="season">Since Season 25</p>
   <p class="offense"></p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Philadelphia" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Philadelphia" border="0"/></td>
   <td class="no">
   <p class="contact">Philadelphia Flyers - Jeff - E-mail: <a href="mailto:jeffsbeck77@yahoo.com">jeffsbeck77@yahoo.com</a></p>
   <p class="season">Since Season 15</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Pittsburgh" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Pittsburgh" border="0"/></td>
   <td class="no">
   <p class="contact">Pittsburgh Penguins - Blake - E-mail: <a href="mailto:mcgrawblake0@gmail.com">mcgrawblake0@gmail.com</a></p>
   <p class="season">Since Season 22</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="TampaBay" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="TampaBay" border="0"/></td>
   <td class="no">
   <p class="contact">Tampa Bay Lighting - Brent - E-mail: <a href="mailto:brent08@live.com">brent08@live.com</a></p>
   <p class="season">Since Season 24</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Toronto" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Toronto" border="0"/></td>
   <td class="no">
   <p class="contact">Toronto Maple Leafs - Kevin - E-mail: <a href="mailto:onyx_bluedevil@yahoo.com">onyx_bluedevil@yahoo.com</a></p>
   <p class="season">Since Season 1</p>
@@ -153,7 +153,7 @@
   <p class="award">Kassandra Cup Champs - Season 8, 25</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Washington" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Washington" border="0"/></td>
   <td class="no">
   <p class="contact">Washington Capitals - Ed - E-mail: <a href="mailto:gfhlwashingtoned@gmail.com">gfhlwashingtoned@gmail.com</a></p>
   <p class="season">Since Season 5</p>
