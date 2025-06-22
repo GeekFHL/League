@@ -352,7 +352,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							CALGARY FLAMES
 						</td></tr>
 						<tr><td class="TeamInfoCGY">
-							GM - <a class='Calgary' href="mailto:jachan87@gmail.com">JASON</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='CGY']">
+							GM - <a class='Calgary' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoCGY">
 							&#160;
@@ -463,7 +465,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							CHICAGO BLACKHAWKS
 						</td></tr>
 						<tr><td class="TeamInfoCHI">
-							GM - <a class='Chicago' href="mailto:jdfitz12@yahoo.com">JOHN</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='CHI']">
+							GM - <a class='Chicago' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoCHI">
 							&#160;
@@ -574,7 +578,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							COLORADO AVALANCHE
 						</td></tr>
 						<tr><td class="TeamInfoCOL">
-							GM - <a class='Colorado' href="mailto:hektormcdonnell@gmail.com">SHANNON</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='COL']">
+							GM - <a class='Colorado' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoCOL">
 							&#160;
@@ -687,7 +693,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							DALLAS STARS
 						</td></tr>
 						<tr><td class="TeamInfoDAL">
-							GM - <a class='Dallas' href="mailto:simonyu84@gmail.com">SIMON</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='DAL']">
+							GM - <a class='Dallas' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoDAL">
 							&#160;
@@ -798,7 +806,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							EDMONTON OILERS
 						</td></tr>
 						<tr><td class="TeamInfoEDM">
-							GM - <a class='Edmonton' href="mailto:mjohns05@outlook.com">MIKEY</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='EDM']">
+							GM - <a class='Edmonton' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoEDM">
 							&#160;
@@ -909,7 +919,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							LOS ANGELES KINGS
 						</td></tr>
 						<tr><td class="TeamInfoLA">
-							GM - <a class='LosAngeles' href="mailto:tblain1@gmail.com">TOM</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='LA']">
+							GM - <a class='LosAngeles' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoLA">
 							&#160;
@@ -1020,7 +1032,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							MINNESOTA WILD
 						</td></tr>
 						<tr><td class="TeamInfoMIN">
-							GM - <a class='Minnesota' href="mailto:leduc_paul@hotmail.com">PAUL</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='MIN']">
+							GM - <a class='Minnesota' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoMIN">
 							HC: MARIAN GABORIK​
@@ -1134,7 +1148,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							NASHVILLE PREDATORS
 						</td></tr>
 						<tr><td class="TeamInfoNSH">
-							GM - <a class='Nashville' href="mailto:bharwood84@hotmail.com">BRETT</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='NSH']">
+							GM - <a class='Nashville' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoNSH">
 							HC: MIKE FISHER
@@ -1245,7 +1261,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							SAN JOSE SHARKS
 						</td></tr>
 						<tr><td class="TeamInfoSJ">
-							GM - <a class='SanJose' href="mailto:bealls77corvette@gmail.com">PHIL</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='SJ']">
+							GM - <a class='SanJose' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoSJ">
 							HC: MIKE RICCI​
@@ -1356,7 +1374,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							SEATTLE KRAKEN
 						</td></tr>
 						<tr><td class="TeamInfoSEA">
-							GM - <a class='Seattle' href="mailto:nspaeth@hotmail.com">NEIL</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='SEA']">
+							GM - <a class='Seattle' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoSEA">
 							&#160;
@@ -1467,7 +1487,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							ST. LOUIS BLUES
 						</td></tr>
 						<tr><td class="TeamInfoSTL">
-							GM - <a class='StLouis' href="mailto:cultsuperhero@gmail.com">MIKE</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='STL']">
+							GM - <a class='StLouis' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoSTL">
 							&#160;
@@ -1581,7 +1603,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							UTAH MAMMOTH
 						</td></tr>
 						<tr><td class="TeamInfoUTA">
-							GM - <a class='Utah' href="mailto:gbunn19@gmail.com">GARY</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='UTA']">
+							GM - <a class='Utah' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoUTA">
 							HC: JEREMY ROENICK​
@@ -1692,7 +1716,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							VANCOUVER CANUCKS
 						</td></tr>
 						<tr><td class="TeamInfoVAN">
-							GM - <a class='Vancouver' href="mailto:mcgrawtalen@gmail.com">TALEN</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='VAN']">
+							GM - <a class='Vancouver' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoVAN">
 							&#160;
@@ -1803,7 +1829,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							VEGAS GOLDEN KNIGHTS
 						</td></tr>
 						<tr><td class="TeamInfoVGK">
-							GM - <a class='Vegas' href="mailto:martybaroni@gmail.com">MARTY</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='VGK']">
+							GM - <a class='Vegas' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoVGK">
 							&#160;
@@ -1914,7 +1942,9 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							WINNIPEG JETS
 						</td></tr>
 						<tr><td class="TeamInfoWPG">
-							GM - <a class='Winnipeg' href="mailto:kyle.gartner@gmail.com">KYLE</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='WPG']">
+							GM - <a class='Winnipeg' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoWPG">
 							&#160;
