@@ -1,14 +1,15 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 <xsl:output method="html" version="4.0"/>
-<xsl:template match="/"><html>
+<xsl:template match="/">
+<html lang="en">
 <head>
 <title>GeekstarFHL Contact List</title>
 <link rel="stylesheet" type="text/css" href="gfhlmain.css" />
 </head>
 
-<noscript><NoEmbed><XMP>
+
   <BODY>
-</XMP></NoEmbed></noscript>
+
 
 <div id="wrapper">
 <h1><center>GM Contact List</center></h1>
@@ -309,9 +310,9 @@
 
 </div>
 
-<noscript><NoEmbed><XMP>
+
 </BODY>
-</XMP></NoEmbed></noscript>
+
 </html>
 </xsl:template>
 </xsl:stylesheet>
