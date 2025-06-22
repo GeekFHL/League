@@ -240,7 +240,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 						</td></tr>
 						<tr><td class="TeamInfoANA">
 							<xsl:for-each select="GFHL/DB/GM[Team='ANA']">
-							GM - <a class='Anaheim' href="mailto:{@Email}"><xsl:value-of select="@Name"/></a>
+							GM - <a class='Anaheim' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoANA">
