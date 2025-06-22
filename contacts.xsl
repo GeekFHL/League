@@ -53,7 +53,6 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
@@ -69,7 +68,6 @@
           <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
           </xsl:if>
-
       </td>
     </tr>    
   </xsl:for-each>
@@ -80,23 +78,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -107,23 +103,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -134,23 +128,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -161,23 +153,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -188,23 +178,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -215,23 +203,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -242,23 +228,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -269,23 +253,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -296,23 +278,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -322,23 +302,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -349,23 +327,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -376,23 +352,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -403,23 +377,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -430,23 +402,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -457,23 +427,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -490,23 +458,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -517,23 +483,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -544,22 +508,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
+          </xsl:if>
         </xsl:choose>
       </td>
     </tr>    
@@ -571,23 +534,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -598,23 +559,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -625,23 +584,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -652,23 +609,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -679,23 +634,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -706,23 +659,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -733,23 +684,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -759,23 +708,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -786,23 +733,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -813,23 +758,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -840,23 +783,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -867,23 +808,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>
@@ -894,23 +833,21 @@
       <td class="no">
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
-        <xsl:choose>
-          <xsl:when test="PresidentTrophy!=''">
+          <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
-          </xsl:when>
-          <xsl:when test="EastConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="EastConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="WestConfChamp!=''">
+          </xsl:if>
+          <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
-          </xsl:when>
-          <xsl:when test="Finalist!=''">
+          </xsl:if>
+          <xsl:if test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
-          </xsl:when>
-          <xsl:when test="Champ!=''">
+          </xsl:if>
+          <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
-          </xsl:when>
-        </xsl:choose>
+          </xsl:if>
       </td>
     </tr>    
   </xsl:for-each>  </table>
