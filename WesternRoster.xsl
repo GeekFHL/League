@@ -239,7 +239,8 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							ANAHEIM DUCKS
 						</td></tr>
 						<tr><td class="TeamInfoANA">
-							GM - <a class='Anaheim' href="mailto:timjhamilton@hotmail.com">TIM</a>
+							<xsl:for-each select="GFHL/DB/GM[Team='ANA']">
+							GM - <a class='Anaheim' href="mailto:{@Email}"><xsl:value-of select="Name"/></a>
 						</td></tr>
 						<tr><td class="TeamInfoANA">
 							&#160;
