@@ -523,7 +523,6 @@
           <xsl:if test="Champ!=''">
             <p class="award">Kassandra Cup Champs - <xsl:value-of select="Champ"/></p>
           </xsl:if>
-        </xsl:choose>
       </td>
     </tr>    
   </xsl:for-each>
