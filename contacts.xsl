@@ -66,7 +66,7 @@
 <div class="text">
 <b><h2>Eastern Conference</h2></b>
 <table class="contactnoborder">
-<tr><td class="no"><img height=75 width=113 src="Boston" border=0></td>
+<tr><td class="no"><img height=75;width=113;src="Boston";border=0></td>
 <td class="no">
 <p class="contact">Boston Bruins - Wally - E-mail: <a href="mailto:walman197209@gmail.com">walman197209@gmail.com</a></p>
 <p class="season">Since Season 7</p>
