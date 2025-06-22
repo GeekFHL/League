@@ -58,7 +58,7 @@
   </tr>
   
   <tr>  
-    <td class="no"><img height="75" width="113" src="Buffalo" border="0"></td>
+    <td class="no"><img height="75" width="113" src="Buffalo" border="0"/></td>
     <td class="no">
       <p class="contact">Buffalo Sabres - Jacob - E-mail: <a href="mailto:jacobmcgraw2005@gmail.com">jacobmcgraw2005@gmail.com</a></p>
       <p class="season">Since Season 24<p>
@@ -66,7 +66,7 @@
   </tr>
   
   <tr>
-    <td class="no"><img height="75" width="113" src="Carolina" border="0"></td>
+    <td class="no"><img height="75" width="113" src="Carolina" border="0"/></td>
     <td class="no">
       <p class="contact">Carolina Hurricanes - Brent - E-mail: <a href="mailto:mcgrawbrent@gmail.com">mcgrawbrent@gmail.com</a></p>
       <p class="season">Since Season 22</p>
@@ -76,13 +76,13 @@
   </td>
   </tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Columbus" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Columbus" border="0"/></td>
   <td class="no">
   <p class="contact">Columbus Blue Jackets - Jin - E-mail: <a href="mailto:jinpark78@yahoo.com">jinpark78@yahoo.com</a></p>
   <p class="season">Since Season 3</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Detroit" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Detroit" border="0"/></td>
   <td class="no">
   <p class="contact">Detriot Red Wings - Austin - E-mail: <a href="mailto:Amharlow31@gmail.com">Amharlow31@gmail.com</a></p>
   <p class="season">Since Season 26</p>
@@ -94,7 +94,7 @@
   <p class="season">Since Season 19</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Montreal" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Montreal" border="0"/></td>
   <td class="no">
   <p class="contact">Montreal Canadiens - Dan - E-mail: <a href="mailto:cdndan@msn.com">cdndan@msn.com</a></p>
   <p class="season">Since Season 3</p>
