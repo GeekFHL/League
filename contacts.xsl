@@ -33,7 +33,7 @@
 
 <div class="text">
 <b><h2>Rules Committee</h2></b>
-<table class="contactnoborder"
+<table class="contactnoborder">
 <tr>
 <td class="no">Committee Member - </td>
 <td class="no"><b>Gary</b></td>
