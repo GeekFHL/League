@@ -18,7 +18,7 @@
 
 <div class="text">
 <b><h2>Commissioners</h2></b>
-<table class="contactnoborder"
+<table class="contactnoborder">
 <xsl:for-each select="GFHL/DB/GM[Commissioner='Y']">
   <tr>
     <td class="no">Co-Commissioner</td>
