@@ -76,7 +76,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Buffalo" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Buffalo Sabres - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -101,7 +101,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Carolina" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Carolina Hurricanes - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -126,7 +126,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Columbus" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Columbus Bluejackets - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -151,7 +151,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Detroit" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Detroit Red Wings - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -176,7 +176,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Florida" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Florida Panthers - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -201,7 +201,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Montreal" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Montreal Canadiens - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -226,7 +226,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="NewJersey" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">New Jersey Devils - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -251,7 +251,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="NewYorkIslanders" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">New York Islanders - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -276,7 +276,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="NewYorkRangers" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">New York Rangers - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -300,7 +300,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Ottawa" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Ottawa Senators - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -325,7 +325,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Philadelphia" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Philadelphia Flyers - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -350,7 +350,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Pittsburgh" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Pittsburgh Penguins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -375,7 +375,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="TampaBay" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Tampa Bay Lighting - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -400,7 +400,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Toronto" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Toronto Maple Leafs - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -425,7 +425,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Washington" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Washington Capitals - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -456,7 +456,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Anaheim" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Anaheim Ducks - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -481,7 +481,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Calgary" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Calgary Flames - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -506,7 +506,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Chicago" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Chicago Blackhawks - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -531,7 +531,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Colorado" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Colorado Avalanche - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -556,7 +556,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Dallas" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Dallas Stars - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -581,7 +581,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Edmonton" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Edmonton Oilers - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -606,7 +606,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="LosAngeles" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Los Angeles Kings - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -631,7 +631,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Minnesota" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Minnesota Wild - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -656,7 +656,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Nashville" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Nashville Predators - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -681,7 +681,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="SanJose" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">San Jose Sharks - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -705,7 +705,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Seattle" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Seattle Kraken - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -730,7 +730,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="StLouis" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">St. Louis Blues - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -755,7 +755,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Utah" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Utah Mammoth - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -780,7 +780,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Vancouver" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Vancouver Canucks - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -805,7 +805,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Vegas" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Vegas Golden Knights - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
@@ -830,7 +830,7 @@
     <tr>
       <td class="no"><img height="75" width="113" src="Winnipeg" border="0"/></td>
       <td class="no">
-        <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
+        <p class="contact">Winnipeg Jets - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
           <xsl:if test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
