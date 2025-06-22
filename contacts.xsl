@@ -61,7 +61,7 @@
     <td class="no"><img height="75" width="113" src="Buffalo" border="0"/></td>
     <td class="no">
       <p class="contact">Buffalo Sabres - Jacob - E-mail: <a href="mailto:jacobmcgraw2005@gmail.com">jacobmcgraw2005@gmail.com</a></p>
-      <p class="season">Since Season 24<p>
+      <p class="season">Since Season 24</p>
     </td>
   </tr>
   
