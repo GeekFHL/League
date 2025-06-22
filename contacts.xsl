@@ -8,7 +8,7 @@
 
 <noscript><NoEmbed><XMP>
   <BODY>
-</xmp></NoEmbed></noscript>
+</XMP></NoEmbed></noscript>
 
 <div id="wrapper">
 <h1><center>GM Contact List</center></h1>
@@ -311,7 +311,7 @@
 
 <noscript><NoEmbed><XMP>
 </BODY>
-</xmp></NoEmbed></noscript>
+</XMP></NoEmbed></noscript>
 </html>
 </xsl:template>
 </xsl:stylesheet>
