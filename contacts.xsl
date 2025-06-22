@@ -8,7 +8,7 @@
 </head>
 
 
-  <BODY>
+  <body>
 
 
 <div id="wrapper">
@@ -311,7 +311,7 @@
 </div>
 
 
-</BODY>
+</body>
 
 </html>
 </xsl:template>
