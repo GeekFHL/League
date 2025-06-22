@@ -55,13 +55,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -82,13 +82,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -109,13 +109,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -136,13 +136,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -163,13 +163,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -190,13 +190,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -217,13 +217,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -243,14 +243,15 @@
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
+        <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -271,13 +272,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -298,13 +299,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -324,13 +325,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -351,13 +352,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -378,13 +379,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -405,13 +406,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -432,13 +433,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -459,13 +460,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -492,13 +493,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -519,13 +520,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -546,13 +547,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -573,13 +574,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -600,13 +601,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -627,13 +628,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -654,13 +655,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -681,13 +682,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -708,13 +709,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -735,13 +736,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -761,13 +762,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -788,13 +789,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -815,13 +816,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -842,13 +843,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -869,13 +870,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
@@ -896,13 +897,13 @@
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="PresidentTrophy"/></p>
+            <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
           <xsl:when test="EastConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:when>
           <xsl:when test="WestConfChamp!=''">
-            <p class="award">Kassandra Cup Finalist - <xsl:value-of select="WestConfChamp"/></p>
+            <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
           </xsl:when>
           <xsl:when test="Finalist!=''">
               <p class="award">Kassandra Cup Finalist - <xsl:value-of select="Finalist"/></p>
