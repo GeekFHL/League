@@ -167,13 +167,13 @@
   <b><h2>Western Conference</h2></b>
   <table class="contactnoborder">
   
-  <tr><td class="no"><img height="75" width="113" src="Anaheim" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Anaheim" border="0"/></td>
   <td class="no">
   <p class="contact">Anaheim Ducks - Tim - E-mail: <a href="mailto:timjhamilton@hotmail.com">timjhamilton@hotmail.com</a></p>
   <p class="season">Since Season 25</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Calgary" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Calgary" border="0"/></td>
   <td class="no">
   <p class="contact">Calgary Flames - Jason - E-mail: <a href="mailto:jachan87@gmail.com">jachan87@gmail.com</a></p>
   <p class="season">Since Season 3</p>
@@ -183,7 +183,7 @@
   <p class="award">Kassandra Cup Champs - Season 16</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Chicago" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Chicago" border="0"/></td>
   <td class="no">
   <p class="contact">Chicago Blackhawks - John - E-mail: <a href="mailto:jdfitz12@yahoo.com">jdfitz12@yahoo.com</a></p>
   <p class="season">Since Season 1</p>
@@ -193,7 +193,7 @@
   <p class="award">Kassandra Cup Champs - Season 6</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Colorado" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Colorado" border="0"/></td>
   <td class="no">
   <p class="contact">Colorado Avalanche - Shannon - E-mail: <a href="mailto:hektormcdonnell@gmail.com">hektormcdonnell@gmail.com</a></p>
   <p class="season">Since Season 10</p>
@@ -202,7 +202,7 @@
   <p class="award">Kassandra Cup Champs - Season 14</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Dallas" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Dallas" border="0"/></td>
   <td class="no">
   <p class="contact">Dallas Stars - Simon - E-mail: <a href="mailto:simonyu84@gmail.com"> simonyu84@gmail.com </a></p>
   <p class="season">Since Season 3</p>
@@ -212,7 +212,7 @@
   <p class="award">Kassandra Cup Champs - Season 7</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Edmonton" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Edmonton" border="0"/></td>
   <td class="no">
   <p class="contact">Edmonton Oilers - Mikey - E-mail: <a href="mailto:mjohns05@outlook.com">mjohns05@outlook.com</a></p>
   <p class="season">Since Season 2</p>
@@ -222,7 +222,7 @@
   <p class="award">Kassandra Cup Champs - Season 13, 18</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="LosAngeles" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="LosAngeles" border="0"/></td>
   <td class="no">
   <p class="contact">Los Angeles Kings - Tom - E-mail: <a href="mailto:tblain1@gmail.com">tblain1@gmail.com</a></p>
   <p class="season">Since Season 20</p>
@@ -230,7 +230,7 @@
   <p class="award">Kassandra Cup Champs - Season 15, 22, 24</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Minnesota" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Minnesota" border="0"/></td>
   <td class="no">
   <p class="contact">Minnesota Wild - Paul - E-mail: <a href="mailto:leduc_paul@hotmail.com">leduc_paul@hotmail.com</a></p>
   <p class="season">Since Season 2</p>
@@ -240,7 +240,7 @@
   <p class="award">Kassandra Cup Champs - Season 21</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Nashville" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Nashville" border="0"/></td>
   <td class="no">
   <p class="contact">Nashville Predators - Brett - E-mail: <a href="mailto:bharwood84@hotmail.com">bharwood84@hotmail.com</a></p>
   <p class="season">Since Season 6</p>
@@ -250,43 +250,43 @@
   <p class="award">Kassandra Cup Champs - Season 23</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="SanJose" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="SanJose" border="0"/></td>
   <td class="no">
   <p class="contact">San Jose Sharks - Phil - E-mail: <a href="mailto:bealls77corvette@gmail.com">bealls77corvette@gmail.com</a></p>
   <p class="season">Since Season 17</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Seattle" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Seattle" border="0"/></td>
   <td class="no">
   <p class="contact">Seattle Kraken - Neil - E-mail: <a href="mailto:nspaeth@hotmail.com">nspaeth@hotmail.com</a></p>
   <p class="season">Since Season 5</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="StLouis" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="StLouis" border="0"/></td>
   <td class="no">
   <p class="contact">St. Louis Blues - Mike - E-mail: <a href="mailto:cultsuperhero@gmail.com">cultsuperhero@gmail.com</a></p>
   <p class="season">Since Season 20</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Utah" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Utah" border="0"/></td>
   <td class="no">
   <p class="contact">Utah Hockey Club - Gary - E-mail: <a href="mailto:gbunn19@gmail.com">gbunn19@gmail.com</a></p>
   <p class="season">Since Season 9</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Vancouver" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Vancouver" border="0"/></td>
   <td class="no">
   <p class="contact">Vancouver Canucks - Talen - E-mail: <a href="mailto:mcgrawtalen@gmail.com">mcgrawtalen@gmail.com</a></p>
   <p class="season">Since Season 22</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Vegas" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Vegas" border="0"/></td>
   <td class="no">
   <p class="contact">Vegas Golden Knight - Marty - E-mail: <a href="mailto:martybaroni@gmail.com">martybaroni@gmail.com</a></p>
   <p class="season">Since Season 17</p>
   </td></tr>
   
-  <tr><td class="no"><img height="75" width="113" src="Winnipeg" border="0"></td>
+  <tr><td class="no"><img height="75" width="113" src="Winnipeg" border="0"/></td>
   <td class="no">
   <p class="contact">Winnipeg Jets - Kyle - E-mail: <a href="mailto:kyle.gartner@gmail.com">kyle.gartner@gmail.com</a></p>
   <p class="season">Since Season 15</p>
