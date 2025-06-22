@@ -243,7 +243,6 @@
         <p class="contact">Boston Bruins - <xsl:value-of select="Name"/> - e-mail: <a href="mailto:{Email}"><xsl:value-of select="Email"/></a></p>
         <p class="season">Since Season <xsl:value-of select="Since"/></p>
         <xsl:choose>
-        <xsl:choose>
           <xsl:when test="PresidentTrophy!=''">
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:when>
