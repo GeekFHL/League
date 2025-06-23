@@ -77,54 +77,54 @@ td
     td.TeamInfoTOR {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00205B;}
     td.TeamInfoWSH {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
 
-    tr.BostonFWD       td {color:#FFFFFF;}
-    tr.BostonDEF       td {color:#CF4520;}
-    tr.BostonGLT       td {color:#B9975B;}
-    tr.BuffaloFWD      td {color:#FFFFFF;}  
-    tr.BuffaloDEF      td {color:#C8102E;}
-    tr.BuffaloGLT      td {color:#F1BE48;}
-    tr.CarolinaFWD     td {color:#FFFFFF;}
-    tr.CarolinaDEF     td {color:#C8102E;}
-    tr.CarolinaGLT     td {color:#CC8A00;}
-    tr.ColumbusFWD     td {color:#FFFFFF;}
-    tr.ColumbusDEF     td {color:#236192;}
-    tr.ColumbusGLT     td {color:#A2AAAD;}
-    tr.DetroitFWD      td {color:#FFFFFF;}
-    tr.DetroitDEF      td {color:#00843D;}
-    tr.DetroitGLT      td {color:#A2AAAD;}
-    tr.FloridaFWD      td {color:#FFFFFF;}
-    tr.FloridaDEF      td {color:#00205B;}
-    tr.FloridaGLT      td {color:#CF4520;}
-    tr.MontrealFWD     td {color:#FFFFFF;}
-    tr.MontrealDEF     td {color:#A2AAAD;}
-    tr.MontrealGLT     td {color:#868787;}
-    tr.NewJerseyFWD    td {color:#FFFFFF;}
-    tr.NewJerseyDEF    td {color:#154734;}
-    tr.NewJerseyGLT    td {color:#EAAA00;}
-    tr.NewYorkIslandersFWD    td {color:#FFFFFF;}
-    tr.NewYorkIslandersDEF    td {color:#041E42;}
-    tr.NewYorkIslandersGLT    td {color:#FFB81C;}
-    tr.NewYorkRangersFWD      td {color:#FFFFFF;}
-    tr.NewYorkRangersDEF      td {color:#003087;}
-    tr.NewYorkRangersGLT      td {color:#FFB81C;}
-    tr.OttawaFWD       td {color:#FFFFFF;}  
-    tr.OttawaDEF       td {color:#006271;}
-    tr.OttawaGLT       td {color:#F1BE48;}
-    tr.PhiladelphiaFWD td {color:#FFFFFF;}
-    tr.PhiladelphiaDEF td {color:#6BA4B8;}
-    tr.PhiladelphiaGLT td {color:#E57200;}
-    tr.PitsburghFWD    td {color:#FFFFFF;}
-    tr.PitsburghDEF    td {color:#69B3E7;}
-    tr.PitsburghGLT    td {color:#69B3E7;}
-    tr.TampaBayFWD     td {color:#FFFFFF;}
-    tr.TampaBayDEF     td {color:#00205B;}
-    tr.TampaBayGLT     td {color:#00843D;}
-    tr.TorontoFWD      td {color:#FFFFFF;}
-    tr.TorontoDEF      td {color:#333F48;}
-    tr.TorontoGLT      td {color:#B9975B;}
-    tr.WashingtonFWD   td {color:#FFFFFF;}
-    tr.WashingtonDEF   td {color:#004C97;}
-    tr.WashingtonGLT   td {color:#A2AAAD;}
+    tr.BostonFWD           td {color:#FFFFFF;}
+    tr.BostonDEF           td {color:#FFB81C;}
+    tr.BostonGLT           td {color:#744F28;}
+    tr.BuffaloFWD          td {color:#FFFFFF;}  
+    tr.BuffaloDEF          td {color:#003087;}
+    tr.BuffaloGLT          td {color:#FFB81C;}
+    tr.CarolinaFWD         td {color:#FFFFFF;}
+    tr.CarolinaDEF         td {color:#C8102E;}
+    tr.CarolinaGLT         td {color:#A2AAAD;}
+    tr.ColumbusFWD         td {color:#FFFFFF;}
+    tr.ColumbusDEF         td {color:#041E42;}
+    tr.ColumbusGLT         td {color:#C8102E;}
+    tr.DetroitFWD          td {color:#FFFFFF;}
+    tr.DetroitDEF          td {color:#C8102E;}
+    tr.DetroitGLT          td {color:#8D9093;}
+    tr.FloridaFWD          td {color:#FFFFFF;}
+    tr.FloridaDEF          td {color:#C8102E;}
+    tr.FloridaGLT          td {color:#041E42;}
+    tr.MontrealFWD         td {color:#FFFFFF;}
+    tr.MontrealDEF         td {color:#A6192E;}
+    tr.MontrealGLT         td {color:#001E62;}
+    tr.NewJerseyFWD        td {color:#FFFFFF;}
+    tr.NewJerseyDEF        td {color:#C8102E;}
+    tr.NewJerseyGLT        td {color:#046A38;}
+    tr.NewYorkIslandersFWD td {color:#FFFFFF;}
+    tr.NewYorkIslandersDEF td {color:#003087;}
+    tr.NewYorkIslandersGLT td {color:#FC4C02;}
+    tr.NewYorkRangersFWD   td {color:#FFFFFF;}
+    tr.NewYorkRangersDEF   td {color:#0032A0;}
+    tr.NewYorkRangersGLT   td {color:#C8102E;}
+    tr.OttawaFWD           td {color:#FFFFFF;}  
+    tr.OttawaDEF           td {color:#C8102E;}
+    tr.OttawaGLT           td {color:#B9975B;}
+    tr.PhiladelphiaFWD     td {color:#FFFFFF;}
+    tr.PhiladelphiaDEF     td {color:#CF4520;}
+    tr.PhiladelphiaGLT     td {color:#896C4C;}
+    tr.PitsburghFWD        td {color:#FFFFFF;}
+    tr.PitsburghDEF        td {color:#FFB81C;}
+    tr.PitsburghGLT        td {color:#41B6E6;}
+    tr.TampaBayFWD         td {color:#FFFFFF;}
+    tr.TampaBayDEF         td {color:#00205B;}
+    tr.TampaBayGLT         td {color:#A2AAAD;}
+    tr.TorontoFWD          td {color:#FFFFFF;}
+    tr.TorontoDEF          td {color:#00205B;}
+    tr.TorontoGLT          td {color:#A2AAAD;}
+    tr.WashingtonFWD       td {color:#FFFFFF;}
+    tr.WashingtonDEF       td {color:#C8102E;}
+    tr.WashingtonGLT       td {color:#041E42;}
 	
 a, a:link, a:visited {
 	text-decoration: none; 
@@ -133,54 +133,54 @@ a, a:link, a:visited {
 a:hover, a:active {
 	}
 
-a.BostonFWD       {color:#FFFFFF;}
-a.BostonDEF       {color:#FFB81C;}
-a.BostonGLT       {color:#744F28;}
-a.BuffaloFWD      {color:#FFFFFF;}
-a.BuffaloDEF      {color:#003087;}
-a.BuffaloGLT      {color:#FFB81C;}
-a.CarolinaFWD     {color:#FFFFFF;}
-a.CarolinaDEF     {color:#C8102E;}
-a.CarolinaGLT     {color:#A2AAAD;}
-a.ColumbusFWD     {color:#FFFFFF;}
-a.ColumbusDEF     {color:#041E42;}
-a.ColumbusGLT     {color:#C8102E;}
-a.DetroitFWD      {color:#FFFFFF;}
-a.DetroitDEF      {color:#C8102E;}
-a.DetroitGLT      {color:#8D9093;}
-a.FloridaFWD      {color:#FFFFFF;}
-a.FloridaDEF      {color:#C8102E;}
-a.FloridaGLT      {color:#041E42;}
-a.MontrealFWD     {color:#FFFFFF;}
-a.MontrealDEF     {color:#A6192E;}
-a.MontrealGLT     {color:#001E62;}
-a.NewJerseyFWD    {color:#FFFFFF;}
-a.NewJerseyDEF    {color:#C8102E;}
-a.NewJerseyGLT    {color:#046A38;}
+a.BostonFWD            {color:#FFFFFF;}
+a.BostonDEF            {color:#FFB81C;}
+a.BostonGLT            {color:#744F28;}
+a.BuffaloFWD           {color:#FFFFFF;}
+a.BuffaloDEF           {color:#003087;}
+a.BuffaloGLT           {color:#FFB81C;}
+a.CarolinaFWD          {color:#FFFFFF;}
+a.CarolinaDEF          {color:#C8102E;}
+a.CarolinaGLT          {color:#A2AAAD;}
+a.ColumbusFWD          {color:#FFFFFF;}
+a.ColumbusDEF          {color:#041E42;}
+a.ColumbusGLT          {color:#C8102E;}
+a.DetroitFWD           {color:#FFFFFF;}
+a.DetroitDEF           {color:#C8102E;}
+a.DetroitGLT           {color:#8D9093;}
+a.FloridaFWD           {color:#FFFFFF;}
+a.FloridaDEF           {color:#C8102E;}
+a.FloridaGLT           {color:#041E42;}
+a.MontrealFWD          {color:#FFFFFF;}
+a.MontrealDEF          {color:#A6192E;}
+a.MontrealGLT          {color:#001E62;}
+a.NewJerseyFWD         {color:#FFFFFF;}
+a.NewJerseyDEF         {color:#C8102E;}
+a.NewJerseyGLT         {color:#046A38;}
 a.NewYorkIslandersFWD  {color:#FFFFFF;}
 a.NewYorkIslandersDEF  {color:#003087;}
 a.NewYorkIslandersGLT  {color:#FC4C02;}
 a.NewYorkRangersFWD    {color:#FFFFFF;}
 a.NewYorkRangersDEF    {color:#0032A0;}
 a.NewYorkRangersGLT    {color:#C8102E;}
-a.OttawaFWD       {color:#FFFFFF;}
-a.OttawaDEF       {color:#C8102E;}
-a.OttawaGLT       {color:#B9975B;}
-a.PhiladelphiaFWD {color:#FFFFFF;}  
-a.PhiladelphiaDEF {color:#CF4520;}
-a.PhiladelphiaGLT {color:#896C4C;}
-a.PittsburghFWD   {color:#FFFFFF;}
-a.PittsburghDEF   {color:#FFB81C;}
-a.PittsburghGLT   {color:#41B6E6;}
-a.TampaBayFWD     {color:#FFFFFF;}
-a.TampaBayDEF     {color:#00205B;}
-a.TampaBayGLT     {color:#A2AAAD;}
-a.TorontoFWD      {color:#FFFFFF;}
-a.TorontoDEF      {color:#00205B;}
-a.TorontoGLT      {color:#A2AAAD;}
-a.WashingtonFWD   {color:#FFFFFF;}
-a.WashingtonDEF   {color:#C8102E;}
-a.WashingtonGLT   {color:#041E42;}
+a.OttawaFWD            {color:#FFFFFF;}
+a.OttawaDEF            {color:#C8102E;}
+a.OttawaGLT            {color:#B9975B;}
+a.PhiladelphiaFWD      {color:#FFFFFF;}  
+a.PhiladelphiaDEF      {color:#CF4520;}
+a.PhiladelphiaGLT      {color:#896C4C;}
+a.PittsburghFWD        {color:#FFFFFF;}
+a.PittsburghDEF        {color:#FFB81C;}
+a.PittsburghGLT        {color:#41B6E6;}
+a.TampaBayFWD          {color:#FFFFFF;}
+a.TampaBayDEF          {color:#00205B;}
+a.TampaBayGLT          {color:#A2AAAD;}
+a.TorontoFWD           {color:#FFFFFF;}
+a.TorontoDEF           {color:#00205B;}
+a.TorontoGLT           {color:#A2AAAD;}
+a.WashingtonFWD        {color:#FFFFFF;}
+a.WashingtonDEF        {color:#C8102E;}
+a.WashingtonGLT        {color:#041E42;}
 
 
 a.Boston {color:#FFB81C;text-decoration:none;}
