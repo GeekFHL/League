@@ -690,7 +690,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoDET">
 							DETROIT RED WINGS
 						</td></tr>
-						<tr><td class="TeamInfodet">
+						<tr><td class="TeamInfoDET">
 							<xsl:for-each select="GFHL/DB/GM[Team='DET']">
 							GM - <a class='Detroit' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
@@ -1945,7 +1945,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoWSH">
-							&#160;
+							HC:​ ROD LANGWAY
 						</td></tr>
 					</table>
 				</center></td>
