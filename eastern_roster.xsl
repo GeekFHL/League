@@ -4,7 +4,7 @@
 <xsl:template match="/">    
 <html lang="en">
 <head>
-<title>GFHL - Western Roster</title>
+<title>GFHL - Eastern Roster</title>
 
 <style>
 body
@@ -60,71 +60,71 @@ td
 	      width:325px
 	     }
     td.TeamInfo {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center;}
-    td.TeamInfoANA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#CF4520;}
-    td.TeamInfoCGY {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
-    td.TeamInfoCHI {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
-    td.TeamInfoCOL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#236192;}
-    td.TeamInfoDAL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00843D;}
-    td.TeamInfoEDM {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00205B;}
-    td.TeamInfoLA  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#A2AAAD;}
-    td.TeamInfoMIN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#154734;}
-    td.TeamInfoNSH {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#FFB81C;}
-    td.TeamInfoSJ  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#006271;}
-    td.TeamInfoSEA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#9CDBD9;}
-    td.TeamInfoSTL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#003087;}
-    td.TeamInfoUTA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#69B3E7;}
-    td.TeamInfoVAN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00205B;}
-    td.TeamInfoVGK {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#B9975B;}
-    td.TeamInfoWPG {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#004C97;}
+    td.TeamInfoBOS {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#FFB81C;}
+    td.TeamInfoBUF {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#003087;}
+    td.TeamInfoCAR {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
+    td.TeamInfoCLB {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#041E42;}
+    td.TeamInfoDET {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
+    td.TeamInfoFLA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#041E42;}
+    td.TeamInfoMTL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#A6192E;}
+    td.TeamInfoNJ  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
+    td.TeamInfoNYI {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#003087;}
+    td.TeamInfoNYR {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#0032A0;}
+    td.TeamInfoOTT {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
+    td.TeamInfoPHI {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#CF4520;}
+    td.TeamInfoPIT {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#FFB81C;}
+    td.TeamInfoTB  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00205B;}
+    td.TeamInfoTOR {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00205B;}
+    td.TeamInfoWSH {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
 
-    tr.AnaheimFWD      td {color:#FFFFFF;}
-    tr.AnaheimDEF      td {color:#CF4520;}
-    tr.AnaheimGLT      td {color:#B9975B;}
-    tr.CalgaryFWD      td {color:#FFFFFF;}  
-    tr.CalgaryDEF      td {color:#C8102E;}
-    tr.CalgaryGLT      td {color:#F1BE48;}
-    tr.ChicagoFWD      td {color:#FFFFFF;}
-    tr.ChicagoDEF      td {color:#C8102E;}
-    tr.ChicagoGLT      td {color:#CC8A00;}
-    tr.ColoradoFWD     td {color:#FFFFFF;}
-    tr.ColoradoDEF     td {color:#236192;}
-    tr.ColoradoGLT     td {color:#A2AAAD;}
-    tr.DallasFWD       td {color:#FFFFFF;}
-    tr.DallasDEF       td {color:#00843D;}
-    tr.DallasGLT       td {color:#A2AAAD;}
-    tr.EdmontonFWD     td {color:#FFFFFF;}
-    tr.EdmontonDEF     td {color:#00205B;}
-    tr.EdmontonGLT     td {color:#CF4520;}
-    tr.LosAngelesFWD   td {color:#FFFFFF;}
-    tr.LosAngelesDEF   td {color:#A2AAAD;}
-    tr.LosAngelesGLT   td {color:#868787;}
-    tr.MinnesotaFWD    td {color:#FFFFFF;}
-    tr.MinnesotaDEF    td {color:#154734;}
-    tr.MinnesotaGLT    td {color:#EAAA00;}
-    tr.NashvilleFWD    td {color:#FFFFFF;}
-    tr.NashvilleDEF    td {color:#041E42;}
-    tr.NashvilleGLT    td {color:#FFB81C;}
-    tr.StLouisFWD      td {color:#FFFFFF;}
-    tr.StLouisDEF      td {color:#003087;}
-    tr.StLouisGLT      td {color:#FFB81C;}
-    tr.SanJoseFWD      td {color:#FFFFFF;}  
-    tr.SanJoseDEF      td {color:#006271;}
-    tr.SanJoseGLT      td {color:#F1BE48;}
-    tr.SeattleFWD      td {color:#FFFFFF;}
-    tr.SeattleDEF      td {color:#6BA4B8;}
-    tr.SeattleGLT      td {color:#E57200;}
-    tr.UtahFWD         td {color:#FFFFFF;}
-    tr.UtahDEF         td {color:#69B3E7;}
-    	tr.UtahGLT         td {color:#69B3E7;}
-    tr.VancouverFWD    td {color:#FFFFFF;}
-    tr.VancouverDEF    td {color:#00205B;}
-    tr.VancouverGLT    td {color:#00843D;}
-    tr.VegasFWD        td {color:#FFFFFF;}
-    tr.VegasDEF        td {color:#333F48;}
-    tr.VegasGLT        td {color:#B9975B;}
-    tr.WinnipegFWD     td {color:#FFFFFF;}
-    tr.WinnipegDEF     td {color:#004C97;}
-    tr.WinnipegGLT     td {color:#A2AAAD;}
+    tr.BostonFWD       td {color:#FFFFFF;}
+    tr.BostonDEF       td {color:#CF4520;}
+    tr.BostonGLT       td {color:#B9975B;}
+    tr.BuffaloFWD      td {color:#FFFFFF;}  
+    tr.BuffaloDEF      td {color:#C8102E;}
+    tr.BuffaloGLT      td {color:#F1BE48;}
+    tr.CarolinaFWD     td {color:#FFFFFF;}
+    tr.CarolinaDEF     td {color:#C8102E;}
+    tr.CarolinaGLT     td {color:#CC8A00;}
+    tr.ColumbusFWD     td {color:#FFFFFF;}
+    tr.ColumbusDEF     td {color:#236192;}
+    tr.ColumbusGLT     td {color:#A2AAAD;}
+    tr.DetroitFWD      td {color:#FFFFFF;}
+    tr.DetroitDEF      td {color:#00843D;}
+    tr.DetroitGLT      td {color:#A2AAAD;}
+    tr.FloridaFWD      td {color:#FFFFFF;}
+    tr.FloridaDEF      td {color:#00205B;}
+    tr.FloridaGLT      td {color:#CF4520;}
+    tr.MontrealFWD     td {color:#FFFFFF;}
+    tr.MontrealDEF     td {color:#A2AAAD;}
+    tr.MontrealGLT     td {color:#868787;}
+    tr.NewJerseyFWD    td {color:#FFFFFF;}
+    tr.NewJerseyDEF    td {color:#154734;}
+    tr.NewJerseyGLT    td {color:#EAAA00;}
+    tr.NewYorkIslandersFWD    td {color:#FFFFFF;}
+    tr.NewYorkIslandersDEF    td {color:#041E42;}
+    tr.NewYorkIslandersGLT    td {color:#FFB81C;}
+    tr.NewYorkRangersFWD      td {color:#FFFFFF;}
+    tr.NewYorkRangersDEF      td {color:#003087;}
+    tr.NewYorkRangersGLT      td {color:#FFB81C;}
+    tr.OttawaFWD       td {color:#FFFFFF;}  
+    tr.OttawaDEF       td {color:#006271;}
+    tr.OttawaGLT       td {color:#F1BE48;}
+    tr.PhiladelphiaFWD td {color:#FFFFFF;}
+    tr.PhiladelphiaDEF td {color:#6BA4B8;}
+    tr.PhiladelphiaGLT td {color:#E57200;}
+    tr.PitsburghFWD    td {color:#FFFFFF;}
+    tr.PitsburghDEF    td {color:#69B3E7;}
+    tr.PitsburghGLT    td {color:#69B3E7;}
+    tr.TampaBayFWD     td {color:#FFFFFF;}
+    tr.TampaBayDEF     td {color:#00205B;}
+    tr.TampaBayGLT     td {color:#00843D;}
+    tr.TorontoFWD      td {color:#FFFFFF;}
+    tr.TorontoDEF      td {color:#333F48;}
+    tr.TorontoGLT      td {color:#B9975B;}
+    tr.WashingtonFWD   td {color:#FFFFFF;}
+    tr.WashingtonDEF   td {color:#004C97;}
+    tr.WashingtonGLT   td {color:#A2AAAD;}
 	
 a, a:link, a:visited {
 	text-decoration: none; 
@@ -133,90 +133,88 @@ a, a:link, a:visited {
 a:hover, a:active {
 	}
 
-a.AnaheimFWD     {color:#FFFFFF;}
-a.AnaheimDEF     {color:#CF4520;}
-a.AnaheimGLT     {color:#B9975B;}
-a.CalgaryFWD     {color:#FFFFFF;}
-a.CalgaryDEF     {color:#C8102E;}
-a.CalgaryGLT     {color:#F1BE48;}
-a.ChicagoFWD     {color:#FFFFFF;}
-a.ChicagoDEF     {color:#C8102E;}
-a.ChicagoGLT     {color:#CC8A00;}
-a.ColoradoFWD    {color:#FFFFFF;}
-a.ColoradoDEF    {color:#236192;}
-a.ColoradoGLT    {color:#A2AAAD;}
-a.DallasFWD      {color:#FFFFFF;}
-a.DallasDEF      {color:#00843D;}
-a.DallasGLT      {color:#A2AAAD;}
-a.EdmontonFWD    {color:#FFFFFF;}
-a.EdmontonDEF    {color:#00205B;}
-a.EdmontonGLT    {color:#CF4520;}
-a.LosAngelesFWD  {color:#FFFFFF;}
-a.LosAngelesDEF  {color:#A2AAAD;}
-a.LosAngelesGLT  {color:#868787;}
-a.MinnesotaFWD  {color:#FFFFFF;}
-a.MinnesotaDEF  {color:#154734;}
-a.MinnesotaGLT  {color:#EAAA00;}
-a.NashvilleFWD  {color:#FFFFFF;}
-a.NashvilleDEF  {color:#041E42;}
-a.NashvilleGLT  {color:#FFB81C;}
-a.NashvilleFWD  {color:#FFFFFF;}
-a.NashvilleDEF  {color:#041E42;}
-a.NashvilleGLT  {color:#FFB81C;}
-a.StLouisFWD    {color:#FFFFFF;}
-a.StLouisDEF    {color:#003087;}
-a.StLouisGLT    {color:#FFB81C;}
-a.SanJoseFWD    {color:#FFFFFF;}  
-a.SanJoseDEF    {color:#006271;}
-a.SanJoseGLT    {color:#F1BE48;}
-a.SeattleFWD    {color:#FFFFFF;}
-a.SeattleDEF    {color:#6BA4B8;}
-a.SeattleGLT    {color:#E57200;}
-a.UtahFWD       {color:#FFFFFF;}
-a.UtahDEF       {color:#69B3E7;}
-    	a.UtahGLT         {color:#69B3E7;}
-a.VancouverFWD  {color:#FFFFFF;}
-a.VancouverDEF  {color:#00205B;}
-a.VancouverGLT  {color:#00843D;}
-a.VegasFWD      {color:#FFFFFF;}
-a.VegasDEF      {color:#333F48;}
-a.VegasGLT      {color:#B9975B;}
-a.WinnipegFWD   {color:#FFFFFF;}
-a.WinnipegDEF   {color:#004C97;}
-a.WinnipegGLT   {color:#A2AAAD;}
+a.BostonFWD       {color:#FFFFFF;}
+a.BostonDEF       {color:#FFB81C;}
+a.BostonGLT       {color:#744F28;}
+a.BuffaloFWD      {color:#FFFFFF;}
+a.BuffaloDEF      {color:#003087;}
+a.BuffaloGLT      {color:#FFB81C;}
+a.CarolinaFWD     {color:#FFFFFF;}
+a.CarolinaDEF     {color:#C8102E;}
+a.CarolinaGLT     {color:#A2AAAD;}
+a.ColumbusFWD     {color:#FFFFFF;}
+a.ColumbusDEF     {color:#041E42;}
+a.ColumbusGLT     {color:#C8102E;}
+a.DetroitFWD      {color:#FFFFFF;}
+a.DetroitDEF      {color:#C8102E;}
+a.DetroitGLT      {color:#8D9093;}
+a.FloridaFWD      {color:#FFFFFF;}
+a.FloridaDEF      {color:#C8102E;}
+a.FloridaGLT      {color:#041E42;}
+a.MontrealFWD     {color:#FFFFFF;}
+a.MontrealDEF     {color:#A6192E;}
+a.MontrealGLT     {color:#001E62;}
+a.NewJerseyFWD    {color:#FFFFFF;}
+a.NewJerseyDEF    {color:#C8102E;}
+a.NewJerseyGLT    {color:#046A38;}
+a.NewYorkIslandersFWD  {color:#FFFFFF;}
+a.NewYorkIslandersDEF  {color:#003087;}
+a.NewYorkIslandersGLT  {color:#FC4C02;}
+a.NewYorkRangersFWD    {color:#FFFFFF;}
+a.NewYorkRangersDEF    {color:#0032A0;}
+a.NewYorkRangersGLT    {color:#C8102E;}
+a.OttawaFWD       {color:#FFFFFF;}
+a.OttawaDEF       {color:#C8102E;}
+a.OttawaGLT       {color:#B9975B;}
+a.PhiladelphiaFWD {color:#FFFFFF;}  
+a.PhiladelphiaDEF {color:#CF4520;}
+a.PhiladelphiaGLT {color:#896C4C;}
+a.PittsburghFWD   {color:#FFFFFF;}
+a.PittsburghDEF   {color:#FFB81C;}
+a.PittsburghGLT   {color:#41B6E6;}
+a.TampaBayFWD     {color:#FFFFFF;}
+a.TampaBayDEF     {color:#00205B;}
+a.TampaBayGLT     {color:#A2AAAD;}
+a.TorontoFWD      {color:#FFFFFF;}
+a.TorontoDEF      {color:#00205B;}
+a.TorontoGLT      {color:#A2AAAD;}
+a.WashingtonFWD   {color:#FFFFFF;}
+a.WashingtonDEF   {color:#C8102E;}
+a.WashingtonGLT   {color:#041E42;}
 
-a.Anaheim {color:#CF4520;text-decoration:none;}
-a.Anaheim:hover {color:#CF4520;text-decoration:none;}
-a.Calgary {color:#C8102E;text-decoration:none;}
-a.Calgary:hover {color:#C8102E;text-decoration:none;}
-a.Chicago {color:#C8102E;text-decoration:none;}
-a.Chicago:hover {color:#C8102E;text-decoration:none;}
-a.Colorado {color:#236192;text-decoration:none;}
-a.Colorado:hover {color:#236192;text-decoration:none;}
-a.Dallas {color:#00843D;text-decoration:none;}
-a.Dallas:hover {color:#00843D;text-decoration:none;}
-a.Edmonton {color:#00205B;text-decoration:none;}
-a.Edmonton:hover {color:#00205B;text-decoration:none;}
-a.LosAngeles {color:#A2AAAD;text-decoration:none;}
-a.LosAngeles:hover {color:#A2AAAD;text-decoration:none;}
-a.Minnesota {color:#154734;text-decoration:none;}
-a.Minnesota:hover {color:#154734;text-decoration:none;}
-a.Nashville {color:#FFB81C;text-decoration:none;}
-a.Nashville:hover {color:#FFB81C;text-decoration:none;}
-a.StLouis {color:#003087;text-decoration:none;}
-a.StLouis:hover {color:#003087;text-decoration:none;}
-a.SanJose {color:#006271;text-decoration:none;}
-a.SanJose:hover {color:#006271;text-decoration:none;}
-a.Seattle {color:#9CDBD9;text-decoration:none;}
-a.Seattle:hover {color:#9CDBD9;text-decoration:none;}
-a.Utah {color:#69B3E7;text-decoration:none;}
-a.Utah:hover {color:#69B3E7;text-decoration:none;}
-a.Vancouver {color:#00205B;text-decoration:none;}
-a.Vancouver:hover {color:#00205B;text-decoration:none;}
-a.Vegas {color:#B9975B;text-decoration:none;}
-a.Vegas:hover {color:#B9975B;text-decoration:none;}
-a.Winnipeg {color:#004C97;text-decoration:none;}
-a.Winnipeg:hover {color:#004C97;text-decoration:none;}
+
+a.Boston {color:#FFB81C;text-decoration:none;}
+a.Boston:hover {color:#FFB81C;text-decoration:none;}
+a.Buffalo {color:#003087;text-decoration:none;}
+a.Buffalo:hover {color:#003087;text-decoration:none;}
+a.Carolina {color:#C8102E;text-decoration:none;}
+a.Carolina:hover {color:#C8102E;text-decoration:none;}
+a.Columbus {color:#041E42;text-decoration:none;}
+a.Columbus:hover {color:#041E42;text-decoration:none;}
+a.Detroit {color:#C8102E;text-decoration:none;}
+a.Detroit:hover {color:#C8102E;text-decoration:none;}
+a.Florida {color:#C8102E;text-decoration:none;}
+a.Florida:hover {color:#C8102E;text-decoration:none;}
+a.Montreal {color:#A6192E;text-decoration:none;}
+a.Montreal:hover {color:#A6192E;text-decoration:none;}
+a.NewJersey {color:#C8102E;text-decoration:none;}
+a.NewJersey:hover {color:#C8102E;text-decoration:none;}
+a.NewYorkIslanders {color:#003087;text-decoration:none;}
+a.NewYorkIslanders:hover {color:#003087;text-decoration:none;}
+a.NewYorkRangers {color:#0032A0;text-decoration:none;}
+a.NewYorkRanegrs:hover {color:#0032A0;text-decoration:none;}
+a.Ottawa {color:#C8102E;text-decoration:none;}
+a.Ottawa:hover {color:#C8102E;text-decoration:none;}
+a.Philadelphia {color:#CF4520;text-decoration:none;}
+a.Philadelphia:hover {color:#CF4520;text-decoration:none;}
+a.Pittsburgh {color:#FFB81C;text-decoration:none;}
+a.Pittsburgh:hover {color:#FFB81C;text-decoration:none;}
+a.TampaBay {color:#00205B;text-decoration:none;}
+a.TampaBay:hover {color:#00205B;text-decoration:none;}
+a.Toronto {color:#00205B;text-decoration:none;}
+a.Toronto:hover {color:#00205B;text-decoration:none;}
+a.Washington {color:#C8102E;text-decoration:none;}
+a.Washington:hover {color:#C8102E;text-decoration:none;}
 
 </style>
 </head>
@@ -224,7 +222,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 <body>
 
 <center>
-<span style="font-size:24pt;"><b>WESTERN ROSTER</b></span>
+<span style="font-size:24pt;"><b>EASTERN ROSTER</b></span>
 </center>
 <p />
 <table class="noborder">
@@ -232,18 +230,18 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Anaheim" height="100" width="150" /></td>
+				<td class="no"><img src="Boston" height="100" width="150" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoANA">
-							ANAHEIM DUCKS
+						<tr><td class="TeamInfoBOS">
+							BOSTON BRUINS
 						</td></tr>
-						<tr><td class="TeamInfoANA">
-							<xsl:for-each select="GFHL/DB/GM[Team='ANA']">
-							GM - <a class='Anaheim' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoBOS">
+							<xsl:for-each select="GFHL/DB/GM[Team='BOS']">
+							GM - <a class='Boston' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoANA">
+						<tr><td class="TeamInfoBOS">
 							&#160;
 						</td></tr>
 					</table>
@@ -251,21 +249,21 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='BOS']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">AnaheimGLT
+						<xsl:attribute name="class">BostonGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">AnaheimDEF
+						<xsl:attribute name="class">BostonDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">AnaheimFWD
+						<xsl:attribute name="class">BostonFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -308,15 +306,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 								<xsl:choose>
 				          			<xsl:when test="POS='GLT'">
-									<xsl:attribute name="class">AnaheimGLT
+									<xsl:attribute name="class">BostonGLT
 									</xsl:attribute> 
 				          			</xsl:when>
 				          			<xsl:when test="POS='DEF'">
-									<xsl:attribute name="class">AnaheimDEF
+									<xsl:attribute name="class">BostonDEF
 									</xsl:attribute> 
 				          			</xsl:when>
 				          			<xsl:when test="POS='FWD'">
-									<xsl:attribute name="class">AnaheimFWD
+									<xsl:attribute name="class">BostonFWD
 									</xsl:attribute> 
 				          			</xsl:when>
 								</xsl:choose>
@@ -345,18 +343,18 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Calgary" height="100" width="150"/></td>
+				<td class="no"><img src="Buffalo" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoCGY">
-							CALGARY FLAMES
+						<tr><td class="TeamInfoBUF">
+							BUFFALO SABRES
 						</td></tr>
-						<tr><td class="TeamInfoCGY">
-							<xsl:for-each select="GFHL/DB/GM[Team='CGY']">
-							GM - <a class='Calgary' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoBUF">
+							<xsl:for-each select="GFHL/DB/GM[Team='BUF']">
+							GM - <a class='Buffalo' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoCGY">
+						<tr><td class="TeamInfoBUF">
 							&#160;
 						</td></tr>
 					</table>
@@ -364,21 +362,21 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='CGY']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='BUF']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">CalgaryGLT
+						<xsl:attribute name="class">BuffaloGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">CalgaryDEF
+						<xsl:attribute name="class">BuffalloDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">CalgaryFWD
+						<xsl:attribute name="class">BuffaloFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -421,15 +419,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">CalgaryGLT
+								<xsl:attribute name="class">BuffaloGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">CalgaryDEF
+								<xsl:attribute name="class">BuffaloDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">CalgaryFWD
+								<xsl:attribute name="class">BuffaloFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -458,40 +456,40 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Chicago" height="100" width="150"/></td>
+				<td class="no"><img src="Carolina" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoCHI">
-							CHICAGO BLACKHAWKS
+						<tr><td class="TeamInfoCAR">
+							CAROLINA HURRICANES
 						</td></tr>
-						<tr><td class="TeamInfoCHI">
-							<xsl:for-each select="GFHL/DB/GM[Team='CHI']">
-							GM - <a class='Chicago' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoCAR">
+							<xsl:for-each select="GFHL/DB/GM[Team='CAR']">
+							GM - <a class='Carloina' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoCHI">
-							&#160;
+						<tr><td class="TeamInfoCAR">
+							HC: GEOFF SANDERSON
 						</td></tr>
 					</table>
 				</center></td>
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='CHI']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='CAR']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">ChicagoGLT
+						<xsl:attribute name="class">CarolinaGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">ChicagoDEF
+						<xsl:attribute name="class">CarolinaDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">ChicagoFWD
+						<xsl:attribute name="class">CarolinaFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -534,15 +532,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">ChicagoGLT
+								<xsl:attribute name="class">CarolinaGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">ChicagoDEF
+								<xsl:attribute name="class">CarolinaDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">ChicagoFWD
+								<xsl:attribute name="class">CarolinaFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -571,18 +569,18 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Colorado" height="100" width="150"/></td>
+				<td class="no"><img src="Columbus" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoCOL">
-							COLORADO AVALANCHE
+						<tr><td class="TeamInfoCLB">
+							COLUMBUS BLUEJACKETS
 						</td></tr>
-						<tr><td class="TeamInfoCOL">
-							<xsl:for-each select="GFHL/DB/GM[Team='COL']">
-							GM - <a class='Colorado' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoCLB">
+							<xsl:for-each select="GFHL/DB/GM[Team='CLB']">
+							GM - <a class='Columbus' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoCOL">
+						<tr><td class="TeamInfoCLB">
 							&#160;
 						</td></tr>
 					</table>
@@ -590,21 +588,21 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='COL']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='CLB']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">ColoradoGLT
+						<xsl:attribute name="class">ColumbusGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">ColoradoDEF
+						<xsl:attribute name="class">ColumbusDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">ColoradoFWD
+						<xsl:attribute name="class">ColumbusFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -647,15 +645,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">ColoradoGLT
+								<xsl:attribute name="class">ColumbusGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">ColoradoDEF
+								<xsl:attribute name="class">ColumbusDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">ColoradoFWD
+								<xsl:attribute name="class">ColumbusFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -686,40 +684,40 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Dallas" height="100" width="150"/></td>
+				<td class="no"><img src="Detroit" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoDAL">
-							DALLAS STARS
+						<tr><td class="TeamInfoDET">
+							DETROIT RED WINGS
 						</td></tr>
-						<tr><td class="TeamInfoDAL">
-							<xsl:for-each select="GFHL/DB/GM[Team='DAL']">
-							GM - <a class='Dallas' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfodet">
+							<xsl:for-each select="GFHL/DB/GM[Team='DET']">
+							GM - <a class='Detroit' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoDAL">
-							&#160;
+						<tr><td class="TeamInfoDET">
+							HC: BOB PROBERT​
 						</td></tr>
 					</table>
 				</center></td>
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='DAL']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='DET']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">DallasGLT
+						<xsl:attribute name="class">DetroitGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">DallasDEF
+						<xsl:attribute name="class">DetroitDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">DallasFWD
+						<xsl:attribute name="class">DetroitFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -762,15 +760,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">DallasGLT
+								<xsl:attribute name="class">DetroitGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">DallasDEF
+								<xsl:attribute name="class">DetroitDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">DallasFWD
+								<xsl:attribute name="class">DetroitFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -799,18 +797,18 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Edmonton" height="100" width="150"/></td>
+				<td class="no"><img src="Florida" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoEDM">
-							EDMONTON OILERS
+						<tr><td class="TeamInfoFLA">
+							FLORIDA PANTHERS
 						</td></tr>
-						<tr><td class="TeamInfoEDM">
-							<xsl:for-each select="GFHL/DB/GM[Team='EDM']">
-							GM - <a class='Edmonton' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoFLA">
+							<xsl:for-each select="GFHL/DB/GM[Team='FLA']">
+							GM - <a class='Florida' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoEDM">
+						<tr><td class="TeamInfoFLA">
 							&#160;
 						</td></tr>
 					</table>
@@ -818,21 +816,21 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='EDM']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='FLA']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">EdmontonGLT
+						<xsl:attribute name="class">FloridaGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">EdmontonDEF
+						<xsl:attribute name="class">FloridaDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">EdmontonFWD
+						<xsl:attribute name="class">FloridaFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -875,15 +873,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">EdmontonGLT
+								<xsl:attribute name="class">FloridaGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">EdmontonDEF
+								<xsl:attribute name="class">FloridaDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">EdmontonFWD
+								<xsl:attribute name="class">FloridaFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -912,40 +910,40 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="LosAngeles" height="100" width="150"/></td>
+				<td class="no"><img src="Montreal" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoLA">
-							LOS ANGELES KINGS
+						<tr><td class="TeamInfoMTL">
+							MONTREAL CANADIENS
 						</td></tr>
-						<tr><td class="TeamInfoLA">
-							<xsl:for-each select="GFHL/DB/GM[Team='LA']">
-							GM - <a class='LosAngeles' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoMTL">
+							<xsl:for-each select="GFHL/DB/GM[Team='MTL']">
+							GM - <a class='Montreal' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoLA">
-							&#160;
+						<tr><td class="TeamInfoMTL">
+							HC: PATRICK ROY​
 						</td></tr>
 					</table>
 				</center></td>
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='LA']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='MTL']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">LosAngelesGLT
+						<xsl:attribute name="class">MontrealGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">LosAngelesDEF
+						<xsl:attribute name="class">MontrealDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">LosAngelesFWD
+						<xsl:attribute name="class">MontrealFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -988,15 +986,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">LosAngelesGLT
+								<xsl:attribute name="class">MontrealGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">LosAngelesDEF
+								<xsl:attribute name="class">MontrealDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">LosAngelesFWD
+								<xsl:attribute name="class">MontrealFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -1025,40 +1023,40 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Minnesota" height="100" width="150"/></td>
+				<td class="no"><img src="NewJersey" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoMIN">
-							MINNESOTA WILD
+						<tr><td class="TeamInfoNJ">
+							NEW JERSEY DEVILS
 						</td></tr>
-						<tr><td class="TeamInfoMIN">
-							<xsl:for-each select="GFHL/DB/GM[Team='MIN']">
-							GM - <a class='Minnesota' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoNJ">
+							<xsl:for-each select="GFHL/DB/GM[Team='NJ']">
+							GM - <a class='NewJersey' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoMIN">
-							HC: MARIAN GABORIK​
+						<tr><td class="TeamInfoNJ">
+							HC: BRIAN RAFALSKI​
 						</td></tr>
 					</table>
 				</center></td>
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='MIN']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='NJ']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">MinnesotaGLT
+						<xsl:attribute name="class">NewJerseyGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">MinnesotaDEF
+						<xsl:attribute name="class">NewJerseyDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">MinnesotaFWD
+						<xsl:attribute name="class">NewJerseyFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -1101,15 +1099,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">MinnesotaGLT
+								<xsl:attribute name="class">NewJerseyGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">MinnesotaDEF
+								<xsl:attribute name="class">NewJerseyDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">MinnesotaFWD
+								<xsl:attribute name="class">NewJerseyFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -1141,19 +1139,19 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Nashville" height="100" width="150"/></td>
+				<td class="no"><img src="NewYorkIslanders" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoNSH">
-							NASHVILLE PREDATORS
+						<tr><td class="TeamInfoNYI">
+							NEW YORK ISLANDERS
 						</td></tr>
-						<tr><td class="TeamInfoNSH">
-							<xsl:for-each select="GFHL/DB/GM[Team='NSH']">
-							GM - <a class='Nashville' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoNYI">
+							<xsl:for-each select="GFHL/DB/GM[Team='NYI']">
+							GM - <a class='NewYorkIslanders' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoNSH">
-							HC: MIKE FISHER
+						<tr><td class="TeamInfoNYI">
+							HC: BILLY SMITH
 						</td></tr>
 					</table>
 				</center></td>
@@ -1166,15 +1164,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">NashvilleGLT
+						<xsl:attribute name="class">NewYorkIslandersGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">NashvilleDEF
+						<xsl:attribute name="class">NewYorkIslandersDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">NashvilleFWD
+						<xsl:attribute name="class">NewYorkIslandersFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -1217,15 +1215,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">NashvilleGLT
+								<xsl:attribute name="class">NewYorkIslandersGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">NashvilleDEF
+								<xsl:attribute name="class">NewYorkIslandersDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">NashvilleFWD
+								<xsl:attribute name="class">NewYorkIslandersFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -1254,131 +1252,18 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="SanJose" height="100" width="150"/></td>
+				<td class="no"><img src="NewYorkRangers" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoSJ">
-							SAN JOSE SHARKS
+						<tr><td class="TeamInfoNYR">
+							NEW YORK RANGERS
 						</td></tr>
-						<tr><td class="TeamInfoSJ">
-							<xsl:for-each select="GFHL/DB/GM[Team='SJ']">
-							GM - <a class='SanJose' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoNYR">
+							<xsl:for-each select="GFHL/DB/GM[Team='NYR']">
+							GM - <a class='NewYorkRangers' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoSJ">
-							HC: MIKE RICCI​
-						</td></tr>
-					</table>
-				</center></td>
-			</tr>
-		</table>
-		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='SJ']">
-				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
-			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
-				<tr >
-					<xsl:choose>
-			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">SanJoseGLT
-						</xsl:attribute> 
-			          	</xsl:when>
-			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">SanJoseDEF
-						</xsl:attribute> 
-			          	</xsl:when>
-			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">SanJoseFWD
-						</xsl:attribute> 
-			          	</xsl:when>
-			          	<xsl:otherwise>
-			            	</xsl:otherwise>
-					</xsl:choose>
-					<td class="Pos">
-						<center>
-						<xsl:choose>
-						      <xsl:when test="SLOT = '17'">
-						         <td class="Pos">ENF</td>
-						      </xsl:when>
-						      <xsl:when test="SLOT = '18'">
-						         <td class="Pos">ENF</td>
-						      </xsl:when>
-						      <xsl:when test="SLOT = '21'">
-						         <td class="Pos">RES</td>
-						      </xsl:when>
-						      <xsl:when test="SLOT = '22'">
-						         <td class="Pos">RES</td>
-						      </xsl:when>
-						      <xsl:when test="SLOT = '23'">
-						         <td class="Pos">RES</td>
-						      </xsl:when>
-						      <xsl:when test="SLOT = '24'">
-						         <td class="Pos">RES</td>
-						      </xsl:when>
-						      <xsl:otherwise>
-						          <td class="Pos"><xsl:value-of select="POS"/></td>
-						      </xsl:otherwise>
-						</xsl:choose>
-			                	</center>
-					</td>
-					<xsl:variable name="_web" select="WEB"/>
-			                <td class="Name">
-						<xsl:choose>
-						<xsl:when test="WEB='http://www.hockeydb.com'">
-							<xsl:value-of select="NAME"/>
-						</xsl:when>
-						<xsl:otherwise>
-							<a href="{$_web}" target="_blank">
-							<xsl:choose>
-			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">SanJoseGLT
-								</xsl:attribute> 
-			          			</xsl:when>
-			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">SanJoseDEF
-								</xsl:attribute> 
-			          			</xsl:when>
-			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">SanJoseFWD
-								</xsl:attribute> 
-			          			</xsl:when>
-							</xsl:choose>
-							<xsl:choose>
-								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
-								</xsl:when>
-								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
-									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
-								</xsl:when>
-								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
-									<xsl:value-of select="NAME"/> *****
-								</xsl:when>
-								<xsl:otherwise>
-									<xsl:value-of select="NAME"/>
-								</xsl:otherwise>
-								</xsl:choose>
-							</a>
-			            		</xsl:otherwise>
-						</xsl:choose>
-					</td>
-				</tr>
-			</xsl:for-each>
-		</table>
-	</td>
-	<td class="no">
-		<table class="noborder">
-			<tr>
-				<td class="no"><img src="Seattle" height="100" width="150"/></td>
-				<td class="TeamName"><center>
-					<table class="noborder">
-						<tr><td class="TeamInfoSEA">
-							SEATTLE KRAKEN
-						</td></tr>
-						<tr><td class="TeamInfoSEA">
-							<xsl:for-each select="GFHL/DB/GM[Team='SEA']">
-							GM - <a class='Seattle' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoSEA">
+						<tr><td class="TeamInfoNYR">
 							&#160;
 						</td></tr>
 					</table>
@@ -1386,21 +1271,21 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='SEA']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='NYR']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">SeattleGLT
+						<xsl:attribute name="class">NewYorkRangersGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">SeattleDEF
+						<xsl:attribute name="class">NewYorkRangersDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">SeattleFWD
+						<xsl:attribute name="class">NewYorkRangersFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -1443,15 +1328,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">SeattleGLT
+								<xsl:attribute name="class">NewYorkRangersGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">SeattleDEF
+								<xsl:attribute name="class">NewYorkRangersDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">SeattleFWD
+								<xsl:attribute name="class">NewYorkRangersFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -1480,18 +1365,131 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="StLouis" height="100" width="150"/></td>
+				<td class="no"><img src="Ottawa" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoSTL">
-							ST. LOUIS BLUES
+						<tr><td class="TeamInfoOTT">
+							OTTAWA SENATORS
 						</td></tr>
-						<tr><td class="TeamInfoSTL">
-							<xsl:for-each select="GFHL/DB/GM[Team='STL']">
-							GM - <a class='StLouis' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoOTT">
+							<xsl:for-each select="GFHL/DB/GM[Team='OTT']">
+							GM - <a class='Ottawa' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoSTL">
+						<tr><td class="TeamInfoOTT">
+							&#160;
+						</td></tr>
+					</table>
+				</center></td>
+			</tr>
+		</table>
+		<table>
+			<xsl:for-each select="GFHL/DB/Player[TEAM='OTT']">
+				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+				<tr >
+					<xsl:choose>
+			          	<xsl:when test="POS='GLT'">
+						<xsl:attribute name="class">OttawaGLT
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='DEF'">
+						<xsl:attribute name="class">OttawaDEF
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:when test="POS='FWD'">
+						<xsl:attribute name="class">OttawaFWD
+						</xsl:attribute> 
+			          	</xsl:when>
+			          	<xsl:otherwise>
+			            	</xsl:otherwise>
+					</xsl:choose>
+					<td class="Pos">
+						<center>
+						<xsl:choose>
+						      <xsl:when test="SLOT = '17'">
+						         <td class="Pos">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '18'">
+						         <td class="Pos">ENF</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '21'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '22'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '23'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:otherwise>
+						          <td class="Pos"><xsl:value-of select="POS"/></td>
+						      </xsl:otherwise>
+						</xsl:choose>
+			                	</center>
+					</td>
+					<xsl:variable name="_web" select="WEB"/>
+			                <td class="Name">
+						<xsl:choose>
+						<xsl:when test="WEB='http://www.hockeydb.com'">
+							<xsl:value-of select="NAME"/>
+						</xsl:when>
+						<xsl:otherwise>
+							<a href="{$_web}" target="_blank">
+							<xsl:choose>
+			          			<xsl:when test="POS='GLT'">
+								<xsl:attribute name="class">OttawaGLT
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='DEF'">
+								<xsl:attribute name="class">OttawaDEF
+								</xsl:attribute> 
+			          			</xsl:when>
+			          			<xsl:when test="POS='FWD'">
+								<xsl:attribute name="class">OttawaFWD
+								</xsl:attribute> 
+			          			</xsl:when>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED != ''))">
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/> *****
+								</xsl:when>
+								<xsl:when test="((CAPTAIN != '') and (UNPROTECTED = ''))">
+									<xsl:value-of select="NAME"/> - <xsl:value-of select="CAPTAIN"/>
+								</xsl:when>
+								<xsl:when test="((CAPTAIN = '') and (UNPROTECTED != ''))">
+									<xsl:value-of select="NAME"/> *****
+								</xsl:when>
+								<xsl:otherwise>
+									<xsl:value-of select="NAME"/>
+								</xsl:otherwise>
+								</xsl:choose>
+							</a>
+			            		</xsl:otherwise>
+						</xsl:choose>
+					</td>
+				</tr>
+			</xsl:for-each>
+		</table>
+	</td>
+	<td class="no">
+		<table class="noborder">
+			<tr>
+				<td class="no"><img src="Philadelphia" height="100" width="150"/></td>
+				<td class="TeamName"><center>
+					<table class="noborder">
+						<tr><td class="TeamInfoPHI">
+							PHILADELPHIA FLYERS
+						</td></tr>
+						<tr><td class="TeamInfoPHI">
+							<xsl:for-each select="GFHL/DB/GM[Team='PHI']">
+							GM - <a class='Philadelphia' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</xsl:for-each>
+						</td></tr>
+						<tr><td class="TeamInfoPHI">
 							&#160;
 						</td></tr>
 					</table>
@@ -1499,21 +1497,21 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='STL']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='PHI']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">StLouisGLT
+						<xsl:attribute name="class">PhiladelphiaGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">StLouisDEF
+						<xsl:attribute name="class">PhiladelphiaDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">StLouisFWD
+						<xsl:attribute name="class">PhiladelphiaFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -1556,15 +1554,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">StLouisGLT
+								<xsl:attribute name="class">PhiladelphiaGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">StLouisDEF
+								<xsl:attribute name="class">PhiladelphiaDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">StLouisFWD
+								<xsl:attribute name="class">PhiladelphiaFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -1596,40 +1594,40 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Utah" height="100" width="150"/></td>
+				<td class="no"><img src="Pittsburgh" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoUTA">
-							UTAH MAMMOTH
+						<tr><td class="TeamInfoPIT">
+							PITTSBURGH PENGUINS
 						</td></tr>
-						<tr><td class="TeamInfoUTA">
-							<xsl:for-each select="GFHL/DB/GM[Team='UTA']">
-							GM - <a class='Utah' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoPIT">
+							<xsl:for-each select="GFHL/DB/GM[Team='PIT']">
+							GM - <a class='Pittsburgh' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoUTA">
-							HC: JEREMY ROENICK​
+						<tr><td class="TeamInfoPIT">
+							HC: TOM BARRASSO
 						</td></tr>
 					</table>
 				</center></td>
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='UTA']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='PIT']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">UtahGLT
+						<xsl:attribute name="class">PittsburghGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">UtahDEF
+						<xsl:attribute name="class">PittsburghDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">UtahFWD
+						<xsl:attribute name="class">PittsburghFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -1672,15 +1670,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">UtahGLT
+								<xsl:attribute name="class">PittsburghGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">UtahDEF
+								<xsl:attribute name="class">PittsburghDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">UtahFWD
+								<xsl:attribute name="class">PittsburghFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -1709,40 +1707,40 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Vancouver" height="100" width="150"/></td>
+				<td class="no"><img src="TampaBay" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoVAN">
-							VANCOUVER CANUCKS
+						<tr><td class="TeamInfoTB">
+							TAMPA BAY LIGHTING
 						</td></tr>
-						<tr><td class="TeamInfoVAN">
-							<xsl:for-each select="GFHL/DB/GM[Team='VAN']">
-							GM - <a class='Vancouver' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoTB">
+							<xsl:for-each select="GFHL/DB/GM[Team='TB']">
+							GM - <a class='TampaBay' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoVAN">
-							&#160;
+						<tr><td class="TeamInfoTB">
+							HC: VINCENT LECAVALIER​
 						</td></tr>
 					</table>
 				</center></td>
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='VAN']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='TB']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">VancouverGLT
+						<xsl:attribute name="class">TampaBayGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">VancouverDEF
+						<xsl:attribute name="class">TampaBayDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">VancouverFWD
+						<xsl:attribute name="class">TampaBayFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -1785,15 +1783,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">VancouverGLT
+								<xsl:attribute name="class">TampaBayGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">VancouverDEF
+								<xsl:attribute name="class">TampaBayDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">VancouverFWD
+								<xsl:attribute name="class">TampaBayFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -1822,18 +1820,18 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Vegas" height="100" width="150"/></td>
+				<td class="no"><img src="Toronto" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoVGK">
-							VEGAS GOLDEN KNIGHTS
+						<tr><td class="TeamInfoTOR">
+							TORONTO MAPLES LEAFS
 						</td></tr>
-						<tr><td class="TeamInfoVGK">
-							<xsl:for-each select="GFHL/DB/GM[Team='VGK']">
-							GM - <a class='Vegas' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoTOR">
+							<xsl:for-each select="GFHL/DB/GM[Team='TOR']">
+							GM - <a class='Toronto' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoVGK">
+						<tr><td class="TeamInfoTOR">
 							&#160;
 						</td></tr>
 					</table>
@@ -1841,21 +1839,21 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='VGK']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='TOR']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">VegasGLT
+						<xsl:attribute name="class">TorontoGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">VegasDEF
+						<xsl:attribute name="class">TorontoDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">VegasFWD
+						<xsl:attribute name="class">TorontoFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -1898,15 +1896,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">VegasGLT
+								<xsl:attribute name="class">TorontoGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">VegasDEF
+								<xsl:attribute name="class">TorontoDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">VegasFWD
+								<xsl:attribute name="class">TorontoFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
@@ -1935,18 +1933,18 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Winnipeg" height="100" width="150"/></td>
+				<td class="no"><img src="Washington" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
-						<tr><td class="TeamInfoWPG">
-							WINNIPEG JETS
+						<tr><td class="TeamInfoWSH">
+							WASHINGTON CAPITALS
 						</td></tr>
-						<tr><td class="TeamInfoWPG">
-							<xsl:for-each select="GFHL/DB/GM[Team='WPG']">
-							GM - <a class='Winnipeg' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+						<tr><td class="TeamInfoWSH">
+							<xsl:for-each select="GFHL/DB/GM[Team='WSH']">
+							GM - <a class='Washington' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
-						<tr><td class="TeamInfoWPG">
+						<tr><td class="TeamInfoWSH">
 							&#160;
 						</td></tr>
 					</table>
@@ -1954,21 +1952,21 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='WPG']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='WSH']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">WinnipegGLT
+						<xsl:attribute name="class">WashingtonGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">WinnipegDEF
+						<xsl:attribute name="class">WashingtonDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">WinnipegFWD
+						<xsl:attribute name="class">WashingtonFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
@@ -2011,15 +2009,15 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 							<a href="{$_web}" target="_blank">
 							<xsl:choose>
 			          			<xsl:when test="POS='GLT'">
-								<xsl:attribute name="class">WinnipegGLT
+								<xsl:attribute name="class">WashingtonGLT
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='DEF'">
-								<xsl:attribute name="class">WinnipegDEF
+								<xsl:attribute name="class">WashingtonDEF
 								</xsl:attribute> 
 			          			</xsl:when>
 			          			<xsl:when test="POS='FWD'">
-								<xsl:attribute name="class">WinnipegFWD
+								<xsl:attribute name="class">WashingtonFWD
 								</xsl:attribute> 
 			          			</xsl:when>
 							</xsl:choose>
