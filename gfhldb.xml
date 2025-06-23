@@ -5,6 +5,15 @@
 	<LASTTRANS>Tor's Mathew Barzal (F) and Tor's 2025 2nd round pick for TB's Sam Colangelo (F), NJ's 2025 1st round pick and Edm's 2025 1st round pick</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME>FLEURY, MARC-ANDRE</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=55016</WEB>
+			<TEAM>PHI</TEAM>
+			<POS>GLT</POS>
+			<SLOT>19</SLOT>
+		</Player>
+		<Player>
 			<NAME>GARNDER, EVAN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -2279,7 +2288,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213309</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>GUSHCHIN, DANIL</NAME>
@@ -6338,7 +6347,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175316</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEECHER, JOHN</NAME>
@@ -6995,7 +7004,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176679</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>FOWLER, CAM</NAME>
@@ -7427,7 +7436,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=83457</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>GRANLUND, MIKAEL</NAME>
@@ -7445,7 +7454,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=115612</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>O'REILLY, RYAN</NAME>
@@ -7589,7 +7598,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=142653</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>BUCHNEVICH, PAVEL</NAME>
@@ -8435,7 +8444,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143840</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>TAVARES, JOHN</NAME>
@@ -8570,7 +8579,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122877</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>KARLSSON, MELKER</NAME>
@@ -9389,7 +9398,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123358</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>COPLEY, PHEONIX</NAME>
@@ -9794,7 +9803,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130557</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>TERAVAINEN, TEUVO</NAME>
@@ -10091,7 +10100,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191378</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>FOLIGNO, NICK</NAME>
@@ -10568,7 +10577,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170113</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZADOROV, NIKITA</NAME>
@@ -10658,7 +10667,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105112</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>JUULSEN, NOAH</NAME>
