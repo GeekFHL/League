@@ -232,7 +232,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Anaheim" /></td>
+				<td class="no"><img src="Anaheim" height="100" width="150" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoANA">
@@ -345,7 +345,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Calgary" /></td>
+				<td class="no"><img src="Calgary" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoCGY">
@@ -458,7 +458,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Chicago" /></td>
+				<td class="no"><img src="Chicago" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoCHI">
@@ -571,7 +571,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Colorado" /></td>
+				<td class="no"><img src="Colorado" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoCOL">
@@ -686,7 +686,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Dallas" /></td>
+				<td class="no"><img src="Dallas" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoDAL">
@@ -799,7 +799,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Edmonton" /></td>
+				<td class="no"><img src="Edmonton" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoEDM">
@@ -912,7 +912,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="LosAngeles" /></td>
+				<td class="no"><img src="LosAngeles" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoLA">
@@ -1025,7 +1025,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Minnesota" /></td>
+				<td class="no"><img src="Minnesota" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoMIN">
@@ -1141,7 +1141,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Nashville" /></td>
+				<td class="no"><img src="Nashville" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoNSH">
@@ -1254,7 +1254,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="SanJose" /></td>
+				<td class="no"><img src="SanJose" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoSJ">
@@ -1367,7 +1367,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Seattle" /></td>
+				<td class="no"><img src="Seattle" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoSEA">
@@ -1480,7 +1480,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="StLouis" /></td>
+				<td class="no"><img src="StLouis" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoSTL">
@@ -1596,7 +1596,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Utah" /></td>
+				<td class="no"><img src="Utah" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoUTA">
@@ -1709,7 +1709,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Vancouver" /></td>
+				<td class="no"><img src="Vancouver" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoVAN">
@@ -1822,7 +1822,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Vegas" /></td>
+				<td class="no"><img src="Vegas" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoVGK">
@@ -1935,7 +1935,7 @@ a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Winnipeg" /></td>
+				<td class="no"><img src="Winnipeg" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoWPG">
