@@ -193,8 +193,8 @@ a.Columbus {color:#041E42;text-decoration:none;}
 a.Columbus:hover {color:#041E42;text-decoration:none;}
 a.Detroit {color:#C8102E;text-decoration:none;}
 a.Detroit:hover {color:#C8102E;text-decoration:none;}
-a.Florida {color:#C8102E;text-decoration:none;}
-a.Florida:hover {color:#C8102E;text-decoration:none;}
+a.Florida {color:#041E42;text-decoration:none;}
+a.Florida:hover {color:#041E42;text-decoration:none;}
 a.Montreal {color:#A6192E;text-decoration:none;}
 a.Montreal:hover {color:#A6192E;text-decoration:none;}
 a.NewJersey {color:#C8102E;text-decoration:none;}
@@ -464,7 +464,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						</td></tr>
 						<tr><td class="TeamInfoCAR">
 							<xsl:for-each select="GFHL/DB/GM[Team='CAR']">
-							GM - <a class='Carloina' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							GM - <a class='Carolina' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoCAR">
