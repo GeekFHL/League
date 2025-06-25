@@ -372,7 +372,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">BuffalloDEF
+						<xsl:attribute name="class">BuffaloDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
@@ -1619,15 +1619,15 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 				<tr >
 					<xsl:choose>
 			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">PittsburghGLT
+						<xsl:attribute name="class">PitsburghGLT
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">PittsburghDEF
+						<xsl:attribute name="class">PitsburghDEF
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:when test="POS='FWD'">
-						<xsl:attribute name="class">PittsburghFWD
+						<xsl:attribute name="class">PitsburghFWD
 						</xsl:attribute> 
 			          	</xsl:when>
 			          	<xsl:otherwise>
