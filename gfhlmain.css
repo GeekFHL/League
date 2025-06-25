@@ -102,11 +102,11 @@ a:hover, a:active {
 
     table.yesborder {border-width: 1px;font-size: 9px; border-color: #FFFFFF;border-style: ridge;border-collapse: collapse;}
 
-    td.no  {border-width: 0px; border-style: ridge;padding: 3px;}
-    td.image {border-width: 0px; border-style: ridge;padding: 3px; background-color:#ffffff}
-    td.FA  {border-width: 0px; border-style: ridge;padding: 3px; color:#00CC00}
-    td.season  {border-width: 0px; border-style: ridge;padding: 3px; color:#FFCC00}
-    td.award  {border-width: 0px; border-style: ridge;padding: 3px; color:#FF0000}
+    td.no     {border-width: 0px; border-style: ridge; padding: 3px;}
+    td.image  {border-width: 3px; border-style: ridge; padding: 3px; border-color: #000000; background-color:#FFFFFF}
+    td.FA     {border-width: 0px; border-style: ridge; padding: 3px; color:#00CC00}
+    td.season {border-width: 0px; border-style: ridge; padding: 3px; color:#FFCC00}
+    td.award  {border-width: 0px; border-style: ridge; padding: 3px; color:#FF0000}
 
     td.yes {border-width: 1px;border-color:#FFFFFF;border-style:ridge;padding:3px;}
 
