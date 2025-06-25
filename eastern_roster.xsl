@@ -43,6 +43,12 @@ td
             padding: 3px;
 	    }
 
+    td.image  {border-width: 0px; 
+            border-style: ridge; 
+            padding: 3px;
+	    background-color:#ffffff;
+	    }
+
     td.TeamName  {border-width: 0px; 
                   border-style: ridge; 
                   padding: 3px; 
@@ -230,7 +236,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Boston" height="100" width="150" /></td>
+				<td class="image"><img src="Boston" height="100" width="150" /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoBOS">
@@ -343,7 +349,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Buffalo" height="100" width="150"/></td>
+				<td class="image"><img src="Buffalo" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoBUF">
@@ -456,7 +462,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Carolina" height="100" width="150"/></td>
+				<td class="image"><img src="Carolina" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoCAR">
@@ -569,7 +575,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Columbus" height="100" width="150"/></td>
+				<td class="image"><img src="Columbus" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoCLB">
@@ -684,7 +690,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Detroit" height="100" width="150"/></td>
+				<td class="image"><img src="Detroit" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoDET">
@@ -797,7 +803,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Florida" height="100" width="150"/></td>
+				<td class="image"><img src="Florida" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoFLA">
@@ -910,7 +916,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Montreal" height="100" width="150"/></td>
+				<td class="image"><img src="Montreal" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoMTL">
@@ -1023,7 +1029,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="NewJersey" height="100" width="150"/></td>
+				<td class="image"><img src="NewJersey" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoNJ">
@@ -1139,7 +1145,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="NewYorkIslanders" height="100" width="150"/></td>
+				<td class="image"><img src="NewYorkIslanders" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoNYI">
@@ -1252,7 +1258,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="NewYorkRangers" height="100" width="150"/></td>
+				<td class="image"><img src="NewYorkRangers" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoNYR">
@@ -1365,7 +1371,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Ottawa" height="100" width="150"/></td>
+				<td class="image"><img src="Ottawa" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoOTT">
@@ -1478,7 +1484,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Philadelphia" height="100" width="150"/></td>
+				<td class="image"><img src="Philadelphia" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoPHI">
@@ -1594,7 +1600,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Pittsburgh" height="100" width="150"/></td>
+				<td class="image"><img src="Pittsburgh" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoPIT">
@@ -1707,7 +1713,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="TampaBay" height="100" width="150"/></td>
+				<td class="image"><img src="TampaBay" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoTB">
@@ -1820,7 +1826,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Toronto" height="100" width="150"/></td>
+				<td class="image"><img src="Toronto" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoTOR">
@@ -1933,7 +1939,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Washington" height="100" width="150"/></td>
+				<td class="image"><img src="Washington" height="100" width="150"/></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoWSH">
