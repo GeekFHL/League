@@ -230,7 +230,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 	<td class="no">
 		<table class="noborder">
 			<tr>
-				<td class="no"><img src="Boston" height="100" width="150" /></td>
+				<td class="no"><img src="Boston" height="100" width="150" background-color=#ffffff /></td>
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoBOS">
