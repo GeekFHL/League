@@ -1164,7 +1164,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 			</tr>
 		</table>
 		<table>
-			<xsl:for-each select="GFHL/DB/Player[TEAM='NSH']">
+			<xsl:for-each select="GFHL/DB/Player[TEAM='NYI']">
 				<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 			      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 				<tr >
