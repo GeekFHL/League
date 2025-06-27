@@ -104,6 +104,7 @@ a:hover, a:active {
 
     td.no     {border-width: 0px; border-style: ridge; padding: 3px;}
     td.image  {border-width: 3px; border-style: ridge; padding: 3px; border-color: #000000; background-color:#FFFFFF}
+    td.image75 {border-width: 3px; border-style: ridge; padding: 3px; border-color: #000000; background-color:#FFFFFF;width:75px}
     td.imageNoBorder  {border-width: 0px; border-style: none; padding: 3px; border-color: #000000; background-color:#FFFFFF}
     td.FA     {border-width: 0px; border-style: ridge; padding: 3px; color:#00CC00}
     td.season {border-width: 0px; border-style: ridge; padding: 3px; color:#FFCC00}
