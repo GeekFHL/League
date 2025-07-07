@@ -129,7 +129,7 @@ a.colorforward	 {color:#FFFFFF;}
 		<td><center><b>Player's Name</b></center></td>
 		<td><center><b>Position</b></center></td>
 	</tr>
-	<xsl:for-each select="GFHL/DB/Player[TEAM!='fa']">
+	<xsl:for-each select="GFHL/DB/Player[TEAM!='fa' and NAME!='']">
       	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 	<tr>
 		<xsl:choose>
