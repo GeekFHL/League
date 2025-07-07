@@ -726,14 +726,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoDET">
 							DETROIT RED WINGS
 						</td></tr>
-						<tr><td class="TeamInfoDET">
-							<xsl:for-each select="GFHL/DB/GM[Team='DET']">
-							GM - <a class='Detroit' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoDET">
-							HC: BOB PROBERT​
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='DET']">
+							<tr><td class="TeamInfoDET">
+								GM - <a class='Detroit' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoDET">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 				</center></td>
 			</tr>
@@ -839,14 +846,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoFLA">
 							FLORIDA PANTHERS
 						</td></tr>
-						<tr><td class="TeamInfoFLA">
-							<xsl:for-each select="GFHL/DB/GM[Team='FLA']">
-							GM - <a class='Florida' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoFLA">
-							&#160;
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='FLA']">
+							<tr><td class="TeamInfoFLA">
+								GM - <a class='Florida' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoFLA">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 				</center></td>
 			</tr>
@@ -952,14 +966,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoMTL">
 							MONTREAL CANADIENS
 						</td></tr>
-						<tr><td class="TeamInfoMTL">
-							<xsl:for-each select="GFHL/DB/GM[Team='MTL']">
-							GM - <a class='Montreal' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoMTL">
-							HC: PATRICK ROY​
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='MTL']">
+							<tr><td class="TeamInfoMTL">
+								GM - <a class='Montreal' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoMTL">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 				</center></td>
 			</tr>
@@ -1065,14 +1086,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoNJ">
 							NEW JERSEY DEVILS
 						</td></tr>
-						<tr><td class="TeamInfoNJ">
-							<xsl:for-each select="GFHL/DB/GM[Team='NJ']">
-							GM - <a class='NewJersey' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoNJ">
-							HC: KEITH TKACHUK
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='NJ']">
+							<tr><td class="TeamInfoNJ">
+								GM - <a class='NewJersey' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoNJ">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 				</center></td>
 			</tr>
@@ -1181,14 +1209,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoNYI">
 							NEW YORK ISLANDERS
 						</td></tr>
-						<tr><td class="TeamInfoNYI">
-							<xsl:for-each select="GFHL/DB/GM[Team='NYI']">
-							GM - <a class='NewYorkIslanders' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoNYI">
-							HC: BILLY SMITH
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='NYI']">
+							<tr><td class="TeamInfoNYI">
+								GM - <a class='NewYorkIslanders' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoNYI">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 				</center></td>
 			</tr>
@@ -1294,14 +1329,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoNYR">
 							NEW YORK RANGERS
 						</td></tr>
-						<tr><td class="TeamInfoNYR">
-							<xsl:for-each select="GFHL/DB/GM[Team='NYR']">
-							GM - <a class='NewYorkRangers' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoNYR">
-							&#160;
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='NYR']">
+							<tr><td class="TeamInfoNYR">
+								GM - <a class='NewYorkRangers' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoNYR">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 				</center></td>
 			</tr>
@@ -1407,14 +1449,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoOTT">
 							OTTAWA SENATORS
 						</td></tr>
-						<tr><td class="TeamInfoOTT">
-							<xsl:for-each select="GFHL/DB/GM[Team='OTT']">
-							GM - <a class='Ottawa' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoOTT">
-							&#160;
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='OTT']">
+							<tr><td class="TeamInfoOTT">
+								GM - <a class='Ottawa' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoOTT">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 				</center></td>
 			</tr>
@@ -1520,14 +1569,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoPHI">
 							PHILADELPHIA FLYERS
 						</td></tr>
-						<tr><td class="TeamInfoPHI">
-							<xsl:for-each select="GFHL/DB/GM[Team='PHI']">
-							GM - <a class='Philadelphia' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoPHI">
-							&#160;
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='PHI']">
+							<tr><td class="TeamInfoPHI">
+								GM - <a class='Philadelphia' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoPHI">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 					</center></td>
 			</tr>
@@ -1636,14 +1692,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoPIT">
 							PITTSBURGH PENGUINS
 						</td></tr>
-						<tr><td class="TeamInfoPIT">
-							<xsl:for-each select="GFHL/DB/GM[Team='PIT']">
-							GM - <a class='Pittsburgh' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoPIT">
-							HC: MARC-ANDRE FLEURY
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='PIT']">
+							<tr><td class="TeamInfoPIT">
+								GM - <a class='Pittsburgh' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoPIT">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 				</center></td>
 			</tr>
@@ -1749,14 +1812,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoTB">
 							TAMPA BAY LIGHTING
 						</td></tr>
-						<tr><td class="TeamInfoTB">
-							<xsl:for-each select="GFHL/DB/GM[Team='TB']">
-							GM - <a class='TampaBay' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoTB">
-							HC: VINCENT LECAVALIER​
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='TB']">
+							<tr><td class="TeamInfoTB">
+								GM - <a class='TampaBay' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoTB">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 				</center></td>
 			</tr>
@@ -1862,14 +1932,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoTOR">
 							TORONTO MAPLES LEAFS
 						</td></tr>
-						<tr><td class="TeamInfoTOR">
-							<xsl:for-each select="GFHL/DB/GM[Team='TOR']">
-							GM - <a class='Toronto' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoTOR">
-							&#160;
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='TOR']">
+							<tr><td class="TeamInfoTOR">
+								GM - <a class='Toronto' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoTOR">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 				</center></td>
 			</tr>
@@ -1975,14 +2052,21 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<tr><td class="TeamInfoWSH">
 							WASHINGTON CAPITALS
 						</td></tr>
-						<tr><td class="TeamInfoWSH">
-							<xsl:for-each select="GFHL/DB/GM[Team='WSH']">
-							GM - <a class='Washington' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
-							</xsl:for-each>
-						</td></tr>
-						<tr><td class="TeamInfoWSH">
-							HC:​ ROD LANGWAY
-						</td></tr>
+						<xsl:for-each select="GFHL/DB/GM[Team='WSH']">
+							<tr><td class="TeamInfoWSH">
+								GM - <a class='Washington' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							</td></tr>
+							<tr><td class="TeamInfoWSH">
+								<xsl:choose>
+									<xsl:when test="HeadCoach !=''">
+									    HC: <xsl:value-of select="HeadCoach"/>
+									</xsl:when>
+									<xsl:otherwise>
+									    &#160;
+									</xsl:otherwise>
+								</xsl:choose>
+							</td></tr>
+						</xsl:for-each>
 					</table>
 				</center></td>
 			</tr>
