@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>July 6, 2025</UPDATED>
-	<LASTTRANS> Vancouver-Columbus Trade (Rosen and picks for Maccelli)</LASTTRANS>
+	<LASTTRANS> Ottawa releases Eric Comrie (G)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>FLEURY, MARC-ANDRE</NAME>
@@ -1476,9 +1476,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175803</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOVALENKO, NIKOLAI</NAME>
@@ -6579,9 +6579,9 @@
 			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197655</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>KAKKO, KAAPO</NAME>
@@ -6959,7 +6959,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213741</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>BACKLUND, MIKAEL</NAME>
@@ -10422,9 +10422,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132742</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>FA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BELLOWS, KIEFFER</NAME>
