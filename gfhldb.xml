@@ -11384,6 +11384,7 @@
 			<Champ>17</Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>BUF</Team>
@@ -11397,6 +11398,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>CAR</Team>
@@ -11410,6 +11412,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach>GEOFF SANDERSON</HeadCoach>
 		</GM>
 		<GM>
 			<Team>CLB</Team>
@@ -11423,6 +11426,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>DET</Team>
@@ -11436,6 +11440,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach>BOB PROBERT</HeadCoach>
 		</GM>
 		<GM>
 			<Team>FLA</Team>
@@ -11449,6 +11454,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>MTL</Team>
@@ -11462,6 +11468,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach>PATRICK ROY</HeadCoach>
 		</GM>
 		<GM>
 			<Team>NJ</Team>
@@ -11475,6 +11482,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach>KEITH TKACHUK</HeadCoach>
 		</GM>
 		<GM>
 			<Team>NYI</Team>
@@ -11488,6 +11496,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach>BILLY SMITH</HeadCoach>
 		</GM>
 		<GM>
 			<Team>NYR</Team>
@@ -11501,6 +11510,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>OTT</Team>
@@ -11514,6 +11524,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>PHI</Team>
@@ -11527,6 +11538,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee>Y</Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>PIT</Team>
@@ -11540,6 +11552,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach>MARC-ANDRE FLEURY</HeadCoach>
 		</GM>
 		<GM>
 			<Team>TB</Team>
@@ -11553,6 +11566,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach>VINCENT LECAVALIER</HeadCoach>
 		</GM>
 		<GM>
 			<Team>TOR</Team>
@@ -11566,6 +11580,7 @@
 			<Champ>8, 25</Champ>
 			<Commissioner></Commissioner>
 			<Committee>Y</Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>WSH</Team>
@@ -11579,6 +11594,7 @@
 			<Champ></Champ>
 			<Commissioner>Y</Commissioner>
 			<Committee></Committee>
+			<HeadCoach>ROD LANGWAY</HeadCoach>
 		</GM>
 		<GM>
 			<Team>ANA</Team>
@@ -11592,6 +11608,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>CGY</Team>
@@ -11605,6 +11622,7 @@
 			<Champ>16</Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>CHI</Team>
@@ -11618,6 +11636,7 @@
 			<Champ>6</Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>COL</Team>
@@ -11631,6 +11650,7 @@
 			<Champ>14</Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>DAL</Team>
@@ -11644,6 +11664,7 @@
 			<Champ>7</Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>EDM</Team>
@@ -11657,6 +11678,7 @@
 			<Champ>13, 18</Champ>
 			<Commissioner>Y</Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>LA</Team>
@@ -11670,6 +11692,7 @@
 			<Champ>15, 22, 24</Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>MIN</Team>
@@ -11683,6 +11706,7 @@
 			<Champ>21</Champ>
 			<Commissioner></Commissioner>
 			<Committee>Y</Committee>
+			<HeadCoach>MARIAN GABORIK</HeadCoach>
 		</GM>
 		<GM>
 			<Team>NSH</Team>
@@ -11696,6 +11720,7 @@
 			<Champ>23</Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach>MIKE FISHER</HeadCoach>
 		</GM>
 		<GM>
 			<Team>SJ</Team>
@@ -11709,6 +11734,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach>MIKE RICCI</HeadCoach>
 		</GM>
 		<GM>
 			<Team>SEA</Team>
@@ -11722,6 +11748,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee>Y</Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>STL</Team>
@@ -11735,6 +11762,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>UTA</Team>
@@ -11748,6 +11776,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee>Y</Committee>
+			<HeadCoach>JEREMY ROENICK</HeadCoach>
 		</GM>
 		<GM>
 			<Team>VAN</Team>
@@ -11761,6 +11790,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>VGK</Team>
@@ -11774,6 +11804,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
 			<Team>WPG</Team>
@@ -11787,6 +11818,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
+			<HeadCoach></HeadCoach>
 		</GM>
 		
 	</DB>
