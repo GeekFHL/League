@@ -5,6 +5,15 @@
 	<LASTTRANS> Ottawa releases Eric Comrie (G)</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>OTT</TEAM>
+			<POS>DEF</POS>
+			<SLOT>16</SLOT>
+		</Player>
+		<Player>
 			<NAME>FLEURY, MARC-ANDRE</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
