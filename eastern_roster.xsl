@@ -89,8 +89,8 @@ td
     tr.BuffaloFWD          td {color:#FFFFFF;}  
     tr.BuffaloDEF          td {color:#003087;}
     tr.BuffaloGLT          td {color:#FFB81C;}
-    tr.CarolinaFWD         td {color:#FFFFFF;}
-    tr.CarolinaDEF         td {color:#C8102E;}
+    tr.olinaFWD         td {color:#FFFFFF;}
+    tr.olinaDEF         td {color:#C8102E;}
     tr.CarolinaGLT         td {color:#A2AAAD;}
     tr.ColumbusFWD         td {color:#FFFFFF;}
     tr.ColumbusDEF         td {color:#041E42;}
@@ -1041,7 +1041,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoNJ">
-							HC: BRIAN RAFALSKI​
+							HC: KEITH TKACHUK
 						</td></tr>
 					</table>
 				</center></td>
@@ -1612,7 +1612,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 							</xsl:for-each>
 						</td></tr>
 						<tr><td class="TeamInfoPIT">
-							HC: TOM BARRASSO
+							HC: MARC-ANDRE FLEURY
 						</td></tr>
 					</table>
 				</center></td>
