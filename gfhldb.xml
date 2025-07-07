@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>July 6, 2025</UPDATED>
-	<LASTTRANS>Columbus trades Matias Maccelli (F) to Vancouver for Isak Rosen (F), Tampa 2025 2nd, Utah 2025 2nd</LASTTRANS>
+	<LASTTRANS></LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>FLEURY, MARC-ANDRE</NAME>
@@ -3177,9 +3177,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=212466</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>PROTAS, ALIAKSEI</NAME>
@@ -3735,9 +3735,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233734</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>RUOTSALAINEN, ARTTU</NAME>
