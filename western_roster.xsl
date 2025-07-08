@@ -79,7 +79,7 @@ td
     td.TeamInfoUTA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101; background-color:#69B3E7}
     td.TeamInfoVAN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00843D; background-color:#00205B}
     td.TeamInfoVGK {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#333F48; background-color:#B9975B}
-    td.TeamInfoWPG {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#004C97; background-color:#041E42}
+    td.TeamInfoWPG {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#004C97; background-image: url("whitebackground75x50.png");}
 
     tr.AnaheimFWD      td {color:#FFFFFF;}
     tr.AnaheimDEF      td {color:#CF4520;}
