@@ -17,7 +17,7 @@ body
 table 
 {	border-width:2px;	
         font-size:14px; 	
-        border-color:#ffffff; 	
+        border-color:#FFFFFF; 	
         border-style:ridge;  
         border-collapse:collapse;
 }      
@@ -45,7 +45,7 @@ td
     td.image {border-width: 0px; 
 	      border-style: ridge; 
 	      padding: 3px; 
-	      background-color:#ffffff; 
+	      background-color:#FFFFFF; 
 	      }
     td.TeamName  {border-width: 0px; 
                   border-style: ridge; 
