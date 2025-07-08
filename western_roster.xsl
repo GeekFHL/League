@@ -66,21 +66,21 @@ td
 	     }
     td.TeamInfo {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center;}
     td.TeamInfoANA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#CF4520;}
-    td.TeamInfoCGY {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#F1BE48;}
-    td.TeamInfoCHI {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101;}
-    td.TeamInfoCOL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#236192;}
-    td.TeamInfoDAL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101;}
-    td.TeamInfoEDM {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#CF4520;}
-    td.TeamInfoLA  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#A2AAAD;}
-    td.TeamInfoMIN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#DDCBA4;}
+    td.TeamInfoCGY {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
+    td.TeamInfoCHI {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
+    td.TeamInfoCOL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#6F263D;}
+    td.TeamInfoDAL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00843D;}
+    td.TeamInfoEDM {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00205B;}
+    td.TeamInfoLA  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101;}
+    td.TeamInfoMIN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#154734;}
     td.TeamInfoNSH {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#041E42;}
-    td.TeamInfoSJ  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101;}
-    td.TeamInfoSEA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#9CDBD9;}
-    td.TeamInfoSTL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#FFB81C;}
+    td.TeamInfoSJ  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#006271;}
+    td.TeamInfoSEA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#051C2C;}
+    td.TeamInfoSTL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#0072CE;}
     td.TeamInfoUTA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101;}
-    td.TeamInfoVAN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00843D;}
-    td.TeamInfoVGK {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#333F48;}
-    td.TeamInfoWPG {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#004C97;}
+    td.TeamInfoVAN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00205B;}
+    td.TeamInfoVGK {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#B9975B;}
+    td.TeamInfoWPG {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#041E42;}
 
     tr.AnaheimFWD      {color:#010101;background-color:#CF4520;}
     tr.AnaheimDEF      {color:#FFFFFF;background-color:#CF4520;}
@@ -88,53 +88,113 @@ td
     tr.AnaheimFWD      td {color:#010101;background-color:#CF4520;}
     tr.AnaheimDEF      td {color:#FFFFFF;background-color:#CF4520;}
     tr.AnaheimGLT      td {color:#B9975B;background-color:#CF4520;}
-    tr.CalgaryFWD      td {color:#FFFFFF;}  
-    tr.CalgaryDEF      td {color:#C8102E;}
-    tr.CalgaryGLT      td {color:#F1BE48;}
-    tr.ChicagoFWD      td {color:#FFFFFF;}
-    tr.ChicagoDEF      td {color:#C8102E;}
-    tr.ChicagoGLT      td {color:#CC8A00;}
-    tr.ColoradoFWD     td {color:#FFFFFF;}
-    tr.ColoradoDEF     td {color:#236192;}
-    tr.ColoradoGLT     td {color:#A2AAAD;}
-    tr.DallasFWD       td {color:#FFFFFF;}
-    tr.DallasDEF       td {color:#00843D;}
-    tr.DallasGLT       td {color:#A2AAAD;}
-    tr.EdmontonFWD     td {color:#FFFFFF;}
-    tr.EdmontonDEF     td {color:#00205B;}
-    tr.EdmontonGLT     td {color:#CF4520;}
-    tr.LosAngelesFWD   td {color:#FFFFFF;}
-    tr.LosAngelesDEF   td {color:#A2AAAD;}
-    tr.LosAngelesGLT   td {color:#868787;}
-    tr.MinnesotaFWD    td {color:#FFFFFF;}
-    tr.MinnesotaDEF    td {color:#154734;}
-    tr.MinnesotaGLT    td {color:#EAAA00;}
-    tr.NashvilleFWD    td {color:#FFFFFF;}
-    tr.NashvilleDEF    td {color:#041E42;}
-    tr.NashvilleGLT    td {color:#FFB81C;}
-    tr.StLouisFWD      td {color:#FFFFFF;}
-    tr.StLouisDEF      td {color:#003087;}
-    tr.StLouisGLT      td {color:#FFB81C;}
-    tr.SanJoseFWD      td {color:#FFFFFF;}  
-    tr.SanJoseDEF      td {color:#006271;}
-    tr.SanJoseGLT      td {color:#F1BE48;}
-    tr.SeattleFWD      td {color:#FFFFFF;}
-    tr.SeattleDEF      td {color:#6BA4B8;}
-    tr.SeattleGLT      td {color:#E57200;}
-    tr.UtahFWD         td {color:#FFFFFF;}
-    tr.UtahDEF         td {color:#69B3E7;}
-    	tr.UtahGLT         td {color:#69B3E7;}
-    tr.VancouverFWD    td {color:#FFFFFF;}
-    tr.VancouverDEF    td {color:#00205B;}
-    tr.VancouverGLT    td {color:#00843D;}
-    tr.VegasFWD        td {color:#FFFFFF;}
-    tr.VegasDEF        td {color:#333F48;}
-    tr.VegasGLT        td {color:#B9975B;}
-    tr.WinnipegFWD     td {color:#FFFFFF;}
-    tr.WinnipegDEF     td {color:#004C97;}
-    tr.WinnipegGLT     td {color:#A2AAAD;}
 	
-a, a:link, a:visited {
+    tr.CalgaryFWD      {color:#010101;background-color:#C8102E;}
+    tr.CalgaryDEF      {color:#FFFFFF;background-color:#C8102E;}
+    tr.CalgaryGLT      {color:#F1BE48;background-color:#C8102E;}
+    tr.CalgaryFWD      td {color:#010101;background-color:#C8102E;}
+    tr.CalgaryDEF      td {color:#FFFFFF;background-color:#C8102E;}
+    tr.CalgaryGLT      td {color:#F1BE48;background-color:#C8102E;}
+	
+    tr.ChicagoFWD      {color:#010101;background-color:#C8102E;}
+    tr.ChicagoDEF      {color:#FFFFFF;background-color:#C8102E;}
+    tr.ChicagoGLT      {color:#CC8A00;background-color:#C8102E;}
+    tr.ChicagoFWD      td {color:#010101;background-color:#C8102E;}
+    tr.ChicagoDEF      td {color:#FFFFFF;background-color:#C8102E;}
+    tr.ChicagoGLT      td {color:#CC8A00;background-color:#C8102E;}
+	
+    tr.ColoradoFWD     {color:#236192;background-color:#6F263D;}
+    tr.ColoradoDEF     {color:#FFFFFF;background-color:#6F263D;}
+    tr.ColoradoGLT     {color:#A2AAAD;background-color:#6F263D;}
+    tr.ColoradoFWD     td {color:#236192;background-color:#6F263D;}
+    tr.ColoradoDEF     td {color:#FFFFFF;background-color:#6F263D;}
+    tr.ColoradoGLT     td {color:#A2AAAD;background-color:#6F263D;}
+	
+    tr.DallasFWD       {color:#010101;background-color:#00843D;}
+    tr.DallasDEF       {color:#FFFFFF;background-color:#00843D;}
+    tr.DallasGLT       {color:#A2AAAD;background-color:#00843D;}
+    tr.DallasFWD       td {color:#010101;background-color:#00843D;}
+    tr.DallasDEF       td {color:#FFFFFF;background-color:#00843D;}
+    tr.DallasGLT       td {color:#A2AAAD;background-color:#00843D;}
+	
+    tr.EdmontonFWD     {color:#010101;background-color:#00205B;}
+    tr.EdmontonDEF     {color:#FFFFFF;background-color:#00205B;}
+    tr.EdmontonGLT     {color:#CF4520;background-color:#00205B;}
+    tr.EdmontonFWD     td {color:#010101;background-color:#00205B;}
+    tr.EdmontonDEF     td {color:#FFFFFF;background-color:#00205B;}
+    tr.EdmontonGLT     td {color:#CF4520;background-color:#00205B;}
+	
+    tr.LosAngelesFWD   {color:#A2AAAD;background-color:#010101;}
+    tr.LosAngelesDEF   {color:#FFFFFF;background-color:#010101;}
+    tr.LosAngelesGLT   {color:#868787;background-color:#010101;}
+    tr.LosAngelesFWD   td {color:#A2AAAD;background-color:#010101;}
+    tr.LosAngelesDEF   td {color:#FFFFFF;background-color:#010101;}
+    tr.LosAngelesGLT   td {color:#868787;background-color:#010101;}
+	
+    tr.MinnesotaFWD    {color:#DDCBA4;background-color:#154734;}
+    tr.MinnesotaDEF    {color:#FFFFFF;background-color:#154734;}
+    tr.MinnesotaGLT    {color:#EAAA00;background-color:#154734;}
+    tr.MinnesotaFWD    td {color:#DDCBA4;background-color:#154734;}
+    tr.MinnesotaDEF    td {color:#FFFFFF;background-color:#154734;}
+    tr.MinnesotaGLT    td {color:#EAAA00;background-color:#154734;}
+	
+    tr.NashvilleFWD    {color:#FFB81C;background-color:#041E42;}
+    tr.NashvilleDEF    {color:#FFFFFF;background-color:#041E42;}
+    tr.NashvilleGLT    {color:#A2AAAD;background-color:#041E42;}
+    tr.NashvilleFWD    td {color:#FFB81C;background-color:#041E42;}
+    tr.NashvilleDEF    td {color:#FFFFFF;background-color:#041E42;}
+    tr.NashvilleGLT    td {color:#A2AAAD;background-color:#041E42;}
+	
+    tr.StLouisFWD      {color:#FFB81C;background-color:#0072CE;}
+    tr.StLouisDEF      {color:#FFFFFF;background-color:#0072CE;}
+    tr.StLouisGLT      {color:#9A1B31;background-color:#0072CE;}
+    tr.StLouisFWD      td {color:#FFB81C;background-color:#0072CE;}
+    tr.StLouisDEF      td {color:#FFFFFF;background-color:#0072CE;}
+    tr.StLouisGLT      td {color:#9A1B31;background-color:#0072CE;}
+	
+    tr.SanJoseFWD      {color:#010101;background-color:#006271;}
+    tr.SanJoseDEF      {color:#FFFFFF;background-color:#006271;}
+    tr.SanJoseGLT      {color:#E57200;background-color:#006271;}
+    tr.SanJoseFWD      td {color:#010101;background-color:#006271;}
+    tr.SanJoseDEF      td {color:#FFFFFF;background-color:#006271;}
+    tr.SanJoseGLT      td {color:#E57200;background-color:#006271;}
+	
+    tr.SeattleFWD      {color:#9CDBD9;background-color:#051C2C;}
+    tr.SeattleDEF      {color:#FFFFFF;background-color:#051C2C;}
+    tr.SeattleGLT      {color:#6BA4B8;background-color:#051C2C;}
+    tr.SeattleFWD      td {color:#9CDBD9;background-color:#051C2C;}
+    tr.SeattleDEF      td {color:#FFFFFF;background-color:#051C2C;}
+    tr.SeattleGLT      td {color:#6BA4B8;background-color:#051C2C;}
+	
+    tr.UtahFWD         {color:#69B3E7;background-color:#010101;}
+    tr.UtahDEF         {color:#FFFFFF;background-color:#010101;}
+    tr.UtahGLT         {color:#69B3E7;background-color:#010101;}
+    tr.UtahFWD         td {color:#69B3E7;background-color:#010101;}
+    tr.UtahDEF         td {color:#FFFFFF;background-color:#010101;}
+    tr.UtahGLT         td {color:#69B3E7;background-color:#010101;}
+	
+    tr.VancouverFWD    {color:#00843D;background-color:#00205B;}
+    tr.VancouverDEF    {color:#FFFFFF;background-color:#00205B;}
+    tr.VancouverGLT    {color:#051C2C;background-color:#00205B;}
+    tr.VancouverFWD    td {color:#00843D;background-color:#00205B;}
+    tr.VancouverDEF    td {color:#FFFFFF;background-color:#00205B;}
+    tr.VancouverGLT    td {color:#051C2C;background-color:#00205B;}
+	
+    tr.VegasFWD        {color:#010101;background-color:#B9975B;}
+    tr.VegasDEF        {color:#FFFFFF;background-color:#B9975B;}
+    tr.VegasGLT        {color:#333F48;background-color:#B9975B;}
+    tr.VegasFWD        td {color:#010101;background-color:#B9975B;}
+    tr.VegasDEF        td {color:#FFFFFF;background-color:#B9975B;}
+    tr.VegasGLT        td {color:#333F48;background-color:#B9975B;}
+	
+    tr.WinnipegFWD     {color:#004C97;background-color:#041E42;}
+    tr.WinnipegDEF     {color:#FFFFFF;background-color:#041E42;}
+    tr.WinnipegGLT     {color:#A2AAAD;background-color:#041E42;}
+    tr.WinnipegFWD     td {color:#004C97;background-color:#041E42;}
+    tr.WinnipegDEF     td {color:#FFFFFF;background-color:#041E42;}
+    tr.WinnipegGLT     td {color:#A2AAAD;background-color:#041E42;}
+	
+a, a: link, a: visited {
 	text-decoration: none; 
 	font-family: Verdana, sans-serif; 
 	}
@@ -144,87 +204,103 @@ a:hover, a:active {
 a.AnaheimFWD     {color:#010101;}
 a.AnaheimDEF     {color:#FFFFFF;}
 a.AnaheimGLT     {color:#B9975B;}
-a.CalgaryFWD     {color:#FFFFFF;}
-a.CalgaryDEF     {color:#C8102E;}
+	
+a.CalgaryFWD     {color:#010101;}
+a.CalgaryDEF     {color:#FFFFFF;}
 a.CalgaryGLT     {color:#F1BE48;}
-a.ChicagoFWD     {color:#FFFFFF;}
-a.ChicagoDEF     {color:#C8102E;}
+	
+a.ChicagoFWD     {color:#010101;}
+a.ChicagoDEF     {color:#FFFFFF;}
 a.ChicagoGLT     {color:#CC8A00;}
-a.ColoradoFWD    {color:#FFFFFF;}
-a.ColoradoDEF    {color:#236192;}
+	
+a.ColoradoFWD    {color:#236192;}
+a.ColoradoDEF    {color:#FFFFFF;}
 a.ColoradoGLT    {color:#A2AAAD;}
-a.DallasFWD      {color:#FFFFFF;}
-a.DallasDEF      {color:#00843D;}
+	
+a.DallasFWD      {color:#010101;}
+a.DallasDEF      {color:#FFFFFF;}
 a.DallasGLT      {color:#A2AAAD;}
-a.EdmontonFWD    {color:#FFFFFF;}
-a.EdmontonDEF    {color:#00205B;}
+	
+a.EdmontonFWD    {color:#010101;}
+a.EdmontonDEF    {color:#FFFFFF;}
 a.EdmontonGLT    {color:#CF4520;}
-a.LosAngelesFWD  {color:#FFFFFF;}
-a.LosAngelesDEF  {color:#A2AAAD;}
+	
+a.LosAngelesFWD  {color:#A2AAAD;}
+a.LosAngelesDEF  {color:#FFFFFF;}
 a.LosAngelesGLT  {color:#868787;}
-a.MinnesotaFWD  {color:#FFFFFF;}
-a.MinnesotaDEF  {color:#154734;}
+	
+a.MinnesotaFWD  {color:#DDCBA4;}
+a.MinnesotaDEF  {color:#FFFFFF;}
 a.MinnesotaGLT  {color:#EAAA00;}
+	
 a.NashvilleFWD  {color:#FFFFFF;}
 a.NashvilleDEF  {color:#041E42;}
 a.NashvilleGLT  {color:#FFB81C;}
-a.NashvilleFWD  {color:#FFFFFF;}
-a.NashvilleDEF  {color:#041E42;}
-a.NashvilleGLT  {color:#FFB81C;}
-a.StLouisFWD    {color:#FFFFFF;}
-a.StLouisDEF    {color:#003087;}
-a.StLouisGLT    {color:#FFB81C;}
-a.SanJoseFWD    {color:#FFFFFF;}  
-a.SanJoseDEF    {color:#006271;}
-a.SanJoseGLT    {color:#F1BE48;}
-a.SeattleFWD    {color:#FFFFFF;}
-a.SeattleDEF    {color:#6BA4B8;}
-a.SeattleGLT    {color:#E57200;}
-a.UtahFWD       {color:#FFFFFF;}
-a.UtahDEF       {color:#69B3E7;}
-    	a.UtahGLT         {color:#69B3E7;}
+	
+a.NashvilleFWD  {color:#FFB81C;}
+a.NashvilleDEF  {color:#FFFFFF;}
+a.NashvilleGLT  {color:#A2AAAD;}
+	
+a.StLouisFWD    {color:#FFB81C;}
+a.StLouisDEF    {color:#FFFFFF;}
+a.StLouisGLT    {color:#9A1B31;}
+	
+a.SanJoseFWD    {color:#010101;}  
+a.SanJoseDEF    {color:#FFFFFF;}
+a.SanJoseGLT    {color:#E57200;}
+	
+a.SeattleFWD    {color:#9CDBD9;}
+a.SeattleDEF    {color:#FFFFFF;}
+a.SeattleGLT    {color:#6BA4B8;}
+	
+a.UtahFWD       {color:#69B3E7;}
+a.UtahDEF       {color:#FFFFFF;}
+a.UtahGLT       {color:#69B3E7;}
+	
 a.VancouverFWD  {color:#FFFFFF;}
 a.VancouverDEF  {color:#00205B;}
 a.VancouverGLT  {color:#00843D;}
-a.VegasFWD      {color:#FFFFFF;}
-a.VegasDEF      {color:#333F48;}
-a.VegasGLT      {color:#B9975B;}
-a.WinnipegFWD   {color:#FFFFFF;}
-a.WinnipegDEF   {color:#004C97;}
+	
+a.VegasFWD      {color:#010101;}
+a.VegasDEF      {color:#FFFFFF;}
+a.VegasGLT      {color:#333F48;}
+	
+a.WinnipegFWD   {color:#004C97;}
+a.WinnipegDEF   {color:#FFFFFF;}
 a.WinnipegGLT   {color:#A2AAAD;}
 
 a.Anaheim {color:#CF4520;text-decoration:none;}
 a.Anaheim:hover {color:#CF4520;text-decoration:none;}
-a.Calgary {color:#F1BE48;text-decoration:none;}
-a.Calgary:hover {color:#F1BE48;text-decoration:none;}
-a.Chicago {color:#010101;text-decoration:none;}
-a.Chicago:hover {color:#010101;text-decoration:none;}
-a.Colorado {color:#236192;text-decoration:none;}
-a.Colorado:hover {color:#236192;text-decoration:none;}
-a.Dallas {color:#010101;text-decoration:none;}
-a.Dallas:hover {color:#010101;text-decoration:none;}
-a.Edmonton {color:#CF4520;text-decoration:none;}
-a.Edmonton:hover {color:#CF4520;text-decoration:none;}
-a.LosAngeles {color:#A2AAAD;text-decoration:none;}
-a.LosAngeles:hover {color:#A2AAAD;text-decoration:none;}
-a.Minnesota {color:#DDCBA4;text-decoration:none;}
-a.Minnesota:hover {color:#DDCBA4;text-decoration:none;}
+a.Calgary {color:#C8102E;text-decoration:none;}
+a.Calgary:hover {color:#C8102E;text-decoration:none;}
+a.Chicago {color:#C8102E;text-decoration:none;}
+a.Chicago:hover {color:#C8102E;text-decoration:none;}
+a.Colorado {color:#6F263D;text-decoration:none;}
+a.Colorado:hover {color:#6F263D;text-decoration:none;}
+a.Dallas {color:#00843D;text-decoration:none;}
+a.Dallas:hover {color:#00843D;text-decoration:none;}
+a.Edmonton {color:#00205B;text-decoration:none;}
+a.Edmonton:hover {color:#00205B;text-decoration:none;}
+a.LosAngeles {color:#010101;text-decoration:none;}
+a.LosAngeles:hover {color:#010101;text-decoration:none;}
+a.Minnesota {color:#154734;text-decoration:none;}
+a.Minnesota:hover {color:#154734;text-decoration:none;}
 a.Nashville {color:#041E42;text-decoration:none;}
 a.Nashville:hover {color:#041E42;text-decoration:none;}
-a.StLouis {color:#FFB81C;text-decoration:none;}
-a.StLouis:hover {color:#FFB81C;text-decoration:none;}
-a.SanJose {color:#010101;text-decoration:none;}
-a.SanJose:hover {color:#010101;text-decoration:none;}
-a.Seattle {color:#9CDBD9;text-decoration:none;}
-a.Seattle:hover {color:#9CDBD9;text-decoration:none;}
+a.StLouis {color:#0072CE;text-decoration:none;}
+a.StLouis:hover {color:#0072CE;text-decoration:none;}
+a.SanJose {color:#006271;text-decoration:none;}
+a.SanJose:hover {color:#006271;text-decoration:none;}
+a.Seattle {color:#051C2C;text-decoration:none;}
+a.Seattle:hover {color:#051C2C;text-decoration:none;}
 a.Utah {color:#010101;text-decoration:none;}
 a.Utah:hover {color:#010101;text-decoration:none;}
-a.Vancouver {color:#00843D;text-decoration:none;}
-a.Vancouver:hover {color:#00843D;text-decoration:none;}
-a.Vegas {color:#333F48;text-decoration:none;}
-a.Vegas:hover {color:#333F48;text-decoration:none;}
-a.Winnipeg {color:#004C97;text-decoration:none;}
-a.Winnipeg:hover {color:#004C97;text-decoration:none;}
+a.Vancouver {color:#00205B;text-decoration:none;}
+a.Vancouver:hover {color:#00205B;text-decoration:none;}
+a.Vegas {color:#B9975B;text-decoration:none;}
+a.Vegas:hover {color:#B9975B;text-decoration:none;}
+a.Winnipeg {color:#041E42;text-decoration:none;}
+a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 
 </style>
 </head>
