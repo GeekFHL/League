@@ -84,6 +84,9 @@ td
     tr.AnaheimFWD      {color:#010101;background-color:#CF4520;}
     tr.AnaheimDEF      {color:#FFFFFF;background-color:#CF4520;}
     tr.AnaheimGLT      {color:#B9975B;background-color:#CF4520;}
+    tr.AnaheimFWD      td {color:#010101;background-color:#CF4520;}
+    tr.AnaheimDEF      td {color:#FFFFFF;background-color:#CF4520;}
+    tr.AnaheimGLT      td {color:#B9975B;background-color:#CF4520;}
     tr.CalgaryFWD      td {color:#FFFFFF;}  
     tr.CalgaryDEF      td {color:#C8102E;}
     tr.CalgaryGLT      td {color:#F1BE48;}
