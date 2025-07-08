@@ -257,9 +257,9 @@ a.UtahFWD       {color:#69B3E7;}
 a.UtahDEF       {color:#FFFFFF;}
 a.UtahGLT       {color:#69B3E7;}
 	
-a.VancouverFWD  {color:#FFFFFF;}
-a.VancouverDEF  {color:#00205B;}
-a.VancouverGLT  {color:#00843D;}
+a.VancouverFWD  {color:#00843D;}
+a.VancouverDEF  {color:#FFFFFF;}
+a.VancouverGLT  {color:#051C2C;}
 	
 a.VegasFWD      {color:#010101;}
 a.VegasDEF      {color:#FFFFFF;}
