@@ -50,7 +50,8 @@ td
     td.TeamName  {border-width: 0px; 
                   border-style: ridge; 
                   padding: 3px; 
-	          width: 260px; 
+	          width: 260px;
+		  background-color:#FFFFFF; 
 	         }
 	
     td.Pos  {border-width: 0px; 
@@ -64,7 +65,7 @@ td
 	      width:325px
 	     }
     td.TeamInfo {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center;}
-    td.TeamInfoANA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101; background-color:#CF4520;}
+    td.TeamInfoANA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#CF4520;}
     td.TeamInfoCGY {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#F1BE48; background-color:#C8102E;}
     td.TeamInfoCHI {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101; background-color:#C8102E;}
     td.TeamInfoCOL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#236192; background-color:#6F263D;}
@@ -192,8 +193,8 @@ a.WinnipegFWD   {color:#FFFFFF;}
 a.WinnipegDEF   {color:#004C97;}
 a.WinnipegGLT   {color:#A2AAAD;}
 
-a.Anaheim {color:#010101;text-decoration:none;}
-a.Anaheim:hover {color:#010101;text-decoration:none;}
+a.Anaheim {color:#CF4520;text-decoration:none;}
+a.Anaheim:hover {color:#CF4520;text-decoration:none;}
 a.Calgary {color:#F1BE48;text-decoration:none;}
 a.Calgary:hover {color:#F1BE48;text-decoration:none;}
 a.Chicago {color:#010101;text-decoration:none;}
