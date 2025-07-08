@@ -81,9 +81,9 @@ td
     td.TeamInfoVGK {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#333F48; background-color:#B9975B;}
     td.TeamInfoWPG {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#004C97; background-color:#041E42;}
 
-    tr.AnaheimFWD      td {color:#FFFFFF;}
-    tr.AnaheimDEF      td {color:#CF4520;}
-    tr.AnaheimGLT      td {color:#B9975B;}
+    tr.AnaheimFWD      {color:#010101;background-color:#FFFFFF;}
+    tr.AnaheimDEF      {color:#CF4520;background-color:#FFFFFF;}
+    tr.AnaheimGLT      {color:#B9975B;background-color:#FFFFFF;}
     tr.CalgaryFWD      td {color:#FFFFFF;}  
     tr.CalgaryDEF      td {color:#C8102E;}
     tr.CalgaryGLT      td {color:#F1BE48;}
