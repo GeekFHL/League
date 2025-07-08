@@ -71,7 +71,7 @@ td
     td.TeamInfoDAL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101; background-color:#00843D}
     td.TeamInfoEDM {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#CF4520; background-color:#00205B}
     td.TeamInfoLA  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#A2AAAD; background-color:#010101}
-    td.TeamInfoMIN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#154734; background-color:#A6192E}
+    td.TeamInfoMIN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#154734; background-color:#DDCBA4}
     td.TeamInfoNSH {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#041E42; background-color:#FFB81C}
     td.TeamInfoSJ  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101; background-color:#006271}
     td.TeamInfoSEA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#9CDBD9; background-color:#051C2C}
