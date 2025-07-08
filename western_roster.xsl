@@ -15,14 +15,14 @@ body
         font-size:14px;
 }
 table 
-{	border-width:2px;	
+{	border-width:0px;	
         font-size:14px; 	
         border-color:#000000; 	
         border-style:ridge;  
         border-collapse:collapse;
 }      
 td 
-{	border-width:1px;
+{	border-width:0px;
 	border-color:#000000;
         border-style:ridge;   
         padding:3px; 
