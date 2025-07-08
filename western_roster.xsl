@@ -17,13 +17,13 @@ body
 table 
 {	border-width:2px;	
         font-size:14px; 	
-        border-color:#FFFFFF; 	
+        border-color:#000000; 	
         border-style:ridge;  
         border-collapse:collapse;
 }      
 td 
 {	border-width:1px;
-	border-color:#FFFFFF;
+	border-color:#000000;
         border-style:ridge;   
         padding:3px; 
         color:#FFFFFF;
