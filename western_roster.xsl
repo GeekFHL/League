@@ -137,7 +137,7 @@ a, a:link, a:visited {
 a:hover, a:active {
 	}
 
-a.AnaheimFWD     {color:#FFFFFF;}
+a.AnaheimFWD     {color:#010101;}
 a.AnaheimDEF     {color:#CF4520;}
 a.AnaheimGLT     {color:#B9975B;}
 a.CalgaryFWD     {color:#FFFFFF;}
