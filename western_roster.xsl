@@ -199,7 +199,6 @@ a, a: link, a: visited {
 	font-family: Verdana, sans-serif; 
 	}
 a:hover, a:active {
-	}
 
 a.AnaheimFWD     {color:#010101;}
 a.AnaheimDEF     {color:#FFFFFF;}
@@ -301,7 +300,7 @@ a.Vegas {color:#B9975B;text-decoration:none;}
 a.Vegas:hover {color:#B9975B;text-decoration:none;}
 a.Winnipeg {color:#041E42;text-decoration:none;}
 a.Winnipeg:hover {color:#041E42;text-decoration:none;}
-
+	}
 </style>
 </head>
 
