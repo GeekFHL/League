@@ -71,7 +71,7 @@ td
     td.TeamInfoDAL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101; background-color:#00843D}
     td.TeamInfoEDM {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#CF4520; background-color:#00205B}
     td.TeamInfoLA  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#A2AAAD; background-color:#010101}
-    td.TeamInfoMIN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#FFFFFF; background-color:#154734}
+    td.TeamInfoMIN {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#154734; background-color:#A6192E}
     td.TeamInfoNSH {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#041E42; background-color:#FFB81C}
     td.TeamInfoSJ  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101; background-color:#006271}
     td.TeamInfoSEA {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#9CDBD9; background-color:#051C2C}
@@ -189,36 +189,36 @@ a.WinnipegFWD   {color:#FFFFFF;}
 a.WinnipegDEF   {color:#004C97;}
 a.WinnipegGLT   {color:#A2AAAD;}
 
-a.Anaheim {color:#CF4520;text-decoration:none;}
-a.Anaheim:hover {color:#CF4520;text-decoration:none;}
-a.Calgary {color:#C8102E;text-decoration:none;}
-a.Calgary:hover {color:#C8102E;text-decoration:none;}
-a.Chicago {color:#C8102E;text-decoration:none;}
-a.Chicago:hover {color:#C8102E;text-decoration:none;}
+a.Anaheim {color:#010101;text-decoration:none;}
+a.Anaheim:hover {color:#010101;text-decoration:none;}
+a.Calgary {color:#F1BE48;text-decoration:none;}
+a.Calgary:hover {color:#F1BE48;text-decoration:none;}
+a.Chicago {color:#010101;text-decoration:none;}
+a.Chicago:hover {color:#010101;text-decoration:none;}
 a.Colorado {color:#236192;text-decoration:none;}
 a.Colorado:hover {color:#236192;text-decoration:none;}
-a.Dallas {color:#00843D;text-decoration:none;}
-a.Dallas:hover {color:#00843D;text-decoration:none;}
-a.Edmonton {color:#00205B;text-decoration:none;}
-a.Edmonton:hover {color:#00205B;text-decoration:none;}
+a.Dallas {color:#010101;text-decoration:none;}
+a.Dallas:hover {color:#010101;text-decoration:none;}
+a.Edmonton {color:#CF4520;text-decoration:none;}
+a.Edmonton:hover {color:#CF4520;text-decoration:none;}
 a.LosAngeles {color:#A2AAAD;text-decoration:none;}
 a.LosAngeles:hover {color:#A2AAAD;text-decoration:none;}
 a.Minnesota {color:#154734;text-decoration:none;}
 a.Minnesota:hover {color:#154734;text-decoration:none;}
-a.Nashville {color:#FFB81C;text-decoration:none;}
-a.Nashville:hover {color:#FFB81C;text-decoration:none;}
-a.StLouis {color:#003087;text-decoration:none;}
-a.StLouis:hover {color:#003087;text-decoration:none;}
-a.SanJose {color:#006271;text-decoration:none;}
-a.SanJose:hover {color:#006271;text-decoration:none;}
+a.Nashville {color:#041E42;text-decoration:none;}
+a.Nashville:hover {color:#041E42;text-decoration:none;}
+a.StLouis {color:#FFB81C;text-decoration:none;}
+a.StLouis:hover {color:#FFB81C;text-decoration:none;}
+a.SanJose {color:#010101;text-decoration:none;}
+a.SanJose:hover {color:#010101;text-decoration:none;}
 a.Seattle {color:#9CDBD9;text-decoration:none;}
 a.Seattle:hover {color:#9CDBD9;text-decoration:none;}
-a.Utah {color:#69B3E7;text-decoration:none;}
-a.Utah:hover {color:#69B3E7;text-decoration:none;}
-a.Vancouver {color:#00205B;text-decoration:none;}
-a.Vancouver:hover {color:#00205B;text-decoration:none;}
-a.Vegas {color:#B9975B;text-decoration:none;}
-a.Vegas:hover {color:#B9975B;text-decoration:none;}
+a.Utah {color:#010101;text-decoration:none;}
+a.Utah:hover {color:#010101;text-decoration:none;}
+a.Vancouver {color:#00843D;text-decoration:none;}
+a.Vancouver:hover {color:#00843D;text-decoration:none;}
+a.Vegas {color:#333F48;text-decoration:none;}
+a.Vegas:hover {color:#333F48;text-decoration:none;}
 a.Winnipeg {color:#004C97;text-decoration:none;}
 a.Winnipeg:hover {color:#004C97;text-decoration:none;}
 
