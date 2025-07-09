@@ -175,10 +175,10 @@ td
 	
     tr.VancouverFWD    {color:#00843D;background-color:#00205B;}
     tr.VancouverDEF    {color:#FFFFFF;background-color:#00205B;}
-    tr.VancouverGLT    {color:#051C2C;background-color:#00205B;}
+    tr.VancouverGLT    {color:#97999B;background-color:#00205B;}
     tr.VancouverFWD    td {color:#00843D;background-color:#00205B;}
     tr.VancouverDEF    td {color:#FFFFFF;background-color:#00205B;}
-    tr.VancouverGLT    td {color:#051C2C;background-color:#00205B;}
+    tr.VancouverGLT    td {color:#97999B;background-color:#00205B;}
 	
     tr.VegasFWD        {color:#010101;background-color:#B9975B;}
     tr.VegasDEF        {color:#FFFFFF;background-color:#B9975B;}
@@ -260,7 +260,7 @@ a.UtahGLT       {color:#69B3E7;}
 	
 a.VancouverFWD  {color:#00843D;}
 a.VancouverDEF  {color:#FFFFFF;}
-a.VancouverGLT  {color:#051C2C;}
+a.VancouverGLT  {color:#97999B;}
 	
 a.VegasFWD      {color:#010101;}
 a.VegasDEF      {color:#FFFFFF;}
