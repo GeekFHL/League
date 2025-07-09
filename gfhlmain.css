@@ -5,7 +5,7 @@ body {
 	background: #1B1F25;
         min-width: 728px;
 	color: #EEE;
-	font-family: Verdana, Geneva, Helvetica, Arial, sans-serif; font-size: 13px;
+	font-family: Arial, sans-serif; font-size: 14px;
 	}
 
 div#wrapper	{
@@ -85,8 +85,8 @@ div.backc {
 a, a:link, a:visited {
 	color: #61979F; 
 	text-decoration: none; 
-	font-family: Verdana, sans-serif; 
-	font-size: 13px;
+	font-family: Arial, sans-serif; 
+	font-size: 14px;
 	}
 
 a:hover, a:active {
@@ -97,10 +97,10 @@ a:hover, a:active {
 
 
 /* Tables  */
-    table.noborder {border-width: 0px;font-size: 11px;border-style: ridge;border-collapse: collapse;} 
-    table.contactnoborder {border-width: 0px;font-size: 13px;border-style: ridge;border-collapse: collapse;} 
+    table.noborder {border-width: 0px;font-size: 12px;border-style: ridge;border-collapse: collapse;} 
+    table.contactnoborder {border-width: 0px;font-size: 14px;border-style: ridge;border-collapse: collapse;} 
 
-    table.yesborder {border-width: 1px;font-size: 9px; border-color: #FFFFFF;border-style: ridge;border-collapse: collapse;}
+    table.yesborder {border-width: 1px;font-size: 10px; border-color: #FFFFFF;border-style: ridge;border-collapse: collapse;}
 
     td.no     {border-width: 0px; border-style: ridge; padding: 3px;}
     td.image  {border-width: 3px; border-style: ridge; padding: 3px; border-color: #000000; background-color:#FFFFFF}
@@ -137,9 +137,9 @@ a:hover, a:active {
 	padding: 7px 10px 7px 16px; 
 	margin:0;  
 	font-weight: bold;  
-	font-size: 11px; 
+	font-size: 12px; 
 	text-decoration: none;
-	font-family: Verdana, sans-serif;
+	font-family: Arial, sans-serif;
 	height: 25px; 
 	line-height: 26px;
 	background:#422929 url(css/image/h2a.gif) repeat-x top left; 
@@ -168,7 +168,7 @@ a:hover, a:active {
 			line-height: 20px;
 			margin-right: 17px;              
 			text-align: right;
-			font-size: 9px;
+			font-size: 10px;
 		}
 		dd { 
 			position: relative; /* IE is dumb */
@@ -199,7 +199,7 @@ ul.topten {
 
 ul.li, p.odd, table.odd td {
 	margin: 1em; 
-	font: 13px/20px Verdana, sans-serif; 
+	font: 14px/20px Arial, sans-serif; 
 	color: #666; 
 	clear:both;
 	background: #040404 url(css/image/odd.jpg) top left repeat-x;
@@ -230,8 +230,8 @@ ul.assist, ul.dir, .items {
 	}
 
 #sidebar ul.assist li a, #sidebar ul.dir li a {
-	font-size: 13px; line-height: 18px; 
-	font-family:  Verdana, sans-serif;  
+	font-size: 14px; line-height: 18px; 
+	font-family:  Arial, sans-serif;  
 	min-height: 20px; 
 	display:block;
 	}
@@ -264,7 +264,7 @@ ul.tools, dl {margin: 12px;}
 /* Headers */
 
 h1 {
-	font: 16px Verdana, sans-serif; 
+	font: 16px Arial, sans-serif; 
 	color: #999; 
 	font-weight: bold; 
 	margin: 0; 
@@ -276,9 +276,9 @@ h1 {
 	padding: 0 12px;
 	background:#2A4144 url(css/image/h2.gif) repeat-x top left;
 	color: #999;
-	font-size:13px;
+	font-size:14px;
 	font-weight: bold;
-	font-family: Verdana, sans-serif; 
+	font-family: Arial, sans-serif; 
 	line-height: 19px;
 	}
 
@@ -287,33 +287,33 @@ h1 {
 	padding: 0 12px;
 	background:#2A4144 url(css/image/h2.gif) repeat-x top left;
 	color: #999;
-	font-size:13px;
+	font-size:14px;
 	font-weight: bold;
-	font-family: Verdana, sans-serif; 
+	font-family: Arial, sans-serif; 
 	line-height: 19px;
 	width:600px
 	}
 
 .text h2 span.author {
 	font-weight: normal; 
-	font-size: 11px;
+	font-size: 12px;
 	}
 
 .text h4 span.author {
 	font-weight: normal; 
-	font-size: 11px;
+	font-size: 12px;
 	width:600px;
 	}
 
 .text h2 .date, .vevent {
 	font-weight: normal; 
-	font-size: 11px;
+	font-size: 12px;
 	float: right; 
 	}
 
 .text h4 .date, .vevent {
 	font-weight: normal; 
-	font-size: 11px;
+	font-size: 12px;
 	float: right;
 	width:600px; 
 	}
@@ -333,10 +333,10 @@ h1 {
 .text p {
 	margin: 12px; 
 	padding: 0; 
-	font-family: Verdana, sans-serif; 
+	font-family: Arial, sans-serif; 
 	color: #EEE;
 	background:#000000;
-	font-size: 13px; 
+	font-size: 14px; 
 	line-height: 20px;
 	}
 .text p.contact { line-height:5px }
