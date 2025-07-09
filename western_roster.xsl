@@ -11,12 +11,12 @@ body
 {
 	background-color:#000000; 
         color:#FFFFFF; 	
-        font-family: Verdana, sans-serif;
-        font-size:14px;
+        font-family: Arial, sans-serif;
+        font-size:13px;
 }
 table 
 {	border-width:0px;	
-        font-size:14px; 	
+        font-size:13px; 	
         border-color:#000000; 	
         border-style:ridge;  
         border-collapse:collapse;
@@ -31,8 +31,8 @@ td
 
 /* Tables  */
     table.noborder {border-width: 0px; 
-                    font-size: 14px; 
-                    font-family: Verdana, sans-serif; 
+                    font-size: 13px; 
+                    font-family: Arial, sans-serif; 
 	            font-weight:bold; 
                     border-style: ridge; 
                     border-collapse: collapse;
@@ -196,11 +196,11 @@ td
 	
 a, a:link, a:visited {
 	text-decoration: none; 
-	font-family: Verdana, sans-serif; 
+	font-family: Arial, sans-serif; 
 	}
 a:hover, a:active {
 	text-decoration: none; 
-	font-family: Verdana, sans-serif; 
+	font-family: Arial, sans-serif; 
 	}
 a.AnaheimFWD     {color:#010101;}
 a.AnaheimDEF     {color:#FFFFFF;}
