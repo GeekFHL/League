@@ -117,12 +117,12 @@ td
     tr.DallasDEF       td {color:#FFFFFF;background-color:#00843D;}
     tr.DallasGLT       td {color:#A2AAAD;background-color:#00843D;}
 	
-    tr.EdmontonFWD     {color:#010101;background-color:#00205B;}
+    tr.EdmontonFWD     {color:#CF4520;background-color:#00205B;}
     tr.EdmontonDEF     {color:#FFFFFF;background-color:#00205B;}
-    tr.EdmontonGLT     {color:#CF4520;background-color:#00205B;}
-    tr.EdmontonFWD     td {color:#010101;background-color:#00205B;}
+    tr.EdmontonGLT     {color:#97999C;background-color:#00205B;}
+    tr.EdmontonFWD     td {color:#CF4520;background-color:#00205B;}
     tr.EdmontonDEF     td {color:#FFFFFF;background-color:#00205B;}
-    tr.EdmontonGLT     td {color:#CF4520;background-color:#00205B;}
+    tr.EdmontonGLT     td {color:#97999C;background-color:#00205B;}
 	
     tr.LosAngelesFWD   {color:#A2AAAD;background-color:#010101;}
     tr.LosAngelesDEF   {color:#FFFFFF;background-color:#010101;}
@@ -222,9 +222,9 @@ a.DallasFWD      {color:#010101;}
 a.DallasDEF      {color:#FFFFFF;}
 a.DallasGLT      {color:#A2AAAD;}
 	
-a.EdmontonFWD    {color:#010101;}
+a.EdmontonFWD    {color:#CF4520;}
 a.EdmontonDEF    {color:#FFFFFF;}
-a.EdmontonGLT    {color:#CF4520;}
+a.EdmontonGLT    {color:#97999C;}
 	
 a.LosAngelesFWD  {color:#A2AAAD;}
 a.LosAngelesDEF  {color:#FFFFFF;}
