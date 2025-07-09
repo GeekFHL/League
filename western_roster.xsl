@@ -168,10 +168,10 @@ td
 	
     tr.UtahFWD         {color:#69B3E7;background-color:#010101;}
     tr.UtahDEF         {color:#FFFFFF;background-color:#010101;}
-    tr.UtahGLT         {color:#69B3E7;background-color:#010101;}
+    tr.UtahGLT         {color:#8D9093;background-color:#010101;}
     tr.UtahFWD         td {color:#69B3E7;background-color:#010101;}
     tr.UtahDEF         td {color:#FFFFFF;background-color:#010101;}
-    tr.UtahGLT         td {color:#69B3E7;background-color:#010101;}
+    tr.UtahGLT         td {color:#8D9093;background-color:#010101;}
 	
     tr.VancouverFWD    {color:#00843D;background-color:#00205B;}
     tr.VancouverDEF    {color:#FFFFFF;background-color:#00205B;}
@@ -256,7 +256,7 @@ a.SeattleGLT    {color:#6BA4B8;}
 	
 a.UtahFWD       {color:#69B3E7;}
 a.UtahDEF       {color:#FFFFFF;}
-a.UtahGLT       {color:#69B3E7;}
+a.UtahGLT       {color:#8D9093;}
 	
 a.VancouverFWD  {color:#00843D;}
 a.VancouverDEF  {color:#FFFFFF;}
