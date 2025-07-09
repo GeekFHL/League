@@ -194,7 +194,7 @@ td
     tr.WinnipegDEF     td {color:#FFFFFF;background-color:#041E42;}
     tr.WinnipegGLT     td {color:#A2AAAD;background-color:#041E42;}
 	
-a, a: link, a: visited {
+a, a:link, a:visited {
 	text-decoration: none; 
 	font-family: Verdana, sans-serif; 
 	}
