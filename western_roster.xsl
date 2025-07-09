@@ -119,10 +119,10 @@ td
 	
     tr.EdmontonFWD     {color:#CF4520;background-color:#00205B;}
     tr.EdmontonDEF     {color:#FFFFFF;background-color:#00205B;}
-    tr.EdmontonGLT     {color:#97999C;background-color:#00205B;}
+    tr.EdmontonGLT     {color:#97999B;background-color:#00205B;}
     tr.EdmontonFWD     td {color:#CF4520;background-color:#00205B;}
     tr.EdmontonDEF     td {color:#FFFFFF;background-color:#00205B;}
-    tr.EdmontonGLT     td {color:#97999C;background-color:#00205B;}
+    tr.EdmontonGLT     td {color:#97999B;background-color:#00205B;}
 	
     tr.LosAngelesFWD   {color:#A2AAAD;background-color:#010101;}
     tr.LosAngelesDEF   {color:#FFFFFF;background-color:#010101;}
@@ -224,7 +224,7 @@ a.DallasGLT      {color:#A2AAAD;}
 	
 a.EdmontonFWD    {color:#CF4520;}
 a.EdmontonDEF    {color:#FFFFFF;}
-a.EdmontonGLT    {color:#97999C;}
+a.EdmontonGLT    {color:#97999B;}
 	
 a.LosAngelesFWD  {color:#A2AAAD;}
 a.LosAngelesDEF  {color:#FFFFFF;}
