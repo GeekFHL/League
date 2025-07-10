@@ -135,10 +135,10 @@ td
 	
     tr.NewJerseyFWD        {color:#010101;background-color:#C8102E;}
     tr.NewJerseyDEF        {color:#FFFFFF;background-color:#C8102E;}
-    tr.NewJerseyGLT        {color:#FFB81C;background-color:#C8102E;}
+    tr.NewJerseyGLT        {color:#76232F;background-color:#C8102E;}
     tr.NewJerseyFWD        td {color:#010101;background-color:#C8102E;}
     tr.NewJerseyDEF        td {color:#FFFFFF;background-color:#C8102E;}
-    tr.NewJerseyGLT        td {color:#FFB81C;background-color:#C8102E;}
+    tr.NewJerseyGLT        td {color:#76232F;background-color:#C8102E;}
 	
     tr.NewYorkIslandersFWD {color:#FC4C02;background-color:#003087;}
     tr.NewYorkIslandersDEF {color:#FFFFFF;background-color:#003087;}
