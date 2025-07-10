@@ -76,7 +76,7 @@ td
     td.TeamInfoMTL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#A6192E;}
     td.TeamInfoNJ  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
     td.TeamInfoNYI {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#003087;}
-    td.TeamInfoNYR {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#2860A9;}
+    td.TeamInfoNYR {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:##1D309E;}
     td.TeamInfoOTT {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101;}
     td.TeamInfoPHI {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#CF4520;}
     td.TeamInfoPIT {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101;}
@@ -147,12 +147,12 @@ td
     tr.NewYorkIslandersDEF td {color:#FFFFFF;background-color:#003087;}
     tr.NewYorkIslandersGLT td {color:#009CA6;background-color:#003087;}
 	
-    tr.NewYorkRangersFWD   {color:#C8102E;background-color:#2860A9;}
-    tr.NewYorkRangersDEF   {color:#FFFFFF;background-color:#2860A9;}
-    tr.NewYorkRangersGLT   {color:#010101;background-color:#2860A9;}
-    tr.NewYorkRangersFWD   td {color:#C8102E;background-color:#2860A9;}
-    tr.NewYorkRangersDEF   td {color:#FFFFFF;background-color:#2860A9;}
-    tr.NewYorkRangersGLT   td {color:#010101;background-color:#2860A9;}
+    tr.NewYorkRangersFWD   {color:#C8102E;background-color:##1D309E;}
+    tr.NewYorkRangersDEF   {color:#FFFFFF;background-color:##1D309E;}
+    tr.NewYorkRangersGLT   {color:#010101;background-color:##1D309E;}
+    tr.NewYorkRangersFWD   td {color:#C8102E;background-color:##1D309E;}
+    tr.NewYorkRangersDEF   td {color:#FFFFFF;background-color:##1D309E;}
+    tr.NewYorkRangersGLT   td {color:#010101;background-color:##1D309E;}
 	
     tr.OttawaFWD           {color:#C8102E;background-color:#010101;}  
     tr.OttawaDEF           {color:#FFFFFF;background-color:#010101;}
