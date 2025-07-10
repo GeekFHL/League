@@ -93,10 +93,10 @@ td
 	
     tr.BuffaloFWD          {color:#FFB81C;background-color:#003087;}  
     tr.BuffaloDEF          {color:#FFFFFF;background-color:#003087;}
-    tr.BuffaloGLT          {color:#C8102E;background-color:#003087;}
+    tr.BuffaloGLT          {color:#010101;background-color:#003087;}
     tr.BuffaloFWD          td {color:#FFB81C;background-color:#003087;}  
     tr.BuffaloDEF          td {color:#FFFFFF;background-color:#003087;}
-    tr.BuffaloGLT          td {color:#C8102E;background-color:#003087;}
+    tr.BuffaloGLT          td {color:#010101;background-color:#003087;}
 	
     tr.CarolinaFWD         {color:#C8102E;background-color:#010101;}
     tr.CarolinaDEF         {color:#FFFFFF;background-color:#010101;}
@@ -135,10 +135,10 @@ td
 	
     tr.NewJerseyFWD        {color:#010101;background-color:#C8102E;}
     tr.NewJerseyDEF        {color:#FFFFFF;background-color:#C8102E;}
-    tr.NewJerseyGLT        {color:#046A38;background-color:#C8102E;}
+    tr.NewJerseyGLT        {color:#154734;background-color:#C8102E;}
     tr.NewJerseyFWD        td {color:#010101;background-color:#C8102E;}
     tr.NewJerseyDEF        td {color:#FFFFFF;background-color:#C8102E;}
-    tr.NewJerseyGLT        td {color:#046A38;background-color:#C8102E;}
+    tr.NewJerseyGLT        td {color:#154734;background-color:#C8102E;}
 	
     tr.NewYorkIslandersFWD {color:#FC4C02;background-color:#003087;}
     tr.NewYorkIslandersDEF {color:#FFFFFF;background-color:#003087;}
@@ -163,10 +163,10 @@ td
 	
     tr.PhiladelphiaFWD     {color:#010101;background-color:#FA4616;}
     tr.PhiladelphiaDEF     {color:#FFFFFF;background-color:#FA4616;}
-    tr.PhiladelphiaGLT     {color:#896C4C;background-color:#FA4616;}
+    tr.PhiladelphiaGLT     {color:#5B6770;background-color:#FA4616;}
     tr.PhiladelphiaFWD     td {color:#010101;background-color:#FA4616;}
     tr.PhiladelphiaDEF     td {color:#FFFFFF;background-color:#FA4616;}
-    tr.PhiladelphiaGLT     td {color:#896C4C;background-color:#FA4616;}
+    tr.PhiladelphiaGLT     td {color:#5B6770;background-color:#FA4616;}
 	
     tr.PitsburghFWD        {color:#FFB81C;background-color:#010101;}
     tr.PitsburghDEF        {color:#FFFFFF;background-color:#010101;}
@@ -204,7 +204,7 @@ a, a:link, a:visited {
 a: hover, a: active {
 	}
 
-	a.Boston {color:#010101;text-decoration:none;}
+a.Boston {color:#010101;text-decoration:none;}
 a.Boston:hover {color:#010101;text-decoration:none;}
 a.Buffalo {color:#003087;text-decoration:none;}
 a.Buffalo:hover {color:#003087;text-decoration:none;}
