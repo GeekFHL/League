@@ -147,12 +147,12 @@ td
     tr.NewYorkIslandersDEF td {color:#FFFFFF;background-color:#003087;}
     tr.NewYorkIslandersGLT td {color:#009CA6;background-color:#003087;}
 	
-    tr.NewYorkRangersFWD   {color:#C8102E;background-color:##1D309E;}
-    tr.NewYorkRangersDEF   {color:#FFFFFF;background-color:##1D309E;}
-    tr.NewYorkRangersGLT   {color:#010101;background-color:##1D309E;}
-    tr.NewYorkRangersFWD   td {color:#C8102E;background-color:##1D309E;}
-    tr.NewYorkRangersDEF   td {color:#FFFFFF;background-color:##1D309E;}
-    tr.NewYorkRangersGLT   td {color:#010101;background-color:##1D309E;}
+    tr.NewYorkRangersFWD   {color:#C8102E;background-color:#1D309E;}
+    tr.NewYorkRangersDEF   {color:#FFFFFF;background-color:#1D309E;}
+    tr.NewYorkRangersGLT   {color:#010101;background-color:#1D309E;}
+    tr.NewYorkRangersFWD   td {color:#C8102E;background-color:#1D309E;}
+    tr.NewYorkRangersDEF   td {color:#FFFFFF;background-color:#1D309E;}
+    tr.NewYorkRangersGLT   td {color:#010101;background-color:#1D309E;}
 	
     tr.OttawaFWD           {color:#C8102E;background-color:#010101;}  
     tr.OttawaDEF           {color:#FFFFFF;background-color:#010101;}
