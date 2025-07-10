@@ -147,10 +147,10 @@ td
     tr.NewYorkIslandersDEF td {color:#FFFFFF;background-color:#003087;}
     tr.NewYorkIslandersGLT td {color:#009CA6;background-color:#003087;}
 	
-    tr.NewYorkRangersFWD   {color:#C02333;background-color:#1D309E;}
+    tr.NewYorkRangersFWD   {color:#930101;background-color:#1D309E;}
     tr.NewYorkRangersDEF   {color:#FFFFFF;background-color:#1D309E;}
     tr.NewYorkRangersGLT   {color:#010101;background-color:#1D309E;}
-    tr.NewYorkRangersFWD   td {color:#C02333;background-color:#1D309E;}
+    tr.NewYorkRangersFWD   td {color:#930101;background-color:#1D309E;}
     tr.NewYorkRangersDEF   td {color:#FFFFFF;background-color:#1D309E;}
     tr.NewYorkRangersGLT   td {color:#010101;background-color:#1D309E;}
 	
@@ -204,39 +204,6 @@ a, a:link, a:visited {
 a: hover, a: active {
 	}
 
-a.Boston {color:#010101;text-decoration:none;}
-a.Boston:hover {color:#010101;text-decoration:none;}
-a.Buffalo {color:#003087;text-decoration:none;}
-a.Buffalo:hover {color:#003087;text-decoration:none;}
-a.Carolina {color:#010101;text-decoration:none;}
-a.Carolina:hover {color:#010101;text-decoration:none;}
-a.Columbus {color:#041E42;text-decoration:none;}
-a.Columbus:hover {color:#041E42;text-decoration:none;}
-a.Detroit {color:#C8102E;text-decoration:none;}
-a.Detroit:hover {color:#C8102E;text-decoration:none;}
-a.Florida {color:#C8102E;text-decoration:none;}
-a.Florida:hover {color:#C8102E;text-decoration:none;}
-a.Montreal {color:#A6192E;text-decoration:none;}
-a.Montreal:hover {color:#A6192E;text-decoration:none;}
-a.NewJersey {color:#C8102E;text-decoration:none;}
-a.NewJersey:hover {color:#C8102E;text-decoration:none;}
-a.NewYorkIslanders {color:#003087;text-decoration:none;}
-a.NewYorkIslanders:hover {color:#003087;text-decoration:none;}
-a.NewYorkRangers {color:#2860A9;text-decoration:none;}
-a.NewYorkRanegrs:hover {color:#2860A9;text-decoration:none;}
-a.Ottawa {color:#010101;text-decoration:none;}
-a.Ottawa:hover {color:#010101;text-decoration:none;}
-a.Philadelphia {color:#CF4520;text-decoration:none;}
-a.Philadelphia:hover {color:#CF4520;text-decoration:none;}
-a.Pittsburgh {color:#010101;text-decoration:none;}
-a.Pittsburgh:hover {color:#010101;text-decoration:none;}
-a.TampaBay {color:#00205B;text-decoration:none;}
-a.TampaBay:hover {color:#00205B;text-decoration:none;}
-a.Toronto {color:#00205B;text-decoration:none;}
-a.Toronto:hover {color:#00205B;text-decoration:none;}
-a.Washington {color:#C8102E;text-decoration:none;}
-a.Washington:hover {color:#C8102E;text-decoration:none;}
-
 </style>
 </head>
 
@@ -259,7 +226,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						</td></tr>
 						<xsl:for-each select="GFHL/DB/GM[Team='BOS']">
 							<tr><td class="TeamInfoBOS">
-								GM - <a class='Boston' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+								GM - <a href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</td></tr>
 							<tr><td class="TeamInfoBOS">
 							        <xsl:choose>
@@ -379,7 +346,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						</td></tr>
 						<xsl:for-each select="GFHL/DB/GM[Team='BUF']">
 							<tr><td class="TeamInfoBUF">
-								GM - <a class='Buffalo' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+								GM - <a href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</td></tr>
 							<tr><td class="TeamInfoBUF">
 								<xsl:choose>
@@ -500,7 +467,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						<xsl:for-each select="GFHL/DB/GM[Team='CAR']">
 							<tr><td class="TeamInfoCAR">
 								
-								GM - <a class='Carolina' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+								GM - <a href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 								
 							</td></tr>
 							<tr><td class="TeamInfoCAR">
@@ -621,7 +588,7 @@ a.Washington:hover {color:#C8102E;text-decoration:none;}
 						</td></tr>
 						<xsl:for-each select="GFHL/DB/GM[Team='CLB']">
 							<tr><td class="TeamInfoCLB">
-							GM - <a class='Columbus' href="mailto:{Email}"><xsl:value-of select="Name"/></a>
+							GM - <a href="mailto:{Email}"><xsl:value-of select="Name"/></a>
 							</td></tr>
 							<tr><td class="TeamInfoCLB">
 								<xsl:choose>
