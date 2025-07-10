@@ -76,7 +76,7 @@ td
     td.TeamInfoMTL {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#A6192E;}
     td.TeamInfoNJ  {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
     td.TeamInfoNYI {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#003087;}
-    td.TeamInfoNYR {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:##1D309E;}
+    td.TeamInfoNYR {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#1D309E;}
     td.TeamInfoOTT {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101;}
     td.TeamInfoPHI {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#CF4520;}
     td.TeamInfoPIT {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#010101;}
