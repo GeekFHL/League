@@ -147,10 +147,10 @@ td
     tr.NewYorkIslandersDEF td {color:#FFFFFF;background-color:#003087;}
     tr.NewYorkIslandersGLT td {color:#009CA6;background-color:#003087;}
 	
-    tr.NewYorkRangersFWD   {color:#840000;background-color:#3042AE;}
+    tr.NewYorkRangersFWD   {color:#BF2334;background-color:#3042AE;}
     tr.NewYorkRangersDEF   {color:#FFFFFF;background-color:#3042AE;}
     tr.NewYorkRangersGLT   {color:#010101;background-color:#3042AE;}
-    tr.NewYorkRangersFWD   td {color:#840000;background-color:#3042AE;}
+    tr.NewYorkRangersFWD   td {color:#BF2334;background-color:#3042AE;}
     tr.NewYorkRangersDEF   td {color:#FFFFFF;background-color:#3042AE;}
     tr.NewYorkRangersGLT   td {color:#010101;background-color:#3042AE;}
 	
