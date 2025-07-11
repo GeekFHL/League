@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>July 6, 2025</UPDATED>
-	<LASTTRANS> Ottawa releases Eric Comrie (G)</LASTTRANS>
+	<UPDATED>July 11, 2025</UPDATED>
+	<LASTTRANS></LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>TOR</TEAM>
+			<POS>DEF</POS>
+			<SLOT>12</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -164,7 +173,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219665</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>KERINS, RORY</NAME>
@@ -803,7 +812,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251359</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>PAREKH, ZAYNE</NAME>
@@ -1602,9 +1611,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216682</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>THRUN, HENRY</NAME>
@@ -3863,7 +3872,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228233</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOCHETKOV, PYOTR</NAME>
@@ -4131,7 +4140,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217084</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
 			<SLOT>4</SLOT>
 		</Player>
@@ -4743,9 +4752,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=182214</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>LANKINEN, KEVIN</NAME>
@@ -6777,9 +6786,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196147</WEB>
-			<TEAM>UTA</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOWD, NIC</NAME>
@@ -8649,9 +8658,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96809</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MANSON, JOSH</NAME>
@@ -8813,7 +8822,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=100921</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>DEMELO, DYLAN</NAME>
@@ -9497,7 +9506,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116079</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>MORRISSEY, JOSH</NAME>
@@ -10602,9 +10611,9 @@
 			<CAPTAIN>C</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=107121</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>UTA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>VRANA, JAKUB</NAME>
@@ -10820,7 +10829,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96594</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOUGHTY, DREW</NAME>
