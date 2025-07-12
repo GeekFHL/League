@@ -44,7 +44,7 @@ table.noboder
     border-color:#FFFFFF; 	
     border-style:none;  
     border-collapse:none;
-	width:725px;
+    width:725px;
 }      
 
 tr
@@ -52,13 +52,17 @@ tr
     padding:0px;
     border-color:#61979F;
 }
+	
 tr.noborder
 {   border-width:0px;
     border-style:none;   
     padding:0px;
     border-color:#FFFFFF;
 }
-
+tr.team
+{
+    background-color:#000000; 		
+}
 td
 {	border-style:ridge;
 	align:center;
@@ -82,7 +86,6 @@ td.TeamBackground
 	align:center;
 	border-color:#61979F;
 	width:75px;
- 	background-colour:#FFFFFF;
 }
 
 img.team 
@@ -116,7 +119,7 @@ img.pick
 			<td align="center"; border-width="1px"><h3>2026 First Round</h3></td>
 			<td align="center"; border-width="1px"><h3>2026 Second Round</h3></td>
 		</tr>
-		<tr>
+		<tr class="team">
 			<td class="TeamBackground"><img class="team" src="Boston" ></td>
 			<td align="center"></td>
 			<td align="center"></td>
