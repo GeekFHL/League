@@ -196,12 +196,12 @@ td
     tr.WashingtonDEF       td {color:#041E42;background-color:#FFFFFF;}
     tr.WashingtonGLT       td {color:#AD7C59;background-color:#FFFFFF;}
 	
-a, a: link, a: visited {
+a, a:link, a:visited {
 	text-decoration: none; 
 	font-family: Arial, sans-serif;
 	color: inherit;
 	}
-a: hover, a: active {
+a:hover, a:active {
 	}
 
 </style>
