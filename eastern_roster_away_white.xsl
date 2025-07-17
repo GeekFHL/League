@@ -84,119 +84,119 @@ td
     td.TeamInfoTOR {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#00205B;}
     td.TeamInfoWSH {border-width: 0px; border-style: ridge; padding: 3px; font-weight: bold; text-align: center; color:#C8102E;}
 
-    tr.BostonFWD           {color:#FFB81C;background-color:#010101;}
-    tr.BostonDEF           {color:#FFFFFF;background-color:#010101;}
-    tr.BostonGLT           {color:#744F28;background-color:#010101;}
-    tr.BostonFWD           td {color:#FFB81C;background-color:#010101;}
-    tr.BostonDEF           td {color:#FFFFFF;background-color:#010101;}
-    tr.BostonGLT           td {color:#744F28;background-color:#010101;}
+    tr.BostonFWD           {color:#010101;background-color:#FFFFFF;}
+    tr.BostonDEF           {color:#FFB81C;background-color:#FFFFFF;}
+    tr.BostonGLT           {color:#744F28;background-color:#FFFFFF;}
+    tr.BostonFWD           td {color:#010101;background-color:#FFFFFF;}
+    tr.BostonDEF           td {color:#FFB81C;background-color:#FFFFFF;}
+    tr.BostonGLT           td {color:#744F28;background-color:#FFFFFF;}
 	
-    tr.BuffaloFWD          {color:#FFB81C;background-color:#003087;}  
-    tr.BuffaloDEF          {color:#FFFFFF;background-color:#003087;}
-    tr.BuffaloGLT          {color:#010101;background-color:#003087;}
-    tr.BuffaloFWD          td {color:#FFB81C;background-color:#003087;}  
-    tr.BuffaloDEF          td {color:#FFFFFF;background-color:#003087;}
-    tr.BuffaloGLT          td {color:#010101;background-color:#003087;}
+    tr.BuffaloFWD          {color:#003087;background-color:#FFFFFF;}  
+    tr.BuffaloDEF          {color:#FFB81C;background-color:#FFFFFF;}
+    tr.BuffaloGLT          {color:#010101;background-color:#FFFFFF;}
+    tr.BuffaloFWD          td {color:#003087;background-color:#FFFFFF;}  
+    tr.BuffaloDEF          td {color:#FFB81C;background-color:#FFFFFF;}
+    tr.BuffaloGLT          td {color:#010101;background-color:#FFFFFF;}
 	
-    tr.CarolinaFWD         {color:#C8102E;background-color:#010101;}
-    tr.CarolinaDEF         {color:#FFFFFF;background-color:#010101;}
-    tr.CarolinaGLT         {color:#333F48;background-color:#010101;}
-    tr.CarolinaFWD         td {color:#C8102E;background-color:#010101;}
-    tr.CarolinaDEF         td {color:#FFFFFF;background-color:#010101;}
-    tr.CarolinaGLT         td {color:#333F48;background-color:#010101;}
+    tr.CarolinaFWD         {color:#010101;background-color:#FFFFFF;}
+    tr.CarolinaDEF         {color:#C8102E;background-color:#FFFFFF;}
+    tr.CarolinaGLT         {color:#333F48;background-color:#FFFFFF;}
+    tr.CarolinaFWD         td {color:#010101;background-color:#FFFFFF;}
+    tr.CarolinaDEF         td {color:#C8102E;background-color:#FFFFFF;}
+    tr.CarolinaGLT         td {color:#333F48;background-color:#FFFFFF;}
 	
-    tr.ColumbusFWD         {color:#C8102E;background-color:#041E42;}
-    tr.ColumbusDEF         {color:#FFFFFF;background-color:#041E42;}
-    tr.ColumbusGLT         {tcolor:#A2AAAD;background-color:#041E42;}
-    tr.ColumbusFWD         td {color:#C8102E;background-color:#041E42;}
-    tr.ColumbusDEF         td {color:#FFFFFF;background-color:#041E42;}
-    tr.ColumbusGLT         td {color:#A2AAAD;background-color:#041E42;}
+    tr.ColumbusFWD         {color:#041E42;background-color:#FFFFFF;}
+    tr.ColumbusDEF         {color:#C8102E;background-color:#FFFFFF;}
+    tr.ColumbusGLT         {tcolor:#A2AAAD;background-color:#FFFFFF;}
+    tr.ColumbusFWD         td {color:#041E42;background-color:#FFFFFF;}
+    tr.ColumbusDEF         td {color:#C8102E;background-color:#FFFFFF;}
+    tr.ColumbusGLT         td {color:#A2AAAD;background-color:#FFFFFF;}
 	
-    tr.DetroitFWD          {color:#010101;background-color:#C8102E;}
-    tr.DetroitDEF          {color:#FFFFFF;background-color:#C8102E;}
-    tr.DetroitGLT          {color:#8D9093;background-color:#C8102E;}
-    tr.DetroitFWD          td {color:#010101;background-color:#C8102E;}
-    tr.DetroitDEF          td {color:#FFFFFF;background-color:#C8102E;}
-    tr.DetroitGLT          td {color:#8D9093;background-color:#C8102E;}
+    tr.DetroitFWD          {color:#C8102E;background-color:#FFFFFF;}
+    tr.DetroitDEF          {color:#010101;background-color:#FFFFFF;}
+    tr.DetroitGLT          {color:#8D9093;background-color:#FFFFFF;}
+    tr.DetroitFWD          td {color:#C8102E;background-color:#FFFFFF;}
+    tr.DetroitDEF          td {color:#010101;background-color:#FFFFFF;}
+    tr.DetroitGLT          td {color:#8D9093;background-color:#FFFFFF;}
 	
-    tr.FloridaFWD          {color:#041E42;background-color:#C8102E;}
-    tr.FloridaDEF          {color:#FFFFFF;background-color:#C8102E;}
-    tr.FloridaGLT          {color:#B9975B;background-color:#C8102E;}
-    tr.FloridaFWD          td {color:#041E42;background-color:#C8102E;}
-    tr.FloridaDEF          td {color:#FFFFFF;background-color:#C8102E;}
-    tr.FloridaGLT          td {color:#B9975B;background-color:#C8102E;}
+    tr.FloridaFWD          {color:#C8102E;background-color:#FFFFFF;}
+    tr.FloridaDEF          {color:#041E42;background-color:#FFFFFF;}
+    tr.FloridaGLT          {color:#B9975B;background-color:#FFFFFF;}
+    tr.FloridaFWD          td {color:#C8102E;background-color:#FFFFFF;}
+    tr.FloridaDEF          td {color:#041E42;background-color:#FFFFFF;}
+    tr.FloridaGLT          td {color:#B9975B;background-color:#FFFFFF;}
 	
-    tr.MontrealFWD         {color:#001E62;background-color:#A6192E;}
-    tr.MontrealDEF         {color:#FFFFFF;background-color:#A6192E;}
-    tr.MontrealGLT         {color:#010101;background-color:#A6192E;}
-    tr.MontrealFWD         td {color:#001E62;background-color:#A6192E;}
-    tr.MontrealDEF         td {color:#FFFFFF;background-color:#A6192E;}
-    tr.MontrealGLT         td {color:#010101;background-color:#A6192E;}
+    tr.MontrealFWD         {color:#A6192E;background-color:#FFFFFF;}
+    tr.MontrealDEF         {color:#001E62;background-color:#FFFFFF;}
+    tr.MontrealGLT         {color:#010101;background-color:#FFFFFF;}
+    tr.MontrealFWD         td {color:#A6192E;background-color:#FFFFFF;}
+    tr.MontrealDEF         td {color:#001E62;background-color:#FFFFFF;}
+    tr.MontrealGLT         td {color:#010101;background-color:#FFFFFF;}
 	
-    tr.NewJerseyFWD        {color:#010101;background-color:#C8102E;}
-    tr.NewJerseyDEF        {color:#FFFFFF;background-color:#C8102E;}
-    tr.NewJerseyGLT        {color:#B1B3B3;background-color:#C8102E;}
-    tr.NewJerseyFWD        td {color:#010101;background-color:#C8102E;}
-    tr.NewJerseyDEF        td {color:#FFFFFF;background-color:#C8102E;}
-    tr.NewJerseyGLT        td {color:#B1B3B3;background-color:#C8102E;}
+    tr.NewJerseyFWD        {color:#C8102E;background-color:#FFFFFF;}
+    tr.NewJerseyDEF        {color:#010101;background-color:#FFFFFF;}
+    tr.NewJerseyGLT        {color:#B1B3B3;background-color:#FFFFFF;}
+    tr.NewJerseyFWD        td {color:#C8102E;background-color:#FFFFFF;}
+    tr.NewJerseyDEF        td {color:#010101;background-color:#FFFFFF;}
+    tr.NewJerseyGLT        td {color:#B1B3B3;background-color:#FFFFFF;}
 	
-    tr.NewYorkIslandersFWD {color:#FC4C02;background-color:#003087;}
-    tr.NewYorkIslandersDEF {color:#FFFFFF;background-color:#003087;}
-    tr.NewYorkIslandersGLT {color:#009CA6;background-color:#003087;}
-    tr.NewYorkIslandersFWD td {color:#FC4C02;background-color:#003087;}
-    tr.NewYorkIslandersDEF td {color:#FFFFFF;background-color:#003087;}
-    tr.NewYorkIslandersGLT td {color:#009CA6;background-color:#003087;}
+    tr.NewYorkIslandersFWD {color:#003087;background-color:#FFFFFF;}
+    tr.NewYorkIslandersDEF {color:#FC4C02;background-color:#FFFFFF;}
+    tr.NewYorkIslandersGLT {color:#009CA6;background-color:#FFFFFF;}
+    tr.NewYorkIslandersFWD td {color:#003087;background-color:#FFFFFF;}
+    tr.NewYorkIslandersDEF td {color:#FC4C02;background-color:#FFFFFF;}
+    tr.NewYorkIslandersGLT td {color:#009CA6;background-color:#FFFFFF;}
 	
-    tr.NewYorkRangersFWD   {color:#C8102E;background-color:#0032A0;}
-    tr.NewYorkRangersDEF   {color:#FFFFFF;background-color:#0032A0;}
-    tr.NewYorkRangersGLT   {color:#010101;background-color:#0032A0;}
-    tr.NewYorkRangersFWD   td {color:#C8102E;background-color:#0032A0;}
-    tr.NewYorkRangersDEF   td {color:#FFFFFF;background-color:#0032A0;}
-    tr.NewYorkRangersGLT   td {color:#010101;background-color:#0032A0;}
+    tr.NewYorkRangersFWD   {color:#0032A0;background-color:#FFFFFF;}
+    tr.NewYorkRangersDEF   {color:#C8102E;background-color:#FFFFFF;}
+    tr.NewYorkRangersGLT   {color:#010101;background-color:#FFFFFF;}
+    tr.NewYorkRangersFWD   td {color:#0032A0;background-color:#FFFFFF;}
+    tr.NewYorkRangersDEF   td {color:#C8102E;background-color:#FFFFFF;}
+    tr.NewYorkRangersGLT   td {color:#010101;background-color:#FFFFFF;}
 	
-    tr.OttawaFWD           {color:#C8102E;background-color:#010101;}  
-    tr.OttawaDEF           {color:#FFFFFF;background-color:#010101;}
-    tr.OttawaGLT           {color:#B9975B;background-color:#010101;}
-    tr.OttawaFWD           td {color:#C8102E;background-color:#010101;}  
-    tr.OttawaDEF           td {color:#FFFFFF;background-color:#010101;}
-    tr.OttawaGLT           td {color:#B9975B;background-color:#010101;}
+    tr.OttawaFWD           {color:#010101;background-color:#FFFFFF;}  
+    tr.OttawaDEF           {color:#C8102E;background-color:#FFFFFF;}
+    tr.OttawaGLT           {color:#B9975B;background-color:#FFFFFF;}
+    tr.OttawaFWD           td {color:#010101;background-color:#FFFFFF;}  
+    tr.OttawaDEF           td {color:#C8102E;background-color:#FFFFFF;}
+    tr.OttawaGLT           td {color:#B9975B;background-color:#FFFFFF;}
 	
-    tr.PhiladelphiaFWD     {color:#010101;background-color:#FA4616;}
-    tr.PhiladelphiaDEF     {color:#FFFFFF;background-color:#FA4616;}
-    tr.PhiladelphiaGLT     {color:#DDCBA4;background-color:#FA4616;}
-    tr.PhiladelphiaFWD     td {color:#010101;background-color:#FA4616;}
-    tr.PhiladelphiaDEF     td {color:#FFFFFF;background-color:#FA4616;}
-    tr.PhiladelphiaGLT     td {color:#DDCBA4;background-color:#FA4616;}
+    tr.PhiladelphiaFWD     {color:#FA4616;background-color:#FFFFFF;}
+    tr.PhiladelphiaDEF     {color:#010101;background-color:#FFFFFF;}
+    tr.PhiladelphiaGLT     {color:#DDCBA4;background-color:#FFFFFF;}
+    tr.PhiladelphiaFWD     td {color:#FA4616;background-color:#FFFFFF;}
+    tr.PhiladelphiaDEF     td {color:#010101;background-color:#FFFFFF;}
+    tr.PhiladelphiaGLT     td {color:#DDCBA4;background-color:#FFFFFF;}
 	
-    tr.PitsburghFWD        {color:#FFB81C;background-color:#010101;}
-    tr.PitsburghDEF        {color:#FFFFFF;background-color:#010101;}
-    tr.PitsburghGLT        {color:#41B6E6;background-color:#010101;}
-    tr.PitsburghFWD        td {color:#FFB81C;background-color:#010101;}
-    tr.PitsburghDEF        td {color:#FFFFFF;background-color:#010101;}
-    tr.PitsburghGLT        td {color:#41B6E6;background-color:#010101;}
+    tr.PitsburghFWD        {color:#010101;background-color:#FFFFFF;}
+    tr.PitsburghDEF        {color:#FFB81C;background-color:#FFFFFF;}
+    tr.PitsburghGLT        {color:#41B6E6;background-color:#FFFFFF;}
+    tr.PitsburghFWD        td {color:#010101;background-color:#FFFFFF;}
+    tr.PitsburghDEF        td {color:#FFB81C;background-color:#FFFFFF;}
+    tr.PitsburghGLT        td {color:#41B6E6;background-color:#FFFFFF;}
 	
-    tr.TampaBayFWD         {color:#010101;background-color:#00205B;}
-    tr.TampaBayDEF         {color:#FFFFFF;background-color:#00205B;}
-    tr.TampaBayGLT         {color:#A2AAAD;background-color:#00205B;}
-    tr.TampaBayFWD         td {color:#010101;background-color:#00205B;}
-    tr.TampaBayDEF         td {color:#FFFFFF;background-color:#00205B;}
-    tr.TampaBayGLT         td {color:#A2AAAD;background-color:#00205B;}
+    tr.TampaBayFWD         {color:#00205B;background-color:#FFFFFF;}
+    tr.TampaBayDEF         {color:#010101;background-color:#FFFFFF;}
+    tr.TampaBayGLT         {color:#A2AAAD;background-color:#FFFFFF;}
+    tr.TampaBayFWD         td {color:#00205B;background-color:#FFFFFF;}
+    tr.TampaBayDEF         td {color:#010101;background-color:#FFFFFF;}
+    tr.TampaBayGLT         td {color:#A2AAAD;background-color:#FFFFFF;}
 	
-    tr.TorontoFWD          {color:#010101;background-color:#00205B;}
-    tr.TorontoDEF          {color:#FFFFFF;background-color:#00205B;}
-    tr.TorontoGLT          {color:#A2AAAD;background-color:#00205B;}
-    tr.TorontoFWD          td {color:#010101;background-color:#00205B;}
-    tr.TorontoDEF          td {color:#FFFFFF;background-color:#00205B;}
-    tr.TorontoGLT          td {color:#A2AAAD;background-color:#00205B;}
+    tr.TorontoFWD          {color:#00205B;background-color:#FFFFFF;}
+    tr.TorontoDEF          {color:#010101;background-color:#FFFFFF;}
+    tr.TorontoGLT          {color:#A2AAAD;background-color:#FFFFFF;}
+    tr.TorontoFWD          td {color:#00205B;background-color:#FFFFFF;}
+    tr.TorontoDEF          td {color:#010101;background-color:#FFFFFF;}
+    tr.TorontoGLT          td {color:#A2AAAD;background-color:#FFFFFF;}
 	
-    tr.WashingtonFWD       {color:#041E42;background-color:#C8102E;}
-    tr.WashingtonDEF       {color:#FFFFFF;background-color:#C8102E;}
-    tr.WashingtonGLT       {color:#AD7C59;background-color:#C8102E;}
-    tr.WashingtonFWD       td {color:#041E42;background-color:#C8102E;}
-    tr.WashingtonDEF       td {color:#FFFFFF;background-color:#C8102E;}
-    tr.WashingtonGLT       td {color:#AD7C59;background-color:#C8102E;}
+    tr.WashingtonFWD       {color:#C8102E;background-color:#FFFFFF;}
+    tr.WashingtonDEF       {color:#041E42;background-color:#FFFFFF;}
+    tr.WashingtonGLT       {color:#AD7C59;background-color:#FFFFFF;}
+    tr.WashingtonFWD       td {color:#C8102E;background-color:#FFFFFF;}
+    tr.WashingtonDEF       td {color:#041E42;background-color:#FFFFFF;}
+    tr.WashingtonGLT       td {color:#AD7C59;background-color:#FFFFFF;}
 	
-a, a:link, a:visited {
+a, a: link, a: visited {
 	text-decoration: none; 
 	font-family: Arial, sans-serif;
 	color: inherit;
