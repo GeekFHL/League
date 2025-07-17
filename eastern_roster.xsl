@@ -184,10 +184,10 @@ td
 	
     tr.TorontoFWD          {color:#010101;background-color:#00205B;text-shadow: 0 0 5px #FFFFFF, 0 0 5px #FFFFFF, 0 0 5px #FFFFFF;}
     tr.TorontoDEF          {color:#FFFFFF;background-color:#00205B;text-shadow: 0 0 5px #010101, 0 0 5px #010101, 0 0 5px #010101;}
-    tr.TorontoGLT          {color:#A2AAAD;background-color:#00205B;text-shadow: 0 0 5px #FFFFFF, 0 0 5px #FFFFFF, 0 0 5px #FFFFFF;}
+    tr.TorontoGLT          {color:#A2AAAD;background-color:#00205B;text-shadow: 0 0 5px #010101, 0 0 5px #010101, 0 0 5px #010101;}
     tr.TorontoFWD          td {color:#010101;background-color:#00205B;text-shadow: 0 0 5px #FFFFFF, 0 0 5px #FFFFFF, 0 0 5px #FFFFFF;}
     tr.TorontoDEF          td {color:#FFFFFF;background-color:#00205B;text-shadow: 0 0 5px #010101, 0 0 5px #010101, 0 0 5px #010101;}
-    tr.TorontoGLT          td {color:#A2AAAD;background-color:#00205B;text-shadow: 0 0 5px #FFFFFF, 0 0 5px #FFFFFF, 0 0 5px #FFFFFF;}
+    tr.TorontoGLT          td {color:#A2AAAD;background-color:#00205B;text-shadow: 0 0 5px #010101, 0 0 5px #010101, 0 0 5px #010101;}
 	
     tr.WashingtonFWD       {color:#041E42;background-color:#C8102E;}
     tr.WashingtonDEF       {color:#FFFFFF;background-color:#C8102E;}
