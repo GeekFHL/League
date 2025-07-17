@@ -175,10 +175,10 @@ td
     tr.PitsburghDEF        td {color:#FFFFFF;background-color:#010101;}
     tr.PitsburghGLT        td {color:#41B6E6;background-color:#010101;}
 	
-    tr.TampaBayFWD         {color:#010101;background-color:#00205B;}
+    tr.TampaBayFWD         {color:#003DA5;background-color:#00205B;}
     tr.TampaBayDEF         {color:#FFFFFF;background-color:#00205B;}
     tr.TampaBayGLT         {color:#A2AAAD;background-color:#00205B;}
-    tr.TampaBayFWD         td {color:#010101;background-color:#00205B;}
+    tr.TampaBayFWD         td {color:#003DA5;background-color:#00205B;}
     tr.TampaBayDEF         td {color:#FFFFFF;background-color:#00205B;}
     tr.TampaBayGLT         td {color:#A2AAAD;background-color:#00205B;}
 	
