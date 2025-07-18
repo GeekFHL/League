@@ -173,7 +173,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219665</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>KERINS, RORY</NAME>
@@ -569,7 +569,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227942</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>PARASCAK, TERIK</NAME>
@@ -3539,7 +3539,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177612</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>POSPISIL, MARTIN</NAME>
@@ -10658,7 +10658,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187580</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>THOMPSON, TAGE</NAME>
@@ -10757,7 +10757,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170098</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>TIMMINS, CONOR</NAME>
