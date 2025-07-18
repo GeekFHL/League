@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>July 11, 2025</UPDATED>
-	<LASTTRANS>New Jersey trades Daniel Vladar (G)and Tampa Bay 2025 3rd Round Pick (75th overall) to Pittsburgh for Shane Pinto (F) and Minnesota 2025 2nd Round Pick (59th overall)</LASTTRANS>
+	<UPDATED>July 17, 2025</UPDATED>
+	<LASTTRANS>Anaheim trades Henry Thrun (D), Marat Khusnutdinov (F) to Boston for Collin Graf (F), Matt Grzelcyk (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -477,9 +477,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226641</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>ANA/TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>LILLEBERG, EMIL</NAME>
@@ -882,9 +882,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233625</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOAN, JOSH</NAME>
@@ -1620,9 +1620,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209469</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>SALE, EDUARD</NAME>
@@ -7346,7 +7346,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105394</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>STAMKOS, STEVEN</NAME>
@@ -10386,9 +10386,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130900</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>CLAGUE, KALE</NAME>
