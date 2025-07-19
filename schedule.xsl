@@ -19,7 +19,7 @@
 	<h2>Week 1 - <xsl:value-of select="Dates"/></h2>
         <table class="contactnoborder">
 
-		 <xsl:for-each select="Schedule/Week/number=['1']/Games/Game">
+		 <xsl:for-each select="Schedule/Week[number='1']\Games\Game">
 		 <tr>
 		    <td><xsl:value-of select="Home"/></td>
 			<td><xsl:value-of select="HomeRecord"/> / </td>
