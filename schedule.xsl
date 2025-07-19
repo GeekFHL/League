@@ -15,9 +15,9 @@
 
       <div class="text">
 
-		 <xsl:for-each select="Schedule/Week/number=['1']">
-		 <h2>Week 1 - <xsl:value-of select="Dates"/></h2>
-         <table class="contactnoborder">
+	<xsl:for-each select="Schedule/Week/number=['1']">
+	<h2>Week 1 - <xsl:value-of select="Dates"/></h2>
+        <table class="contactnoborder">
 
 		 <xsl:for-each select="Schedule/Week/number=['1']/Games/Game">
 		 <tr>
@@ -32,22 +32,9 @@
 			</xsl:when>
 		 </tr>
 		 </xsl>
-		 <xsl:for-each select="Schedule/Week/number=['2']/Games/Game">
-		 <tr>
-		    <td><xsl:value-of select="Home"/></td>
-			<td><xsl:value-of select="HomeRecord"/> / </td>
-			<td><xsl:value-of select="Away"/></td>
-			<td><xsl:value-of select="AwayRecord"/></td>
-			<td><xsl:value-of select="Results"/></td>
-			<td><xsl:value-of select="Points"/></td>
-			<xsl:when test="Alert='Y'">
-			 - UPSET ALERT!! 
-			</xsl:when>
-		 </tr>
-		 </xsl>
 		 
-		 </table>
-		 </xsl>
+	  </table>
+	  </xsl>
 	  </div>
 	  
 	  </div>
