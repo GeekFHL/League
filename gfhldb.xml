@@ -10,6 +10,24 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>TOR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>5</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>TOR</TEAM>
+			<POS>DEF</POS>
+			<SLOT>11</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>12</SLOT>
 		</Player>
