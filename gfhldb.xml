@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>July 17, 2025</UPDATED>
-	<LASTTRANS>Anaheim trades Henry Thrun (D), Marat Khusnutdinov (F) to Boston for Collin Graf (F), Matt Grzelcyk (D)</LASTTRANS>
+	<UPDATED>July 20, 2025</UPDATED>
+	<LASTTRANS>Toronto trades Cole Perfetti (F), Dylan Cozens (F), Brent Burns (D), Vegas 2025 1st Round Pick to Carolina for Leon Draisaitl (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -1215,7 +1215,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172935</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>17</SLOT>
 		</Player>
@@ -4995,9 +4995,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208299</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>ASKAROV, YAROSLAV</NAME>
@@ -6516,9 +6516,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197770</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>MERZLIKINS, ELVIS</NAME>
@@ -9243,9 +9243,9 @@
 			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160174</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>TUCH, ALEX</NAME>
@@ -9522,9 +9522,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=71733</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>LETANG, KRISTOPHER</NAME>
@@ -10809,7 +10809,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105417</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
