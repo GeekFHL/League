@@ -12,11 +12,11 @@ body
 	background-color:#000000; 
         color:#FFFFFF; 	
         font-family: Arial, sans-serif;
-        font-size:14px;
+        font-size:16px;
 }
 table 
 {	border-width:0px;	
-        font-size:14px; 	
+        font-size:16px; 	
         border-color:#000000; 	
         border-style:ridge;  
         border-collapse:collapse;
@@ -31,7 +31,7 @@ td
 
 /* Tables  */
     table.noborder {border-width: 0px; 
-                    font-size: 14px; 
+                    font-size: 16px; 
                     font-family: Arial, sans-serif; 
 	            font-weight:bold; 
                     border-style: ridge; 
