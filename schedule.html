@@ -81,6 +81,18 @@
 			    color: #FF0000;
 			    animation: blink 1s infinite;
 			}
+			.grid-container {
+					  display: grid;
+					  grid-template-columns: 355px 113px 113px 113px;
+					  grid-gap: 3px;
+					  background-color: #000000;
+					  padding: 3px;
+					}
+					
+			.grid-container > div {
+					  background-color:#FFFFFF;
+					  text-align: left;
+					}
 		</style>
 
 	</head>
@@ -91,50 +103,48 @@
 		<center>
 			<div class="text">
 				<h2>Week 1 October 4 - October 13</h2>
-					<span style="color:#FFFFFF;">
-						<table class="noborder">
-						<tbody>
-							<tr class="noborder">
-								<td class="Teams">
-										  Colorado / Seattle
-									<br />Edmonton / Winnipeg
-									<br />Anaheim / Nashville
-									<br />Los Angeles / Minnesota
-									<br />Calgary / Vancouver
-									<br />Chicago / St. Louis
-									<br />Dallas / San Jose
-									<br />Utah / Vegas
-									<br />Ottawa / Detroit
-									<br />NY Rangers / Florida
-									<br />Philadelphia / Carolina
-									<br />Boston / Pittsburgh
-									<br />NY Islanders / Columbus
-									<br />Montreal / Toronto
-									<br />Washington / New Jersey
-									<br />Tampa Bay / Buffalo
-								</td>
-								<td class="Results">
-										  SEA wins 2-1  
-									<br />WPG wins 2-1  
-									<br />NSH wins 3-0  
-									<br />LA wins 3-0   
-									<br />CGY wins 2-0-1
-									<br />CHI wins 2-0-1
-									<br />SJ wins 2-1   
-									<br />UTA wins 3-0  
-									<br />TIED 1-1-1    
-									<br />FLA wins 2-1  
-									<br />PHI wins 2-1  
-									<br />PIT wins 2-1  
-									<br />NYI wins 2-1  
-									<br />TIED 1-1-1    
-									<br />WSH wins 2-1  
-									<br />TIED 1-1-1
-								</td>
-							</tr>
-						</tbody>
-					</table>
-				</span>
+					<div class="grid-container">
+						<div class="item1">
+								Colorado / Seattle
+							<br />Edmonton / Winnipeg
+							<br />Anaheim / Nashville
+							<br />Los Angeles / Minnesota
+							<br />Calgary / Vancouver
+							<br />Chicago / St. Louis
+							<br />Dallas / San Jose
+							<br />Utah / Vegas
+							<br />Ottawa / Detroit
+							<br />NY Rangers / Florida
+							<br />Philadelphia / Carolina
+							<br />Boston / Pittsburgh
+							<br />NY Islanders / Columbus
+							<br />Montreal / Toronto
+							<br />Washington / New Jersey
+							<br />Tampa Bay / Buffalo
+						</div>
+						<div class="item2">
+								SEA wins 2-1
+							<br />WPG wins 2-1  
+							<br />NSH wins 3-0  
+							<br />LA wins 3-0   
+							<br />CGY wins 2-0-1
+							<br />CHI wins 2-0-1
+							<br />SJ wins 2-1   
+							<br />UTA wins 3-0  
+							<br />TIED 1-1-1    
+							<br />FLA wins 2-1  
+							<br />PHI wins 2-1  
+							<br />PIT wins 2-1  
+							<br />NYI wins 2-1  
+							<br />TIED 1-1-1    
+							<br />WSH wins 2-1  
+							<br />TIED 1-1-1
+						</div>
+						<div class="item3">
+						</div>
+						<div class="item4">
+						</div>
+					</div>
 				<br />
 				<h2>Week 2 October 14 - October 20</h2>
 					<span style="color:#FFFFFF;">
@@ -1084,7 +1094,7 @@
 									<br />Columbus (13-30-5) / Detroit (23-20-5)
 									<br />Florida (12-34-2) / Carolina (12-31-5)
 								</td>
-								<td class="Teams">
+								<td class="Results">
 										  VAN wins 2-1
 									<br />MIN wins 2-1
 									<br />TIED 1-1-1  
