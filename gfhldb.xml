@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>July 23, 2025</UPDATED>
-	<LASTTRANS>New Jersey trades Bonne Jenner (F) to Philadelphia for Sergei Ivanov (G) and Eric Pohlkamp (D)</LASTTRANS>
+	<LASTTRANS>Boston releases Ian Mitchell (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -1271,7 +1271,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=247713</WEB>
 			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>KORCZAK, KAEDAN</NAME>
@@ -4959,9 +4959,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179508</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SANDERSON, JAKE</NAME>
@@ -4986,7 +4986,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233632</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>8</SLOT>
 		</Player>
@@ -8867,7 +8867,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116024</WEB>
 			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>JUOLEVI, OLLI</NAME>
@@ -9290,7 +9290,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130533</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>PAGEAU, JEAN-GABRIEL</NAME>
@@ -9927,9 +9927,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180904</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>10</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRANNSTROM, ERIK</NAME>
