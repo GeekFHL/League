@@ -9,6 +9,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>TB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
 			<SLOT>21</SLOT>
@@ -1271,7 +1280,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=247713</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>10</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>KORCZAK, KAEDAN</NAME>
