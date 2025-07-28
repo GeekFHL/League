@@ -82,7 +82,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -107,7 +107,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -132,7 +132,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -157,7 +157,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -182,7 +182,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -207,7 +207,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -232,7 +232,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -257,7 +257,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -282,7 +282,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -306,7 +306,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -331,7 +331,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -356,7 +356,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -381,7 +381,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -406,7 +406,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -431,7 +431,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -462,7 +462,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -487,7 +487,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -512,7 +512,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -537,7 +537,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -562,7 +562,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -587,7 +587,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -612,7 +612,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -637,7 +637,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -662,7 +662,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -687,7 +687,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -711,7 +711,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -736,7 +736,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -761,7 +761,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -786,7 +786,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -811,7 +811,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
@@ -836,7 +836,7 @@
             <p class="award">President Trophy Winner - <xsl:value-of select="PresidentTrophy"/></p>
           </xsl:if>
           <xsl:if test="EastConfChamp!=''">
-            <p class="award">Western Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
+            <p class="award">Eastern Conference Champs - <xsl:value-of select="EastConfChamp"/></p>
           </xsl:if>
           <xsl:if test="WestConfChamp!=''">
             <p class="award">Western Conference Champs - <xsl:value-of select="WestConfChamp"/></p>
