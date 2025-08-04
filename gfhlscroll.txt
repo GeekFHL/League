@@ -11,7 +11,7 @@ story5 =  "Congrats Kevin!";
 header6 = "VOICE YOUR OPINION";
 story6 =  "Make your thoughts known by voting on the GFHL Poll on the main page.";
 header7 = "INTERESTED IN JOINING?";
-story7 =  "If you are interested in becoming a GM with the GFHL, please contact the league office at gfhl22@hotmail.com.  You will be required to complete an application and a short interview.  New GMs will be brought in based on openings and upon successful completion of our screening process.  Thank you for your interest.";
+story7 =  "If you are interested in becoming a GM with the GFHL, don't hesitate to get in touch with the league office at gfhl22@hotmail.com.  You will be required to complete an application and participate in a brief interview.  New GMs will be brought in based on openings and upon successful completion of our screening process.  Thank you for your interest.";
 document.writeln("<font size='+0' >");
 document.writeln("<span style='FONT-STYLE: normal'>");
 document.writeln("<div id='mainDiv5790' style='border:1px #000000 solid;width:165px;height:265px;overflow:hidden;position: relative;background:#FFFFFF;0'>");
@@ -182,3 +182,4 @@ var total_width_offset5790=165;
 var news_scroller_height5790=5;
 
 var paused5790=false;
+
