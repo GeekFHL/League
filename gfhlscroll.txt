@@ -1,13 +1,13 @@
 header1 = "WELCOME TO THE GFHL!";
 story1 =  "Welcome to the greatest fantasy hockey league in the world!";
-header2 = "2024 GFHL Draft #1, #2 and #3";
+header2 = "2025 GFHL Draft #1, #2 and #3";
 story2 =  "???? goes #1, ??? goes #2 and ??? goes #3";
 header3 = "WHAT'S GOING ON?";
 story3 =  "Trading is open for business. New Signings are frozen! Until after the Summer Draft.";
 header4 = "COMMITMENT";
 story4 =  "Is everyone ready for another year of commitment? Let us know if you're thinking on leaving.";
-header5 = "Kassandra Cup visits Los Angeles";
-story5 =  "Congrats Tom!";
+header5 = "Kassandra Cup visits Toronto";
+story5 =  "Congrats Kevin!";
 header6 = "VOICE YOUR OPINION";
 story6 =  "Make your thoughts known by voting on the GFHL Poll on the main page.";
 header7 = "INTERESTED IN JOINING?";
@@ -180,4 +180,5 @@ var scrolling_div5790=null;
 var total_height_offset5790=265;
 var total_width_offset5790=165;
 var news_scroller_height5790=5;
+
 var paused5790=false;
