@@ -56,7 +56,7 @@
 			<WEB></WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>FLEURY, MARC-ANDRE</NAME>
@@ -11877,6 +11877,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
