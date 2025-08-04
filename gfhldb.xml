@@ -50,15 +50,6 @@
 			<SLOT>12</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>OTT</TEAM>
-			<POS>DEF</POS>
-			<SLOT>16</SLOT>
-		</Player>
-		<Player>
 			<NAME>FLEURY, MARC-ANDRE</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -11877,4 +11868,5 @@
 		
 	</DB>
 </GFHL>
+
 
