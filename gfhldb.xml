@@ -48,6 +48,14 @@
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>12</SLOT>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>NJ</TEAM>
+			<POS>DEF</POS>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>FLEURY, MARC-ANDRE</NAME>
@@ -11868,5 +11876,6 @@
 		
 	</DB>
 </GFHL>
+
 
 
