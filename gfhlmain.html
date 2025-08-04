@@ -2,7 +2,24 @@
 <head>
 <title>GFHL - Geekstar Fanasty Hockey League</title>
 <link rel="stylesheet" type="text/css" href="gfhlmain.css" />
-<script type="text/javascript" src="gfhlmain.js"></script>
+<script type="text/javascript">
+  var imageURLs = [
+       "https://geekfhl.github.io/League/Images/Main/2024/la_icerink.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_kingsrings.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_stanleycup.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_teampic.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_vspens.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_wil.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_win.jpg"
+  ];
+  function getImageTag() {
+    var img = '<img src=\"';
+    var randomIndex = Math.floor(Math.random() * imageURLs.length);
+    img += imageURLs[randomIndex];
+    img += '\"/>';
+    return img;
+  }
+</script>
 </head>
 
 <body>
@@ -29,11 +46,9 @@
 	   </ul>
 	
 	   <div id="maincontent">
-		   <img src="https://geekfhl.github.io/League/Images/Main/2024/la_icerink.jpg" width="544" vspace="2" class="center"></img><center>The Los Angeles Kings have won the Kassandra Cup! Congratulation Tom! Your hard work paid off with your second cup in 3 years.</center>
+		   
 		<script type="text/javascript">
-			<!-- This function builds a random main picture.
-			random_mainpic()
-			//-->
+  			document.write(getImageTag());
 		</script>
 		<p />
 		<p />
@@ -136,4 +151,5 @@
 	&nbsp
 </body>
 </html>
+
 
