@@ -70,13 +70,13 @@ div#footer {
 	}
 
 div.backt {
-	background: #bfb199 url(css/image/backt.jpg) repeat-x top left;
+	background: #bfb199 url(css/images/backt.jpg) repeat-x top left;
 	height: 75px;
 	}
 
 div.backc {
 	padding-right: 100px;
-	background: #bfb199 url(css/image/backc.jpg) no-repeat top right ;
+	background: #bfb199 url(css/images/backc.jpg) no-repeat top right ;
 	height: 75px;
 	}
 
@@ -142,12 +142,12 @@ a:hover, a:active {
 	font-family: Arial, sans-serif;
 	height: 25px; 
 	line-height: 26px;
-	background:#422929 url(css/image/h2a.gif) repeat-x top left; 
+	background:#422929 url(css/images/h2a.gif) repeat-x top left; 
 	border-right: 1px solid #342422;
 	}
 
  #menu li a:hover {
-	 background: #422929 url(css/image/h2ah.gif) repeat-x top left; 
+	 background: #422929 url(css/images/h2ah.gif) repeat-x top left; 
 	 border-right: 1px solid #4C3C3A;
 	 padding: 7px 10px 7px 16px; 
 	 text-decoration: underline;
@@ -202,7 +202,7 @@ ul.li, p.odd, table.odd td {
 	font: 14px/20px Arial, sans-serif; 
 	color: #666; 
 	clear:both;
-	background: #040404 url(css/image/odd.jpg) top left repeat-x;
+	background: #040404 url(css/images/odd.jpg) top left repeat-x;
 	}
 
 ul.topten a, p.odd a {
@@ -274,7 +274,7 @@ h1 {
 .text h2, .text h3, .localtext h2, .localtext h3 {
 	margin: 0; 
 	padding: 0 12px;
-	background:#2A4144 url(css/image/h2.gif) repeat-x top left;
+	background:#2A4144 url(css/images/h2.gif) repeat-x top left;
 	color: #999;
 	font-size:14px;
 	font-weight: bold;
@@ -285,7 +285,7 @@ h1 {
 .text h4, .text h5, .localtext h4, .localtext h5 {
 	margin: 0; 
 	padding: 0 12px;
-	background:#2A4144 url(css/image/h2.gif) repeat-x top left;
+	background:#2A4144 url(css/images/h2.gif) repeat-x top left;
 	color: #999;
 	font-size:14px;
 	font-weight: bold;
@@ -319,11 +319,11 @@ h1 {
 	}
 
 .localtext h2, .localtext h3 {
-	background:#432D2B url(css/image/h2a.gif) repeat-x top left;
+	background:#432D2B url(css/images/h2a.gif) repeat-x top left;
 	}
 
 .localtext h4, .localtext h4 {
-	background:#432D2B url(css/image/h2a.gif) repeat-x top left;
+	background:#432D2B url(css/images/h2a.gif) repeat-x top left;
 	width:600px
 	}
 
@@ -349,7 +349,7 @@ h1 {
 .text b {color: #787878;}
 
 .text, .localtext {
-	background: #000 url(css/image/left.gif) repeat-y top left;  
+	background: #000 url(css/images/left.gif) repeat-y top left;  
 	border: 1px solid; 
 	border-top: 0px; 
 	border-left: 0px; 
@@ -357,7 +357,7 @@ h1 {
 	}
 
 .localtext {
-	background: #000 url(css/image/left_alt.gif) repeat-y top left;
+	background: #000 url(css/images/left_alt.gif) repeat-y top left;
 	border-color: #734A4A #342422 #342422 #734A4A;
 	}
 /* Image */
@@ -380,7 +380,7 @@ img {border: 0;}
 
 p.image {
 	overflow: hidden; 
-	background: #040404 url(css/image/odd.jpg) top left repeat-x; 
+	background: #040404 url(css/images/odd.jpg) top left repeat-x; 
 	text-align: center;
 	}
 
@@ -403,7 +403,7 @@ html\:abbr, abbr, acronym, span.abbr {
 .pos a:hover img {display: block; margin: auto;}
 
 #navigation {
-background: url(css/image/header7.jpg) no-repeat  0px 26px;
+background: url(css/images/header7.jpg) no-repeat  0px 26px;
 height: 86px; border-right: 1px solid #342422; border-bottom: 1px solid #342422;}
 
 a.rss:hover {background: #FFA25A; text-decoration: none; color: #fff;}
@@ -417,12 +417,12 @@ div.foot {
 
 p.code {
 	border: 1px solid; border-color: #734A4A #342422 #342422 #734A4A; 
-	background: #422929 url(css/image/h2a.gif) -12px -1px repeat-x; 
+	background: #422929 url(css/images/h2a.gif) -12px -1px repeat-x; 
 	margin: 24px; padding: 12px 0 12px 12px; width: 480px; overflow: auto; color: #FFF;} 
 
-.shade {background: url(css/image/shade.gif) repeat-x; height: 24px;}
+.shade {background: url(css/images/shade.gif) repeat-x; height: 24px;}
 
-.text table.pos td, ul.odd li {background: #040404 url(css/image/odd.jpg) top left repeat-x;}
+.text table.pos td, ul.odd li {background: #040404 url(css/images/odd.jpg) top left repeat-x;}
 
 .text table.pos td a:hover {
 	color: #B7D1D5;
@@ -449,7 +449,8 @@ a:hover img {
 ul.icons {list-style-type: none; margin: 12px; padding: 0; text-align: left;}
 .icons li {display: inline; padding-right: 4px;}
 
-.intexta, .intextb {width: 84px; margin-left: 2px; padding: 6px 0 0 10px; color: #EEE; display: block; height: 20px; line-height: 20px; background: #000 url(css/image/h2a.gif); border-width: 0; font-family: courier;}
-.intextb {background: #000 url(css/image/h2.gif);}
+.intexta, .intextb {width: 84px; margin-left: 2px; padding: 6px 0 0 10px; color: #EEE; display: block; height: 20px; line-height: 20px; background: #000 url(css/images/h2a.gif); border-width: 0; font-family: courier;}
+.intextb {background: #000 url(css/images/h2.gif);}
 input.click {display: block; width: 94px; margin-left: 2px;}
 form {margin-bottom: 12px;}
+
