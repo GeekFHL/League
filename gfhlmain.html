@@ -4,18 +4,17 @@
 <link rel="stylesheet" type="text/css" href="gfhlmain.css" />
 <script type="text/javascript">
   var imageURLs = [
-       "la_icerink.jpg"
-     , "la_kingsrings.jpg"
-     , "la_stanleycup.jpg"
-     , "la_teampic.jpg"
-     , "la_vspens.jpg"
-     , "la_wil.jpg"
-     , "la_win.jpg"
+       "https://geekfhl.github.io/League/Images/Main/2024/la_icerink.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_kingsrings.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_stanleycup.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_teampic.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_vspens.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_wil.jpg"
+     , "https://geekfhl.github.io/League/Images/Main/2024/la_win.jpg"
   ];
   function getImageTag() {
     var img = '<img src=\"';
     var randomIndex = Math.floor(Math.random() * imageURLs.length);
-    img += 'https://geekfhl.github.io/League/Images/Main/2024/'
     img += imageURLs[randomIndex];
     img += ' width="544" vspace="2" class="center" \">';
     return img;
