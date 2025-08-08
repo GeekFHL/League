@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 4, 2025</UPDATED>
+	<UPDATED>August 8, 2025</UPDATED>
 	<LASTTRANS>Ottawa trades Adin Hill (G), Ottawa 2025 3rd round pick (73rd overall) to New Jersey for Sebastian Cossa (G), Scott Morrow (D), Minnesota 2025 2nd round pick (59th overall)</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>TOR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>24</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -4770,9 +4779,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196044</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>BARABANOV, ALEXANDER</NAME>
@@ -11133,9 +11142,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217617</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>BERARD, BRETT</NAME>
@@ -11877,6 +11886,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
