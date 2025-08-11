@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 8, 2025</UPDATED>
-	<LASTTRANS>Ottawa trades Adin Hill (G), Ottawa 2025 3rd round pick (73rd overall) to New Jersey for Sebastian Cossa (G), Scott Morrow (D), Minnesota 2025 2nd round pick (59th overall)</LASTTRANS>
+	<UPDATED>August 1, 2025</UPDATED>
+	<LASTTRANS></LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -3870,9 +3870,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218022</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>SVECHKOV, FEDOR</NAME>
@@ -5076,9 +5076,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218392</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>ST&#220;TZLE, TIM</NAME>
@@ -11886,6 +11886,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
