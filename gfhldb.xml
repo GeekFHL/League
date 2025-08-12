@@ -5218,7 +5218,7 @@
 		<Player>
 			<NAME>ANDERSSON, RASMUS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=165972</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
@@ -11895,6 +11895,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
