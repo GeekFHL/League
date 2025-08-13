@@ -7234,7 +7234,7 @@
 		<Player>
 			<NAME>KERFOOT, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139246</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -11895,6 +11895,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
