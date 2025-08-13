@@ -4939,7 +4939,7 @@
 		<Player>
 			<NAME>ZARY, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208600</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
@@ -7018,7 +7018,7 @@
 		<Player>
 			<NAME>LUNDESTROM, ISAC</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192083</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
@@ -11895,6 +11895,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
