@@ -10494,7 +10494,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132742</WEB>
-			<TEAM>FA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
 			<SLOT></SLOT>
 		</Player>
@@ -11895,6 +11895,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
