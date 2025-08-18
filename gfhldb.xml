@@ -1,9 +1,54 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 11, 2025</UPDATED>
-	<LASTTRANS>Boston releases Christian Kyrou (D)</LASTTRANS>
+	<UPDATED>August 18, 2025</UPDATED>
+	<LASTTRANS>Draft</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>JACKSON SMITH</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=269199</WEB>
+			<TEAM>TOR</TEAM>
+			<POS>DEF</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>FEDOR SVECHKOV</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241830</WEB>
+			<TEAM>SEA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>CARTER BEAR</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=264349</WEB>
+			<TEAM>WPG</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>BENJAMIN KINDEL</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265955</WEB>
+			<TEAM>CAR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>PYOTR ANDREYONOV</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=281299</WEB>
+			<TEAM>VAN</TEAM>
+			<POS>GLT</POS>
+			<SLOT>25</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -637,11 +682,11 @@
 		<Player>
 			<NAME>CLARA, DAMIAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=252163</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>JIRICEK, ADAM</NAME>
@@ -3886,11 +3931,11 @@
 		<Player>
 			<NAME>SVECHKOV, FEDOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241830</WEB>
-			<TEAM>UTA</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>EDVINSSON, SIMON</NAME>
@@ -10924,7 +10969,7 @@
 		<Player>
 			<NAME>TALBOT, CAMERON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=100197</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
@@ -11895,6 +11940,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
