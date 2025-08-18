@@ -5,6 +5,87 @@
 	<LASTTRANS>Draft</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME>MISA, MICHAEL</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262403</WEB>
+			<TEAM>DAL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>HAGENS, JAMES</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262568</WEB>
+			<TEAM>FLA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>FRONDELL, ANTON</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270715</WEB>
+			<TEAM>SJ</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>SCHAEFER, MATTHEW</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271150</WEB>
+			<TEAM>FLA</TEAM>
+			<POS>DEF</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>MARTONE, PORTER</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262250</WEB>
+			<TEAM>TOR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>DESNOYERS, CALEB</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270395</WEB>
+			<TEAM>NYR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>EKLUND, VICTOR</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265173</WEB>
+			<TEAM>WSH</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>MCQUEEN, ROGER</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251829</WEB>
+			<TEAM>OTT</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>RAVENSBERGEN, JOSHUA</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270166</WEB>
+			<TEAM>PIT</TEAM>
+			<POS>GLT</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
 			<NAME>COOTES, BRAEDEN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -15,7 +96,16 @@
 		</Player>
 		<Player>
 			<NAME>MARTIN, BRADY</NAME>
+				<Player>
+			<NAME>COOTES, BRAEDEN</NAME>
 			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265087</WEB>
+			<TEAM>WPG</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+	<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271137</WEB>
 			<TEAM>STL</TEAM>
@@ -11967,6 +12057,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
