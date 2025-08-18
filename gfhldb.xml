@@ -5,6 +5,33 @@
 	<LASTTRANS>Draft</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>UTA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>10</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>CGY</TEAM>
+			<POS>FWD</POS>
+			<SLOT>10</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>CHI</TEAM>
+			<POS>GLT</POS>
+			<SLOT>21</SLOT>
+		</Player>
+		<Player>
 			<NAME>MISA, MICHAEL</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -5101,9 +5128,9 @@
 		<Player>
 			<NAME>ZARY, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208600</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -12057,6 +12084,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
