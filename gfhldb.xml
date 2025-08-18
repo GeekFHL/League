@@ -5,7 +5,43 @@
 	<LASTTRANS>Draft</LASTTRANS>
 	<DB>
 		<Player>
-			<NAME>JACKSON SMITH</NAME>
+			<NAME>COOTES, BRAEDEN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265087</WEB>
+			<TEAM>WPG</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>MARTIN, BRADY</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271137</WEB>
+			<TEAM>STL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>SHABANOV, MAXIM</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249103</WEB>
+			<TEAM>CLB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>FROLOV, SEMYON</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=281380</WEB>
+			<TEAM>ANA</TEAM>
+			<POS>GLT</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>SMITH, JACKSON</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=269199</WEB>
@@ -14,16 +50,7 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
-			<NAME>FEDOR SVECHKOV</NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241830</WEB>
-			<TEAM>SEA</TEAM>
-			<POS>FWD</POS>
-			<SLOT>25</SLOT>
-		</Player>
-		<Player>
-			<NAME>CARTER BEAR</NAME>
+			<NAME>BEAR, CARTER</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=264349</WEB>
@@ -32,7 +59,7 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
-			<NAME>BENJAMIN KINDEL</NAME>
+			<NAME>KINDEL, BENJAMIN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265955</WEB>
@@ -41,7 +68,7 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
-			<NAME>PYOTR ANDREYONOV</NAME>
+			<NAME>ANDREYONOV, PYOTR</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=281299</WEB>
@@ -7450,11 +7477,11 @@
 		<Player>
 			<NAME>STAMKOS, STEVEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96607</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>MCGINN, BROCK</NAME>
@@ -11940,6 +11967,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
