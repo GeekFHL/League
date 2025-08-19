@@ -2,8 +2,26 @@
 
 <GFHL>
 	<UPDATED>August 18, 2025</UPDATED>
-	<LASTTRANS>First Round Pick #26 Boston - Jack Nesbitt  (F) - FA</LASTTRANS>
+	<LASTTRANS>First Round Pick #28 San Jose - Akira Schmid  (G) - FA</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>CGY</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>SCHMID, AKIRA</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271143</WEB>
+			<TEAM>SJ</TEAM>
+			<POS>GLT</POS>
+			<SLOT>25</SLOT>
+		</Player>
 		<Player>
 			<NAME>NESBITT, JACK</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -223,7 +241,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
@@ -2266,7 +2284,7 @@
 		<Player>
 			<NAME>NOVAK, THOMAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=173610</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
@@ -3814,7 +3832,7 @@
 		<Player>
 			<NAME>POSPISIL, MARTIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209457</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
@@ -8323,7 +8341,7 @@
 		<Player>
 			<NAME>BJORKSTRAND, OLIVER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155408</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
@@ -10735,11 +10753,11 @@
 		<Player>
 			<NAME>KANE, PATRICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96554</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>MALKIN, EVGENI</NAME>
@@ -11059,7 +11077,7 @@
 		<Player>
 			<NAME>DOMI, MAX</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130519</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
@@ -12111,6 +12129,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
