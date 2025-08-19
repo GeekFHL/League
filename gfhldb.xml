@@ -1555,7 +1555,7 @@
 		<Player>
 			<NAME>BECK, OWEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232378</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
@@ -9475,7 +9475,7 @@
 		<Player>
 			<NAME>BJUGSTAD, NICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127782</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
@@ -11383,7 +11383,7 @@
 		<Player>
 			<NAME>PIETRANGELO, ALEX</NAME>
 			<CAPTAIN>C</CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96594</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>DEF</POS>
@@ -11473,7 +11473,7 @@
 		<Player>
 			<NAME>FOLIGNO, MARCUS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106815</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
@@ -12399,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
