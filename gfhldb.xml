@@ -10249,7 +10249,7 @@
 		<Player>
 			<NAME>BOQVIST, ADAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210177</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
@@ -12129,6 +12129,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
