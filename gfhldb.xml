@@ -790,7 +790,7 @@
 		<Player>
 			<NAME>BUCHELNIKOV, DMITRI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=257932</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
@@ -3931,7 +3931,7 @@
 		<Player>
 			<NAME>VAN RIEMSDYK, TREVOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=146221</WEB>
 			<TEAM>DET</TEAM>
 			<POS>DEF</POS>
@@ -5398,7 +5398,7 @@
 		<Player>
 			<NAME>BRISSON, BRENDAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217088</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
@@ -8485,7 +8485,7 @@
 		<Player>
 			<NAME>WENNBERG, ALEXANDER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152767</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
@@ -8890,7 +8890,7 @@
 		<Player>
 			<NAME>HAGUE, NICOLAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187433</WEB>
 			<TEAM>DET</TEAM>
 			<POS>DEF</POS>
@@ -8899,7 +8899,7 @@
 		<Player>
 			<NAME>MCCABE, JAKE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123359</WEB>
 			<TEAM>DET</TEAM>
 			<POS>DEF</POS>
@@ -12399,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
