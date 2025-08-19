@@ -384,6 +384,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -502,6 +505,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -624,6 +630,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -742,6 +751,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -866,6 +878,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -984,6 +999,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -1106,6 +1124,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -1224,6 +1245,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -1349,6 +1373,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -1467,6 +1494,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -1589,6 +1619,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -1707,6 +1740,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -1832,6 +1868,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -1950,6 +1989,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -2072,6 +2114,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -2190,6 +2235,9 @@ a.Winnipeg:hover {color:#041E42;text-decoration:none;}
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
