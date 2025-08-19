@@ -4579,7 +4579,7 @@
 		<Player>
 			<NAME>MAROON, PATRICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105400</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
@@ -4642,7 +4642,7 @@
 		<Player>
 			<NAME>GADJOVICH, JONAH</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177566</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
@@ -8107,7 +8107,7 @@
 		<Player>
 			<NAME>GUDAS, RADKO</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=115984</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
@@ -8188,7 +8188,7 @@
 		<Player>
 			<NAME>GAUDETTE, ADAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177644</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
@@ -9097,7 +9097,7 @@
 		<Player>
 			<NAME>DILLON, BRENDEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106892</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
@@ -9592,7 +9592,7 @@
 		<Player>
 			<NAME>COMPHER, JT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145443</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
@@ -12399,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
