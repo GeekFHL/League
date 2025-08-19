@@ -3481,7 +3481,7 @@
 		<Player>
 			<NAME>HOLMBERG, PONTUS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211454</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
@@ -7855,7 +7855,7 @@
 		<Player>
 			<NAME>HUSSO, VILLE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=159892</WEB>
 			<TEAM>COL</TEAM>
 			<POS>GLT</POS>
@@ -7882,7 +7882,7 @@
 		<Player>
 			<NAME>DUMBA, MATT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124409</WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
@@ -8782,7 +8782,7 @@
 		<Player>
 			<NAME>DELLANDREA, TY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191305</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
@@ -10510,7 +10510,7 @@
 		<Player>
 			<NAME>WAHLSTROM, OLIVER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196151</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
@@ -12399,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
