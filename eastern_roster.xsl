@@ -285,7 +285,10 @@ a: hover, a: active {
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
-						      <xsl:otherwise>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+							  <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
 						</xsl:choose>
@@ -403,6 +406,9 @@ a: hover, a: active {
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -527,6 +533,9 @@ a: hover, a: active {
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -645,6 +654,9 @@ a: hover, a: active {
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -769,6 +781,9 @@ a: hover, a: active {
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -887,6 +902,9 @@ a: hover, a: active {
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -1009,6 +1027,9 @@ a: hover, a: active {
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -1127,6 +1148,9 @@ a: hover, a: active {
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -1252,6 +1276,9 @@ a: hover, a: active {
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -1370,6 +1397,9 @@ a: hover, a: active {
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -1492,6 +1522,9 @@ a: hover, a: active {
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -1610,6 +1643,9 @@ a: hover, a: active {
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
@@ -1735,6 +1771,9 @@ a: hover, a: active {
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -1855,6 +1894,9 @@ a: hover, a: active {
 						      <xsl:when test="SLOT = '24'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
 						      <xsl:otherwise>
 						          <td class="Pos"><xsl:value-of select="POS"/></td>
 						      </xsl:otherwise>
@@ -1973,6 +2015,9 @@ a: hover, a: active {
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:when test="SLOT = '24'">
+						         <td class="Pos">RES</td>
+						      </xsl:when>
+						      <xsl:when test="SLOT = '25'">
 						         <td class="Pos">RES</td>
 						      </xsl:when>
 						      <xsl:otherwise>
