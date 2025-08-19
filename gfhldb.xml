@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 18, 2025</UPDATED>
-	<LASTTRANS>Draft</LASTTRANS>
+	<LASTTRANS>First Round Pick #25 Detroit - Radim Mrtka (D) - FA</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>MRTKA, RADIM</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273612</WEB>
+			<TEAM>DET</TEAM>
+			<POS>DEF</POS>
+			<SLOT>25</SLOT>
+		</Player>
 		<Player>
 			<NAME>CARBONNEAU, JUSTIN</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -12093,6 +12102,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
