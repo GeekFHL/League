@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 19, 2025</UPDATED>
-	<LASTTRANS>Second Round Pick #58 Tampa Bay - Brayden McNabb (D) - UTA</LASTTRANS>
+	<LASTTRANS>Second Round Pick #59 Ottawa - Carson Rehkopf (F) - NYR</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>NYR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>4</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -1699,11 +1708,11 @@
 		<Player>
 			<NAME>REHKOPF, CARSON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248740</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>OKHOTYUK, NIKITA</NAME>
@@ -12399,6 +12408,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
