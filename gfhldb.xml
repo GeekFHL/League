@@ -5,6 +5,15 @@
 	<LASTTRANS>Draft</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME>CARBONNEAU, JUSTIN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=264854</WEB>
+			<TEAM>WPG</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12084,6 +12093,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
