@@ -565,7 +565,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
@@ -12399,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
