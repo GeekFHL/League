@@ -601,7 +601,7 @@
 		<Player>
 			<NAME>JUGNAUTH, TYSON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230836</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
@@ -2797,7 +2797,7 @@
 		<Player>
 			<NAME>GREER, A.J.</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171577</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
@@ -3877,7 +3877,7 @@
 		<Player>
 			<NAME>DUHAIME, BRANDON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171261</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
@@ -6838,7 +6838,7 @@
 		<Player>
 			<NAME>BOQVIST, JESPER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192047</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
@@ -7378,7 +7378,7 @@
 		<Player>
 			<NAME>LAUGHTON, SCOTT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>LAUGHTON</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=128062</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
@@ -11104,7 +11104,7 @@
 		<Player>
 			<NAME>SCHMIDT, NATE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123400</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
@@ -12399,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
