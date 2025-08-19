@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 18, 2025</UPDATED>
-	<LASTTRANS>First Round Pick #25 Detroit - Radim Mrtka (D) - FA</LASTTRANS>
+	<LASTTRANS>First Round Pick #26 Boston - Jack Nesbitt  (F) - FA</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>NESBITT, JACK</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271143</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
 		<Player>
 			<NAME>MRTKA, RADIM</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -12102,6 +12111,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
