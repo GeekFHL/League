@@ -2068,7 +2068,7 @@
 		<Player>
 			<NAME>MERKULOV, GEORGII</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229105</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
@@ -2230,7 +2230,7 @@
 		<Player>
 			<NAME>THRUN, HENRY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209469</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
@@ -2824,7 +2824,7 @@
 		<Player>
 			<NAME>KASTELIC, MARK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187324</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
@@ -7954,7 +7954,7 @@
 		<Player>
 			<NAME>KILLORN, ALEXANDER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105394</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
@@ -9871,7 +9871,7 @@
 		<Player>
 			<NAME>NAMESTNIKOV, VLADISLAV</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130533</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
@@ -9925,7 +9925,7 @@
 		<Player>
 			<NAME>HARTMAN, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130904</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
@@ -12453,6 +12453,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
