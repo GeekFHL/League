@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 20, 2025</UPDATED>
-	<LASTTRANS>Third Round #74 Colorado Pick</LASTTRANS>
+	<LASTTRANS>Third Round #75 Pittsburgh Pick</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>BUMP, ALEX</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=247285</WEB>
+			<TEAM>PIT</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -12507,6 +12516,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
