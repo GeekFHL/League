@@ -241,7 +241,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
@@ -12426,6 +12426,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
