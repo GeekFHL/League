@@ -6397,7 +6397,7 @@
 		<Player>
 			<NAME>CLIFTON, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>CLIFTON</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145656</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
@@ -12534,6 +12534,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
