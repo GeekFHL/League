@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 20, 2025</UPDATED>
-	<LASTTRANS>Third Round #73 NEW Jersey Pick</LASTTRANS>
+	<LASTTRANS>Third Round #74 Colorado Pick</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>VGK</TEAM>
+			<POS>FWD</POS>
+			<SLOT>9</SLOT>
+		</Player>
 		<Player>
 			<NAME>ELLIS, COLTEN</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -10510,11 +10519,11 @@
 		<Player>
 			<NAME>IAFALLO, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145488</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>WHITE, COLIN</NAME>
@@ -12498,6 +12507,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
