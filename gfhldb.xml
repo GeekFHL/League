@@ -2,8 +2,35 @@
 
 <GFHL>
 	<UPDATED>August 19, 2025</UPDATED>
-	<LASTTRANS>Second Round Pick #58 Tampa Bay - Brayden McNabb (D) - UTA</LASTTRANS>
+	<LASTTRANS>Second Round Pick #63 Nashville - Michael DiPietro (G) - FA</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>NYR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>10</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>BOS</TEAM>
+			<POS>FWD</POS>
+			<SLOT>21</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>NYR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>4</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -1222,7 +1249,7 @@
 		<Player>
 			<NAME>FEDOTOV, IVAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180671</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>GLT</POS>
@@ -1465,7 +1492,7 @@
 		<Player>
 			<NAME>REMPE, MATT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216250</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
@@ -1699,11 +1726,11 @@
 		<Player>
 			<NAME>REHKOPF, CARSON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248740</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>OKHOTYUK, NIKITA</NAME>
@@ -2500,7 +2527,7 @@
 		<Player>
 			<NAME>POIRIER, JEREMIE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216568</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
@@ -2644,7 +2671,7 @@
 		<Player>
 			<NAME>DUMAIS, JORDAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235301</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
@@ -4840,7 +4867,7 @@
 		<Player>
 			<NAME>FREDERIC, TRENT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177792</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
@@ -7135,11 +7162,11 @@
 		<Player>
 			<NAME>TURCOTTE, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209490</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>BYRAM, BOWEN</NAME>
@@ -7479,9 +7506,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187458</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NSH</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>25/SLOT>
 		</Player>
 		<Player>
 			<NAME>STEPHENS, MITCHELL</NAME>
@@ -11482,11 +11509,11 @@
 		<Player>
 			<NAME>NIEDERREITER, NINO</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123014</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>HENRIQUE, ADAM</NAME>
@@ -12399,6 +12426,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
