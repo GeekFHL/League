@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 19, 2025</UPDATED>
-	<LASTTRANS>Third Round #68 Vegas Pick</LASTTRANS>
+	<LASTTRANS>Third Round #69 Pittsburgh Pick</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>KLAPKA, ADAM</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213692</WEB>
+			<TEAM>PIT</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -12462,6 +12471,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
