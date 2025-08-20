@@ -664,7 +664,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -673,7 +673,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
@@ -709,7 +709,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
@@ -745,7 +745,7 @@
 		<Player>
 			<NAME>BACK, OSKAR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207945</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
@@ -772,7 +772,7 @@
 		<Player>
 			<NAME>HAMEENAHO, LENNI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251537</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -853,7 +853,7 @@
                  <Player>
 			<NAME>JOHANSSON, ALBERT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218279</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
@@ -862,7 +862,7 @@
 		<Player>
 			<NAME>GALIMOV, ARTYOM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219665</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
@@ -952,7 +952,7 @@
 		<Player>
 			<NAME>GEORGE, ISAIAH</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232424</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
@@ -961,7 +961,7 @@
 		<Player>
 			<NAME>IVAN, IVAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227324</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
@@ -1105,7 +1105,7 @@
 		<Player>
 			<NAME>BALINSKIS, UVIS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191621</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
@@ -1114,7 +1114,7 @@
 		<Player>
 			<NAME>KOLYACHONOK, VLADISLAV</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216625</WEB>
 			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
@@ -1132,7 +1132,7 @@
 		<Player>
 			<NAME>THOMPSON, JACK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=212039</WEB>
 			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
@@ -1258,7 +1258,7 @@
 		<Player>
 			<NAME>UFKO, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227942</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
@@ -1267,7 +1267,7 @@
 		<Player>
 			<NAME>PARASCAK, TERIK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265268</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
@@ -1321,7 +1321,7 @@
 		<Player>
 			<NAME>DEL MASTRO, ETHAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227237</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>DEF</POS>
@@ -1627,7 +1627,7 @@
 		<Player>
 			<NAME>POULTER, ISAAC</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217250</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>GLT</POS>
@@ -1681,7 +1681,7 @@
 		<Player>
 			<NAME>HEINEMAN, EMIL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232198</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
@@ -1753,7 +1753,7 @@
 		<Player>
 			<NAME>HUNT, DAEMON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209294</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
@@ -1789,7 +1789,7 @@
 		<Player>
 			<NAME>SMITH, COLE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177758</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
@@ -1807,7 +1807,7 @@
 		<Player>
 			<NAME>CHISHOLM, DECLAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195850</WEB>
 			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
@@ -1897,7 +1897,7 @@
 		<Player>
 			<NAME>BAINS, ARSHDEEP</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211213</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -1987,7 +1987,7 @@
 		<Player>
 			<NAME>DESHARNAIS, VINCENT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177194</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>DEF</POS>
@@ -1996,7 +1996,7 @@
 		<Player>
 			<NAME>KAISER, WYATT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227811</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
@@ -2059,7 +2059,7 @@
 		<Player>
 			<NAME>KARTYE, TYE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216266</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
@@ -2194,7 +2194,7 @@
 		<Player>
 			<NAME>KOVALENKO, NIKOLAI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213172</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
@@ -2320,7 +2320,7 @@
 		<Player>
 			<NAME>SALE, EDUARD</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251299</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -2473,7 +2473,7 @@
 		<Player>
 			<NAME>TUCKER, TYLER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191525</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>DEF</POS>
@@ -2509,7 +2509,7 @@
 		<Player>
 			<NAME>STAUBER, JAXSON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209767</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>GLT</POS>
@@ -2653,7 +2653,7 @@
 		<Player>
 			<NAME>PORTILLO, ERIK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225158</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>GLT</POS>
@@ -2815,7 +2815,7 @@
 		<Player>
 			<NAME>NOESEN, STEFAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122895</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
@@ -3013,7 +3013,7 @@
 		<Player>
 			<NAME>SODERBLOM, ELMER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225171</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
@@ -3211,7 +3211,7 @@
 		<Player>
 			<NAME>DUFOUR, WILLIAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216543</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
@@ -3274,7 +3274,7 @@
 		<Player>
 			<NAME>LEINONEN, TOPIAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=250696</WEB>
 			<TEAM>STL</TEAM>
 			<POS>GLT</POS>
@@ -3607,7 +3607,7 @@
 		<Player>
 			<NAME>PERBIX, NICKLAUS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=205480</WEB>
 			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
@@ -3787,7 +3787,7 @@
 		<Player>
 			<NAME>DRURY, JACK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196236</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
@@ -4021,7 +4021,7 @@
 		<Player>
 			<NAME>KOLOSOV, ALEKSEI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=237650</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>GLT</POS>
@@ -4057,7 +4057,7 @@
 		<Player>
 			<NAME>GAUDREAU, FREDERICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143870</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
@@ -4327,7 +4327,7 @@
 		<Player>
 			<NAME>JEANNOT, TANNER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=174618</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
@@ -4462,7 +4462,7 @@
 		<Player>
 			<NAME>LUCIUS, CHAZ</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228220</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
@@ -4642,7 +4642,7 @@
 		<Player>
 			<NAME>SOGAARD, MADS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192024</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>GLT</POS>
@@ -4687,7 +4687,7 @@
 		<Player>
 			<NAME>BORDELEAU, THOMAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217359</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
@@ -4795,7 +4795,7 @@
 		<Player>
 			<NAME>KOLESAR, KEEGAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162464</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
@@ -4957,7 +4957,7 @@
 		<Player>
 			<NAME>HAKANPAA, JANI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127800</WEB>
 			<TEAM>STL</TEAM>
 			<POS>DEF</POS>
@@ -4984,7 +4984,7 @@
 		<Player>
 			<NAME>O'CONNOR, DREW</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197888</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
@@ -5083,7 +5083,7 @@
 		<Player>
 			<NAME>PELLETIER, JAKOB</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209005</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
@@ -5110,7 +5110,7 @@
 		<Player>
 			<NAME>LUOSTARINEN, EETU</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197649</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
@@ -5245,7 +5245,7 @@
 		<Player>
 			<NAME>BERNARD-DOCKER, JACOB</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195426</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
@@ -5371,7 +5371,7 @@
 		<Player>
 			<NAME>ZUB, ARTEM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180682</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
@@ -5974,7 +5974,7 @@
 		<Player>
 			<NAME>HOGBERG, MARCUS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=164497</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>GLT</POS>
@@ -6055,7 +6055,7 @@
 		<Player>
 			<NAME>PERUNOVICH, SCOTT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=193752</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
@@ -6118,7 +6118,7 @@
 		<Player>
 			<NAME>SOUCY, CARSON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152151</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>DEF</POS>
@@ -6199,7 +6199,7 @@
 		<Player>
 			<NAME>ENGVALL, PIERRE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172951</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
@@ -6235,7 +6235,7 @@
 		<Player>
 			<NAME>TRENIN, YAKOV</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176691</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
@@ -6406,7 +6406,7 @@
 		<Player>
 			<NAME>HATHAWAY, GARNET</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=131779</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -6433,7 +6433,7 @@
 		<Player>
 			<NAME>SIEGENTHALER, JONAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175024</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
@@ -6694,7 +6694,7 @@
 		<Player>
 			<NAME>WALKER, SEAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151662</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>DEF</POS>
@@ -6982,7 +6982,7 @@
 		<Player>
 			<NAME>JOSEPH, PIERRE-OLIVIER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=188337</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
@@ -7063,7 +7063,7 @@
 		<Player>
 			<NAME>BEECHER, JOHN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209481</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
@@ -7126,7 +7126,7 @@
 		<Player>
 			<NAME>TEXIER, ALEXANDRE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
@@ -7180,7 +7180,7 @@
 		<Player>
 			<NAME>KALIYEV, ARTHUR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208689</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
@@ -7396,7 +7396,7 @@
 		<Player>
 			<NAME>BROWN, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130232</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
@@ -7468,7 +7468,7 @@
 		<Player>
 			<NAME>SMITH, TY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187361</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
@@ -7729,7 +7729,7 @@
 		<Player>
 			<NAME>VALIMAKI, JUUSO</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187366</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>DEF</POS>
@@ -7783,7 +7783,7 @@
 		<Player>
 			<NAME>TANEV, BRANDON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130410</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
@@ -7810,7 +7810,7 @@
 		<Player>
 			<NAME>EDMUNDSON, JOEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130643</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
@@ -7828,7 +7828,7 @@
 		<Player>
 			<NAME>KUNIN, LUKE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170310</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
@@ -8089,7 +8089,7 @@
 		<Player>
 			<NAME>COLE, IAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105381</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>DEF</POS>
@@ -8161,7 +8161,7 @@
 		<Player>
 			<NAME>SMITH, REILLY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=115612</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
@@ -8197,7 +8197,7 @@
 		<Player>
 			<NAME>DADONOV, EVGENY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96427</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -8431,7 +8431,7 @@
 		<Player>
 			<NAME>INGRAM, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172859</WEB>
 			<TEAM>LA</TEAM>
 			<POS>GLT</POS>
@@ -8539,7 +8539,7 @@
 		<Player>
 			<NAME>BRODIN, JONAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127571</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
@@ -8566,7 +8566,7 @@
 		<Player>
 			<NAME>PULJUJARVI, JESSE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176931</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
@@ -8809,7 +8809,7 @@
 		<Player>
 			<NAME>KAPANEN, KASPERI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162338</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
@@ -8872,7 +8872,7 @@
 		<Player>
 			<NAME>GUDBRANSON, ERIK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116033</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
@@ -8953,7 +8953,7 @@
 		<Player>
 			<NAME>SAAD, BRANDON</NAME>
 			<CAPTAIN>A</CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123396</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
@@ -9061,7 +9061,7 @@
 		<Player>
 			<NAME>ARMIA, JOEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130454</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
@@ -9106,7 +9106,7 @@
 		<Player>
 			<NAME>FORSBERG, ANTON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143099</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>GLT</POS>
@@ -9151,7 +9151,7 @@
 		<Player>
 			<NAME>DUCLAIR, ANTHONY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143840</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
@@ -9304,7 +9304,7 @@
 		<Player>
 			<NAME>DICKINSON, JASON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145034</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
@@ -9322,7 +9322,7 @@
 		<Player>
 			<NAME>SMITH, CRAIG</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=99554</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -9340,7 +9340,7 @@
 		<Player>
 			<NAME>OSHIE, T.J.</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=81042</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -9502,7 +9502,7 @@
 		<Player>
 			<NAME>JOHNSON, TYLER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=107053</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -9520,7 +9520,7 @@
 		<Player>
 			<NAME>DEMELO, DYLAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122857</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>DEF</POS>
@@ -9529,7 +9529,7 @@
 		<Player>
 			<NAME>DE HAAN, CALVIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116024</WEB>
 			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
@@ -9700,7 +9700,7 @@
 		<Player>
 			<NAME>FOUDY, LIAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195711</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
@@ -9907,7 +9907,7 @@
 		<Player>
 			<NAME>RODRIGUES, EVAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=125404</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
@@ -9925,7 +9925,7 @@
 		<Player>
 			<NAME>DVORAK, CHRISTIAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161358</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
@@ -10105,7 +10105,7 @@
 		<Player>
 			<NAME>MAYFIELD, SCOTT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123358</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
@@ -10141,7 +10141,7 @@
 		<Player>
 			<NAME>PACIORETTY, MAX</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=99420</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -10186,7 +10186,7 @@
 		<Player>
 			<NAME>NYQUIST, GUSTAV</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=113830</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -10321,7 +10321,7 @@
 		<Player>
 			<NAME>KURALY, SEAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124249</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
@@ -10330,7 +10330,7 @@
 		<Player>
 			<NAME>MURPHY, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123373</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>DEF</POS>
@@ -10357,7 +10357,7 @@
 		<Player>
 			<NAME>SAVARD, DAVID</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106685</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
@@ -10429,7 +10429,7 @@
 		<Player>
 			<NAME>PALAT, ONDREJ</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122662</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
@@ -10537,7 +10537,7 @@
 		<Player>
 			<NAME>JARNKROK, CALLE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127561</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -10600,7 +10600,7 @@
 		<Player>
 			<NAME>BRANNSTROM, ERIK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192067</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>DEF</POS>
@@ -10627,7 +10627,7 @@
 		<Player>
 			<NAME>ANDERSON, JOSH</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=138920</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -10744,7 +10744,7 @@
 		<Player>
 			<NAME>KULIKOV, DMITRI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116200</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>DEF</POS>
@@ -10807,7 +10807,7 @@
 		<Player>
 			<NAME>LILJEGREN, TIMOTHY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191378</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
@@ -10816,7 +10816,7 @@
 		<Player>
 			<NAME>FOLIGNO, NICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80212</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
@@ -10870,7 +10870,7 @@
 		<Player>
 			<NAME>GUSTAFSSON, ERIK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144637</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
@@ -11068,7 +11068,7 @@
 		<Player>
 			<NAME>CECI, CODY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=121792</WEB>
 			<TEAM>STL</TEAM>
 			<POS>DEF</POS>
@@ -11230,7 +11230,7 @@
 		<Player>
 			<NAME>LEDDY, NICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=119093</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
@@ -11284,7 +11284,7 @@
 		<Player>
 			<NAME>CROUSE, LAWSON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170113</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
@@ -11311,7 +11311,7 @@
 		<Player>
 			<NAME>VRANA, JAKUB</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161382</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
@@ -11338,7 +11338,7 @@
 		<Player>
 			<NAME>VELENO, JOE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187148</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
@@ -11374,7 +11374,7 @@
 		<Player>
 			<NAME>TANEV, CHRISTOPHER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105112</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
@@ -11572,7 +11572,7 @@
 		<Player>
 			<NAME>RITTICH, DAVID</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176770</WEB>
 			<TEAM>STL</TEAM>
 			<POS>GLT</POS>
@@ -11626,7 +11626,7 @@
 		<Player>
 			<NAME>HENRIQUE, ADAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96544</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
@@ -11653,7 +11653,7 @@
 		<Player>
 			<NAME>CHIAROT, BEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106801</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
@@ -11824,7 +11824,7 @@
 		<Player>
 			<NAME>WILSBY, ADAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=223783</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
@@ -11842,7 +11842,7 @@
                 <Player>
 			<NAME>EDSTROM, ADAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218031</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
@@ -12534,6 +12534,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
