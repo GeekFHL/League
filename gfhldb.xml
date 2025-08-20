@@ -961,7 +961,7 @@
 		<Player>
 			<NAME>ARTAMANOV, NIKITA</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265433</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
@@ -11653,7 +11653,7 @@
 		<Player>
 			<NAME>BRAZEAU, JUSTIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187102</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -12462,6 +12462,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
