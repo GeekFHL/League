@@ -506,7 +506,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265173</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>MCQUEEN, ROGER</NAME>
@@ -2162,7 +2162,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213172</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>MUSTY, QUENTIN</NAME>
@@ -2855,7 +2855,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244119</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>DANFORTH, JUSTIN</NAME>
@@ -12498,6 +12498,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
