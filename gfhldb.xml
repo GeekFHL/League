@@ -2,17 +2,8 @@
 
 <GFHL>
 	<UPDATED>August 19, 2025</UPDATED>
-	<LASTTRANS>Second Round Pick #59 Ottawa - Carson Rehkopf (F) - NYR</LASTTRANS>
+	<LASTTRANS>Second Round Pick #58 Tampa Bay - Brayden McNabb (D) - UTA</LASTTRANS>
 	<DB>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NYR</TEAM>
-			<POS>FWD</POS>
-			<SLOT>4</SLOT>
-		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -223,7 +214,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
@@ -288,7 +279,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -342,7 +333,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>10</SLOT>
 		</Player>
@@ -522,7 +513,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>10</SLOT>
 		</Player>
@@ -610,7 +601,7 @@
 		<Player>
 			<NAME>JUGNAUTH, TYSON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230836</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
@@ -664,7 +655,7 @@
 		<Player>
 			<NAME>STEZKA, ALES</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=182217</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
@@ -1708,11 +1699,11 @@
 		<Player>
 			<NAME>REHKOPF, CARSON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248740</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>OKHOTYUK, NIKITA</NAME>
@@ -2565,7 +2556,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=173610</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>21</SLOT>
 		</Player>
@@ -2806,7 +2797,7 @@
 		<Player>
 			<NAME>GREER, A.J.</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171577</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
@@ -3886,7 +3877,7 @@
 		<Player>
 			<NAME>DUHAIME, BRANDON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171261</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
@@ -4113,7 +4104,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209457</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>17</SLOT>
 		</Player>
@@ -4122,7 +4113,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160343</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
 			<SLOT>25</SLOT>
 		</Player>
@@ -4347,7 +4338,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170104</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>25</SLOT>
 		</Player>
@@ -4644,7 +4635,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=182232</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
 			<SLOT>20</SLOT>
 		</Player>
@@ -5535,7 +5526,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211436</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>7</SLOT>
 		</Player>
@@ -6235,7 +6226,7 @@
 		<Player>
 			<NAME>PAUL, NICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151714</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
@@ -6388,7 +6379,7 @@
 		<Player>
 			<NAME>FERRARO, MARIO</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176062</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
@@ -6847,7 +6838,7 @@
 		<Player>
 			<NAME>BOQVIST, JESPER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192047</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
@@ -7065,7 +7056,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=200446</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>25</SLOT>
 		</Player>
@@ -7360,7 +7351,7 @@
 		<Player>
 			<NAME>DOWD, NIC</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120928</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
@@ -7387,7 +7378,7 @@
 		<Player>
 			<NAME>LAUGHTON, SCOTT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>LAUGHTON</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=128062</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
@@ -7425,7 +7416,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130995</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
 			<SLOT>13</SLOT>
 		</Player>
@@ -7560,7 +7551,7 @@
 			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122868</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
 			<SLOT>22</SLOT>
 		</Player>
@@ -7578,7 +7569,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170354</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
 			<SLOT>15</SLOT>
 		</Player>
@@ -7614,7 +7605,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=111711</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
 			<SLOT>19</SLOT>
 		</Player>
@@ -7623,7 +7614,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=153018</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
 			<SLOT>16</SLOT>
 		</Player>
@@ -7947,7 +7938,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130914</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
 			<SLOT>12</SLOT>
 		</Player>
@@ -8109,7 +8100,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130695</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
 			<SLOT>14</SLOT>
 		</Player>
@@ -8127,7 +8118,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123445</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
 			<SLOT>23</SLOT>
 		</Player>
@@ -8622,7 +8613,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155408</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>8</SLOT>
 		</Player>
@@ -8773,7 +8764,7 @@
 		<Player>
 			<NAME>RODRIGUE, OLIVIER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195962</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
@@ -9009,7 +9000,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139958</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>2</SLOT>
 		</Player>
@@ -9313,7 +9304,7 @@
 		<Player>
 			<NAME>ARVIDSSON, VIKTOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139983</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
@@ -9682,7 +9673,7 @@
 		<Player>
 			<NAME>MCDONAGH, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=99570</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
@@ -9819,7 +9810,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160632</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>6</SLOT>
 		</Player>
@@ -9835,7 +9826,7 @@
 		<Player>
 			<NAME>PAGEAU, JEAN-GABRIEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122661</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
@@ -10035,7 +10026,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=166009</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>4</SLOT>
 		</Player>
@@ -10188,7 +10179,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180592</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>24</SLOT>
 		</Player>
@@ -10395,7 +10386,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144613</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>5</SLOT>
 		</Player>
@@ -10530,7 +10521,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210177</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
 		</Player>
@@ -10735,7 +10726,7 @@
 		<Player>
 			<NAME>OLEKSIAK, JAMIE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117317</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
@@ -10888,7 +10879,7 @@
 		<Player>
 			<NAME>MARTINOOK, JORDAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124022</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -11113,7 +11104,7 @@
 		<Player>
 			<NAME>SCHMIDT, NATE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123400</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
@@ -11232,7 +11223,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177831</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>3</SLOT>
 		</Player>
@@ -11358,7 +11349,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130519</WEB>
-			
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>18</SLOT>
 		</Player>
@@ -11599,7 +11590,7 @@
 		<Player>
 			<NAME>BRAZEAU, JUSTIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187102</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -12408,10 +12399,6 @@
 		
 	</DB>
 </GFHL>
-
-
-
-
 
 
 
