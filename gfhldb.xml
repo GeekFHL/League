@@ -9421,7 +9421,7 @@
 		<Player>
 			<NAME>VATRANO, FRANK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=131009</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
@@ -12462,6 +12462,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
