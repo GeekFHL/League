@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 20, 2025</UPDATED>
-	<LASTTRANS>Third Round #75 Pittsburgh Pick</LASTTRANS>
+	<LASTTRANS>Third Round #76 Chicago Pick</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>SJ</TEAM>
+			<POS>GLT</POS>
+			<SLOT>19</SLOT>
+		</Player>
 		<Player>
 			<NAME>BUMP, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -5164,11 +5173,11 @@
 		<Player>
 			<NAME>VANECEK, VITEK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171229</WEB>
-			<TEAM>SJ</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>TARASOV, DANIIL</NAME>
@@ -12516,6 +12525,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
