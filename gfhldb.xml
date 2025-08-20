@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 19, 2025</UPDATED>
-	<LASTTRANS>Second Round Pick #64 Ottawa - Adam Jiricek (D) - PHI</LASTTRANS>
+	<LASTTRANS>Second Round Pick #65 Dallas - Anthony Mantha (F) - WPG</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM/TEAM>
+			<POS>FWD</POS>
+			<SLOT>3</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -3103,7 +3112,7 @@
 		<Player>
 			<NAME>FIRKUS, JAGGER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229345</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
@@ -6910,7 +6919,7 @@
 		<Player>
 			<NAME>MIKHEYEV, ILYA</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=183034</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
@@ -7558,7 +7567,7 @@
 		<Player>
 			<NAME>LUNDESTROM, ISAC</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192083</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
@@ -9799,11 +9808,11 @@
 		<Player>
 			<NAME>MANTHA, ANTHONY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=136790</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>RODRIGUES, EVAN</NAME>
@@ -10177,7 +10186,7 @@
 		<Player>
 			<NAME>RADDYSH, TAYLOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177601</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
@@ -10537,7 +10546,7 @@
 		<Player>
 			<NAME>BROSSOIT, LAURENT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118258</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>GLT</POS>
@@ -10735,7 +10744,7 @@
 		<Player>
 			<NAME>DANAULT, PHILLIP</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122605</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
@@ -12435,6 +12444,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
