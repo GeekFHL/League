@@ -10906,7 +10906,7 @@
 		<Player>
 			<NAME>MARTINOOK, JORDAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124022</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -12426,6 +12426,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
