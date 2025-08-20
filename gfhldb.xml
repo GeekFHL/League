@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 19, 2025</UPDATED>
-	<LASTTRANS>Second Round Pick #63 Nashville - Michael DiPietro (G) - FA</LASTTRANS>
+	<LASTTRANS>Second Round Pick #64 Ottawa - Adam Jiricek (D) - PHI</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>PHI</TEAM>
+			<POS>DEF</POS>
+			<SLOT>24</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -1177,11 +1186,11 @@
 		<Player>
 			<NAME>JIRICEK, ADAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265618</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>SOLBERG, STIAN</NAME>
@@ -12426,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
