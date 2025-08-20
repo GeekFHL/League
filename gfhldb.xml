@@ -4192,7 +4192,7 @@
 		<Player>
 			<NAME>MIROMANOV, DANIIL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>MIROMANOV</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177591</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
@@ -8422,7 +8422,7 @@
 		<Player>
 			<NAME>OLOFSSON, VICTOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>OLOFSSON</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=142605</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
@@ -12534,6 +12534,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
