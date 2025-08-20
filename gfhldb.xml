@@ -655,7 +655,7 @@
 		<Player>
 			<NAME>GARNDER, EVAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270130</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
@@ -727,7 +727,7 @@
 		<Player>
 			<NAME>SMITH, TARIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251364</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
@@ -2113,7 +2113,7 @@
 		<Player>
 			<NAME>KOVACEVIC, JOHNATHAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175803</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
@@ -9313,7 +9313,7 @@
 		<Player>
 			<NAME>PERRY, COREY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=59656</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
@@ -10879,7 +10879,7 @@
 		<Player>
 			<NAME>KRUG, TOREY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116521</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
@@ -11383,7 +11383,7 @@
 		<Player>
 			<NAME>TIMMINS, CONOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187449</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
@@ -12462,6 +12462,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
