@@ -5,6 +5,15 @@
 	<LASTTRANS>Third Round #69 Pittsburgh Pick</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME>ZHAROVSKY, ALEXANDER</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=286277</WEB>
+			<TEAM>NYR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
 			<NAME>KLAPKA, ADAM</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12471,6 +12480,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
