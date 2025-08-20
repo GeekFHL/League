@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 19, 2025</UPDATED>
-	<LASTTRANS>Third Round #67 Toronto Pick</LASTTRANS>
+	<LASTTRANS>Third Round #68 Vegas Pick</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>ANA</TEAM>
+			<POS>DEF</POS>
+			<SLOT>14</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -10996,11 +11005,11 @@
 		<Player>
 			<NAME>GRZELCYK, MATT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130900</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>vgk</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>CLAGUE, KALE</NAME>
@@ -12453,6 +12462,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
