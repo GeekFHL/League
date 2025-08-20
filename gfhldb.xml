@@ -7526,7 +7526,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187458</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>GLT</POS>
-			<SLOT>25/SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>STEPHENS, MITCHELL</NAME>
@@ -12444,6 +12444,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
