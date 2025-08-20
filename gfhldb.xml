@@ -2,8 +2,26 @@
 
 <GFHL>
 	<UPDATED>August 20, 2025</UPDATED>
-	<LASTTRANS>Third Round #70 NY Rangers Pick</LASTTRANS>
+	<LASTTRANS>Third Round #73 NEW Jersey Pick</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>ELLIS, COLTEN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>WSH</TEAM>
+			<POS>GLT</POS>
+			<SLOT>21</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>DAL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>2</SLOT>
+		</Player>
 		<Player>
 			<NAME>ZHAROVSKY, ALEXANDER</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -1159,11 +1177,11 @@
 		<Player>
 			<NAME>DUKE, DYLAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228211</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>MURASHOV, SERGEI</NAME>
@@ -2662,7 +2680,7 @@
 		<Player>
 			<NAME>CARCONE, MICHAEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169554</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
@@ -3022,11 +3040,11 @@
 		<Player>
 			<NAME>MCBAIN, JACK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=194695</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>ROY, JOSHUA</NAME>
@@ -6550,7 +6568,7 @@
 		<Player>
 			<NAME>HEINOLA, VILLE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217206</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
@@ -6847,7 +6865,7 @@
 		<Player>
 			<NAME>KULAK, BRETT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130818</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
@@ -7621,7 +7639,7 @@
 		<Player>
 			<NAME>BACKLUND, MIKAEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=104255</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
@@ -8593,7 +8611,7 @@
 		<Player>
 			<NAME>JOKIHARJU, HENRI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196298</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
@@ -12480,6 +12498,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
