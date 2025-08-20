@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 19, 2025</UPDATED>
-	<LASTTRANS>Third Round #66 San Jose Pick</LASTTRANS>
+	<LASTTRANS>Third Round #67 Toronto Pick</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>FLA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>7</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -8647,11 +8656,11 @@
 		<Player>
 			<NAME>HOWDEN, BRETT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171615</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>BJORKSTRAND, OLIVER</NAME>
@@ -12444,6 +12453,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
