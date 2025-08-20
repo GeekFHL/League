@@ -2,8 +2,17 @@
 
 <GFHL>
 	<UPDATED>August 20, 2025</UPDATED>
-	<LASTTRANS>Third Round #76 Chicago Pick</LASTTRANS>
+	<LASTTRANS>2025 Draft Completed</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>BUF</TEAM>
+			<POS>FWD</POS>
+			<SLOT>2</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -5218,11 +5227,11 @@
 		<Player>
 			<NAME>ROY, NICOLAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169632</WEB>
-			<TEAM>BUF</TEAM>
+			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOKK, DOMINIK</NAME>
@@ -12525,6 +12534,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
