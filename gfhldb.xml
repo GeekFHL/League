@@ -9261,9 +9261,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172754</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>WAGNER, CHRIS</NAME>
@@ -12534,6 +12534,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
