@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 20, 2025</UPDATED>
+	<UPDATED>August 21, 2025</UPDATED>
 	<LASTTRANS>2025 Draft Completed</LASTTRANS>
 	<DB>
 		<Player>
@@ -1017,7 +1017,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=266386</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
 			<SLOT>22</SLOT>
 		</Player>
@@ -12534,6 +12534,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
