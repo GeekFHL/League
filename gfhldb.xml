@@ -572,8 +572,6 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
-			<NAME>MARTIN, BRADY</NAME>
-				<Player>
 			<NAME>COOTES, BRAEDEN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -582,7 +580,9 @@
 			<POS>FWD</POS>
 			<SLOT>25</SLOT>
 		</Player>
-	<CAPTAIN></CAPTAIN>
+		<Player>
+			<NAME>MARTIN, BRADY</NAME>
+			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271137</WEB>
 			<TEAM>STL</TEAM>
@@ -687,15 +687,6 @@
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>21</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>TOR</TEAM>
-			<POS>DEF</POS>
-			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -12534,6 +12525,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
