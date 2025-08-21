@@ -7859,7 +7859,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170348</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>DUBOIS, PIERRE-LUC</NAME>
@@ -9126,7 +9126,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160292</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
 			<SLOT>9</SLOT>
 		</Player>
@@ -12534,6 +12534,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
