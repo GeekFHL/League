@@ -7553,7 +7553,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98196</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARKSTROM, JACOB</NAME>
@@ -12498,6 +12498,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
