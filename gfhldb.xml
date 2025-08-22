@@ -369,9 +369,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273612</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARBONNEAU, JUSTIN</NAME>
@@ -1584,9 +1584,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=250018</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>SHEPARD, HUNTER</NAME>
@@ -7056,7 +7056,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197782</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>7</SLOT>
 		</Player>
@@ -9783,9 +9783,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=136790</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>29</SLOT>
 		</Player>
 		<Player>
 			<NAME>RODRIGUES, EVAN</NAME>
@@ -12417,6 +12417,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
