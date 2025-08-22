@@ -18,6 +18,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>CHI</TEAM>
+			<POS>RES</POS>
+			<SLOT>24</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>15</SLOT>
@@ -12381,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
