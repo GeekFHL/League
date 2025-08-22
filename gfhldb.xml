@@ -18,15 +18,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>EDM</TEAM>
-			<POS>FWD</POS>
-			<SLOT>10</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>SJ</TEAM>
 			<POS>GLT</POS>
 			<SLOT>19</SLOT>
@@ -5184,9 +5175,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169632</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOKK, DOMINIK</NAME>
@@ -12489,6 +12480,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
