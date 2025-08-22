@@ -10964,7 +10964,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=166010</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>GRUNDSTROM, CARL</NAME>
@@ -12534,6 +12534,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
