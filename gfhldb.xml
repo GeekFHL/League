@@ -36,9 +36,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=247285</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>VEG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>26</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -81,7 +81,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213692</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>VEG</TEAM>
 			<POS>FWD</POS>
 			<SLOT>25</SLOT>
 		</Player>
@@ -12525,6 +12525,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
