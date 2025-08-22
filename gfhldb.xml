@@ -288,9 +288,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=263186</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>26</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -7551,7 +7551,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98196</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
 			<SLOT>25</SLOT>
 		</Player>
@@ -12498,6 +12498,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
