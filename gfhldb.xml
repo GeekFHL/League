@@ -257,15 +257,6 @@
 			<SLOT>26</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>DET</TEAM>
-			<POS>FWD</POS>
-			<SLOT>3</SLOT>
-		</Player>
-		<Player>
 			<NAME>SURIN, YEGOR</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -327,15 +318,6 @@
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>DET</TEAM>
-			<POS>FWD</POS>
-			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAKOVIC, LYNDEN</NAME>
@@ -12435,6 +12417,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
