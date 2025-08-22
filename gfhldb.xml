@@ -932,13 +932,13 @@
 			<SLOT>19</SLOT>
 		</Player>
 		<Player>
-			<NAME>ARTAMANOV, NIKITA</NAME>
+			<NAME>ARTAMONOV, NIKITA</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265433</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOEPKE, COLE</NAME>
@@ -5481,9 +5481,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208600</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>26</SLOT>
 		</Player>
 		<Player>
 			<NAME>RATHBONE, JACK</NAME>
@@ -9801,9 +9801,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=136790</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>RODRIGUES, EVAN</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
