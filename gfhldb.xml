@@ -2666,7 +2666,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122895</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>27</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>PETRUZZELLI, KEITH</NAME>
@@ -11468,7 +11468,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123014</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>HENRIQUE, ADAM</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
