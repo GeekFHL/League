@@ -1856,7 +1856,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230395</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>LUNEAU, TRISTAN</NAME>
@@ -7368,7 +7368,7 @@
 		</Player>
 		<Player>
 			<NAME>MATTHEWS, AUSTON</NAME>
-			<CAPTAIN>A</CAPTAIN>
+			<CAPTAIN>C</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170320</WEB>
 			<TEAM>UTA</TEAM>
@@ -7377,7 +7377,7 @@
 		</Player>
 		<Player>
 			<NAME>EICHEL, JACK</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=158169</WEB>
 			<TEAM>UTA</TEAM>
@@ -11148,7 +11148,7 @@
 		</Player>
 		<Player>
 			<NAME>HEDMAN, VICTOR</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=107121</WEB>
 			<TEAM>UTA</TEAM>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
