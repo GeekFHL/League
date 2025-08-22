@@ -563,15 +563,6 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
-			<NAME>COOTES, BRAEDEN</NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265087</WEB>
-			<TEAM>WPG</TEAM>
-			<POS>FWD</POS>
-			<SLOT>25</SLOT>
-		</Player>
-		<Player>
 			<NAME>MARTIN, BRADY</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12516,6 +12507,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
