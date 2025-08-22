@@ -585,15 +585,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>TOR</TEAM>
-			<POS>FWD</POS>
-			<SLOT>24</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
 			<SLOT>8</SLOT>
@@ -604,15 +595,6 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>NJ</TEAM>
-			<POS>FWD</POS>
-			<SLOT>21</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>21</SLOT>
 		</Player>
@@ -12453,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
