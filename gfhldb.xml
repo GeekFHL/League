@@ -1406,7 +1406,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232318</WEB>
 			<TEAM>STL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHNSON, RYAN</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
