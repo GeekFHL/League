@@ -3602,7 +3602,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176927</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>LARSSON, JOHAN</NAME>
@@ -10325,7 +10325,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118565</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>PETERSEN, CAL</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
