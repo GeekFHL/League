@@ -12,6 +12,14 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>16</SLOT>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>TOR</TEAM>
+			<POS>DEF</POS>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -12372,6 +12380,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
