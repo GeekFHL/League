@@ -261,7 +261,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271649</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>25</SLOT>
 		</Player>
@@ -11628,9 +11628,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241782</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>28</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOIVUNEN, VILLE</NAME>
@@ -12417,6 +12417,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
