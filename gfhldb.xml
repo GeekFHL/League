@@ -194,15 +194,6 @@
 			<SLOT>11</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>CHI</TEAM>
-			<POS>GLT</POS>
-			<SLOT>24</SLOT>
-		</Player>
-		<Player>
 			<NAME>TOEWS, JONATHAN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -426,15 +417,6 @@
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
 			<SLOT>10</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>CHI</TEAM>
-			<POS>GLT</POS>
-			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>MISA, MICHAEL</NAME>
@@ -12471,6 +12453,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
