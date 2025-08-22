@@ -9380,7 +9380,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=131009</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHNSON, TYLER</NAME>
@@ -12417,6 +12417,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
