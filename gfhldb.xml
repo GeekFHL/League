@@ -5114,7 +5114,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172640</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>26</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>KINNVALL, JOHANNES</NAME>
@@ -7283,7 +7283,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=121460</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>HILL, ADIN</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
