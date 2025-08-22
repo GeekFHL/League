@@ -2034,9 +2034,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213172</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MUSTY, QUENTIN</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
