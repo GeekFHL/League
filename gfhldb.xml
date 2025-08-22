@@ -6255,9 +6255,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=174819</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>27</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDGREN, RYAN</NAME>
@@ -12498,6 +12498,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
