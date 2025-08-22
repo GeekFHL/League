@@ -461,7 +461,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271137</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>SHABANOV, MAXIM</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
