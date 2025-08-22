@@ -12,6 +12,7 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>16</SLOT>
+		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -12380,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
