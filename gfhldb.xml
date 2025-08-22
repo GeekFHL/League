@@ -4122,9 +4122,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160343</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>SOKOLOV, EGOR</NAME>
@@ -12408,6 +12408,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
