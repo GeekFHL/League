@@ -50,15 +50,6 @@
 			<SLOT>21</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>DAL</TEAM>
-			<POS>FWD</POS>
-			<SLOT>2</SLOT>
-		</Player>
-		<Player>
 			<NAME>ZHAROVSKY, ALEXANDER</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12390,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
