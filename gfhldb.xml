@@ -225,15 +225,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>EDM</TEAM>
-			<POS>FWD</POS>
-			<SLOT>6</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
 			<SLOT>24</SLOT>
@@ -12507,6 +12498,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
