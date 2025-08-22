@@ -10613,7 +10613,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117204</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
-			<SLOT>15</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>MCAVOY, CHARLIE</NAME>
@@ -12417,6 +12417,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
