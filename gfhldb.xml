@@ -5465,7 +5465,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208600</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>26</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>RATHBONE, JACK</NAME>
@@ -12417,6 +12417,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
