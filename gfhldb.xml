@@ -7454,7 +7454,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180628</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>DIPIETRO, MICHAEL</NAME>
@@ -8397,9 +8397,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=87893</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>UTA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>25</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>KUEMPER, DARCY</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
