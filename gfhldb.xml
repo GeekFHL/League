@@ -2151,9 +2151,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248733</WEB>
-			<TEAM>STL</TEAM>
+			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>26</SLOT>
 		</Player>
 		<Player>
 			<NAME>BUT, DANIIL</NAME>
@@ -9306,9 +9306,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118989</WEB>
-			<TEAM>UTA</TEAM>
+			<TEAM>STL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>VLASIC, MARC-EDOUARD</NAME>
@@ -11016,7 +11016,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=121792</WEB>
-			<TEAM>STL</TEAM>
+			<TEAM>UTA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
 		</Player>
@@ -12480,6 +12480,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
