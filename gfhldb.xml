@@ -86,15 +86,6 @@
 			<SLOT>24</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>VGK</TEAM>
-			<POS>FWD</POS>
-			<SLOT>9</SLOT>
-		</Player>
-		<Player>
 			<NAME>ELLIS, COLTEN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12381,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
