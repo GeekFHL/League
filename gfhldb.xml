@@ -63,15 +63,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>TOR</TEAM>
-			<POS>FWD</POS>
-			<SLOT>17</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>CHI</TEAM>
 			<POS>RES</POS>
 			<SLOT>24</SLOT>
@@ -12408,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
