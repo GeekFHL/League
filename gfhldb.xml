@@ -2261,7 +2261,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248126</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARLSSON, LEO</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
