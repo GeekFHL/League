@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 23, 2025</UPDATED>
-	<LASTTRANS>Chicago signs Cameron Reid (D)</LASTTRANS>
+	<LASTTRANS>Montreal signs Sam Malinski (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -1629,9 +1629,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209409</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>STRUBLE, JAYDEN</NAME>
@@ -12399,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
