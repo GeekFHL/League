@@ -6435,9 +6435,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217206</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BJORNFOT, TOBIAS</NAME>
@@ -7398,9 +7398,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139295</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MATHESON, MIKE</NAME>
@@ -12363,6 +12363,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
