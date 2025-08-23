@@ -9686,7 +9686,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152875</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>SANHEIM, TRAVIS</NAME>
@@ -12399,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
