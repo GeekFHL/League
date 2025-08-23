@@ -9506,7 +9506,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207533</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>CHOLOWSKI, DENNIS</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
