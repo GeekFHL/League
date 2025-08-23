@@ -14,6 +14,15 @@
 			<SLOT>16</SLOT>
 		</Player>
 		<Player>
+			<NAME>LUND, CAM</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235428</WEB>
+			<TEAM>LA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>18</SLOT>
+		</Player>
+		<Player>
 			<NAME>REID, CAMERON</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -3438,9 +3447,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=205480</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HOLMBERG, PONTUS</NAME>
@@ -12363,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
