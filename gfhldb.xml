@@ -810,9 +810,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227324</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GONCALVES, GAGE</NAME>
@@ -1116,9 +1116,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265268</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CLARA, DAMIAN</NAME>
@@ -2502,9 +2502,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225158</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BAHL, KEVIN</NAME>
@@ -4833,9 +4833,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197888</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>STENLUND, KEVIN</NAME>
@@ -5904,9 +5904,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=193752</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PHILLIPS, MATTHEW</NAME>
@@ -11187,9 +11187,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187148</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHUK, BRADY</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
