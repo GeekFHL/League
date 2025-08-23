@@ -10910,7 +10910,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130900</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>26</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>CLAGUE, KALE</NAME>
@@ -12363,6 +12363,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
