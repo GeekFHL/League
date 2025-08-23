@@ -212,15 +212,6 @@
 			<SLOT>19</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>DAL</TEAM>
-			<POS>FWD</POS>
-			<SLOT>10</SLOT>
-		</Player>
-		<Player>
 			<NAME>IVANKOVIC, JACK</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -810,9 +801,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209896</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>MANCINI, VICTOR</NAME>
@@ -12372,6 +12363,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
