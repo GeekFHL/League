@@ -4023,9 +4023,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177591</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>AFANASYEV, EGOR</NAME>
@@ -5904,9 +5904,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196998</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>STEPHENSON, CHANDLER</NAME>
@@ -12363,6 +12363,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
