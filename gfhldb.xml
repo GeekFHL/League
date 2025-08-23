@@ -2072,7 +2072,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251665</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>WILLANDER, TOM</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
