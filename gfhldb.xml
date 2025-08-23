@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 23, 2025</UPDATED>
-	<LASTTRANS>Toronto signs Riley Heidt (F)</LASTTRANS>
+	<LASTTRANS>Chicago signs Cameron Reid (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>16</SLOT>
+		</Player>
+		<Player>
+			<NAME>REID, CAMERON</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271146</WEB>
+			<TEAM>CHI</TEAM>
+			<POS>DEF</POS>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -12399,6 +12408,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
