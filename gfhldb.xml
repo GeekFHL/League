@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 23, 2025</UPDATED>
-	<LASTTRANS>Detroit signs Struble (D), releases Hague (D)</LASTTRANS>
+	<LASTTRANS>Nashville signs Kravtsov (F), releases Maroon (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -4554,9 +4554,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105400</WEB>
-			<TEAM>NSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>LAUKO, JAKUB</NAME>
@@ -7148,7 +7148,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145526</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>MOORE, TREVOR</NAME>
@@ -9729,9 +9729,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=201185</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>MANTHA, ANTHONY</NAME>
@@ -10937,7 +10937,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187550</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEWIS, TREVOR</NAME>
@@ -11099,7 +11099,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98634</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>WOOD, MILES</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
