@@ -194,15 +194,6 @@
 			<SLOT>16</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>BUF</TEAM>
-			<POS>DEF</POS>
-			<SLOT>11</SLOT>
-		</Player>
-		<Player>
 			<NAME>TOEWS, JONATHAN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12399,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
