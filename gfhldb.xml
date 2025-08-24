@@ -3704,15 +3704,6 @@
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
-			<NAME>SCHMID, AKIRA</NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=214508</WEB>
-			<TEAM>fa</TEAM>
-			<POS>GLT</POS>
-			<SLOT>1</SLOT>
-		</Player>
-		<Player>
 			<NAME>MIDDLETON, JACOB</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12399,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
