@@ -936,9 +936,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=254382</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>SLUKYNSKY, HAMPTON</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
