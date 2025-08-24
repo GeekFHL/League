@@ -581,15 +581,6 @@
 			<SLOT>8</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NJ</TEAM>
-			<POS>FWD</POS>
-			<SLOT>21</SLOT>
-		</Player>
-		<Player>
 			<NAME>FLEURY, MARC-ANDRE</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12399,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
