@@ -2576,7 +2576,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=173610</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>KULICH, JIRI</NAME>
@@ -4349,7 +4349,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170104</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>RATY, AATU</NAME>
@@ -7562,7 +7562,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122868</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>SHATTENKIRK, KEVIN</NAME>
@@ -10190,7 +10190,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180592</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>KURALY, SEAN</NAME>
@@ -10532,7 +10532,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210177</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>LARSSON, FILIP</NAME>
@@ -12408,6 +12408,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
