@@ -167,6 +167,15 @@
 			<SLOT>17</SLOT>
 		</Player>
 		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>WPG</TEAM>
+			<POS>FWD</POS>
+			<SLOT>18</SLOT>
+		</Player>
+		<Player>
 			<NAME>BUMP, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12399,6 +12408,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
