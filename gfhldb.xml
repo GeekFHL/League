@@ -95,15 +95,6 @@
 			<SLOT>17</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>SJ</TEAM>
-			<POS>GLT</POS>
-			<SLOT>19</SLOT>
-		</Player>
-		<Player>
 			<NAME>BUMP, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -570,15 +561,6 @@
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>12</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NJ</TEAM>
-			<POS>DEF</POS>
-			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>FLEURY, MARC-ANDRE</NAME>
@@ -12390,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
