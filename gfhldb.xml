@@ -362,7 +362,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262950</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -434,7 +434,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262403</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>HAGENS, JAMES</NAME>
@@ -1262,7 +1262,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241004</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>CONNELLY, TREVOR</NAME>
@@ -1280,7 +1280,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=268690</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOISVERT, SACHA</NAME>
@@ -1370,7 +1370,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248116</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>IGINLA, TIJ</NAME>
@@ -2594,7 +2594,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169554</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>PEDERSON, LANE</NAME>
@@ -12399,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
