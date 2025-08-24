@@ -14,6 +14,24 @@
 			<SLOT>16</SLOT>
 		</Player>
 		<Player>
+			<NAME>TOMASEK, DAVID</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170178</WEB>
+			<TEAM>CLB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>5</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>CLB</TEAM>
+			<POS>DEF</POS>
+			<SLOT>11</SLOT>
+		</Player>
+		<Player>
 			<NAME>LUND, CAM</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -10197,9 +10215,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106685</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CLIFFORD, KYLE</NAME>
@@ -10377,9 +10395,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127561</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>IAFALLO, ALEX</NAME>
@@ -12372,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
