@@ -594,9 +594,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207945</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SIDOROV, YEGOR</NAME>
@@ -1908,9 +1908,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216266</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FEDOTOV, IVAN</NAME>
@@ -3305,7 +3305,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227300</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>GAUTHIER, CUTTER</NAME>
@@ -3638,7 +3638,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196236</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>MOSER, J.J.</NAME>
@@ -3728,7 +3728,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=212466</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>PROTAS, ALIAKSEI</NAME>
@@ -7139,7 +7139,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211199</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUGHES, JACK</NAME>
@@ -9308,7 +9308,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=148882</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>MEIER, TIMO</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
