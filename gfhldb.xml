@@ -12240,7 +12240,7 @@
 			<Champ>7</Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
-			<HeadCoach></HeadCoach>
+			<HeadCoach>Ed Belfour</HeadCoach>
 		</GM>
 		<GM>
 			<Team>EDM</Team>
@@ -12399,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
