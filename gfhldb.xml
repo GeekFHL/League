@@ -425,7 +425,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262250</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>DESNOYERS, CALEB</NAME>
@@ -561,15 +561,6 @@
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
 			<SLOT>21</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>TOR</TEAM>
-			<POS>DEF</POS>
-			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>FLEURY, MARC-ANDRE</NAME>
@@ -12381,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
