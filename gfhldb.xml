@@ -1989,9 +1989,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229105</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ISKHAKOV, RUSLAN</NAME>
@@ -2709,9 +2709,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209494</WEB>
-			<TEAM>fa</TEAM>
-			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<TEAM>BOS</TEAM>
+			<POS>FWD</POS>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>BORGEN, WILL</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
