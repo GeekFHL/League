@@ -234,15 +234,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>VAN</TEAM>
-			<POS>FWD</POS>
-			<SLOT>5</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>16</SLOT>
@@ -12390,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
