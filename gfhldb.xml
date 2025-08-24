@@ -18,6 +18,24 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>TB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>2</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>TB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>6</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
 			<SLOT>23</SLOT>
@@ -1208,7 +1226,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235312</WEB>
 			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>FEDOTOV, IVAN</NAME>
@@ -1755,9 +1773,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211213</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ENGLUND, ANDREAS</NAME>
@@ -2178,9 +2196,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251299</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PERREAULT, GABRIEL</NAME>
@@ -6140,7 +6158,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=174819</WEB>
 			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>27</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDGREN, RYAN</NAME>
@@ -9189,9 +9207,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=81042</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BRODIE, T.J.</NAME>
@@ -9351,9 +9369,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=107053</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSI, ROMAN</NAME>
@@ -9378,9 +9396,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116024</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>JUOLEVI, OLLI</NAME>
@@ -12381,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
