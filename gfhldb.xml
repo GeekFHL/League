@@ -14,6 +14,15 @@
 			<SLOT>16</SLOT>
 		</Player>
 		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>VAN</TEAM>
+			<POS>DEF</POS>
+			<SLOT>22</SLOT>
+		</Player>
+		<Player>
 			<NAME>POTTER, CULLEN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12381,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
