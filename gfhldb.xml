@@ -14,6 +14,24 @@
 			<SLOT>16</SLOT>
 		</Player>
 		<Player>
+			<NAME>POTTER, CULLEN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271182</WEB>
+			<TEAM>OTT</TEAM>
+			<POS>FWD</POS>
+			<SLOT>17</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>OTT</TEAM>
+			<POS>FWD</POS>
+			<SLOT>5</SLOT>
+		</Player>
+		<Player>
 			<NAME>MEDVEDEV, ALEXEI</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -3069,9 +3087,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216543</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>STRANGES, ANTONIO</NAME>
@@ -8415,9 +8433,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176931</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SOROKIN, ILYA</NAME>
@@ -12381,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
