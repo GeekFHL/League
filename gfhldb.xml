@@ -392,15 +392,6 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>CGY</TEAM>
-			<POS>FWD</POS>
-			<SLOT>1</SLOT>
-		</Player>
-		<Player>
 			<NAME>SCHMID, AKIRA</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -435,15 +426,6 @@
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>CGY</TEAM>
-			<POS>FWD</POS>
-			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>MISA, MICHAEL</NAME>
@@ -597,15 +579,6 @@
 			<TEAM>NYR</TEAM>
 			<POS>GLT</POS>
 			<SLOT>25</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>CGY</TEAM>
-			<POS>FWD</POS>
-			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -12426,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
