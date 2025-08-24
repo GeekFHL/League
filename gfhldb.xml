@@ -14,6 +14,15 @@
 			<SLOT>16</SLOT>
 		</Player>
 		<Player>
+			<NAME>PETTERSSON, ELIAS (DEF)</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=245665</WEB>
+			<TEAM>SJ</TEAM>
+			<POS>DEF</POS>
+			<SLOT>17</SLOT>
+		</Player>
+		<Player>
 			<NAME>TOMASEK, DAVID</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -335,7 +344,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=214508</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>GLT</POS>
-			<SLOT>25</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>NESBITT, JACK</NAME>
@@ -1181,7 +1190,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227237</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRANDSEGG-NYGARD, MICHAEL</NAME>
@@ -1845,9 +1854,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177194</WEB>
-			<TEAM>SJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KAISER, WYATT</NAME>
@@ -2945,7 +2954,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227346</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>BENNING, MICHAEL</NAME>
@@ -6921,9 +6930,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209481</WEB>
-			<TEAM>SJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PROKHORKIN, NIKOLAY</NAME>
@@ -7947,9 +7956,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105381</WEB>
-			<TEAM>SJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>LEHNER, ROBIN</NAME>
@@ -12390,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
