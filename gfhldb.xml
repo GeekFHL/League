@@ -554,13 +554,13 @@
 			<SLOT></SLOT>
 		</Player>
 		<Player>
-			<NAME>GARNDER, EVAN</NAME>
+			<NAME>GARDNER, EVAN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270130</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>JUGNAUTH, TYSON</NAME>
@@ -10773,9 +10773,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116521</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PASTRNAK, DAVID</NAME>
@@ -12354,6 +12354,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
