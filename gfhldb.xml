@@ -140,15 +140,6 @@
 			<SLOT>5</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>CLB</TEAM>
-			<POS>DEF</POS>
-			<SLOT>11</SLOT>
-		</Player>
-		<Player>
 			<NAME>LUND, CAM</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -5708,7 +5699,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169608</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>PEEKE, ANDREW</NAME>
@@ -12399,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
