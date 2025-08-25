@@ -324,15 +324,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>NYI</TEAM>
-			<POS>DEF</POS>
-			<SLOT>13</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
 			<SLOT>19</SLOT>
@@ -704,7 +695,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238776</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
         <Player>
 			<NAME>LARDIS, NICK</NAME>
@@ -12408,6 +12399,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
