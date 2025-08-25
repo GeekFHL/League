@@ -3503,7 +3503,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211454</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>MEYERS, BEN</NAME>
@@ -6581,7 +6581,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170147</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>WEAL, JORDAN</NAME>
@@ -8795,7 +8795,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191305</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>HISCHIER, NICO</NAME>
@@ -10424,7 +10424,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145488</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>WHITE, COLIN</NAME>
@@ -12408,6 +12408,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
