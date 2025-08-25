@@ -2153,7 +2153,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241511</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>EVANS, RYKER</NAME>
@@ -3206,7 +3206,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238284</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>CATES, NOAH</NAME>
@@ -4493,7 +4493,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192024</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>JASKIN, DMITRIJ</NAME>
@@ -5094,9 +5094,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195426</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SAMBERG, DYLAN</NAME>
@@ -5294,7 +5294,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=182214</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>LANKINEN, KEVIN</NAME>
@@ -7319,7 +7319,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187361</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>SVECHNIKOV, ANDREI</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
