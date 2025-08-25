@@ -19,6 +19,15 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>WPG</TEAM>
+			<POS>DEF</POS>
+			<SLOT>14</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
 			<SLOT>7</SLOT>
 		</Player>
@@ -6993,9 +7002,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209485</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>TEXIER, ALEXANDRE</NAME>
@@ -12408,6 +12417,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
