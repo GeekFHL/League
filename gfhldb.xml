@@ -293,15 +293,6 @@
 			<SLOT>4</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>ANA</TEAM>
-			<POS>GLT</POS>
-			<SLOT>19</SLOT>
-		</Player>
-		<Player>
 			<NAME>IVANKOVIC, JACK</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -1064,7 +1055,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=254433</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>GREBYONKIN, NIKITA</NAME>
@@ -12363,6 +12354,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
