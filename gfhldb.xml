@@ -4140,9 +4140,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172646</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>MACKEY, CONNOR</NAME>
@@ -5922,9 +5922,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130705</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>ACCIARI, NOEL</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
