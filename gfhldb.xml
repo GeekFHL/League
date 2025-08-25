@@ -990,9 +990,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=252115</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>THOMPSON, JACK</NAME>
@@ -7875,9 +7875,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124409</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHWARTZ, JADEN</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
