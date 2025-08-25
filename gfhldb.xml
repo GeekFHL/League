@@ -252,15 +252,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>ANA</TEAM>
-			<POS>DEF</POS>
-			<SLOT>14</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>10</SLOT>
@@ -1361,7 +1352,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=252857</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDSTROM, CAYDEN</NAME>
@@ -12372,6 +12363,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
