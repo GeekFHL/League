@@ -18,6 +18,24 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>WPG</TEAM>
+			<POS>FWD</POS>
+			<SLOT>7</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>WPG</TEAM>
+			<POS>FWD</POS>
+			<SLOT>9</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
 			<SLOT>21</SLOT>
@@ -1620,9 +1638,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209294</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MALINSKI, SAM</NAME>
@@ -3195,9 +3213,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227534</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUTSON, LANE</NAME>
@@ -3213,9 +3231,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238284</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>CATES, NOAH</NAME>
@@ -9558,9 +9576,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195711</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CAMPBELL, JACK</NAME>
@@ -12390,6 +12408,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
