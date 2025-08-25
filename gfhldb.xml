@@ -356,15 +356,6 @@
 			<SLOT>23</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>COL</TEAM>
-			<POS>FWD</POS>
-			<SLOT>22</SLOT>
-		</Player>
-		<Player>
 			<NAME>LAKOVIC, LYNDEN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -3485,7 +3476,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211454</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>MEYERS, BEN</NAME>
@@ -12390,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
