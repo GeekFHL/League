@@ -1954,7 +1954,7 @@ a: hover, a: active {
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoTOR">
-							TORONTO MAPLES LEAFS
+							TORONTO MAPLE LEAFS
 						</td></tr>
 						<xsl:for-each select="GFHL/DB/GM[Team='TOR']">
 							<tr><td class="TeamInfoTOR">
