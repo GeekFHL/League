@@ -83,15 +83,6 @@
 			<WEB></WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>TB</TEAM>
-			<POS>FWD</POS>
 			<SLOT>6</SLOT>
 		</Player>
 		<Player>
@@ -11187,9 +11178,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187148</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHUK, BRADY</NAME>
@@ -12381,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
