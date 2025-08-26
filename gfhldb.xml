@@ -4320,9 +4320,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238748</WEB>
-			<TEAM>NYI</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>CORONATO, MATTHEW</NAME>
@@ -9837,9 +9837,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130904</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>MURRAY, MATT</NAME>
@@ -12363,6 +12363,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
