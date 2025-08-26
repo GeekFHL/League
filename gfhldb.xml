@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 25, 2025</UPDATED>
-	<LASTTRANS>Tampa claims Veleno (F) off waivers</LASTTRANS>
+	<UPDATED>August 26, 2025</UPDATED>
+	<LASTTRANS>Anaheim claims Kolosov (G) off waivers</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -30,15 +30,6 @@
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>15</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>ANA</TEAM>
-			<POS>DEF</POS>
-			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -1073,7 +1064,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=254433</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>GREBYONKIN, NIKITA</NAME>
@@ -3861,9 +3852,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=237650</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT></SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARCHMENT, MASON</NAME>
@@ -12372,6 +12363,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
