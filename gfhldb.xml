@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 28, 2025</UPDATED>
-	<LASTTRANS>Detroit signs Andrew Copp (F)</LASTTRANS>
+	<UPDATED>August 30, 2025</UPDATED>
+	<LASTTRANS>Toronto signs Michael McCarron (F)</LASTTRANS>
 	<DB>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>BOS</TEAM>
-			<POS>DEF</POS>
-			<SLOT>16</SLOT>
-		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -137,15 +128,6 @@
 			<WEB></WEB>
 			<TEAM>BUF</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>BUF</TEAM>
-			<POS>DEF</POS>
 			<SLOT>22</SLOT>
 		</Player>
 		<Player>
@@ -156,15 +138,6 @@
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
 			<SLOT>3</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>WPG</TEAM>
-			<POS>FWD</POS>
-			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>BUMP, ALEX</NAME>
@@ -2790,9 +2763,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217074</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>SODERBLOM, ELMER</NAME>
@@ -3294,9 +3267,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145517</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARRICK, SAM</NAME>
@@ -5022,9 +4995,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195426</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>SAMBERG, DYLAN</NAME>
@@ -7560,9 +7533,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130410</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>PYSYK, MARK</NAME>
@@ -11495,7 +11468,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241129/</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRAZEAU, JUSTIN</NAME>
@@ -12309,6 +12282,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
