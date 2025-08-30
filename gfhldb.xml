@@ -27,24 +27,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>ANA</TEAM>
-			<POS>DEF</POS>
-			<SLOT>15</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>WPG</TEAM>
-			<POS>DEF</POS>
-			<SLOT>14</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
 			<SLOT>7</SLOT>
@@ -86,15 +68,6 @@
 			<SLOT>23</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>VAN</TEAM>
-			<POS>DEF</POS>
-			<SLOT>22</SLOT>
-		</Player>
-		<Player>
 			<NAME>POTTER, CULLEN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -120,15 +93,6 @@
 			<TEAM>VAN</TEAM>
 			<POS>GLT</POS>
 			<SLOT>23</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>SJ</TEAM>
-			<POS>DEF</POS>
-			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>PETTERSSON, ELIAS (DEF)</NAME>
@@ -192,15 +156,6 @@
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
 			<SLOT>3</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>WPG</TEAM>
-			<POS>FWD</POS>
-			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -308,7 +263,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271401</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>RESCHNY, COLE</NAME>
@@ -317,7 +272,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=263186</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>26</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>SURIN, YEGOR</NAME>
@@ -344,7 +299,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251028</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>GRITSYUK, ARSENY</NAME>
@@ -470,7 +425,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270166</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>GLT</POS>
-			<SLOT>25</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>COOTES, BRAEDEN</NAME>
@@ -506,7 +461,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=281380</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>25</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>SMITH, JACKSON</NAME>
@@ -1289,7 +1244,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248113</WEB>
 			<TEAM>STL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>HELENIUS, KONSTA</NAME>
@@ -1307,7 +1262,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251854</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>EISERMAN, COLE</NAME>
@@ -2045,7 +2000,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248733</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>26</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>BUT, DANIIL</NAME>
@@ -2072,7 +2027,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248575</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>STENBERG, OTTO</NAME>
@@ -2387,15 +2342,6 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161159</WEB>
 			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
-		</Player>
-		<Player>
-			<NAME>LAMOUREUX, MAVERIC</NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235312</WEB>
-			<TEAM>fa</TEAM>
-			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
@@ -4475,7 +4421,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192024</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>JASKIN, DMITRIJ</NAME>
@@ -5076,9 +5022,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195426</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>SAMBERG, DYLAN</NAME>
@@ -5753,7 +5699,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170670</WEB>
 			<TEAM>STL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>25</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZAMULA, EGOR</NAME>
@@ -12218,7 +12164,7 @@
 			<Champ>13, 18</Champ>
 			<Commissioner>Y</Commissioner>
 			<Committee></Committee>
-			<HeadCoach></HeadCoach>
+			<HeadCoach>Mark Messier</HeadCoach>
 		</GM>
 		<GM>
 			<Team>LA</Team>
@@ -12363,6 +12309,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
