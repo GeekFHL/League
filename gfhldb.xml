@@ -36,15 +36,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>WPG</TEAM>
-			<POS>FWD</POS>
-			<SLOT>9</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
 			<SLOT>21</SLOT>
@@ -192,15 +183,6 @@
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>10</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NYR</TEAM>
-			<POS>FWD</POS>
-			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -12282,6 +12264,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
