@@ -4997,7 +4997,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195426</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>SAMBERG, DYLAN</NAME>
@@ -12282,6 +12282,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
