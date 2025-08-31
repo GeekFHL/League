@@ -12123,7 +12123,7 @@
 			<Champ>7</Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
-			<HeadCoach>Ed Belfour</HeadCoach>
+			<HeadCoach>ED BELFOUR</HeadCoach>
 		</GM>
 		<GM>
 			<Team>EDM</Team>
@@ -12137,7 +12137,7 @@
 			<Champ>13, 18</Champ>
 			<Commissioner>Y</Commissioner>
 			<Committee></Committee>
-			<HeadCoach>Mark Messier</HeadCoach>
+			<HeadCoach>MARK MESSIER</HeadCoach>
 		</GM>
 		<GM>
 			<Team>LA</Team>
@@ -12282,6 +12282,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
