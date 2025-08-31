@@ -20,15 +20,6 @@
 			<WEB></WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>WPG</TEAM>
-			<POS>FWD</POS>
 			<SLOT>9</SLOT>
 		</Player>
 		<Player>
@@ -12282,6 +12273,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
