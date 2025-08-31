@@ -9,6 +9,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>SJ</TEAM>
+			<POS>DEF</POS>
+			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>21</SLOT>
@@ -4986,7 +4995,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195426</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>DEF</POS>
 			<SLOT>18</SLOT>
 		</Player>
@@ -12273,6 +12282,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
