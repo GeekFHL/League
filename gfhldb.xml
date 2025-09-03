@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 31, 2025</UPDATED>
+	<UPDATED>September 3, 2025</UPDATED>
 	<LASTTRANS>Chicago releases Kevin Stenlund (F)</LASTTRANS>
 	<DB>
 		<Player>
@@ -2547,9 +2547,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219620</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>NOESEN, STEFAN</NAME>
@@ -4223,7 +4223,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238748</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>CORONATO, MATTHEW</NAME>
@@ -12264,6 +12264,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
