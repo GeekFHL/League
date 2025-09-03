@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 3, 2025</UPDATED>
-	<LASTTRANS>Chicago releases Kevin Stenlund (F)</LASTTRANS>
+	<LASTTRANS>Boston signs Jamie Oleksiak (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -12,42 +12,6 @@
 			<TEAM>SJ</TEAM>
 			<POS>DEF</POS>
 			<SLOT>22</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>BOS</TEAM>
-			<POS>DEF</POS>
-			<SLOT>21</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>BOS</TEAM>
-			<POS>DEF</POS>
-			<SLOT>16</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>CGY</TEAM>
-			<POS>DEF</POS>
-			<SLOT>21</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>TB</TEAM>
-			<POS>FWD</POS>
-			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -10593,9 +10557,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117317</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>GUSTAFSSON, ERIK</NAME>
@@ -12264,6 +12228,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
