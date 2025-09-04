@@ -5,12 +5,12 @@
 	<LASTTRANS>Boston signs Jamie Oleksiak (D)</LASTTRANS>
 	<DB>
 		<Player>
-			<NAME></NAME>
+			<NAME>WEST, MASON</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=292148</WEB>
 			<TEAM>SJ</TEAM>
-			<POS>DEF</POS>
+			<POS>FWD</POS>
 			<SLOT>22</SLOT>
 		</Player>
 		<Player>
@@ -12228,6 +12228,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
