@@ -441,9 +441,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230836</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BACK, OSKAR</NAME>
@@ -6651,9 +6651,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192047</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSEPH, PIERRE-OLIVIER</NAME>
@@ -7191,9 +7191,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=128062</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MATTHEWS, AUSTON</NAME>
@@ -10836,9 +10836,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96554</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>MALKIN, EVGENI</NAME>
@@ -10971,9 +10971,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160323</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>HEDMAN, VICTOR</NAME>
@@ -12210,6 +12210,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
