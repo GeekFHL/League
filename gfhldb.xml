@@ -91,6 +91,15 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>NYR</TEAM>
+			<POS>DEF</POS>
+			<SLOT>16</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>8</SLOT>
 		</Player>
@@ -12219,6 +12228,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
