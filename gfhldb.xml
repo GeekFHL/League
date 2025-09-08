@@ -86,6 +86,15 @@
 			<SLOT>22</SLOT>
 		</Player>
 		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>NYR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
+		</Player>
+		<Player>
 			<NAME>BUMP, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12210,6 +12219,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
