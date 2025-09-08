@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 7, 2025</UPDATED>
-	<LASTTRANS>EDM-NYR Trade</LASTTRANS>
+	<LASTTRANS>Columbus releases Lenni Hameenaho (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WEST, MASON</NAME>
@@ -380,7 +380,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249103</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>FROLOV, SEMYON</NAME>
@@ -623,7 +623,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265424</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>COOLEY, DEVIN</NAME>
@@ -1145,7 +1145,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240647</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>HAGE, MICHAEL</NAME>
@@ -4142,7 +4142,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233734</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>RUOTSALAINEN, ARTTU</NAME>
@@ -8804,7 +8804,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143099</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>STEEL, SAM</NAME>
@@ -12228,6 +12228,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
