@@ -32,15 +32,6 @@
 			<SLOT></SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>OTT</TEAM>
-			<POS>FWD</POS>
-			<SLOT>5</SLOT>
-		</Player>
-		<Player>
 			<NAME>MEDVEDEV, ALEXEI</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12219,6 +12210,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
