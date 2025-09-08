@@ -227,7 +227,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225165</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHMID, AKIRA</NAME>
@@ -1550,7 +1550,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248740</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>OKHOTYUK, NIKITA</NAME>
@@ -2232,9 +2232,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191066</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>WALLINDER, WILLIAM</NAME>
@@ -2270,7 +2270,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161083</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOLDUC, SAMUEL</NAME>
@@ -3215,7 +3215,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145517</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARRICK, SAM</NAME>
@@ -3351,15 +3351,6 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>15</SLOT>
-		</Player>
-		<Player>
-			<NAME>GRITSYUK, ARSENY</NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225165</WEB>
-			<TEAM>fa</TEAM>
-			<POS>FWD</POS>
-			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>GILLIES, JON</NAME>
@@ -5607,9 +5598,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=165828</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHANSSON, JONAS</NAME>
@@ -7364,7 +7355,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213741</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>BACKLUND, MIKAEL</NAME>
@@ -12228,6 +12219,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
