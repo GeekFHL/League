@@ -14,13 +14,13 @@
 			<SLOT>22</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
+			<NAME>LOCMELIS, DANS</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NSH</TEAM>
-			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244111</WEB>
+			<TEAM>COL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>POTTER, CULLEN</NAME>
@@ -3321,9 +3321,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211454</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MEYERS, BEN</NAME>
@@ -12219,6 +12219,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
