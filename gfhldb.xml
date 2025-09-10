@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 9, 2025</UPDATED>
-	<LASTTRANS>Utah releases Erik Haula (F)</LASTTRANS>
+	<LASTTRANS>Boston signs Linus Karlsson (F), releases Alex Killorn (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WEST, MASON</NAME>
@@ -3294,9 +3294,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209974</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAMMIKKO, JUHO</NAME>
@@ -7740,9 +7740,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105394</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>STAMKOS, STEVEN</NAME>
@@ -12237,6 +12237,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
