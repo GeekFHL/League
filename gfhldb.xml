@@ -90,6 +90,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>NYR</TEAM>
+			<POS>DEF</POS>
+			<SLOT>24</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
 			<SLOT>23</SLOT>
@@ -128,7 +137,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=286277</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>KLAPKA, ADAM</NAME>
@@ -191,7 +200,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271649</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>AITCHESON, KASHAWN</NAME>
@@ -272,7 +281,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262568</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRONDELL, ANTON</NAME>
@@ -326,7 +335,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251829</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>RAVENSBERGEN, JOSHUA</NAME>
@@ -344,7 +353,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265087</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARTIN, BRADY</NAME>
@@ -398,7 +407,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265955</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDREYONOV, PYOTR</NAME>
@@ -407,7 +416,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=281299</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>25</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -12210,6 +12219,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
