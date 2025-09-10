@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 9, 2025</UPDATED>
-	<LASTTRANS>Dallas claims Jesper Boqvist (F), releases Mikael Backlund (F)</LASTTRANS>
+	<LASTTRANS>NY Rangers sign Scott Perunovich (D), release Oliver Kapanen (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WEST, MASON</NAME>
@@ -95,24 +95,6 @@
 			<SLOT>23</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NYR</TEAM>
-			<POS>DEF</POS>
-			<SLOT>16</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NYR</TEAM>
-			<POS>FWD</POS>
-			<SLOT>8</SLOT>
-		</Player>
-		<Player>
 			<NAME>BUMP, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -156,15 +138,6 @@
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
 			<SLOT>9</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NYR</TEAM>
-			<POS>FWD</POS>
-			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -335,7 +308,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270395</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>EKLUND, VICTOR</NAME>
@@ -515,7 +488,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262259</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>STEZKA, ALES</NAME>
@@ -3044,7 +3017,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235057</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>GEEKIE, CONOR</NAME>
@@ -5760,9 +5733,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=193752</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>PHILLIPS, MATTHEW</NAME>
@@ -11448,9 +11421,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241782</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KOIVUNEN, VILLE</NAME>
@@ -12237,6 +12210,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
