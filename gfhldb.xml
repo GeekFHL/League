@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>September 7, 2025</UPDATED>
-	<LASTTRANS>Columbus releases Lenni Hameenaho (F)</LASTTRANS>
+	<UPDATED>September 9, 2025</UPDATED>
+	<LASTTRANS>Utah releases Erik Haula (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WEST, MASON</NAME>
@@ -7812,9 +7812,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120930</WEB>
-			<TEAM>UTA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KREIDER, CHRIS</NAME>
@@ -12237,6 +12237,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
