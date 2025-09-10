@@ -6678,9 +6678,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192047</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSEPH, PIERRE-OLIVIER</NAME>
@@ -7380,9 +7380,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=104255</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HAMILTON, DOUGIE</NAME>
@@ -12237,6 +12237,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
