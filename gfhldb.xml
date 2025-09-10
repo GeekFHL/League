@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 9, 2025</UPDATED>
-	<LASTTRANS>NY Rangers sign Scott Perunovich (D), release Oliver Kapanen (F)</LASTTRANS>
+	<LASTTRANS>Edmonton claims Cullen Potter (F) off waivers, releases Brandon Duhaime (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WEST, MASON</NAME>
@@ -27,9 +27,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271182</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>MEDVEDEV, ALEXEI</NAME>
@@ -101,7 +101,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=247285</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>O'BRIEN, JAKE</NAME>
@@ -3690,9 +3690,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171261</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KOLOSOV, ALEKSEI</NAME>
@@ -4034,7 +4034,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHEV, VLADIMIR</NAME>
@@ -12210,6 +12210,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
