@@ -419,15 +419,6 @@
 			<SLOT>22</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>TB</TEAM>
-			<POS>FWD</POS>
-			<SLOT>8</SLOT>
-		</Player>
-		<Player>
 			<NAME>FLEURY, MARC-ANDRE</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -7362,9 +7353,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=104255</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>HAMILTON, DOUGIE</NAME>
@@ -12219,6 +12210,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
