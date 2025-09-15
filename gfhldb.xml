@@ -7706,7 +7706,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105394</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>STAMKOS, STEVEN</NAME>
@@ -9857,7 +9857,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=113830</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>SEGUIN, TYLER</NAME>
@@ -12201,6 +12201,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
