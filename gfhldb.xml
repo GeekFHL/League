@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 14, 2025</UPDATED>
-	<LASTTRANS>Minnesota signs Alex Killorn (F)</LASTTRANS>
+	<LASTTRANS>Colorado signs Nikita Grebenkin (F), releases Ty Dellandrea (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WEST, MASON</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME>GREBENKIN, NIKITA</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241769</WEB>
+			<TEAM>COL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>LOCMELIS, DANS</NAME>
@@ -8586,9 +8595,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191305</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HISCHIER, NICO</NAME>
@@ -12201,6 +12210,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
