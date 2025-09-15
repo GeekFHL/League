@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 14, 2025</UPDATED>
-	<LASTTRANS>Boston claims Oliver Kapanen (F) off waivers, releases Linus Karlsson (F)</LASTTRANS>
+	<LASTTRANS>Minnesota signs Alex Killorn (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WEST, MASON</NAME>
@@ -147,15 +147,6 @@
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
 			<SLOT>9</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>MIN</TEAM>
-			<POS>GLT</POS>
-			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -7713,9 +7704,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105394</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>STAMKOS, STEVEN</NAME>
@@ -12210,6 +12201,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
