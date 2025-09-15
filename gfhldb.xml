@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>September 9, 2025</UPDATED>
-	<LASTTRANS>Edmonton claims Cullen Potter (F) off waivers, releases Brandon Duhaime (F)</LASTTRANS>
+	<UPDATED>September 14, 2025</UPDATED>
+	<LASTTRANS>Washington signs Marc-Andre Fleury (G), releases Dmitri Kulikov (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WEST, MASON</NAME>
@@ -423,9 +423,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=55016</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>WSH</TEAM>
 			<POS>GLT</POS>
-			<SLOT></SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>GARDNER, EVAN</NAME>
@@ -884,7 +884,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244207</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>BYSTEDT, FILIP</NAME>
@@ -1145,7 +1145,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262225</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>YAKEMCHUK, CARTER</NAME>
@@ -10422,9 +10422,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116200</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>VAAKANAINEN, URHO</NAME>
@@ -12210,6 +12210,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
