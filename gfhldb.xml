@@ -11897,7 +11897,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
-			<HeadCoach></HeadCoach>
+			<HeadCoach>Alexei Kovalev</HeadCoach>
 		</GM>
 		<GM>
 			<Team>OTT</Team>
@@ -12210,6 +12210,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
