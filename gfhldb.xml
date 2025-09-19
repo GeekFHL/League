@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>September 14, 2025</UPDATED>
-	<LASTTRANS>Colorado signs Nikita Grebenkin (F), releases Ty Dellandrea (F)</LASTTRANS>
+	<UPDATED>September 18, 2025</UPDATED>
+	<LASTTRANS>Philly signs Scott Laughton (F), releases Lawson Crouse (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WEST, MASON</NAME>
@@ -7191,9 +7191,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=128062</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>MATTHEWS, AUSTON</NAME>
@@ -10962,9 +10962,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170113</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ZADOROV, NIKITA</NAME>
@@ -12210,6 +12210,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
