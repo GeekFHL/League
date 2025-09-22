@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>September 18, 2025</UPDATED>
-	<LASTTRANS>Philly signs Scott Laughton (F), releases Lawson Crouse (F)</LASTTRANS>
+	<UPDATED>September 22, 2025</UPDATED>
+	<LASTTRANS>Carolina signs Kevin Stenlund (F)</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>BUF</TEAM>
+			<POS>DEF</POS>
+			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>NSH</TEAM>
+			<POS>DEF</POS>
+			<SLOT>23</SLOT>
+		</Player>
 		<Player>
 			<NAME>WEST, MASON</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -86,33 +104,6 @@
 			<SLOT>23</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>BUF</TEAM>
-			<POS>DEF</POS>
-			<SLOT>22</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NYR</TEAM>
-			<POS>DEF</POS>
-			<SLOT>24</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NSH</TEAM>
-			<POS>DEF</POS>
-			<SLOT>23</SLOT>
-		</Player>
-		<Player>
 			<NAME>BUMP, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -156,15 +147,6 @@
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
 			<SLOT>9</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>CAR</TEAM>
-			<POS>DEF</POS>
-			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>TOEWS, JONATHAN</NAME>
@@ -1982,7 +1964,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240700</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>SIMASHEV, DMITRY</NAME>
@@ -2891,7 +2873,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229345</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>FIRKUS, JAGGER</NAME>
@@ -3422,7 +3404,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196144</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>KUZMENKO, ANDREI</NAME>
@@ -4671,9 +4653,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180806</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAZAR, CURTIS</NAME>
@@ -5204,7 +5186,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216556</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRISSON, BRENDAN</NAME>
@@ -6320,7 +6302,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145093</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>BERGMANN, LEAN</NAME>
@@ -7157,7 +7139,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196147</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOWD, NIC</NAME>
@@ -8516,7 +8498,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=158164</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>CERNAK, ERIK</NAME>
@@ -8570,7 +8552,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123307</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>RODRIGUE, OLIVIER</NAME>
@@ -8840,7 +8822,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89823</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>BERTUZZI, TYLER</NAME>
@@ -9191,7 +9173,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=100921</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>DEMELO, DYLAN</NAME>
@@ -9398,7 +9380,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117125</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>COMPHER, JT</NAME>
@@ -9650,7 +9632,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89986</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>DUMOULIN, BRIAN</NAME>
@@ -9893,7 +9875,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=71733</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>LETANG, KRISTOPHER</NAME>
@@ -10091,7 +10073,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80489</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHANSEN, RYAN</NAME>
@@ -10712,7 +10694,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169563</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>SISSONS, COLTON</NAME>
@@ -10847,7 +10829,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=77329</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARCHESSAULT, JONATHAN</NAME>
@@ -10874,7 +10856,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160580</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>ATKINSON, CAM</NAME>
@@ -10955,16 +10937,16 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144065</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>CROUSE, LAWSON</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170113</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZADOROV, NIKITA</NAME>
@@ -11153,7 +11135,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151992</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOMI, MAX</NAME>
@@ -12210,6 +12192,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
