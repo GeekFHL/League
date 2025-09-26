@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>September 22, 2025</UPDATED>
-	<LASTTRANS>Carolina signs Kevin Stenlund (F)</LASTTRANS>
+	<UPDATED>September 26, 2025</UPDATED>
+	<LASTTRANS>Los Angeles signs Samuel Jonsson (G) and releases Cam Lund (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -21,6 +21,15 @@
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
 			<SLOT>23</SLOT>
+		</Player>
+		<Player>
+			<NAME>JONSSON, SAMUEL</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=243838</WEB>
+			<TEAM>LA</TEAM>
+			<POS>GLT</POS>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>WEST, MASON</NAME>
@@ -90,9 +99,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235428</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>REID, CAMERON</NAME>
@@ -929,7 +938,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265415</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAUDOIN, COLE</NAME>
@@ -2313,9 +2322,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216568</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>OSTAPCHUK, ZACK</NAME>
@@ -10404,9 +10413,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116200</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>VAAKANAINEN, URHO</NAME>
@@ -12192,6 +12201,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
