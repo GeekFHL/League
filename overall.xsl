@@ -5,13 +5,13 @@
 <html>    
 
 <head>      
-<title>2024-25 GFHL Standings</title>      
+<title>2025-26 GFHL Standings</title>      
 <link rel="stylesheet" type="text/css" href="gfhlmain.css" />
 </head>    
 
 <body>   
 <center>
-<h1><b>2024-25 Standings</b></h1>
+<h1><b>2025-26 Standings</b></h1>
 
 <table class="noborder">
 <tr>
@@ -351,65 +351,68 @@
 
 <table class="noborder">
 <tr>
-<td class="no">
-<a class="url" href="2005-06/overall.xml" >2005-06</a>
-</td>
-<td class="no">
-<a class="url" href="2006-07/overall.xml" >2006-07</a>
-</td>
-<td class="no">
-<a class="url" href="2007-08/overall.xml" >2007-08</a>
-</td>
-<td class="no">
-<a class="url" href="2008-09/overall.xml" >2008-09</a>
-</td>
-<td class="no">
-<a class="url" href="2009-10/overall.xml" >2009-10</a>
-</td>
-<td class="no">
-<a class="url" href="2010-11/overall.xml" >2010-11</a>
-</td>
-<td class="no">
-<a class="url" href="2011-12/overall.xml" >2011-12</a>
-</td>
-<td class="no">
-<a class="url" href="2012-13/overall.xml" >2012-13</a>
-</td>
-<td class="no">
-<a class="url" href="2013-14/overall.xml" >2013-14</a>
-</td>
-<td class="no">
-<a class="url" href="2014-15/overall.xml" >2014-15</a>
-</td>
+	<td class="no">
+		<a class="url" href="2005-06/overall.xml" >2005-06</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2006-07/overall.xml" >2006-07</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2007-08/overall.xml" >2007-08</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2008-09/overall.xml" >2008-09</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2009-10/overall.xml" >2009-10</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2010-11/overall.xml" >2010-11</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2011-12/overall.xml" >2011-12</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2012-13/overall.xml" >2012-13</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2013-14/overall.xml" >2013-14</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2014-15/overall.xml" >2014-15</a>
+	</td>
 </tr>
 <tr>
-<td class="no">
-<a class="url" href="2015-16/overall.xml" >2015-16</a>
-</td>
-<td class="no">
-<a class="url" href="2016-17/overall.xml" >2016-17</a>
-</td>
-<td class="no">
-<a class="url" href="2017-18/overall.xml" >2017-18</a>
-</td>
-<td class="no">
-<a class="url" href="2018-19/overall.xml" >2018-19</a>
-</td>
-<td class="no">
-<a class="url" href="2019-20/overall.xml" >2019-20</a>
-</td>
-<td class="no">
-<a class="url" href="2020-21/overall.xml" >2020-21</a>
-</td>
-<td class="no">
-<a class="url" href="2021-22/overall.xml" >2021-22</a>
-</td>
-<td class="no">
-<a class="url" href="2022-23/overall.xml" >2022-23</a>
-</td>
-<td class="no">
-<a class="url" href="2023-24/overall.xml" >2023-24</a>
-</td>
+	<td class="no">
+		<a class="url" href="2015-16/overall.xml" >2015-16</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2016-17/overall.xml" >2016-17</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2017-18/overall.xml" >2017-18</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2018-19/overall.xml" >2018-19</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2019-20/overall.xml" >2019-20</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2020-21/overall.xml" >2020-21</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2021-22/overall.xml" >2021-22</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2022-23/overall.xml" >2022-23</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2023-24/overall.xml" >2023-24</a>
+	</td>
+	<td class="no">
+		<a class="url" href="2024-25/overall.xml" >2024-25</a>
+	</td>
 </tr>
 </table>
 
@@ -420,3 +423,4 @@
 
 </xsl:template> 
 </xsl:stylesheet> 
+
