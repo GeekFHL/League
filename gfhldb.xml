@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>September 26, 2025</UPDATED>
-	<LASTTRANS>Los Angeles signs Samuel Jonsson (G) and releases Cam Lund (F)</LASTTRANS>
+	<UPDATED>September 29, 2025</UPDATED>
+	<LASTTRANS>Minnesota signs Justin Hryckowian (F) and releases Max Pacioretty (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -14,13 +14,31 @@
 			<SLOT>22</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
+			<NAME>REIMER, JAMES</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NSH</TEAM>
-			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89975</WEB>
+			<TEAM>DAL</TEAM>
+			<POS>GLT</POS>
+			<SLOT>24</SLOT>
+		</Player>
+		<Player>
+			<NAME>FINNIE, EMMITT</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248290</WEB>
+			<TEAM>fa</TEAM>
+			<POS>FWD</POS>
+			<SLOT></SLOT>
+		</Player>
+		<Player>
+			<NAME>HRYCKOWIAN, JUSTIN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227810</WEB>
+			<TEAM>MIN</TEAM>
+			<POS>FWD</POS>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>JONSSON, SAMUEL</NAME>
@@ -675,9 +693,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219756</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>PYYHTIA, MIKAEL</NAME>
@@ -2403,9 +2421,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169554</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PEDERSON, LANE</NAME>
@@ -8120,7 +8138,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145634</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>FORSBERG, FILIP</NAME>
@@ -9810,9 +9828,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=99420</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GOLDOBIN, NIKOLAY</NAME>
@@ -9857,7 +9875,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=113830</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>SEGUIN, TYLER</NAME>
@@ -12201,6 +12219,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
