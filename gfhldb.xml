@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 2, 2025</UPDATED>
-	<LASTTRANS>Los Angeles signs Jake Christiansen (D) and releases Samuel Jonsson (G)</LASTTRANS>
+	<LASTTRANS>Edmonton signs Ryan Chesley (D) and releases Cullen Potter (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -21,6 +21,15 @@
 			<TEAM>DAL</TEAM>
 			<POS>GLT</POS>
 			<SLOT>24</SLOT>
+		</Player>
+		<Player>
+			<NAME>CHESLEY, RYAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238268</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>DEF</POS>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>SHEA, RYAN</NAME>
@@ -90,9 +99,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271182</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MEDVEDEV, ALEXEI</NAME>
@@ -12228,6 +12237,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
