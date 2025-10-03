@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 2, 2025</UPDATED>
-	<LASTTRANS>Minnesota signs Eric Comrie (G) and releases Ben Chiarot (D)</LASTTRANS>
+	<LASTTRANS>Boston signs Ryan Shea (D) and releases Vladislav Namestnikov (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -21,6 +21,15 @@
 			<TEAM>DAL</TEAM>
 			<POS>GLT</POS>
 			<SLOT>24</SLOT>
+		</Player>
+		<Player>
+			<NAME>SHEA, RYAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179361</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>DEF</POS>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>FINNIE, EMMITT</NAME>
@@ -9639,9 +9648,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130533</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PAGEAU, JEAN-GABRIEL</NAME>
@@ -11513,7 +11522,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=223783</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANK, ETHEN</NAME>
@@ -12219,6 +12228,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
