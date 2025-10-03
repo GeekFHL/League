@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 2, 2025</UPDATED>
-	<LASTTRANS>Minnesota signs Emmitt Finnie (F) and releases Uvis Balinskis (D)</LASTTRANS>
+	<LASTTRANS>Boston signs Adam Wilsby (D) and releases Jamie Oleksiak (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -10548,9 +10548,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117317</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GUSTAFSSON, ERIK</NAME>
@@ -11511,9 +11511,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=223783</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANK, ETHEN</NAME>
@@ -12219,6 +12219,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
