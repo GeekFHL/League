@@ -10818,9 +10818,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132742</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
-			<SLOT></SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>BELLOWS, KIEFFER</NAME>
@@ -11340,9 +11340,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106801</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BARRIE, TYSON</NAME>
@@ -12219,6 +12219,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
