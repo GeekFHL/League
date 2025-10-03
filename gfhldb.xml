@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>September 29, 2025</UPDATED>
-	<LASTTRANS>Minnesota signs Justin Hryckowian (F) and releases Max Pacioretty (F)</LASTTRANS>
+	<UPDATED>October 2, 2025</UPDATED>
+	<LASTTRANS>Minnesota signs Emmitt Finnie (F) and releases Uvis Balinskis (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -27,9 +27,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248290</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>HRYCKOWIAN, JUSTIN</NAME>
@@ -819,9 +819,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191621</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KOLYACHONOK, VLADISLAV</NAME>
@@ -12219,6 +12219,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
