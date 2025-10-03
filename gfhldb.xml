@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 2, 2025</UPDATED>
-	<LASTTRANS>Edmonton signs Ryan Chesley (D) and releases Cullen Potter (F)</LASTTRANS>
+	<LASTTRANS>Detroit signs Zakhar Bardakov (F) and releases Brendan Brisson (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -21,6 +21,15 @@
 			<TEAM>DAL</TEAM>
 			<POS>GLT</POS>
 			<SLOT>24</SLOT>
+		</Player>
+		<Player>
+			<NAME>BARDAKOV, ZAKHAR</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=234846</WEB>
+			<TEAM>DET</TEAM>
+			<POS>FWD</POS>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>CHESLEY, RYAN</NAME>
@@ -5238,9 +5247,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217088</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FOERSTER, TYSON</NAME>
@@ -12237,6 +12246,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
