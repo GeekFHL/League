@@ -3161,7 +3161,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229107</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>2</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>NAZAR, FRANK</NAME>
@@ -12273,6 +12273,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
