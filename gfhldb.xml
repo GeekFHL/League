@@ -128,7 +128,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244111</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>POTTER, CULLEN</NAME>
@@ -12273,6 +12273,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
