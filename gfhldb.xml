@@ -1152,7 +1152,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241004</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
 			<SLOT>22</SLOT>
 		</Player>
@@ -4824,7 +4824,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209005</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>21</SLOT>
 		</Player>
@@ -12273,6 +12273,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
