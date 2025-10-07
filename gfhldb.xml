@@ -2630,7 +2630,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209494</WEB>
 			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>/SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BORGEN, WILL</NAME>
@@ -12273,6 +12273,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
