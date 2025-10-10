@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>October 6, 2025</UPDATED>
-	<LASTTRANS>Toronto signs Matvei Gridin (F) and releases Clay Stevenson (G)</LASTTRANS>
+	<UPDATED>October 9, 2025</UPDATED>
+	<LASTTRANS>Boston signs Colton Dach (F) and releases Matt Dumba (D)</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>WINTERTON, RYAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227270</WEB>
+			<TEAM>CHI</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
 		<Player>
 			<NAME>GRIDIN, MATVEI</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -1235,7 +1244,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251854</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>EISERMAN, COLE</NAME>
@@ -3897,9 +3906,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227279</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>WEISSBACH, LINUS</NAME>
@@ -5393,7 +5402,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233632</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>JARVIS, SETH</NAME>
@@ -5949,9 +5958,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170338</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GAVRIKOV, VLADISLAV</NAME>
@@ -5976,9 +5985,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176691</WEB>
-			<TEAM>NYI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KAMENEV, VLADISLAV</NAME>
@@ -7758,9 +7767,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124409</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM></TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHWARTZ, JADEN</NAME>
@@ -11079,9 +11088,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187148</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHUK, BRADY</NAME>
@@ -11459,16 +11468,16 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241129/</WEB>
 			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRAZEAU, JUSTIN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187102</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>SVOZIL, STANISLAV</NAME>
@@ -12273,6 +12282,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
