@@ -9029,7 +9029,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=112814</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>JENNER, BOONE</NAME>
@@ -9326,7 +9326,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116100</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDERSSON, LIAS</NAME>
@@ -12282,6 +12282,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
