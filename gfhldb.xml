@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>October 9, 2025</UPDATED>
-	<LASTTRANS>Boston signs Colton Dach (F) and releases Matt Dumba (D)</LASTTRANS>
+	<UPDATED>October 13, 2025</UPDATED>
+	<LASTTRANS>New York Rangers signs Curtis Douglas (F) and releases Jordan Dumais (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -389,7 +389,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270395</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>EKLUND, VICTOR</NAME>
@@ -11036,7 +11036,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170113</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZADOROV, NIKITA</NAME>
@@ -12282,6 +12282,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
