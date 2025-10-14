@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 13, 2025</UPDATED>
-	<LASTTRANS>Boston signs Noah Laba (F) and releases Juuso Parssinen (F)</LASTTRANS>
+	<LASTTRANS>Los Angeles signs Pontus Holmberg (F) and releases Jake Christiansen (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -38,7 +38,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208615</WEB>
 			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOUGLAS, CURTIS</NAME>
@@ -3420,9 +3420,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211454</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>MEYERS, BEN</NAME>
@@ -3627,7 +3627,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187311</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>14</SLOT>
 		</Player>
@@ -12318,6 +12318,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
