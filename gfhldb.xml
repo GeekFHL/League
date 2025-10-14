@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 13, 2025</UPDATED>
-	<LASTTRANS>Anaheim signs Mikhail Gulyayev (D) and releases Conor Timmins (D)</LASTTRANS>
+	<LASTTRANS>Boston signs Noah Laba (F) and releases Juuso Parssinen (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>LABA, NOAH</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238417</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>FWD</POS>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>HALLANDER, FILIP</NAME>
@@ -1379,7 +1388,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233625</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOAN, JOSH</NAME>
@@ -2601,7 +2610,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219620</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>23</SLOT>
 		</Player>
@@ -12309,6 +12318,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
