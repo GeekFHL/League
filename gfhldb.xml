@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 13, 2025</UPDATED>
-	<LASTTRANS>New York Rangers signs Curtis Douglas (F) and releases Jordan Dumais (F)</LASTTRANS>
+	<LASTTRANS>New Jersey signs Eric Robinson (F) and releases Thomas Bordeleau (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -4446,7 +4446,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217359</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5967,9 +5967,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170338</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>GAVRIKOV, VLADISLAV</NAME>
@@ -12291,6 +12291,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
