@@ -11484,9 +11484,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241129/</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRAZEAU, JUSTIN</NAME>
@@ -12300,6 +12300,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
