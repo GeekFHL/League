@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 13, 2025</UPDATED>
-	<LASTTRANS>Los Angeles signs Maxwell Crozier (D) and releases Rory Kerins (F)</LASTTRANS>
+	<LASTTRANS>Tampa Bay signs Filip Hallander (F) and releases Craig Smith (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>HALLANDER, FILIP</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=200224</WEB>
+			<TEAM>TB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>CROZIER, MAXWELL</NAME>
@@ -9090,9 +9099,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=99554</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HOFFMAN, MIKE</NAME>
@@ -12300,6 +12309,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
