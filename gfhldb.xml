@@ -8363,7 +8363,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=163413</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>SODERSTROM, LINUS</NAME>
@@ -10919,7 +10919,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132742</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>BELLOWS, KIEFFER</NAME>
@@ -12318,6 +12318,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
