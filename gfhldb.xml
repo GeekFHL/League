@@ -74,7 +74,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210583</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>REIMER, JAMES</NAME>
@@ -242,10 +242,10 @@
 			<NAME>ELLIS, COLTEN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197251</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZHAROVSKY, ALEXANDER</NAME>
@@ -1244,7 +1244,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262225</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>YAKEMCHUK, CARTER</NAME>
@@ -2684,7 +2684,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244119</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>DANFORTH, JUSTIN</NAME>
@@ -11459,7 +11459,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89271</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>SHESTERKIN, IGOR</NAME>
@@ -12309,6 +12309,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
