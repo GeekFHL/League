@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 13, 2025</UPDATED>
-	<LASTTRANS>Tampa Bay signs Filip Hallander (F) and releases Craig Smith (F)</LASTTRANS>
+	<LASTTRANS>Anaheim signs Mikhail Gulyayev (D) and releases Connor Timmins (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -1458,9 +1458,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=260632</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>BONK, OLIVER</NAME>
@@ -11232,9 +11232,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187449</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHEIFELE, MARK</NAME>
@@ -12309,6 +12309,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
