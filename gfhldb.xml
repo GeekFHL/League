@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>October 13, 2025</UPDATED>
-	<LASTTRANS>Minnesota signs Ben Chiarot (D) and releases Justin Hryckowian (F)</LASTTRANS>
+	<UPDATED>October 16, 2025</UPDATED>
+	<LASTTRANS>New Jersey signs Brandon Bussi (G) and releases Artyom Galimov (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -128,7 +128,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248290</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>HRYCKOWIAN, JUSTIN</NAME>
@@ -675,9 +675,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219665</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KERINS, RORY</NAME>
@@ -1028,7 +1028,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228211</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>MURASHOV, SERGEI</NAME>
@@ -1071,9 +1071,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227942</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PARASCAK, TERIK</NAME>
@@ -2126,7 +2126,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209469</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>SALE, EDUARD</NAME>
@@ -2574,9 +2574,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195617</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>DUMAIS, JORDAN</NAME>
@@ -2763,9 +2763,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196572</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>XHEKAJ, ARBER</NAME>
@@ -3062,7 +3062,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218463</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>HOWARD, ISAAC</NAME>
@@ -3944,7 +3944,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227279</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>WEISSBACH, LINUS</NAME>
@@ -5438,7 +5438,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233632</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>JARVIS, SETH</NAME>
@@ -7373,7 +7373,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98196</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARKSTROM, JACOB</NAME>
@@ -7499,7 +7499,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176679</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>FOWLER, CAM</NAME>
@@ -7643,7 +7643,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170348</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>DUBOIS, PIERRE-LUC</NAME>
@@ -7823,7 +7823,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105394</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>STAMKOS, STEVEN</NAME>
@@ -7893,9 +7893,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120930</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>KREIDER, CHRIS</NAME>
@@ -8309,7 +8309,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170298</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>MYERS, TYLER</NAME>
@@ -8345,7 +8345,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=102649</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>PULJUJARVI, JESSE</NAME>
@@ -8363,7 +8363,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=163413</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>SODERSTROM, LINUS</NAME>
@@ -9344,7 +9344,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122998</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>VASILEVSKIY, ANDREI</NAME>
@@ -10010,7 +10010,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80459</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZBORIL, JAKUB</NAME>
@@ -11301,12 +11301,12 @@
 		</Player>
 		<Player>
 			<NAME>PIETRANGELO, ALEX</NAME>
-			<CAPTAIN>C</CAPTAIN>
+			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96594</WEB>
-			<TEAM>UTA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>DOUGHTY, DREW</NAME>
@@ -12318,6 +12318,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
