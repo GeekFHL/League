@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 20, 2025</UPDATED>
-	<LASTTRANS>New Jersey signs Josh Mahura (D) and releases Luke Schenn (D)</LASTTRANS>
+	<LASTTRANS>New Jersey signs Juuso Parssinen (F) and releases Alexandre Texier (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -2628,9 +2628,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219620</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>NOESEN, STEFAN</NAME>
@@ -6930,9 +6930,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANCOUZ, PAVEL</NAME>
@@ -12336,6 +12336,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
