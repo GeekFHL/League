@@ -14,6 +14,15 @@
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
+			<NAME>WOTHERSPOON, PARKER</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=163398</WEB>
+			<TEAM>NJ</TEAM>
+			<POS>DEF</POS>
+			<SLOT>15</SLOT>
+		</Player>
+		<Player>
 			<NAME>LABA, NOAH</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -2970,9 +2979,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207892</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SALO, ROBIN</NAME>
@@ -12318,6 +12327,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
