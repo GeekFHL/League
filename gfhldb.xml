@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 20, 2025</UPDATED>
-	<LASTTRANS>New Jersey signs Juuso Parssinen (F) and releases Alexandre Texier (F)</LASTTRANS>
+	<LASTTRANS>Boston signs Vincent Iorio (D) and releases Colton Dach (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>IORIO, VINCENT</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216654</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>DEF</POS>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>SASSON, MAX</NAME>
@@ -1406,7 +1415,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233625</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOAN, JOSH</NAME>
@@ -3960,9 +3969,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227279</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>WEISSBACH, LINUS</NAME>
@@ -5456,7 +5465,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233632</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>JARVIS, SETH</NAME>
@@ -11630,7 +11639,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=223783</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANK, ETHEN</NAME>
@@ -12336,6 +12345,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
