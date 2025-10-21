@@ -8507,7 +8507,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=181052</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>SUZUKI, NICK</NAME>
@@ -9693,9 +9693,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=201185</WEB>
-			<TEAM>NSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MANTHA, ANTHONY</NAME>
@@ -11376,9 +11376,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176770</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NSH</TEAM>
 			<POS>GLT</POS>
-			<SLOT></SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>LABANC, KEVIN</NAME>
@@ -12336,6 +12336,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
