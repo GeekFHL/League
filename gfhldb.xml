@@ -14,6 +14,15 @@
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
+			<NAME>SASSON, MAX</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208440</WEB>
+			<TEAM>TB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>4</SLOT>
+		</Player>
+		<Player>
 			<NAME>WOTHERSPOON, PARKER</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -8586,9 +8595,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=163050</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ERIKSSON EK, JOEL</NAME>
@@ -12327,6 +12336,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
