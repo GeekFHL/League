@@ -4997,7 +4997,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=204722</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARCHENKO, KIRILL</NAME>
@@ -8912,7 +8912,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143099</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>STEEL, SAM</NAME>
@@ -12336,6 +12336,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
