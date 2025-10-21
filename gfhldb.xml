@@ -108,9 +108,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89975</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BARDAKOV, ZAKHAR</NAME>
@@ -1226,7 +1226,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261746</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>SILAYEV, ANTON</NAME>
@@ -9855,9 +9855,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177777</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>KUPARI, RASMUS</NAME>
@@ -12336,6 +12336,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
