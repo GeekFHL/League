@@ -10919,7 +10919,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139929</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDGREN, CHARLIE</NAME>
@@ -11369,7 +11369,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=100197</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>RITTICH, DAVID</NAME>
@@ -12336,6 +12336,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
