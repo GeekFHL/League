@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>October 16, 2025</UPDATED>
+	<UPDATED>October 20, 2025</UPDATED>
 	<LASTTRANS>New Jersey signs Brandon Bussi (G) and releases Artyom Galimov (F)</LASTTRANS>
 	<DB>
 		<Player>
@@ -2268,9 +2268,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238272</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEDARD, CONNOR</NAME>
@@ -6939,9 +6939,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218842</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>KNIGHT, SPENCER</NAME>
@@ -12327,6 +12327,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
