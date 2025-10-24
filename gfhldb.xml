@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 23, 2025</UPDATED>
-	<LASTTRANS>Colorado signs Charle-Edouard D'Astous (D) and releases Dans Locmelis (F)</LASTTRANS>
+	<LASTTRANS>Vegas signs Conor Timmins (D) and releases Erik Gustafsson (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -8066,7 +8066,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139048</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>RIELLY, MORGAN</NAME>
@@ -11295,9 +11295,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187449</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHEIFELE, MARK</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
