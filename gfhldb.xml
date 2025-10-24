@@ -1253,7 +1253,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241004</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>CONNELLY, TREVOR</NAME>
@@ -2108,7 +2108,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248005</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>HRABAL, MICHAEL</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
