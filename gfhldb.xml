@@ -3278,7 +3278,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241535</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEKKERIMAKI, JONATHAN</NAME>
@@ -4079,7 +4079,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209457</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARRIER, ALEXANDRE</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
