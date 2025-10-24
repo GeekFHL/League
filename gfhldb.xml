@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 23, 2025</UPDATED>
-	<LASTTRANS>Colorado signs Marcus Johansson (F) and releases Ville Husso (G)</LASTTRANS>
+	<LASTTRANS>Colorado signs Charle-Edouard D'Astous (D) and releases Dans Locmelis (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>D'ASTOUS, CHARLE-EDOUARD</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=186178</WEB>
+			<TEAM>COL</TEAM>
+			<POS>DEF</POS>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHANSSON, MARCUS</NAME>
@@ -216,9 +225,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244111</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>POTTER, CULLEN</NAME>
@@ -12363,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
