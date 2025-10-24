@@ -110,7 +110,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261381</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>PERRON, DAVID</NAME>
@@ -3654,7 +3654,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=220134</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>12</SLOT>
 		</Player>
@@ -5789,7 +5789,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=178965</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>BROWN, JOSH</NAME>
@@ -10784,7 +10784,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=131921</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>KRUG, TOREY</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
