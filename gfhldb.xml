@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 23, 2025</UPDATED>
-	<LASTTRANS>Vegas signs Conor Timmins (D) and releases Erik Gustafsson (D)</LASTTRANS>
+	<LASTTRANS>Vancouver trades Zellweger (D) and futures to Toronto for J. Smith (D), EDM12026, CHI2 2026</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -549,9 +549,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=269199</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAR, CARTER</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
