@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 23, 2025</UPDATED>
-	<LASTTRANS>Colorado signs Louis Crevier (D) and releases Rodrigo Abols (F)</LASTTRANS>
+	<LASTTRANS>Colorado signs Marcus Johansson (F) and releases Ville Husso (G)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>JOHANSSON, MARCUS</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98452</WEB>
+			<TEAM>COL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>CREVIER, LOUIS</NAME>
@@ -209,7 +218,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244111</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>POTTER, CULLEN</NAME>
@@ -7812,9 +7821,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=159892</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FROST, MORGAN</NAME>
@@ -12354,6 +12363,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
