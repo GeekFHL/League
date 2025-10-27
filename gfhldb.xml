@@ -3584,7 +3584,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196144</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>KUZMENKO, ANDREI</NAME>
@@ -9353,7 +9353,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=100921</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>DEMELO, DYLAN</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
