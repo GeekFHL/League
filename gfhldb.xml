@@ -2135,7 +2135,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240683</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>YAGER, BRAYDEN</NAME>
@@ -7274,7 +7274,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=121460</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>HILL, ADIN</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
