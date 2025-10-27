@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>October 23, 2025</UPDATED>
-	<LASTTRANS>Vancouver trades Zellweger (D) and futures to Toronto for J. Smith (D), EDM12026, CHI2 2026</LASTTRANS>
+	<UPDATED>October 27, 2025</UPDATED>
+	<LASTTRANS>Tampa Bay signs Colton Dach (F) and releases Mikael Backlund (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -3996,9 +3996,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227279</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>WEISSBACH, LINUS</NAME>
@@ -7515,9 +7515,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=104255</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HAMILTON, DOUGIE</NAME>
@@ -12372,6 +12372,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
