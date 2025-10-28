@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 27, 2025</UPDATED>
-	<LASTTRANS>Los Angeles signs Spencer Stastney (D) and releases Declan Chisholm (D)</LASTTRANS>
+	<LASTTRANS>Boston signs Mikey Eyssimont (F) and releases Henry Thrun (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -13,7 +13,7 @@
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
-		<Player>
+	    <Player>
 			<NAME>STASTNEY, SPENCER</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -2187,9 +2187,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209469</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SALE, EDUARD</NAME>
@@ -2421,9 +2421,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161159</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSHUA, DAKOTA</NAME>
@@ -8003,7 +8003,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118389</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>SMITH, REILLY</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
