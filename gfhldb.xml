@@ -2756,7 +2756,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244119</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>DANFORTH, JUSTIN</NAME>
@@ -11603,7 +11603,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241789</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>DIONICIO, RODWIN</NAME>
@@ -11657,7 +11657,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270607</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>MERILAINEN, LEEVI</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
