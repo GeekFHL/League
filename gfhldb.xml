@@ -5177,7 +5177,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170175</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>JARVENTIE, ROBY</NAME>
@@ -6212,7 +6212,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151714</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>RICHARD, ANTHONY</NAME>
@@ -8210,7 +8210,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122917</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>EBERLE, JORDAN</NAME>
@@ -8246,7 +8246,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=112754</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>GRIMALDI, ROCCO</NAME>
@@ -9812,7 +9812,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122661</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>SPURGEON, JARED</NAME>
@@ -10694,7 +10694,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130876</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>JENSEN, NICK</NAME>
@@ -12381,6 +12381,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
