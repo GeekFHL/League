@@ -7040,7 +7040,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208689</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>NEWHOOK, ALEX</NAME>
@@ -7157,7 +7157,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211199</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUGHES, JACK</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
