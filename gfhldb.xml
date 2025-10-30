@@ -2567,7 +2567,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=173610</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>KULICH, JIRI</NAME>
@@ -7049,7 +7049,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=200446</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>HIROSE, TARO</NAME>
@@ -7598,7 +7598,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=111711</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>TOEWS, DEVON</NAME>
@@ -8111,7 +8111,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123445</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOBROVSKY, SERGEI</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
