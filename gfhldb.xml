@@ -38,7 +38,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=186178</WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHANSSON, MARCUS</NAME>
@@ -5789,7 +5789,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208587</WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>RAFFERTY, BROGAN</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
