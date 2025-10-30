@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 30, 2025</UPDATED>
-	<LASTTRANS>Edmonton signs Marshall Warren (D) and releases Ryan Chesley (D)</LASTTRANS>
+	<LASTTRANS>Edmonton signs Ian Cole( D) and Ross Johnston (F) releases Nate Schmidt (D) and Alex Bump (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -306,9 +306,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=247285</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>O'BRIEN, JAKE</NAME>
@@ -4214,7 +4214,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHEV, VLADIMIR</NAME>
@@ -6165,9 +6165,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143769</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>ROY, MATT</NAME>
@@ -7947,9 +7947,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105381</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEHNER, ROBIN</NAME>
@@ -11097,9 +11097,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123400</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CARLSON, JOHN</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
