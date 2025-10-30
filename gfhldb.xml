@@ -13,6 +13,15 @@
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
+		<Player>
+			<NAME>WARREN, MARSHALL</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227270</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>DEF</POS>
+			<SLOT>14</SLOT>
+		</Player>
 	    <Player>
 			<NAME>STASTNEY, SPENCER</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -8066,7 +8075,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=146214</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>RISTOLAINEN, RASMUS</NAME>
@@ -12381,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
