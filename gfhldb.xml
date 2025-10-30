@@ -1226,7 +1226,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262249</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAMOUREUX, MAVERIC</NAME>
@@ -2288,7 +2288,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238957</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEONARD, RYAN</NAME>
@@ -3251,7 +3251,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=254379</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>MINTYUKOV, PAVEL</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
