@@ -515,7 +515,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251829</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>RAVENSBERGEN, JOSHUA</NAME>
@@ -641,7 +641,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248102</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>UNGER SORUM, FELIX</NAME>
@@ -1172,7 +1172,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265618</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>SOLBERG, STIAN</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
