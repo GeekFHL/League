@@ -2367,9 +2367,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228638</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>HILDEBY, DENNIS</NAME>
@@ -11682,9 +11682,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=223783</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANK, ETHEN</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
