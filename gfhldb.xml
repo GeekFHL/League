@@ -7580,7 +7580,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120956</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>VALIMAKI, JUUSO</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
