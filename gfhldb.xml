@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 3, 2025</UPDATED>
-	<LASTTRANS>Minnesota signs Miles Wood (F), releases Alex Killorn (F)</LASTTRANS>
+	<LASTTRANS>Edmonton signs Mike Reilly (D), releases Marshall Warren (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -18,9 +18,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209483</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT></SLOT>
 		</Player>
 	    <Player>
 			<NAME>STASTNEY, SPENCER</NAME>
@@ -10629,9 +10629,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143097</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>SAROS, JUUSE</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
