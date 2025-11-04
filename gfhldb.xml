@@ -1496,7 +1496,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238086</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>MCMANN, BOBBY</NAME>
@@ -4304,7 +4304,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233734</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>RUOTSALAINEN, ARTTU</NAME>
@@ -8057,7 +8057,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96427</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZUCKER, JASON</NAME>
@@ -9929,7 +9929,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=102290</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>PIONK, NEAL</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
