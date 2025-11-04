@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 3, 2025</UPDATED>
-	<LASTTRANS>Chicago signs Corey Perry (F), Mikael Backlund (F), releases Alex Kerfoot (F), Ryan Winterton (F)</LASTTRANS>
+	<LASTTRANS>Minnesota signs Miles Wood (F), releases Alex Killorn (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -7893,9 +7893,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105394</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>STAMKOS, STEVEN</NAME>
@@ -11124,9 +11124,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=168007</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>HELLEBUYCK, CONNOR</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
