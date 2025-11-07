@@ -8381,7 +8381,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170298</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>MYERS, TYLER</NAME>
@@ -11513,7 +11513,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106801</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>BARRIE, TYSON</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
