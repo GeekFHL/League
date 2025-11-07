@@ -2,8 +2,26 @@
 
 <GFHL>
 	<UPDATED>November 6, 2025</UPDATED>
-	<LASTTRANS>NY Islanders trades Eeut Luostarinen (F) to Boston for Ty Emberson (D) and Chicago 2027 2nd rounder</LASTTRANS>
+	<LASTTRANS>NY Islanders trades Eetu Luostarinen (F) to Boston for Ty Emberson (D) and Chicago 2027 2nd rounder</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>HORCOFF, WILLIAM</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271171</WEB>
+			<TEAM>FLA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>NESTERENKO, NIKITA</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=224706</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -4214,7 +4232,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHEV, VLADIMIR</NAME>
@@ -5535,9 +5553,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=222890</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PERFETTI, COLE</NAME>
@@ -6165,9 +6183,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143769</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ROY, MATT</NAME>
@@ -12390,6 +12408,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
