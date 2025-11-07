@@ -306,9 +306,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=247285</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>O'BRIEN, JAKE</NAME>
@@ -5787,9 +5787,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208587</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>RAFFERTY, BROGAN</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
