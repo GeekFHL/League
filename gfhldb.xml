@@ -1233,7 +1233,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235312</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>DEF</POS>
 			<SLOT>21</SLOT>
 		</Player>
@@ -2225,7 +2225,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248686</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>HONZEK, SAMUEL</NAME>
@@ -4563,9 +4563,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216534</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MAROON, PATRICK</NAME>
@@ -7119,9 +7119,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209486</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>tb</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>TURCOTTE, ALEX</NAME>
@@ -8777,7 +8777,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191305</WEB>
 			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>HISCHIER, NICO</NAME>
@@ -10773,9 +10773,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105385</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>PANARIN, ARTEMI</NAME>
@@ -10899,9 +10899,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127134</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FORBORT, DEREK</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
