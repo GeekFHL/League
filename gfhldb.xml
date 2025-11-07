@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 6, 2025</UPDATED>
-	<LASTTRANS>Edmonton signs Mike Reilly (D), releases Marshall Warren (D)</LASTTRANS>
+	<LASTTRANS>NY Islanders trades Eeut Luostarinen (F) to Boston for Ty Emberson (D) and Chicago 2027 2nd rounder</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -1701,9 +1701,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196110</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>NYI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDBOM, CARL</NAME>
@@ -2369,7 +2369,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228638</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>HILDEBY, DENNIS</NAME>
@@ -4968,9 +4968,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197649</WEB>
-			<TEAM>NYI</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDERSON, MICHAEL</NAME>
@@ -5510,7 +5510,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233632</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>JARVIS, SETH</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
