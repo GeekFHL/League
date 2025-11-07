@@ -1568,7 +1568,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232198</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>BECK, OWEN</NAME>
@@ -4538,7 +4538,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177637</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>BORDELEAU, THOMAS</NAME>
@@ -12390,6 +12390,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
