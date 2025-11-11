@@ -29,7 +29,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218690</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>NESTERENKO, NIKITA</NAME>
@@ -5546,7 +5546,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233632</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>JARVIS, SETH</NAME>
@@ -12426,6 +12426,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
