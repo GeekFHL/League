@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 10, 2025</UPDATED>
-	<LASTTRANS>Minnesota signs Nick Blankenburg (D) and releases Ben Chiarot (D)</LASTTRANS>
+	<LASTTRANS>Anaheim signs Lucas Beckman (G) and releases Mikhail Gulyayev (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>24</SLOT>
+		</Player>
+		<Player>
+			<NAME>BECKMAN, LUCAS</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273068</WEB>
+			<TEAM>ANA</TEAM>
+			<POS>GLT</POS>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>PINCHUK, VITALI</NAME>
@@ -1575,9 +1584,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=260632</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BONK, OLIVER</NAME>
@@ -12426,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
