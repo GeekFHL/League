@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 10, 2025</UPDATED>
-	<LASTTRANS>Boston signs Dominic James (F) and releases Michael Eyssimont (F)</LASTTRANS>
+	<LASTTRANS>NY Rangers signs Vitali Pinchuk (F) and releases Curtis Douglas (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>PINCHUK, VITALI</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227259</WEB>
+			<TEAM>NYR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>JAMES, DOMINIC</NAME>
@@ -144,9 +153,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195996</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GRIDIN, MATVEI</NAME>
@@ -12417,6 +12426,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
