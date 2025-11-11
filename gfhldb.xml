@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 10, 2025</UPDATED>
-	<LASTTRANS>NY Rangers signs Vitali Pinchuk (F) and releases Curtis Douglas (F)</LASTTRANS>
+	<LASTTRANS>New Jersey claims Ross Johnston (F) off waivers and releases James Van Riemsdyk (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -6201,9 +6201,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143769</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>ROY, MATT</NAME>
@@ -11243,7 +11243,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187580</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>THOMPSON, TAGE</NAME>
@@ -11394,9 +11394,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105417</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>TOFFOLI, TYLER</NAME>
@@ -12426,6 +12426,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
