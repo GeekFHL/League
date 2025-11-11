@@ -11,7 +11,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271171</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>PINCHUK, VITALI</NAME>
@@ -2252,7 +2252,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248129</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>BARLOW, COLBY</NAME>
@@ -12426,6 +12426,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
