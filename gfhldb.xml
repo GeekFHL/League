@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 10, 2025</UPDATED>
-	<LASTTRANS>Anaheim signs Lucas Beckman (G) and releases Mikhail Gulyayev (D)</LASTTRANS>
+	<LASTTRANS>Anaheim-Philadelphia Trade </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -20,7 +20,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273068</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>12</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>PINCHUK, VITALI</NAME>
@@ -956,7 +956,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=263763</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>ARTAMONOV, NIKITA</NAME>
@@ -1154,7 +1154,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=254433</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>GREBYONKIN, NIKITA</NAME>
@@ -1224,9 +1224,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272901</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HUTSON, COLE</NAME>
@@ -1260,9 +1260,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=260118</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>LUCHANKO, JETT</NAME>
@@ -2304,9 +2304,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249530</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>REINBACHER, DAVID</NAME>
@@ -2430,7 +2430,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219748</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
 			<SLOT>13</SLOT>
 		</Player>
@@ -2592,9 +2592,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210178</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>BENOIT, SIMON</NAME>
@@ -2619,9 +2619,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=245580</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>FASCHING, HUDSON</NAME>
@@ -6399,9 +6399,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160248</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>BLUEGER, TEDDY</NAME>
@@ -7616,7 +7616,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176679</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>FOWLER, CAM</NAME>
@@ -10008,9 +10008,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123358</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>COPLEY, PHEONIX</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
