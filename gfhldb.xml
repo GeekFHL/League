@@ -4259,7 +4259,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHEV, VLADIMIR</NAME>
@@ -8120,7 +8120,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=146214</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>RISTOLAINEN, RASMUS</NAME>
@@ -11198,7 +11198,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160323</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>HEDMAN, VICTOR</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
