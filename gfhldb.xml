@@ -8039,7 +8039,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117131</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOPITAR, ANZE</NAME>
@@ -8255,7 +8255,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177559</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>TROCHECK, VINCENT</NAME>
@@ -9344,7 +9344,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139983</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>MITTELSTADT, CASEY</NAME>
@@ -9542,7 +9542,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162486</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOTKANIEMI, JESPERI</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
