@@ -5690,7 +5690,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208585</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>FARRANCE, DAVID</NAME>
@@ -10280,7 +10280,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144264</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>GUSTAVSSON, FILIP</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
