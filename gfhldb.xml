@@ -2963,7 +2963,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248569</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDRAE, EMIL</NAME>
@@ -9353,7 +9353,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192483</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>REINHART, SAM</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
