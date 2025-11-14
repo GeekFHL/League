@@ -333,9 +333,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235428</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>REID, CAMERON</NAME>
@@ -7506,9 +7506,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180628</WEB>
-			<TEAM>UTA</TEAM>
+			<TEAM></TEAM>
 			<POS>GLT</POS>
-			<SLOT>25</SLOT>
+			<SLOT>/SLOT>
 		</Player>
 		<Player>
 			<NAME>DIPIETRO, MICHAEL</NAME>
@@ -11270,7 +11270,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161165</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>TANEV, CHRISTOPHER</NAME>
@@ -11513,7 +11513,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106815</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>NIEDERREITER, NINO</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
