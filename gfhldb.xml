@@ -7508,7 +7508,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180628</WEB>
 			<TEAM></TEAM>
 			<POS>GLT</POS>
-			<SLOT>/SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>DIPIETRO, MICHAEL</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
