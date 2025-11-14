@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>November 10, 2025</UPDATED>
-	<LASTTRANS>Philadelphia trades Logan Thompson (G), Brayden McNabb (D), Reilly Smith (F) to New Jersey for Mo Seider (D), Brandon Bussi (G) and Dylan Duke (F) </LASTTRANS>
+	<UPDATED>November 14, 2025</UPDATED>
+	<LASTTRANS></LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -4887,9 +4887,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197888</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>STENLUND, KEVIN</NAME>
@@ -5778,9 +5778,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208686</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM></TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>TINORDI, JARRED</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
