@@ -4970,7 +4970,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195945</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>FIRSTOV, VLADISLAV</NAME>
@@ -10224,9 +10224,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124249</WEB>
-			<TEAM></TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>MURPHY, CONNOR</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
