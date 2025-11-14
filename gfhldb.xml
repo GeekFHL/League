@@ -801,9 +801,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216268</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>MEWS, HENRY</NAME>
@@ -1188,9 +1188,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227942</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM></TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PARASCAK, TERIK</NAME>
@@ -2475,9 +2475,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161159</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSHUA, DAKOTA</NAME>
@@ -2493,9 +2493,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196462</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM></TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>DOBES, JAKUB</NAME>
@@ -3537,9 +3537,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211454</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM></TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MEYERS, BEN</NAME>
@@ -4970,7 +4970,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195945</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>FIRSTOV, VLADISLAV</NAME>
@@ -10224,9 +10224,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124249</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM></TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MURPHY, CONNOR</NAME>
@@ -10332,9 +10332,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122662</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM></TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KUCHEROV, NIKITA</NAME>
@@ -11142,9 +11142,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123400</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARLSON, JOHN</NAME>
@@ -11556,9 +11556,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106801</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>BARRIE, TYSON</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
