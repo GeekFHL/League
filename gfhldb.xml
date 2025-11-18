@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 17, 2025</UPDATED>
-	<LASTTRANS>Columbus signs Braeden Bowman (F) and releases David Tomasek (F)</LASTTRANS>
+	<LASTTRANS>Edmonton signs Quentin Miller (G) and releases Nikita Nesterenko (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BECKMAN, LUCAS</NAME>
@@ -10,6 +10,15 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273068</WEB>
 			<TEAM>ANA</TEAM>
+			<POS>GLT</POS>
+			<SLOT>21</SLOT>
+		</Player>
+		<Player>
+			<NAME>MILLER, QUENTIN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262829</WEB>
+			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
 			<SLOT>21</SLOT>
 		</Player>
@@ -45,9 +54,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=224706</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -4259,7 +4268,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHEV, VLADIMIR</NAME>
@@ -12435,6 +12444,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
