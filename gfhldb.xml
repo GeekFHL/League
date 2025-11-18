@@ -6320,7 +6320,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=131779</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>DANSK, OSCAR</NAME>
@@ -10100,7 +10100,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=113830</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>SEGUIN, TYLER</NAME>
@@ -10541,7 +10541,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=138920</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>BROSSOIT, LAURENT</NAME>
@@ -12444,6 +12444,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
