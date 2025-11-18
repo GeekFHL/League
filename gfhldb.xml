@@ -252,9 +252,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227810</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>JONSSON, SAMUEL</NAME>
@@ -11169,9 +11169,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=168007</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HELLEBUYCK, CONNOR</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
