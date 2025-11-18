@@ -36,9 +36,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218690</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>NESTERENKO, NIKITA</NAME>
@@ -135,9 +135,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238417</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HALLANDER, FILIP</NAME>
@@ -2790,9 +2790,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209494</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>BORGEN, WILL</NAME>
@@ -5015,7 +5015,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197649</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDERSON, MICHAEL</NAME>
@@ -8057,7 +8057,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118389</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>SMITH, REILLY</NAME>
@@ -10584,9 +10584,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127775</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAINE, PATRIK</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
