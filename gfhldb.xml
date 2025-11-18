@@ -5,15 +5,6 @@
 	<LASTTRANS>Los Angeles signs Nate Shmidt (D) and releases Ryan Ufko (D)</LASTTRANS>
 	<DB>
 		<Player>
-			<NAME>HORCOFF, WILLIAM</NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271171</WEB>
-			<TEAM>FLA</TEAM>
-			<POS>FWD</POS>
-			<SLOT>24</SLOT>
-		</Player>
-		<Player>
 			<NAME>BECKMAN, LUCAS</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -21,6 +12,15 @@
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
 			<SLOT>21</SLOT>
+		</Player>
+		<Player>
+			<NAME>BOWMAN, BRAEDEN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229976</WEB>
+			<TEAM>CLB</TEAM>
+			<POS>GLT</POS>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>PINCHUK, VITALI</NAME>
@@ -324,9 +324,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170178</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>LUND, CAM</NAME>
@@ -12435,6 +12435,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
