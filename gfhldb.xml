@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>November 17, 2025</UPDATED>
-	<LASTTRANS>Edmonton signs Quentin Miller (G) and releases Nikita Nesterenko (F)</LASTTRANS>
+	<UPDATED>November 20, 2025</UPDATED>
+	<LASTTRANS>Boston signs Joel Nystrom (D) and releases Kevin Hayes (F)</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>NYSTROM, JOEL</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=236706</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>DEF</POS>
+			<SLOT>12</SLOT>
+		</Player>
 		<Player>
 			<NAME>BECKMAN, LUCAS</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -2423,7 +2432,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228638</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>HILDEBY, DENNIS</NAME>
@@ -8066,7 +8075,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118389</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>SMITH, REILLY</NAME>
@@ -10593,9 +10602,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127775</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>LAINE, PATRIK</NAME>
@@ -12444,6 +12453,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
