@@ -4709,7 +4709,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=182232</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>GADJOVICH, JONAH</NAME>
@@ -8192,7 +8192,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123445</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOBROVSKY, SERGEI</NAME>
@@ -12471,6 +12471,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
