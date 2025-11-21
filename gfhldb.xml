@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 20, 2025</UPDATED>
-	<LASTTRANS>Boston signs Joel Nystrom (D) and releases Kevin Hayes (F)</LASTTRANS>
+	<LASTTRANS>Anaheim signs Mikhail Ilyin (F) and releases Lucas Beckman (G)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>NYSTROM, JOEL</NAME>
@@ -14,13 +14,22 @@
 			<SLOT>12</SLOT>
 		</Player>
 		<Player>
+			<NAME>ILYIN, MIKHAIL</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265429</WEB>
+			<TEAM>ANA</TEAM>
+			<POS>RES</POS>
+			<SLOT>21</SLOT>
+		</Player>
+		<Player>
 			<NAME>BECKMAN, LUCAS</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273068</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MILLER, QUENTIN</NAME>
@@ -424,7 +433,7 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271401</WEB>
 			<TEAM>ANA</TEAM>
-			<POS>FWD</POS>
+			<POS>GLT</POS>
 			<SLOT>24</SLOT>
 		</Player>
 		<Player>
@@ -12453,6 +12462,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
