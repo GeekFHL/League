@@ -14,6 +14,15 @@
 			<SLOT>12</SLOT>
 		</Player>
 		<Player>
+			<NAME>NESTRASIL, VACLAV</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273530</WEB>
+			<TEAM>LA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>17</SLOT>
+		</Player>
+		<Player>
 			<NAME>ILYIN, MIKHAIL</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12462,6 +12471,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
