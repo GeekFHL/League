@@ -837,9 +837,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216268</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MEWS, HENRY</NAME>
@@ -12471,6 +12471,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
