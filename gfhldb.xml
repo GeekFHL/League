@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 24, 2025</UPDATED>
-	<LASTTRANS>Edmonton signs Jack Devine (F), Tristan Broz (F) releases Mike Reilly (D), Nicolas Roy (F)</LASTTRANS>
+	<LASTTRANS>Tampa Bay signs Ethen Frank (F) releases Colby Barlow (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>NYSTROM, JOEL</NAME>
@@ -200,7 +200,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=200224</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>CROZIER, MAXWELL</NAME>
@@ -2322,9 +2322,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248686</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HONZEK, SAMUEL</NAME>
@@ -11790,9 +11790,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179667</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
                 <Player>
 			<NAME>EDSTROM, ADAM</NAME>
@@ -12489,6 +12489,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
