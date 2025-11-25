@@ -2666,7 +2666,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=173610</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>KULICH, JIRI</NAME>
@@ -7148,7 +7148,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=200446</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>HIROSE, TARO</NAME>
@@ -10613,7 +10613,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210177</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>LARSSON, FILIP</NAME>
@@ -12489,6 +12489,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
