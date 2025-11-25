@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 24, 2025</UPDATED>
-	<LASTTRANS>Boston signs Thomas Milic (G) releases Joel Nystrom (D)</LASTTRANS>
+	<LASTTRANS>Vegas signs Connor Clattenburg (F) releases Jeff Petry (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>NYSTROM, JOEL</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT></SLOT>
+		</Player>
+		<Player>
+			<NAME>CLATTENBURG, CONNOR</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=252590</WEB>
+			<TEAM>VGK</TEAM>
+			<POS>FWD</POS>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>BROZ, TRISTAN</NAME>
@@ -8489,7 +8498,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=94206</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRODIN, JONAS</NAME>
@@ -9333,9 +9342,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=94006</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PERRY, COREY</NAME>
@@ -12489,6 +12498,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
