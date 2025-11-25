@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 24, 2025</UPDATED>
-	<LASTTRANS>Los Angeles signs Max Plante (F) releases Luca Del Bel Belluz (F)</LASTTRANS>
+	<LASTTRANS>Boston signs Adam Engstrom (D) releases Matej Blumel (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>NYSTROM, JOEL</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT></SLOT>
+		</Player>
+		<Player>
+			<NAME>ENGSTROM, ADAM</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244126</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>DEF</POS>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>PLANTE, MAX</NAME>
@@ -2486,7 +2495,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228638</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>HILDEBY, DENNIS</NAME>
@@ -2862,9 +2871,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209494</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BORGEN, WILL</NAME>
@@ -12507,6 +12516,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
