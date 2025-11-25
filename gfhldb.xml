@@ -2,16 +2,16 @@
 
 <GFHL>
 	<UPDATED>November 24, 2025</UPDATED>
-	<LASTTRANS>Tampa Bay signs Ethen Frank (F) releases Colby Barlow (F)</LASTTRANS>
+	<LASTTRANS>Boston signs Thomas Milic (G) releases Joel Nystrom (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>NYSTROM, JOEL</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=236706</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BROZ, TRISTAN</NAME>
@@ -2070,9 +2070,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230583</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>MUKHAMADULLIN, SHAKIR</NAME>
@@ -2468,7 +2468,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228638</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>HILDEBY, DENNIS</NAME>
@@ -8372,7 +8372,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=146146</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>OLOFSSON, VICTOR</NAME>
@@ -12489,6 +12489,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
