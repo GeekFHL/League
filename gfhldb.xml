@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 24, 2025</UPDATED>
-	<LASTTRANS>Vegas signs Connor Clattenburg (F), Cole Beaudoin (F) releases Jeff Petry (D), Nicklaus Perbix (D)</LASTTRANS>
+	<LASTTRANS>Los Angeles signs Max Plante (F) releases Luca Del Bel Belluz (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>NYSTROM, JOEL</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT></SLOT>
+		</Player>
+		<Player>
+			<NAME>PLANTE, MAX</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262578</WEB>
+			<TEAM>LA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>CLATTENBURG, CONNOR</NAME>
@@ -3222,9 +3231,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227236</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SANDSTROM, FELIX</NAME>
@@ -12498,6 +12507,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
