@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>November 20, 2025</UPDATED>
-	<LASTTRANS>Los Angeles signs Vaclav Nestrasil (F) and releases Rory Kerins (F)</LASTTRANS>
+	<UPDATED>November 24, 2025</UPDATED>
+	<LASTTRANS>Edmonton signs Jack Devine (F), Tristan Broz (F) releases Mike Reilly (D), Nicolas Roy (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>NYSTROM, JOEL</NAME>
@@ -12,6 +12,24 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>12</SLOT>
+		</Player>
+		<Player>
+			<NAME>BROZ, TRISTAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=224612</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>10</SLOT>
+		</Player>
+		<Player>
+			<NAME>DEVINE, JACK</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228210</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>NESTRASIL, VACLAV</NAME>
@@ -4295,7 +4313,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHEV, VLADIMIR</NAME>
@@ -5166,9 +5184,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169632</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BOKK, DOMINIK</NAME>
@@ -10710,9 +10728,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143097</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SAROS, JUUSE</NAME>
@@ -11234,7 +11252,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160323</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>HEDMAN, VICTOR</NAME>
@@ -12471,6 +12489,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
