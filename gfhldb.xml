@@ -2864,7 +2864,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209494</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>BORGEN, WILL</NAME>
@@ -9740,7 +9740,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152765</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEE, ANDERS</NAME>
@@ -12507,6 +12507,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
