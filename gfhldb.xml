@@ -839,7 +839,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238776</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
         <Player>
 			<NAME>LARDIS, NICK</NAME>
@@ -8471,7 +8471,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116184</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARNER, MITCH</NAME>
@@ -10181,7 +10181,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=113830</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>SEGUIN, TYLER</NAME>
@@ -10730,7 +10730,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170322</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>KULIKOV, DMITRI</NAME>
@@ -12525,6 +12525,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
