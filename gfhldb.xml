@@ -10,7 +10,7 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=111629</WEB>
 			<TEAM>DET</TEAM>
-			<POS>DET</POS>
+			<POS>DEF</POS>
 			<SLOT>12</SLOT>
 		</Player>
 		<Player>
@@ -12534,6 +12534,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
