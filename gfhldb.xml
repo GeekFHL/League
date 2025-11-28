@@ -5,6 +5,15 @@
 	<LASTTRANS>Detroit trades Rantanen, Miller, Artamanov to Calgary for Jarvis, Kemell, Boqvist, and 2026 1st Round NJD, 2027 1st Round Calgary, 2027 2nd Round Montreal</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME>HORCOFF, WILLIAM</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271171</WEB>
+			<TEAM>FLA</TEAM>
+			<POS>DEF</POS>
+			<SLOT>22</SLOT>
+		</Player>
+		<Player>
 			<NAME>PETROVIC, ALEXANDER</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -578,7 +587,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273612</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARBONNEAU, JUSTIN</NAME>
@@ -12534,6 +12543,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
