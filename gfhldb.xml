@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>November 24, 2025</UPDATED>
-	<LASTTRANS>Boston signs Adam Engstrom (D) releases Matej Blumel (F)</LASTTRANS>
+	<UPDATED>November 28, 2025</UPDATED>
+	<LASTTRANS></LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>TOLOPILO, NIKITA</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232637</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>GLT</POS>
+			<SLOT></SLOT>
+		</Player>
 		<Player>
 			<NAME>NYSTROM, JOEL</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -2097,9 +2106,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230583</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MUKHAMADULLIN, SHAKIR</NAME>
@@ -2349,9 +2358,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248686</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>HONZEK, SAMUEL</NAME>
@@ -5166,9 +5175,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171229</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>TARASOV, DANIIL</NAME>
@@ -5832,9 +5841,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187555</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDERSSON, RASMUS</NAME>
@@ -5895,9 +5904,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=165828</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM></TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHANSSON, JONAS</NAME>
@@ -11250,9 +11259,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=168007</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>HELLEBUYCK, CONNOR</NAME>
@@ -11304,9 +11313,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179680</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>VILARDI, GABRIEL</NAME>
@@ -12516,6 +12525,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
