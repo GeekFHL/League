@@ -5,6 +5,15 @@
 	<LASTTRANS>Detroit trades Rantanen, Miller, Artamanov to Calgary for Jarvis, Kemell, Boqvist, and 2026 1st Round NJD, 2027 1st Round Calgary, 2027 2nd Round Montreal</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME>TOLOPILO, NIKITA</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232637</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>GLT</POS>
+			<SLOT>19</SLOT>
+		</Player>
+		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -12543,6 +12552,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
