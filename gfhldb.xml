@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>November 27, 2025</UPDATED>
-	<LASTTRANS>Detroit trades Rantanen, Miller, Artamanov to Calgary for Jarvis, Kemell, Boqvist, and 2026 1st Round NJD, 2027 1st Round Calgary, 2027 2nd Round Montreal</LASTTRANS>
+	<UPDATED>December 1, 2025</UPDATED>
+	<LASTTRANS>New Jersey signs Luca Pinelli (F), releases Paul Cotter (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -2772,9 +2772,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195694</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MAKINIEMI, EETU</NAME>
@@ -4415,13 +4415,13 @@
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
-			<NAME>PINELLI, FRANCESCO</NAME>
+			<NAME>PINELLI, LUCA</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
-			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227260</WEB>
-			<TEAM>fa</TEAM>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249196</WEB>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>AHCAN, JACK</NAME>
@@ -12543,6 +12543,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
