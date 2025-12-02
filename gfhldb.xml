@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 1, 2025</UPDATED>
-	<LASTTRANS>New Jersey signs Luca Pinelli (F), releases Paul Cotter (F)</LASTTRANS>
+	<LASTTRANS>Calgary signs Stian Solberg (D), releases Nikita Artamonov (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -1071,9 +1071,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265433</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KOEPKE, COLE</NAME>
@@ -1332,9 +1332,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272901</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUTSON, COLE</NAME>
@@ -12543,6 +12543,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
