@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 1, 2025</UPDATED>
-	<LASTTRANS>Vegas claims Thomas Milic (G), releases Conor Timmins (D)</LASTTRANS>
+	<LASTTRANS>Detroit trades Ehlers (F), MTL2 2027, BUF2 2027 to Vancouver for Jack Drury (F), VAN1 2027</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -3807,9 +3807,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196236</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>MOSER, J.J.</NAME>
@@ -12543,6 +12543,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
