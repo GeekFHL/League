@@ -3899,7 +3899,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=212466</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>PROTAS, ALIAKSEI</NAME>
@@ -10179,9 +10179,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=164346</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>RANTANEN, MIKKO</NAME>
@@ -12543,6 +12543,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
