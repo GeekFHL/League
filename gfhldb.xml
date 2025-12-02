@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 1, 2025</UPDATED>
-	<LASTTRANS>Detroit trades Ehlers (F), MTL2 2027, BUF2 2027 to Vancouver for Jack Drury (F), VAN1 2027</LASTTRANS>
+	<LASTTRANS>Boston trades Oliver Kapanen (F), Christian Kyrou (D) to Vancouver for Jonathan Drouin (F), Utah 2026 2nd Round Pick</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME>LEE, RYKER</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=274303</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>FWD</POS>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>PETROVIC, ALEXANDER</NAME>
@@ -990,9 +999,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232424</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>IVAN, IVAN</NAME>
@@ -2520,9 +2529,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228638</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>HILDEBY, DENNIS</NAME>
@@ -9477,9 +9486,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=148882</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>MEIER, TIMO</NAME>
@@ -11754,9 +11763,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241782</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOIVUNEN, VILLE</NAME>
@@ -12543,6 +12552,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
