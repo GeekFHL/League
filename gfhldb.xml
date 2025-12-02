@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 1, 2025</UPDATED>
-	<LASTTRANS>Minnesota signs Ryan Greene (F) releases Garnet Hathaway (F)</LASTTRANS>
+	<LASTTRANS>Edmonton signs Alex Steeves (F), Tyson Jugnauth (D), releases Jack Devine (F), Tristan Broz (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -90,18 +90,18 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=224612</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>DEVINE, JACK</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228210</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>NESTRASIL, VACLAV</NAME>
@@ -792,9 +792,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230836</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>BACK, OSKAR</NAME>
@@ -3582,7 +3582,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=189542</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4385,7 +4385,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHEV, VLADIMIR</NAME>
@@ -12561,6 +12561,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
