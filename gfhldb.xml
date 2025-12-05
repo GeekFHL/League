@@ -20,7 +20,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228468</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEE, RYKER</NAME>
@@ -380,7 +380,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227810</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>JONSSON, SAMUEL</NAME>
@@ -12561,6 +12561,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
