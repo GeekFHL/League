@@ -63,9 +63,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244126</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PLANTE, MAX</NAME>
@@ -11484,9 +11484,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187449</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHEIFELE, MARK</NAME>
@@ -12561,6 +12561,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
