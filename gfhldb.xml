@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>December 1, 2025</UPDATED>
-	<LASTTRANS>Edmonton signs Alex Steeves (F), Tyson Jugnauth (D), releases Jack Devine (F), Tristan Broz (F)</LASTTRANS>
+	<UPDATED>December 4, 2025</UPDATED>
+	<LASTTRANS>Boston signs Reid Schaefer (F) and releases Nikita Nesterenko (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -171,9 +171,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=224706</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
@@ -2322,7 +2322,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240683</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>5</SLOT>
 		</Player>
@@ -2643,7 +2643,7 @@
 		</Player>
 		<Player>
 			<NAME>CUYLLE, WILL</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216311</WEB>
 			<TEAM>BOS</TEAM>
@@ -2664,9 +2664,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226598</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>ALEXANDROV, NIKITA</NAME>
@@ -5643,7 +5643,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=199624</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>5</SLOT>
 		</Player>
@@ -7746,7 +7746,7 @@
 		</Player>
 		<Player>
 			<NAME>FOWLER, CAM</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120956</WEB>
 			<TEAM>BOS</TEAM>
@@ -9780,10 +9780,10 @@
 		</Player>
 		<Player>
 			<NAME>KELLER, CLAYTON</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>C</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177805</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -9816,10 +9816,10 @@
 		</Player>
 		<Player>
 			<NAME>AHO, SEBASTIAN</NAME>
-			<CAPTAIN>C</CAPTAIN>
+			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=174983</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -12561,6 +12561,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
