@@ -38,7 +38,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218697</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>HALLIDAY, STEPHEN</NAME>
@@ -776,7 +776,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=269199</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAR, CARTER</NAME>
@@ -12597,6 +12597,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
