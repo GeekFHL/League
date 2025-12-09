@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 8, 2025</UPDATED>
-	<LASTTRANS>Los Angeles signs Ryan Ufko (D) and releases Spencer Stastney (D)</LASTTRANS>
+	<LASTTRANS>Vancouver signs Stephen Halliday (F), Nikolas Mantipalo (D), releases Arthur Kaliyev (F), Henry Mews (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -12,6 +12,24 @@
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME>MATINPALO, NIKOLAS</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218697</WEB>
+			<TEAM>VAN</TEAM>
+			<POS>DEF</POS>
+			<SLOT>13</SLOT>
+		</Player>
+		<Player>
+			<NAME>HALLIDAY, STEPHEN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211040</WEB>
+			<TEAM>VAN</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>GREENE, RYAN</NAME>
@@ -5744,7 +5762,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216636</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>RAYMOND, LUCAS</NAME>
@@ -12561,6 +12579,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
