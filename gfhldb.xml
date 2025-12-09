@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 8, 2025</UPDATED>
-	<LASTTRANS>Boston signs Dominic James (F), releasing Reid Schaefer (F)</LASTTRANS>
+	<LASTTRANS>Toronto-Ottawa trade</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -342,9 +342,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=95960</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>ABOLS, RODRIGO</NAME>
@@ -6300,9 +6300,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176691</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>KAMENEV, VLADISLAV</NAME>
@@ -12597,6 +12597,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
