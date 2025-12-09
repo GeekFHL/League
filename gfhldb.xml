@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 8, 2025</UPDATED>
-	<LASTTRANS>Florida signs Jonas Siegenthaler (D) releases Sam Colangelo (F)</LASTTRANS>
+	<LASTTRANS>Vegas signs Ian Moore (D), Yan Kuznetsov (D) releases Nick Leddy (D), Yanni Gourde (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -12,6 +12,24 @@
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME>KUZNETSOV, YAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217058</WEB>
+			<TEAM>VGK</TEAM>
+			<POS>DEF</POS>
+			<SLOT>16</SLOT>
+		</Player>
+		<Player>
+			<NAME>MOORE, IAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229101</WEB>
+			<TEAM>VGK</TEAM>
+			<POS>DEF</POS>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>MATINPALO, NIKOLAS</NAME>
@@ -1460,7 +1478,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241004</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>CONNELLY, TREVOR</NAME>
@@ -2315,7 +2333,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248005</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>HRABAL, MICHAEL</NAME>
@@ -5501,7 +5519,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169515</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>KALYNUCK, WYATT</NAME>
@@ -9452,7 +9470,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172631</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>ULLMARK, LINUS</NAME>
@@ -10872,9 +10890,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117574</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>DANAULT, PHILLIP</NAME>
@@ -11277,9 +11295,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=119093</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHMIDT, NATE</NAME>
@@ -12579,6 +12597,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
