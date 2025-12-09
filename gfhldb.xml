@@ -5591,7 +5591,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216556</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRISSON, BRENDAN</NAME>
@@ -10478,7 +10478,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80489</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHANSEN, RYAN</NAME>
@@ -12597,6 +12597,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
