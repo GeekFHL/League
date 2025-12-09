@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 8, 2025</UPDATED>
-	<LASTTRANS>Vancouver signs Stephen Halliday (F), Nikolas Mantipalo (D), releases Arthur Kaliyev (F), Henry Mews (D)</LASTTRANS>
+	<LASTTRANS>Minnesota signs Alexandre Texier (F) releases Gustav Nyquist (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -7173,9 +7173,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANCOUZ, PAVEL</NAME>
@@ -10233,9 +10233,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=113830</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SEGUIN, TYLER</NAME>
@@ -12579,6 +12579,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
