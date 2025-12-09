@@ -198,9 +198,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218690</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>NESTERENKO, NIKITA</NAME>
@@ -9533,7 +9533,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=148882</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>MEIER, TIMO</NAME>
@@ -12597,6 +12597,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
