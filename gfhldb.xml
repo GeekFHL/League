@@ -1235,7 +1235,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238586</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>GRAF, COLLIN</NAME>
@@ -5816,7 +5816,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210202</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>GRIGORENKO, MIKHAIL</NAME>
@@ -12579,6 +12579,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
