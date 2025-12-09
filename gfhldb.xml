@@ -1406,7 +1406,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235312</WEB>
 			<TEAM>DET</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>FEDOTOV, IVAN</NAME>
@@ -2423,7 +2423,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241126</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>SANDIN-PELLIKA, AXEL</NAME>
@@ -12561,6 +12561,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
