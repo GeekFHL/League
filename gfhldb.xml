@@ -1496,7 +1496,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=268690</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOISVERT, SACHA</NAME>
@@ -2655,7 +2655,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196462</WEB>
-			<TEAM></TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT></SLOT>
 		</Player>
@@ -3150,7 +3150,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210112</WEB>
-			<TEAM></TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
 			<SLOT></SLOT>
 		</Player>
@@ -3699,7 +3699,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211454</WEB>
-			<TEAM></TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT></SLOT>
 		</Player>
@@ -5940,7 +5940,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208686</WEB>
-			<TEAM></TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT></SLOT>
 		</Player>
@@ -6185,7 +6185,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152151</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOSTAL, LUKAS</NAME>
@@ -7668,7 +7668,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180628</WEB>
-			<TEAM></TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
 			<SLOT></SLOT>
 		</Player>
@@ -8082,7 +8082,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124409</WEB>
-			<TEAM></TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT></SLOT>
 		</Player>
@@ -8901,7 +8901,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=158164</WEB>
-			<TEAM></TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT></SLOT>
 		</Player>
@@ -10494,7 +10494,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122662</WEB>
-			<TEAM></TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT></SLOT>
 		</Player>
@@ -12597,6 +12597,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
