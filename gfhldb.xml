@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 8, 2025</UPDATED>
-	<LASTTRANS>Toronto-Ottawa trade</LASTTRANS>
+	<LASTTRANS>Columbus-Tampa Bay trade</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -1557,9 +1557,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251854</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>EISERMAN, COLE</NAME>
@@ -11394,9 +11394,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187453</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>VELENO, JOE</NAME>
@@ -12597,6 +12597,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
