@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 8, 2025</UPDATED>
-	<LASTTRANS>Minnesota signs Alexandre Texier (F) releases Gustav Nyquist (F)</LASTTRANS>
+	<LASTTRANS>Florida signs Jonas Siegenthaler (D) releases Sam Colangelo (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -6480,9 +6480,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175024</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>DE LA ROSE, JACOB</NAME>
@@ -11835,9 +11835,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217617</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BERARD, BRETT</NAME>
@@ -12579,6 +12579,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
