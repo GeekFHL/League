@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 8, 2025</UPDATED>
-	<LASTTRANS>Vegas signs Ian Moore (D), Yan Kuznetsov (D) releases Nick Leddy (D), Yanni Gourde (F)</LASTTRANS>
+	<LASTTRANS>Ottawa claims David Perron (F) off waivers, releasing Sean Kuraly (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -342,9 +342,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=95960</WEB>
-			<TEAM></TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>ABOLS, RODRIGO</NAME>
@@ -3593,7 +3593,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145517</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARRICK, SAM</NAME>
@@ -10386,9 +10386,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124249</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MURPHY, CONNOR</NAME>
@@ -12597,6 +12597,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
