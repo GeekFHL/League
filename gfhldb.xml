@@ -884,7 +884,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248626</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>YEGOROV, MIKHAIL</NAME>
@@ -3287,7 +3287,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227236</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>SANDSTROM, FELIX</NAME>
@@ -12561,6 +12561,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
