@@ -5600,7 +5600,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216556</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRISSON, BRENDAN</NAME>
@@ -11549,7 +11549,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151992</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOMI, MAX</NAME>
@@ -12606,6 +12606,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
