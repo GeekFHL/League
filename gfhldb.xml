@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 11, 2025</UPDATED>
-	<LASTTRANS>Edmonton signs Bryce Pickford (D), releases Ian Cole (D)</LASTTRANS>
+	<LASTTRANS>Ottawa trades Andre Burakovsky (F) to Tampa Bay for Cole Reschny (F), Vegas 2026 2nd round pick</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -299,7 +299,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208440</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>WOTHERSPOON, PARKER</NAME>
@@ -594,9 +594,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=263186</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>SURIN, YEGOR</NAME>
@@ -11016,9 +11016,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152839</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>NURSE, DARNELL</NAME>
@@ -12615,6 +12615,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
