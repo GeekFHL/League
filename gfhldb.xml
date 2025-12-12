@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 11, 2025</UPDATED>
-	<LASTTRANS>Boston signs Henry Thrun (D), releases Conor Timmins (D)</LASTTRANS>
+	<LASTTRANS>Columbus claims Kyle Palmieri (F) off waivers, releases Evgeny Dadonov (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -1739,7 +1739,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238086</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>MCMANN, BOBBY</NAME>
@@ -8298,9 +8298,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96427</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ZUCKER, JASON</NAME>
@@ -8370,9 +8370,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120908</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>KAPRIZOV, KIRILL</NAME>
@@ -12633,6 +12633,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
