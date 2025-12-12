@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>December 8, 2025</UPDATED>
-	<LASTTRANS>Columbus trades Gabriel Vilardi (F) to Tampa Bay for Berkly Catton (F)</LASTTRANS>
+	<UPDATED>December 11, 2025</UPDATED>
+	<LASTTRANS>Tampa Bay signs Avery Hayes (F), releases Ty Dellandrea (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME>HAYES, AVERY</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216617</WEB>
+			<TEAM>TB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>KUZNETSOV, YAN</NAME>
@@ -8982,9 +8991,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191305</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HISCHIER, NICO</NAME>
@@ -12597,6 +12606,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
