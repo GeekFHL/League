@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 11, 2025</UPDATED>
-	<LASTTRANS>Tampa Bay signs Avery Hayes (F), releases Ty Dellandrea (F)</LASTTRANS>
+	<LASTTRANS>Edmonton signs Bryce Pickford (D), releases Ian Cole (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME>PICKFORD, BRYCE</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271171</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>DEF</POS>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>HAYES, AVERY</NAME>
@@ -839,7 +848,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230836</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>BACK, OSKAR</NAME>
@@ -8163,9 +8172,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105381</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>LEHNER, ROBIN</NAME>
@@ -12606,6 +12615,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
