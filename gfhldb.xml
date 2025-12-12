@@ -7841,7 +7841,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=111711</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>TOEWS, DEVON</NAME>
@@ -8354,7 +8354,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123445</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOBROVSKY, SERGEI</NAME>
@@ -12633,6 +12633,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
