@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 11, 2025</UPDATED>
-	<LASTTRANS>Anaheim signs Adam Benak (F), releases Scott Mayfield (D)</LASTTRANS>
+	<LASTTRANS>Boston signs Henry Thrun (D), releases Conor Timmins (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -2439,9 +2439,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209469</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>SALE, EDUARD</NAME>
@@ -11556,9 +11556,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187449</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHEIFELE, MARK</NAME>
@@ -12633,6 +12633,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
