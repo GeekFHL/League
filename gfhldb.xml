@@ -14,6 +14,15 @@
 			<SLOT>22</SLOT>
 		</Player>
 		<Player>
+			<NAME>GAMZIN, DMITRY</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240637</WEB>
+			<TEAM>NYR</TEAM>
+			<POS>GLT</POS>
+			<SLOT>23</SLOT>
+		</Player>
+		<Player>
 			<NAME>PICKFORD, BRYCE</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -560,7 +569,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=286277</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>KLAPKA, ADAM</NAME>
@@ -5058,9 +5067,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177792</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>O'CONNOR, DREW</NAME>
@@ -12615,6 +12624,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
