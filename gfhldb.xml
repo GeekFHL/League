@@ -7229,7 +7229,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANCOUZ, PAVEL</NAME>
@@ -7859,7 +7859,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=63735</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSEPH, MATHIEU</NAME>
@@ -12633,6 +12633,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
