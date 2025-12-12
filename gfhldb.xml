@@ -8237,7 +8237,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117131</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOPITAR, ANZE</NAME>
@@ -10064,7 +10064,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122661</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>SPURGEON, JARED</NAME>
@@ -12633,6 +12633,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
