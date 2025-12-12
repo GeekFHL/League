@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 11, 2025</UPDATED>
-	<LASTTRANS>NY Rangers signs Dmitry Gamzin (G), releases Trent Frederic (F)</LASTTRANS>
+	<LASTTRANS>Anaheim signs Adam Benak (F), releases Scott Mayfield (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -10,6 +10,15 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271171</WEB>
 			<TEAM>FLA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME>BENAK, ADAM</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=269127</WEB>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
 		</Player>
@@ -2306,7 +2315,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175803</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOVALENKO, NIKOLAI</NAME>
@@ -3314,7 +3323,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229345</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>DUFOUR, WILLIAM</NAME>
@@ -10197,9 +10206,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123358</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>COPLEY, PHEONIX</NAME>
@@ -12624,6 +12633,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
