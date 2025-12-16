@@ -5456,7 +5456,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170175</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>JARVENTIE, ROBY</NAME>
@@ -9569,7 +9569,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139983</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>MITTELSTADT, CASEY</NAME>
@@ -12660,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
