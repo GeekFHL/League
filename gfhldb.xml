@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 15, 2025</UPDATED>
-	<LASTTRANS>Philadelphia claims Alexandre Carrier (D), releases Christopher Tanev (D)</LASTTRANS>
+	<LASTTRANS>Ottawa claims Ty Dellandrea (F), Ian Cole (D) off waivers, releases Michael McCarron (F), Yakov Trenin (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -911,7 +911,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248102</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>UNGER SORUM, FELIX</NAME>
@@ -3654,9 +3654,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145517</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CARRICK, SAM</NAME>
@@ -3674,7 +3674,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229104</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>STEEVES, ALEX</NAME>
@@ -6363,9 +6363,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176691</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KAMENEV, VLADISLAV</NAME>
@@ -8217,9 +8217,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105381</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEHNER, ROBIN</NAME>
@@ -9045,9 +9045,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191305</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>HISCHIER, NICO</NAME>
@@ -12660,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
