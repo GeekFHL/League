@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 15, 2025</UPDATED>
-	<LASTTRANS>Boston signs John Leonard (F), releases Will Zellers (F)</LASTTRANS>
+	<LASTTRANS>Columbus signs Quinn Hutson (F), releases Kyle Palmieri (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME>HUTSON, QUINN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238540</WEB>
+			<TEAM>CLB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>VANACKER, MAREK</NAME>
@@ -8388,9 +8397,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120908</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KAPRIZOV, KIRILL</NAME>
@@ -12651,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
