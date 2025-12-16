@@ -1649,7 +1649,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251359</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>PAREKH, ZAYNE</NAME>
@@ -3485,7 +3485,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238284</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>CATES, NOAH</NAME>
@@ -12651,6 +12651,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
