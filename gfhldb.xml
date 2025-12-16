@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 15, 2025</UPDATED>
-	<LASTTRANS>Columbus signs Quinn Hutson (F), releases Kyle Palmieri (F)</LASTTRANS>
+	<LASTTRANS>Boston trades Fabian Lysell (F) and Utah 2026 2nd round pick to Philadelphia for Rickard Rakell (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -7256,7 +7256,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANCOUZ, PAVEL</NAME>
@@ -7508,7 +7508,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175315</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>ABERG, PONTUS</NAME>
@@ -12660,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
