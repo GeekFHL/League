@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 15, 2025</UPDATED>
-	<LASTTRANS>Philadelphia signs Michael Carcone (F), releases Frank Vatrano (F)</LASTTRANS>
+	<LASTTRANS>Philadelphia claims Alexandre Carrier (D), releases Christopher Tanev (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -4374,9 +4374,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160343</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>SOKOLOV, EGOR</NAME>
@@ -11502,9 +11502,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105112</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>JUULSEN, NOAH</NAME>
@@ -12660,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
