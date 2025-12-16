@@ -1730,7 +1730,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233625</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOAN, JOSH</NAME>
@@ -4617,9 +4617,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238748</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>CORONATO, MATTHEW</NAME>
@@ -7184,7 +7184,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175316</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEECHER, JOHN</NAME>
@@ -10638,9 +10638,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130557</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>TERAVAINEN, TEUVO</NAME>
@@ -12660,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
