@@ -965,7 +965,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238776</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
         <Player>
 			<NAME>LARDIS, NICK</NAME>
@@ -7760,7 +7760,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177582</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZADINA, FILIP</NAME>
@@ -10856,7 +10856,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170322</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>KULIKOV, DMITRI</NAME>
@@ -11846,7 +11846,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187102</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>SVOZIL, STANISLAV</NAME>
@@ -12651,6 +12651,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
