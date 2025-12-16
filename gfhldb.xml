@@ -974,7 +974,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248626</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>YEGOROV, MIKHAIL</NAME>
@@ -2837,7 +2837,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=245580</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>FASCHING, HUDSON</NAME>
@@ -12651,6 +12651,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
