@@ -14,6 +14,15 @@
 			<SLOT>22</SLOT>
 		</Player>
 		<Player>
+			<NAME>VANACKER, MAREK</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=252764</WEB>
+			<TEAM>CGY</TEAM>
+			<POS>FWD</POS>
+			<SLOT>24</SLOT>
+		</Player>
+		<Player>
 			<NAME>ZELLERS, WILLIAM</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -1431,9 +1440,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272901</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HUTSON, COLE</NAME>
@@ -12642,6 +12651,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
