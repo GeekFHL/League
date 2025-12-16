@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 15, 2025</UPDATED>
-	<LASTTRANS>Vegas signs Spencer Stastney (D), releases Tyler Myers (D)</LASTTRANS>
+	<LASTTRANS>Los Angeles signs Reid Schaefer (F), releases Connor Ingram (G)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -164,7 +164,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262578</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>CLATTENBURG, CONNOR</NAME>
@@ -2754,9 +2754,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226598</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>ALEXANDROV, NIKITA</NAME>
@@ -12651,6 +12651,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
