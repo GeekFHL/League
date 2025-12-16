@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 15, 2025</UPDATED>
-	<LASTTRANS>Boston trades Fabian Lysell (F) and Utah 2026 2nd round pick to Philadelphia for Rickard Rakell (F)</LASTTRANS>
+	<LASTTRANS>Philadelphia signs Michael Carcone (F), releases Frank Vatrano (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -2862,9 +2862,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169554</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>PEDERSON, LANE</NAME>
@@ -9621,9 +9621,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=131009</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHNSON, TYLER</NAME>
@@ -12660,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
