@@ -1730,7 +1730,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233625</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOAN, JOSH</NAME>
@@ -2423,7 +2423,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240683</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>YAGER, BRAYDEN</NAME>
@@ -3503,7 +3503,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192490</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>PICKERING, OWEN</NAME>
@@ -5780,7 +5780,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233632</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>JARVIS, SETH</NAME>
@@ -12660,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
