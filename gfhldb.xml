@@ -8559,9 +8559,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172859</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KINKAID, KEITH</NAME>
@@ -12660,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
