@@ -7436,7 +7436,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145526</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>MOORE, TREVOR</NAME>
@@ -11225,7 +11225,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187550</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEWIS, TREVOR</NAME>
@@ -12660,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
