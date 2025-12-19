@@ -6050,7 +6050,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170670</WEB>
 			<TEAM>STL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZAMULA, EGOR</NAME>
@@ -7346,7 +7346,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175015</WEB>
 			<TEAM>STL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>PODKOLZIN, VASILI</NAME>
@@ -12660,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
