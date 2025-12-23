@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 22, 2025</UPDATED>
-	<LASTTRANS>Tampa Bay signs Cody Glass (F) and releases Avery Hayes (F)</LASTTRANS>
+	<LASTTRANS>Vegas signs Denver Barkey (F) and releases Cole Beaudoin (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME>BARKEY, DENVER</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248685</WEB>
+			<TEAM>VGK</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUTSON, QUINN</NAME>
@@ -1404,9 +1413,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251173</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>UFKO, RYAN</NAME>
@@ -3440,7 +3449,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230223</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>NELSON, TY</NAME>
@@ -12660,6 +12669,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
