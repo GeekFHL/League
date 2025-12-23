@@ -5397,7 +5397,7 @@
 		</Player>
 		<Player>
 			<NAME>GEEKIE, MORGAN</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172640</WEB>
 			<TEAM>LA</TEAM>
@@ -10221,7 +10221,7 @@
 		</Player>
 		<Player>
 			<NAME>KLINGBERG, JOHN</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127778</WEB>
 			<TEAM>LA</TEAM>
@@ -10572,7 +10572,7 @@
 		</Player>
 		<Player>
 			<NAME>KUCHEROV, NIKITA</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>C</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123889</WEB>
 			<TEAM>LA</TEAM>
@@ -12538,7 +12538,7 @@
 			<Champ>15, 22, 24</Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
-			<HeadCoach></HeadCoach>
+			<HeadCoach>BARRY MELROSE</HeadCoach>
 		</GM>
 		<GM>
 			<Team>MIN</Team>
@@ -12669,6 +12669,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
