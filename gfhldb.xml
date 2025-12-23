@@ -3755,7 +3755,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=201663</WEB>
 			<TEAM>LA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>PERBIX, NICKLAUS</NAME>
@@ -8570,7 +8570,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172859</WEB>
 			<TEAM>LA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>KINKAID, KEITH</NAME>
@@ -12669,6 +12669,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
