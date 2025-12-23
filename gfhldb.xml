@@ -3521,7 +3521,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=254379</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>MINTYUKOV, PAVEL</NAME>
@@ -4475,7 +4475,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235047</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>L'HEUREUX, ZACHARY</NAME>
@@ -12660,6 +12660,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
