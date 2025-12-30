@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>December 29, 2025</UPDATED>
-	<LASTTRANS>Chicago signs Alexander Holtz (F) <p /> releases Corey Perry (F)</LASTTRANS>
+	<LASTTRANS>Philadelphia signs Tyler Myers (D) <p /> releases Timothy Liljegren (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -8667,9 +8667,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=94206</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRODIN, JONAS</NAME>
@@ -10944,9 +10944,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191378</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FOLIGNO, NICK</NAME>
@@ -12669,6 +12669,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
