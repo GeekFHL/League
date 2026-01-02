@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 1, 2026</UPDATED>
-	<LASTTRANS>											</LASTTRANS>
+	<LASTTRANS>claims Corey Perry (F) from Chicago (1 claim)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -4889,7 +4889,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169622</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>GOLYSHEV, ANATOLY</NAME>
@@ -8955,9 +8955,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162338</WEB>
-			<TEAM>BUF</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>NIETO, MATTHEW</NAME>
@@ -9405,9 +9405,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172754</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>BUF</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>WAGNER, CHRIS</NAME>
@@ -9531,9 +9531,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=59656</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>BINNINGTON, JORDAN</NAME>
@@ -10136,7 +10136,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132851</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>FISCHER, CHRISTIAN</NAME>
@@ -11261,7 +11261,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139929</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDGREN, CHARLIE</NAME>
@@ -11711,7 +11711,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=100197</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>RITTICH, DAVID</NAME>
@@ -12678,6 +12678,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
