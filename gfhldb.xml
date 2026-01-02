@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>December 29, 2025</UPDATED>
-	<LASTTRANS>Montreal signs Vitek Vanecek (G) <p /> releases Pius Suter (F)</LASTTRANS>
+	<UPDATED>January 1, 2026</UPDATED>
+	<LASTTRANS>											</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -4466,7 +4466,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=174618</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>HARDMAN, MIKE</NAME>
@@ -7535,7 +7535,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130232</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>SANDIN, RASMUS</NAME>
@@ -7778,7 +7778,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177582</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZADINA, FILIP</NAME>
@@ -12669,6 +12669,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
