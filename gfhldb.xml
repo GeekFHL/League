@@ -4268,7 +4268,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176778</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>RANTA, SAMPO</NAME>
@@ -5321,7 +5321,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171229</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>TARASOV, DANIIL</NAME>
@@ -12669,6 +12669,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
