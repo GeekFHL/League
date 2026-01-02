@@ -54,9 +54,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=266403</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>BENAK, ADAM</NAME>
@@ -2864,7 +2864,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=245580</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>FASCHING, HUDSON</NAME>
@@ -3402,9 +3402,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227236</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SANDSTROM, FELIX</NAME>
@@ -12678,6 +12678,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
