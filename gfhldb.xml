@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 5, 2026</UPDATED>
-	<LASTTRANS>Detroit signs Alfons Freij (D), releases Alexander Petrovic (D) </LASTTRANS>
+	<LASTTRANS>Boston signs Timothy Liljegren (D), releases Nick Perbix (D) </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -3785,13 +3785,13 @@
 			<SLOT>24</SLOT>
 		</Player>
 		<Player>
-			<NAME>PERBIX, NICKLAUS</NAME>
+			<NAME>PERBIX, NICK</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=205480</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HOLMBERG, PONTUS</NAME>
@@ -10971,9 +10971,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191378</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>FOLIGNO, NICK</NAME>
@@ -12696,6 +12696,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
