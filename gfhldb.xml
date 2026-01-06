@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 5, 2026</UPDATED>
-	<LASTTRANS>Florida-Vancouver trade </LASTTRANS>
+	<LASTTRANS>Detroit signs Alfons Freij (D), releases Alexander Petrovic (D) </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -21,6 +21,15 @@
 			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
 			<SLOT>9</SLOT>
+		</Player>
+		<Player>
+			<NAME>FREIJ, ALFONS</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251652</WEB>
+			<TEAM>DET</TEAM>
+			<POS>DEF</POS>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -162,9 +171,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=111629</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>TOLOPILO, NIKITA</NAME>
@@ -12687,6 +12696,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
