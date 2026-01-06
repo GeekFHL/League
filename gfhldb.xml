@@ -9704,7 +9704,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122998</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>VASILEVSKIY, ANDREI</NAME>
@@ -10343,7 +10343,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116079</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>MORRISSEY, JOSH</NAME>
@@ -12678,6 +12678,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
