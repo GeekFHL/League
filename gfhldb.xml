@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 5, 2026</UPDATED>
-	<LASTTRANS>NY Rangers signs Mikhail Gulyayev (D), releases Dmitri Kulikov (D)</LASTTRANS>
+	<LASTTRANS>Ottawa signs Vojtech Cihar (F), releases Adam Henrique (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME>CIHAR, VOJTECH</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273562</WEB>
+			<TEAM>OTT</TEAM>
+			<POS>FWD</POS>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>HORCOFF, WILLIAM</NAME>
@@ -11772,9 +11781,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96544</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MARTINEZ, ALEC</NAME>
@@ -12678,6 +12687,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
