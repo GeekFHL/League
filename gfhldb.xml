@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 5, 2026</UPDATED>
-	<LASTTRANS>Ottawa signs Vojtech Cihar (F), releases Adam Henrique (F)</LASTTRANS>
+	<LASTTRANS>Florida-Vancouver trade </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -126,9 +126,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218697</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HALLIDAY, STEPHEN</NAME>
@@ -6590,7 +6590,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175024</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>DE LA ROSE, JACOB</NAME>
@@ -7317,9 +7317,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218397</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>KREBS, PEYTON</NAME>
@@ -10980,9 +10980,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117574</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>DANAULT, PHILLIP</NAME>
@@ -12687,6 +12687,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
