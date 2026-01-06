@@ -7292,7 +7292,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANCOUZ, PAVEL</NAME>
@@ -10793,7 +10793,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=138920</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>BROSSOIT, LAURENT</NAME>
@@ -12696,6 +12696,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
