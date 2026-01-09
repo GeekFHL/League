@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>January 5, 2026</UPDATED>
-	<LASTTRANS>Boston signs Timothy Liljegren (D), releases Nick Perbix (D) </LASTTRANS>
+	<UPDATED>January 8, 2026</UPDATED>
+	<LASTTRANS></LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -1440,9 +1440,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251173</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>UFKO, RYAN</NAME>
@@ -2234,7 +2234,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248738</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>PUUSTINEN, VALTTERI</NAME>
@@ -2450,7 +2450,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248115</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>DANIELSON, NATE</NAME>
@@ -3249,9 +3249,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210112</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>GLT</POS>
-			<SLOT></SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>MCBAIN, JACK</NAME>
@@ -12696,6 +12696,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
