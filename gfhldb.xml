@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 8, 2026</UPDATED>
-	<LASTTRANS></LASTTRANS>
+	<LASTTRANS>Florida trades Joel Farabee (F), Alex Turcotte (F), and futures to<p/> Vegas for Denver Barkey (F), Otto Stenberg (F), Dallas 2027 2nd Round Pick</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -45,9 +45,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248685</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUTSON, QUINN</NAME>
@@ -2430,9 +2430,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248005</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>HRABAL, MICHAEL</NAME>
@@ -7434,7 +7434,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209490</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
 			<SLOT>8</SLOT>
 		</Player>
@@ -10422,7 +10422,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196111</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
 			<SLOT>10</SLOT>
 		</Player>
@@ -12696,6 +12696,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
