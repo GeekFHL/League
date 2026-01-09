@@ -333,9 +333,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196146</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>D'ASTOUS, CHARLE-EDOUARD</NAME>
@@ -6093,9 +6093,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208587</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>RAFFERTY, BROGAN</NAME>
@@ -12696,6 +12696,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
