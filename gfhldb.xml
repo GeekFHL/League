@@ -4493,7 +4493,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=174618</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>HARDMAN, MIKE</NAME>
@@ -7481,7 +7481,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145526</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>FABBRI, ROBBY</NAME>
@@ -7562,7 +7562,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130232</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>SANDIN, RASMUS</NAME>
@@ -12696,6 +12696,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
