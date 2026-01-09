@@ -3132,9 +3132,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219667</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>BARRON, MORGAN</NAME>
@@ -5346,9 +5346,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171229</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>TARASOV, DANIIL</NAME>
@@ -12696,6 +12696,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
