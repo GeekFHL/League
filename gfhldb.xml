@@ -5627,7 +5627,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169515</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>KALYNUCK, WYATT</NAME>
@@ -9578,7 +9578,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172631</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>ULLMARK, LINUS</NAME>
@@ -12705,6 +12705,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
