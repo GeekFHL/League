@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 12, 2026</UPDATED>
-	<LASTTRANS> Utah signs James Van Riemsdyk (F), Ben Hutton (D), releases Nick Bjugstad (F), Cody Ceci (D) </LASTTRANS>
+	<LASTTRANS> New Jersey signs Kasperi Kapanen (F) and releases Luca Pinelli (F) </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -4581,9 +4581,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249196</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>AHCAN, JACK</NAME>
@@ -8982,9 +8982,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162338</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>NIETO, MATTHEW</NAME>
@@ -12705,6 +12705,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
