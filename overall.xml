@@ -169,8 +169,8 @@
 		<Conf>West</Conf>
                 <Div>Central</Div> 
 		<W>7</W>		
-		<L>34</L>		
-		<T>1</T>		
+		<L>33</L>		
+		<T>2</T>		
 		<OP>3074.5</OP>	
 	</Team>
         <Team>
@@ -291,6 +291,7 @@
 		<OP>4010.5</OP>
 	</Team>	
 </standing>
+
 
 
 
