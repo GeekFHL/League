@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 12, 2026</UPDATED>
-	<LASTTRANS> New Jersey signs Kasperi Kapanen (F) and releases Luca Pinelli (F) </LASTTRANS>
+	<LASTTRANS> NY Rangers signs Ilya Solovyov (D) and releases Scott Perunovich (D) </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME>SOLOVYOV, ILYA</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227265</WEB>
+			<TEAM>NYR</TEAM>
+			<POS>DEF</POS>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>CIHAR, VOJTECH</NAME>
@@ -6228,9 +6237,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=193752</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PHILLIPS, MATTHEW</NAME>
@@ -12705,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
