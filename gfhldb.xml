@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 12, 2026</UPDATED>
-	<LASTTRANS> NY Rangers signs Ilya Solovyov (D) and releases Scott Perunovich (D) </LASTTRANS>
+	<LASTTRANS> Tampa Bay signs Nick Perbix (D) and releases Marshall Warren (D) </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -342,9 +342,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209483</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 	    <Player>
 			<NAME>STASTNEY, SPENCER</NAME>
@@ -3807,9 +3807,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=205480</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>HOLMBERG, PONTUS</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
