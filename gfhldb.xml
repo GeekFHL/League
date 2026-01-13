@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 12, 2026</UPDATED>
-	<LASTTRANS> Anaheim signs Logan Hensler (D), releases William Zellers (F) </LASTTRANS>
+	<LASTTRANS> Utah signs James Van Riemsdyk (F), Ben Hutton (D), releases Nick Bjugstad (F), Cody Ceci (D) </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -1139,13 +1139,13 @@
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
-			<NAME>HUTTON, GRANT</NAME>
+			<NAME>HUTTON, BEN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
-			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=159462</WEB>
-			<TEAM>fa</TEAM>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=141927</WEB>
+			<TEAM>UTA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>GEORGE, ISAIAH</NAME>
@@ -9783,9 +9783,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127782</WEB>
-			<TEAM>UTA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>RITCHIE, NICK</NAME>
@@ -11241,9 +11241,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=121792</WEB>
-			<TEAM>UTA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GRZELCYK, MATT</NAME>
@@ -11673,9 +11673,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105417</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>TOFFOLI, TYLER</NAME>
@@ -12705,6 +12705,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
