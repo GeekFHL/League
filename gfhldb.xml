@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 12, 2026</UPDATED>
-	<LASTTRANS>Florida trades Joel Farabee (F), Alex Turcotte (F), and futures to<p/> Vegas for Denver Barkey (F), Otto Stenberg (F), Dallas 2027 2nd Round Pick</LASTTRANS>
+	<LASTTRANS> Anaheim signs Logan Hensler (D), releases William Zellers (F) </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -59,6 +59,15 @@
 			<SLOT>18</SLOT>
 		</Player>
 		<Player>
+			<NAME>HENSLER, LOGAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262569</WEB>
+			<TEAM>ANA</TEAM>
+			<POS>DEF</POS>
+			<SLOT>21</SLOT>
+		</Player>
+		<Player>
 			<NAME>VANACKER, MAREK</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -72,9 +81,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=266403</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BENAK, ADAM</NAME>
@@ -12696,6 +12705,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
