@@ -6266,7 +6266,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130705</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>ACCIARI, NOEL</NAME>
@@ -8210,7 +8210,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118953</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>KILLORN, ALEXANDER</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
