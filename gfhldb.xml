@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>January 8, 2026</UPDATED>
+	<UPDATED>January 12, 2026</UPDATED>
 	<LASTTRANS>Florida trades Joel Farabee (F), Alex Turcotte (F), and futures to<p/> Vegas for Denver Barkey (F), Otto Stenberg (F), Dallas 2027 2nd Round Pick</LASTTRANS>
 	<DB>
 		<Player>
@@ -7292,7 +7292,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANCOUZ, PAVEL</NAME>
@@ -7544,7 +7544,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175315</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>ABERG, PONTUS</NAME>
@@ -12696,6 +12696,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
