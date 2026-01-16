@@ -2142,9 +2142,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=247713</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>KORCZAK, KAEDAN</NAME>
@@ -2754,9 +2754,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161159</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSHUA, DAKOTA</NAME>
@@ -3240,9 +3240,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248569</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDRAE, EMIL</NAME>
@@ -5796,9 +5796,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=199624</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>MITCHELL, IAN</NAME>
@@ -8721,9 +8721,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127571</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>QUICK, JONATHAN</NAME>
@@ -11106,9 +11106,9 @@
 			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117198</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>BURAKOVSKY, ANDRE</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
