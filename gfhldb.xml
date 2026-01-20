@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>January 16, 2026</UPDATED>
-	<LASTTRANS>Los Angeles signs Cole Beaudoin (F) and releases Michael Eyssymont (F)</LASTTRANS>
+	<UPDATED>January 19, 2026</UPDATED>
+	<LASTTRANS>Edmonton-Detroit trade</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -288,9 +288,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262829</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BOWMAN, BRAEDEN</NAME>
@@ -4538,7 +4538,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHEV, VLADIMIR</NAME>
@@ -7362,9 +7362,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208689</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>NEWHOOK, ALEX</NAME>
@@ -8802,9 +8802,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152767</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOESER, BROCK</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
