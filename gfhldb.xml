@@ -119,7 +119,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=253022</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>HAYES, AVERY</NAME>
@@ -11477,7 +11477,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160323</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>HEDMAN, VICTOR</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
