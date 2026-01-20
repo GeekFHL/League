@@ -2,16 +2,16 @@
 
 <GFHL>
 	<UPDATED>January 19, 2026</UPDATED>
-	<LASTTRANS>Edmonton-Detroit trade</LASTTRANS>
+	<LASTTRANS>Winnipeg-Boston trade</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238293</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>SOLOVYOV, ILYA</NAME>
@@ -1089,9 +1089,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262251</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>POHLKAMP, ERIC</NAME>
@@ -5427,9 +5427,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195426</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SAMBERG, DYLAN</NAME>
@@ -10791,9 +10791,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155341</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZACHA, PAVEL</NAME>
@@ -10989,9 +10989,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191378</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>FOLIGNO, NICK</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
