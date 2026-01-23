@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>January 19, 2026</UPDATED>
-	<LASTTRANS>Los Angeles signs Nate Schmidt (D), releases Arvid Soderblom (G)</LASTTRANS>
+	<UPDATED>January 23, 2026</UPDATED>
+	<LASTTRANS>                          </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -6381,9 +6381,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172951</WEB>
-			<TEAM>SJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ROBINSON, ERIC</NAME>
@@ -11880,9 +11880,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=178651</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>BATHERSON, DRAKE</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
