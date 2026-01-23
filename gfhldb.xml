@@ -90,9 +90,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=266403</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>BENAK, ADAM</NAME>
@@ -1523,7 +1523,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248818</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>DEL MASTRO, ETHAN</NAME>
@@ -1667,7 +1667,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=264450</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>CATTON, BERKLY</NAME>
@@ -4527,9 +4527,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235047</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>L'HEUREUX, ZACHARY</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
