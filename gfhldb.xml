@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 26, 2026</UPDATED>
-	<LASTTRANS>Edmonton trades Parayko, Jugnauth, Calgary 2026 1st to Vegas for Montour and Klapka</LASTTRANS>
+	<LASTTRANS>Toronto trades Sandin to Ottawa for Cole, Vegas 2026 2nd</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -7587,9 +7587,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207946</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>JONES, CALEB</NAME>
@@ -8271,9 +8271,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105381</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEHNER, ROBIN</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
