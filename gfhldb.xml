@@ -461,7 +461,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=95960</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>ABOLS, RODRIGO</NAME>
@@ -3593,7 +3593,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230322</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>KORCHINSKI, KEVIN</NAME>
@@ -9569,7 +9569,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=59656</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>BINNINGTON, JORDAN</NAME>
@@ -11126,7 +11126,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=131921</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>KRUG, TOREY</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
