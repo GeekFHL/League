@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 26, 2026</UPDATED>
-	<LASTTRANS>Vegas signs Juuso Valimaki (D) and releases Connor Clattenburg (F)</LASTTRANS>
+	<LASTTRANS>Edmonton trades Parayko, Jugnauth, Calgary 2026 1st to Vegas for Montour and Klapka</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -666,7 +666,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213692</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>18</SLOT>
 		</Player>
@@ -945,9 +945,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230836</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>BACK, OSKAR</NAME>
@@ -8262,9 +8262,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139539</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>COLE, IAN</NAME>
@@ -10530,9 +10530,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170326</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>SAVARD, DAVID</NAME>
@@ -11477,7 +11477,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160323</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>HEDMAN, VICTOR</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
