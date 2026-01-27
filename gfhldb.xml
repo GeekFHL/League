@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 26, 2026</UPDATED>
-	<LASTTRANS>Los Angeles signs Isaiah George (D) and releases Reid Schaefer (F)</LASTTRANS>
+	<LASTTRANS>Vegas signs Juuso Valimaki (D) and releases Connor Clattenburg (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -234,9 +234,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=252590</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BROZ, TRISTAN</NAME>
@@ -7911,9 +7911,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187366</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDERSEN, FREDERIK</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
