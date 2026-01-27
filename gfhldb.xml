@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>January 26, 2026</UPDATED>
-	<LASTTRANS>Toronto trades Sandin to Ottawa for Cole, Vegas 2026 2nd</LASTTRANS>
+	<LASTTRANS>Toronto trades Rasmus Sandin (D) to Ottawa for Ian Cole (D), Vegas 2026 2nd</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -1118,7 +1118,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179757</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>RINZEL, SAM</NAME>
@@ -8372,7 +8372,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80463</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>DADONOV, EVGENY</NAME>
@@ -8876,7 +8876,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172202</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>GEORGIEV, ALEXANDAR</NAME>
@@ -9857,7 +9857,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162424</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOMINGUE, LOUIS</NAME>
@@ -12714,6 +12714,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
