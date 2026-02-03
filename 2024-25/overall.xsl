@@ -32,7 +32,7 @@
 	</tr>     
 	<xsl:for-each select="standing/Team[Div='Atlantic']">
       	<xsl:sort select="W*2+T" data-type="number" order="descending"/>
-      	<xsl:sort select="G" data-type="number" order="descending"/>
+      	<xsl:sort select="OP" data-type="number" order="descending"/>
       	<xsl:sort select="Name" data-type="text" order="ascending"/>
 	<tr>      
 		<xsl:if test="position() &gt; 0">        
@@ -74,7 +74,7 @@
 	</tr>     
 	<xsl:for-each select="standing/Team[Div='Metropolitan']">
       	<xsl:sort select="W*2+T" data-type="number" order="descending"/>
-      	<xsl:sort select="G" data-type="number" order="descending"/>
+      	<xsl:sort select="OP" data-type="number" order="descending"/>
       	<xsl:sort select="Name" data-type="text" order="ascending"/>
 	<tr>      
 		<xsl:if test="position() &gt; 0">        
@@ -420,4 +420,5 @@
 
 </xsl:template> 
 </xsl:stylesheet> 
+
 
