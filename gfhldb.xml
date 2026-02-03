@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>February 2nd, 2026</UPDATED>
-	<LASTTRANS>New York Rangers signs Connor Ungar (G) and releases Ivan Fedotov (G)</LASTTRANS>
+	<LASTTRANS>LA-Boston Trade</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ROBERTSON, MATTHEW</NAME>
@@ -1109,7 +1109,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262251</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>POHLKAMP, ERIC</NAME>
@@ -1476,9 +1476,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251173</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>UFKO, RYAN</NAME>
@@ -8352,7 +8352,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118389</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>8</SLOT>
 		</Player>
@@ -8622,7 +8622,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=142605</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
 			<SLOT>8</SLOT>
 		</Player>
@@ -11745,9 +11745,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106574</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUGHES, QUINN</NAME>
@@ -12732,6 +12732,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
