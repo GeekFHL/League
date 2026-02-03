@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>February 2nd, 2026</UPDATED>
-	<LASTTRANS>Montreal signs Nikita Tolopilo (G) and releases Yakov Trenin (F)</LASTTRANS>
+	<LASTTRANS>Los Angeles signs Ethan Wyttenbach (F) and releases Nate Schmidt (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ROBERTSON, MATTHEW</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
 			<SLOT>14</SLOT>
+		</Player>
+		<Player>
+			<NAME>WYTTENBACH, ETHAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=288199</WEB>
+			<TEAM>LA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>STRAMEL, CHARLIE</NAME>
@@ -1478,7 +1487,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227942</WEB>
 			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>PARASCAK, TERIK</NAME>
@@ -11430,9 +11439,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123400</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CARLSON, JOHN</NAME>
@@ -12723,6 +12732,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
