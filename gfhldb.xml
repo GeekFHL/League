@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>February 2nd, 2026</UPDATED>
-	<LASTTRANS>Los Angeles signs Ethan Wyttenbach (F) and releases Nate Schmidt (D)</LASTTRANS>
+	<LASTTRANS>New York Rangers signs Connor Ungar (G) and releases Ivan Fedotov (G)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ROBERTSON, MATTHEW</NAME>
@@ -1377,9 +1377,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219994</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>BICHSEL, LIAN</NAME>
@@ -1584,9 +1584,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180671</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GREENTREE, LIAM</NAME>
@@ -12732,6 +12732,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
