@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>January 26, 2026</UPDATED>
-	<LASTTRANS>Toronto signs James Reimer (G) and releases David Perron (F)</LASTTRANS>
+	<UPDATED>February 2nd, 2026</UPDATED>
+	<LASTTRANS>Dallas signs Ryan Winterton (F) and releases Mason Appleton (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ROBERTSON, MATTHEW</NAME>
@@ -342,9 +342,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227270</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>WARREN, MARSHALL</NAME>
@@ -1622,7 +1622,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=268690</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOISVERT, SACHA</NAME>
@@ -2261,7 +2261,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248738</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>PUUSTINEN, VALTTERI</NAME>
@@ -10242,9 +10242,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177777</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KUPARI, RASMUS</NAME>
@@ -12723,6 +12723,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
