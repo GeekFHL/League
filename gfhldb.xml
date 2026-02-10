@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>February 5th, 2026</UPDATED>
-	<LASTTRANS>no transactions - just roster moves</LASTTRANS>
+	<UPDATED>February 9th, 2026</UPDATED>
+	<LASTTRANS>Florida signs Avery Hayes (F), releases Yanni Gourde (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ROBERTSON, MATTHEW</NAME>
@@ -144,9 +144,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216617</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>KUZNETSOV, YAN</NAME>
@@ -11025,9 +11025,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117574</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>DANAULT, PHILLIP</NAME>
@@ -12732,6 +12732,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
