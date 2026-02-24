@@ -504,7 +504,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89975</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>GLT</POS>
 			<SLOT>19</SLOT>
 		</Player>
@@ -2450,7 +2450,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251665</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>WILLANDER, TOM</NAME>
@@ -3620,7 +3620,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229107</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>NAZAR, FRANK</NAME>
@@ -12732,6 +12732,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
