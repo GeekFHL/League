@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>February 23rd, 2026</UPDATED>
-	<LASTTRANS>Los Angeles-Boston</LASTTRANS>
+	<LASTTRANS>Anaheim trades Liam Ohgren (F), Montreal 2026 1st, LA 2026 2nd to Florida for Kevin Korchinski (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ROBERTSON, MATTHEW</NAME>
@@ -2414,7 +2414,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175803</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOVALENKO, NIKOLAI</NAME>
@@ -3422,7 +3422,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229345</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>DUFOUR, WILLIAM</NAME>
@@ -3528,9 +3528,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244120</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>YUROV, DANILA</NAME>
@@ -3618,9 +3618,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229107</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>NAZAR, FRANK</NAME>
@@ -12732,6 +12732,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
