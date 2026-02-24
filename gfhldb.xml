@@ -7517,7 +7517,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145526</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>FABBRI, ROBBY</NAME>
@@ -10874,7 +10874,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172722</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>HAYES, KEVIN</NAME>
@@ -12732,6 +12732,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
