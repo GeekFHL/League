@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>February 23rd, 2026</UPDATED>
-	<LASTTRANS>Anaheim trades Liam Ohgren (F), Montreal 2026 1st, LA 2026 2nd to Florida for Kevin Korchinski (D)</LASTTRANS>
+	<UPDATED>February 26th, 2026</UPDATED>
+	<LASTTRANS>Philadelphia trades Anze Kopitar (F) to Toronto for Logan Hensler (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ROBERTSON, MATTHEW</NAME>
@@ -90,9 +90,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262569</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>VANACKER, MAREK</NAME>
@@ -452,7 +452,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208615</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOUGLAS, CURTIS</NAME>
@@ -542,7 +542,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248290</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>HRYCKOWIAN, JUSTIN</NAME>
@@ -720,9 +720,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271649</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>AITCHESON, KASHAWN</NAME>
@@ -828,9 +828,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262250</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>DESNOYERS, CALEB</NAME>
@@ -1442,7 +1442,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228211</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>MURASHOV, SERGEI</NAME>
@@ -2414,7 +2414,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175803</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOVALENKO, NIKOLAI</NAME>
@@ -2493,9 +2493,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240683</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>YAGER, BRAYDEN</NAME>
@@ -2907,9 +2907,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=173610</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>KULICH, JIRI</NAME>
@@ -4122,9 +4122,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187431</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>O'BRIEN, LIAM</NAME>
@@ -4223,7 +4223,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=237650</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARCHMENT, MASON</NAME>
@@ -5195,7 +5195,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180806</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAZAR, CURTIS</NAME>
@@ -5573,7 +5573,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180682</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>SWAYMAN, JEREMY</NAME>
@@ -5724,9 +5724,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216556</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BRISSON, BRENDAN</NAME>
@@ -7328,7 +7328,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANCOUZ, PAVEL</NAME>
@@ -7391,7 +7391,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=200446</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>HIROSE, TARO</NAME>
@@ -8291,7 +8291,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105381</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEHNER, ROBIN</NAME>
@@ -8343,9 +8343,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=83457</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>GRANLUND, MIKAEL</NAME>
@@ -8669,7 +8669,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122625</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>STONE, MARK</NAME>
@@ -9587,7 +9587,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=59656</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>BINNINGTON, JORDAN</NAME>
@@ -9668,7 +9668,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=148882</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>MEIER, TIMO</NAME>
@@ -10379,7 +10379,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162163</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>NYQUIST, GUSTAV</NAME>
@@ -10406,7 +10406,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=136966</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>BURNS, BRENT</NAME>
@@ -10424,7 +10424,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80459</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZBORIL, JAKUB</NAME>
@@ -10512,9 +10512,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180592</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>KURALY, SEAN</NAME>
@@ -10721,7 +10721,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144613</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>CIRELLI, ANTHONY</NAME>
@@ -11144,7 +11144,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=131921</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>KRUG, TOREY</NAME>
@@ -11394,9 +11394,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160580</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>ATKINSON, CAM</NAME>
@@ -11763,9 +11763,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=100197</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>RITTICH, DAVID</NAME>
@@ -12732,6 +12732,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
