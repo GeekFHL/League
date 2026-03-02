@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>February 28th, 2026</UPDATED>
-	<LASTTRANS>Philadelphia trades Warren Foegele (F) and Boston 2026 2nd Round Pick (F) to Montreal for Linus Karlsson (F)</LASTTRANS>
+	<LASTTRANS>Montreal releases Warren Foegele (F) signs Kailer Yamamoto (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ALEXIS-LEGAULT, CHARLES</NAME>
@@ -7263,9 +7263,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175316</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BEECHER, JOHN</NAME>
@@ -11232,9 +11232,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177091</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAUVILLIER, ANTHONY</NAME>
@@ -12741,6 +12741,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
