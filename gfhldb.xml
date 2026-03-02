@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>February 28th, 2026</UPDATED>
-	<LASTTRANS>Montreal signs Teddy Blueger (F), releases Egor Zamula (D)</LASTTRANS>
+	<LASTTRANS>Montreal trades Pavol Regenda (F), Montreal 2027 1st Round Pick to Florida for Peyton Krebs (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -3177,9 +3177,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219667</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>BARRON, MORGAN</NAME>
@@ -7380,9 +7380,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197782</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>KALIYEV, ARTHUR</NAME>
@@ -12741,6 +12741,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
