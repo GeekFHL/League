@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>February 28th, 2026</UPDATED>
-	<LASTTRANS>Utah trades Mike Matheson (D) to Vegas for Tanner Molendyk (D)</LASTTRANS>
+	<LASTTRANS>Montreal trades Brad Marchand (F) to Vegas for Egor Zamula (D), 2026 Calgary 1st Round Pick</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -6138,9 +6138,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208587</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>RAFFERTY, BROGAN</NAME>
@@ -8397,9 +8397,9 @@
 			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80463</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>DADONOV, EVGENY</NAME>
@@ -9695,7 +9695,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116134</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>VATRANO, FRANK</NAME>
@@ -12741,6 +12741,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
