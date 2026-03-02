@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>February 28th, 2026</UPDATED>
-	<LASTTRANS>Montreal trades Mats Zuccarello (F) to Calgary for Oliver Bjorkstrand (F)</LASTTRANS>
+	<LASTTRANS>NY Rangers trades Josh Doan (F), Pyotr Andreyonov (G), NY Rangers 2027 1st Round Pick to Vancouver for Marco Rossi (F) and Christian Dvorak (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -945,7 +945,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=281299</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>GLT</POS>
 			<SLOT>22</SLOT>
 		</Player>
@@ -1818,9 +1818,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227923</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>STEVENSON, CLAY</NAME>
@@ -5753,7 +5753,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213004</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>BECKMAN, ADAM</NAME>
@@ -5922,9 +5922,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216636</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>RAYMOND, LUCAS</NAME>
@@ -10134,9 +10134,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161358</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>DRAISAITL, LEON</NAME>
@@ -12741,6 +12741,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
