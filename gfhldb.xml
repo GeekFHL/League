@@ -6725,7 +6725,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176062</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>BENNING, MATT</NAME>
@@ -7382,7 +7382,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197782</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>KALIYEV, ARTHUR</NAME>
@@ -10829,7 +10829,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169698</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDERSON, JOSH</NAME>
@@ -11234,7 +11234,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177091</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAUVILLIER, ANTHONY</NAME>
@@ -11738,7 +11738,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89731</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>SERGACHEV, MIKHAIL</NAME>
@@ -12741,6 +12741,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
