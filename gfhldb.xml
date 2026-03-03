@@ -11130,7 +11130,7 @@
 		</Player>
 		<Player>
 			<NAME>PANARIN, ARTEMI</NAME>
-			<CAPTAIN>A</CAPTAIN>
+			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117198</WEB>
 			<TEAM>LA</TEAM>
@@ -12741,6 +12741,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
