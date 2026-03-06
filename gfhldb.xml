@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>February 28th, 2026</UPDATED>
-	<LASTTRANS>NY Rangers trades Josh Doan (F), Pyotr Andreyonov (G), NY Rangers 2027 1st Round Pick to Vancouver for Marco Rossi (F) and Christian Dvorak (F)</LASTTRANS>
+	<UPDATED>March 5, 2026</UPDATED>
+	<LASTTRANS>Roster Moves</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -92,7 +92,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238540</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>HENSLER, LOGAN</NAME>
@@ -848,7 +848,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270395</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>EKLUND, VICTOR</NAME>
@@ -1397,7 +1397,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238586</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>GRAF, COLLIN</NAME>
@@ -4565,7 +4565,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHEV, VLADIMIR</NAME>
@@ -5402,7 +5402,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=204722</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARCHENKO, KIRILL</NAME>
@@ -5924,7 +5924,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216636</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>RAYMOND, LUCAS</NAME>
@@ -5951,7 +5951,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210630</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAFRENIERE, ALEXIS</NAME>
@@ -7337,7 +7337,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANCOUZ, PAVEL</NAME>
@@ -8048,7 +8048,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169617</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>CHYTIL, FILIP</NAME>
@@ -8687,7 +8687,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116184</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARNER, MITCH</NAME>
@@ -8768,7 +8768,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=102649</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>PULJUJARVI, JESSE</NAME>
@@ -11342,7 +11342,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132742</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>BELLOWS, KIEFFER</NAME>
@@ -12741,6 +12741,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
