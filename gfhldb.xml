@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>March 5, 2026</UPDATED>
+	<UPDATED>March 9, 2026</UPDATED>
 	<LASTTRANS>Roster Moves</LASTTRANS>
 	<DB>
 		<Player>
@@ -1145,7 +1145,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179757</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>RINZEL, SAM</NAME>
@@ -2000,7 +2000,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209409</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>STRUBLE, JAYDEN</NAME>
@@ -3521,7 +3521,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230223</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>NELSON, TY</NAME>
@@ -4565,7 +4565,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHEV, VLADIMIR</NAME>
@@ -5951,7 +5951,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210630</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAFRENIERE, ALEXIS</NAME>
@@ -7922,7 +7922,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176679</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>FOWLER, CAM</NAME>
@@ -7940,7 +7940,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187366</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDERSEN, FREDERIK</NAME>
@@ -8282,7 +8282,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130914</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>PARAYKO, COLTON</NAME>
@@ -8903,7 +8903,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172202</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>GEORGIEV, ALEXANDAR</NAME>
@@ -9884,7 +9884,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162424</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOMINGUE, LOUIS</NAME>
@@ -10415,7 +10415,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=136966</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>BURNS, BRENT</NAME>
@@ -11234,7 +11234,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177091</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAUVILLIER, ANTHONY</NAME>
@@ -11738,7 +11738,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89731</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>SERGACHEV, MIKHAIL</NAME>
@@ -11747,7 +11747,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187455</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>ORLOV, DMITRI</NAME>
@@ -12741,6 +12741,7 @@
 		
 	</DB>
 </GFHL>
+
 
 
 
