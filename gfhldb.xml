@@ -551,7 +551,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248290</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>HRYCKOWIAN, JUSTIN</NAME>
@@ -3395,7 +3395,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207892</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>SALO, ROBIN</NAME>
@@ -5582,7 +5582,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180682</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>SWAYMAN, JEREMY</NAME>
@@ -7337,7 +7337,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANCOUZ, PAVEL</NAME>
