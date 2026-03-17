@@ -20,7 +20,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=200428</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>WYTTENBACH, ETHAN</NAME>
@@ -5951,7 +5951,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210630</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAFRENIERE, ALEXIS</NAME>
@@ -8426,7 +8426,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=146214</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>RISTOLAINEN, RASMUS</NAME>
