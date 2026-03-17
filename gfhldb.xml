@@ -1145,7 +1145,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179757</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>RINZEL, SAM</NAME>
@@ -1343,7 +1343,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191621</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOLYACHONOK, VLADISLAV</NAME>
@@ -2000,7 +2000,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209409</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>STRUBLE, JAYDEN</NAME>
@@ -8903,7 +8903,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172202</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>GEORGIEV, ALEXANDAR</NAME>
@@ -9884,7 +9884,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162424</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOMINGUE, LOUIS</NAME>
@@ -11234,7 +11234,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177091</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAUVILLIER, ANTHONY</NAME>
