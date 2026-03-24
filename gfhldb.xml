@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>March 20, 2026</UPDATED>
+	<UPDATED>March 23, 2026</UPDATED>
 	<LASTTRANS>Playoff Roster Moves</LASTTRANS>
 	<DB>
 		<Player>
@@ -4952,7 +4952,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169622</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>GOLYSHEV, ANATOLY</NAME>
@@ -5996,7 +5996,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208585</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>FARRANCE, DAVID</NAME>
@@ -8300,7 +8300,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105381</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEHNER, ROBIN</NAME>
@@ -9209,7 +9209,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172743</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOWEY, MADISON</NAME>
@@ -11324,7 +11324,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139929</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDGREN, CHARLIE</NAME>
