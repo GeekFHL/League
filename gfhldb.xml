@@ -4025,7 +4025,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=220134</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUNT, DRYDEN</NAME>
@@ -4952,7 +4952,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169622</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>GOLYSHEV, ANATOLY</NAME>
@@ -10586,7 +10586,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144264</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>GUSTAVSSON, FILIP</NAME>
@@ -11153,7 +11153,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=131921</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>KRUG, TOREY</NAME>
@@ -11324,7 +11324,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139929</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDGREN, CHARLIE</NAME>
