@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>April 16, 2026</UPDATED>
-	<LASTTRANS>Playoff Roster Moves</LASTTRANS>
+	<UPDATED>April 20, 2026</UPDATED>
+	<LASTTRANS>Jack Hughes fix</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -7514,7 +7514,7 @@
 			<NAME>HUGHES, JACK</NAME>
 			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
-			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145526</WEB>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209479</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
 			<SLOT>10</SLOT>
