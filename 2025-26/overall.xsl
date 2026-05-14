@@ -6,7 +6,7 @@
 
 <head>      
 <title>2025-26 GFHL Standings</title>      
-<link rel="stylesheet" type="text/css" href="gfhlmain.css" />
+<link rel="stylesheet" type="text/css" href="../gfhlmain.css" />
 </head>    
 
 <body>   
