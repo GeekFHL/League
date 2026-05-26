@@ -12413,7 +12413,7 @@
 			<Finalist></Finalist>
 			<Champ></Champ>
 			<Commissioner></Commissioner>
-			<Committee></Committee>
+			<Committee>Y</Committee>
 			<HeadCoach>BILLY SMITH</HeadCoach>
 		</GM>
 		<GM>
@@ -12455,7 +12455,7 @@
 			<Finalist></Finalist>
 			<Champ></Champ>
 			<Commissioner></Commissioner>
-			<Committee>Y</Committee>
+			<Committee></Committee>
 			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
@@ -12491,11 +12491,11 @@
 			<Name>Kevin</Name>
 			<Email>onyx_bluedevil@yahoo.com</Email>
 			<Since>1</Since>
-			<PresidentTrophy>10, 12, 13, 14, 15, 21</PresidentTrophy>
-			<EastConfChamp>3, 10, 12, 13, 14, 15, 21</EastConfChamp>
+			<PresidentTrophy>10, 12, 13, 14, 15, 21, 26</PresidentTrophy>
+			<EastConfChamp>3, 10, 12, 13, 14, 15, 21, 26</EastConfChamp>
 			<WestConfChamp></WestConfChamp>
-			<Finalist>1, 2, 6, 8, 13, 14, 15, 21, 25</Finalist>
-			<Champ>8, 25</Champ>
+			<Finalist>1, 2, 6, 8, 13, 14, 15, 21, 25, 26</Finalist>
+			<Champ>8, 25, 26</Champ>
 			<Commissioner></Commissioner>
 			<Committee>Y</Committee>
 			<HeadCoach></HeadCoach>
@@ -12525,7 +12525,7 @@
 			<Finalist></Finalist>
 			<Champ></Champ>
 			<Commissioner></Commissioner>
-			<Committee></Committee>
+			<Committee>Y</Committee>
 			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
@@ -12591,7 +12591,7 @@
 			<Since>2</Since>
 			<PresidentTrophy>18</PresidentTrophy>
 			<EastConfChamp></EastConfChamp>
-			<WestConfChamp>18, 19, 23</WestConfChamp>
+			<WestConfChamp>18, 19, 23, 26</WestConfChamp>
 			<Finalist>5, 13, 18, 19</Finalist>
 			<Champ>13, 18</Champ>
 			<Commissioner>Y</Commissioner>
@@ -12634,7 +12634,7 @@
 			<PresidentTrophy>24</PresidentTrophy>
 			<EastConfChamp></EastConfChamp>
 			<WestConfChamp>24</WestConfChamp>
-			<Finalist>23</Finalist>
+			<Finalist>23, 26</Finalist>
 			<Champ>23</Champ>
 			<Commissioner></Commissioner>
 			<Committee></Committee>
@@ -12665,7 +12665,7 @@
 			<Finalist></Finalist>
 			<Champ></Champ>
 			<Commissioner></Commissioner>
-			<Committee>Y</Committee>
+			<Committee></Committee>
 			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
@@ -12693,7 +12693,7 @@
 			<Finalist></Finalist>
 			<Champ></Champ>
 			<Commissioner></Commissioner>
-			<Committee>Y</Committee>
+			<Committee></Committee>
 			<HeadCoach>JEREMY ROENICK</HeadCoach>
 		</GM>
 		<GM>
@@ -12707,7 +12707,7 @@
 			<Finalist></Finalist>
 			<Champ></Champ>
 			<Commissioner></Commissioner>
-			<Committee></Committee>
+			<Committee>Y</Committee>
 			<HeadCoach></HeadCoach>
 		</GM>
 		<GM>
