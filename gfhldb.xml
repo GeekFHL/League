@@ -14,6 +14,24 @@
 			<SLOT>23</SLOT>
 		</Player>
 		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>EDM</TEAM>
+			<POS>DEF</POS>
+			<SLOT>11</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
 			<NAME>ROBERTSON, MATTHEW</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
