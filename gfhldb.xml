@@ -27,6 +27,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>TOR</TEAM>
+			<POS>DEF</POS>
+			<SLOT>24</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
@@ -9686,7 +9695,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132239</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>DROUIN, JONATHAN</NAME>
