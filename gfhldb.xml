@@ -2961,9 +2961,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169554</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PEDERSON, LANE</NAME>
@@ -10125,9 +10125,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=136790</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>RODRIGUES, EVAN</NAME>
