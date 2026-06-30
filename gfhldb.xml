@@ -27,6 +27,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>DET</TEAM>
+			<POS>GLT</POS>
+			<SLOT>20</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>24</SLOT>
