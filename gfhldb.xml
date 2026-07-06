@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>July 5, 2026</UPDATED>
-	<LASTTRANS> Ottawa-Nashville trade (Barkey for Dewar)</LASTTRANS>
+	<LASTTRANS> Florida-Edmonton trade (picks for Wennberg)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -21,6 +21,15 @@
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -3231,9 +3240,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219667</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BARRON, MORGAN</NAME>
@@ -8883,9 +8892,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152767</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOESER, BROCK</NAME>
