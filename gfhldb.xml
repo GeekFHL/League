@@ -27,6 +27,24 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>NYR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>2</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>NYR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>6</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>10</SLOT>
