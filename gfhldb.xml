@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>July 5, 2026</UPDATED>
-	<LASTTRANS> Florida-Edmonton trade (picks for Wennberg)</LASTTRANS>
+	<LASTTRANS> NY Rangers-Florida trade (Mercer, Dvorak for MTL 2026 1st, MTL 2027 1st)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -576,9 +576,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89975</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BARDAKOV, ZAKHAR</NAME>
@@ -2522,7 +2522,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251665</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>WILLANDER, TOM</NAME>
@@ -5256,9 +5256,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197888</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>STENLUND, KEVIN</NAME>
@@ -5841,9 +5841,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=2089970</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZARY, CONNOR</NAME>
@@ -10197,9 +10197,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161358</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>DRAISAITL, LEON</NAME>
