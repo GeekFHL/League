@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>July 5, 2026</UPDATED>
-	<LASTTRANS> Florida-Nashville trade (Barkey for Kuzmenko)</LASTTRANS>
+	<LASTTRANS> Ottawa-Nashville trade (Barkey for Dewar)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -135,9 +135,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248685</WEB>
-			<TEAM>NSH</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUTSON, QUINN</NAME>
@@ -3951,9 +3951,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187314</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>PETROV, MATVEY</NAME>
