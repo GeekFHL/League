@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>July 30, 2026</UPDATED>
-	<LASTTRANS> Minnesota-Florida trade (Sorokin for Fowler, FLA 2027 1st)</LASTTRANS>
+	<LASTTRANS> Vancouver-Anaheim trade (Foerster, Savoie, VAN 2026 1st, TB 2026 2nd for Wright, Sandin-Pellika, EDM 2026 1st, OTT 2026 2nd, futures)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -2691,9 +2691,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249530</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>REINBACHER, DAVID</NAME>
@@ -3762,9 +3762,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227300</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>GAUTHIER, CUTTER</NAME>
@@ -3798,9 +3798,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227271</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>COOLEY, LOGAN</NAME>
@@ -5832,9 +5832,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213004</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>BECKMAN, ADAM</NAME>
