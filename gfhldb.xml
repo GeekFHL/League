@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>July 30, 2026</UPDATED>
-	<LASTTRANS> Vancouver-Anaheim trade (Foerster, Savoie, VAN 2026 1st, TB 2026 2nd for Wright, Sandin-Pellika, EDM 2026 1st, OTT 2026 2nd, futures)</LASTTRANS>
+	<LASTTRANS> Florida-Winnipeg trade (Hagens for Stankoven)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -882,9 +882,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262568</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRONDELL, ANTON</NAME>
@@ -4653,9 +4653,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217763</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>THOMPSON, LOGAN</NAME>
