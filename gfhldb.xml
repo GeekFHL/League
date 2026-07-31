@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>July 30, 2026</UPDATED>
-	<LASTTRANS> Toronto-Florida trade (Nurse for Ohgren, VAN 2027 2nd, DAL 2027 2nd)</LASTTRANS>
+	<LASTTRANS> Minnesota-Florida trade (Sorokin for Fowler, FLA 2027 1st)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -2538,9 +2538,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251665</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>WILLANDER, TOM</NAME>
@@ -8865,9 +8865,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=163413</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>SODERSTROM, LINUS</NAME>
