@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>July 30, 2026</UPDATED>
-	<LASTTRANS> Florida-Winnipeg trade (Hagens for Stankoven)</LASTTRANS>
+	<LASTTRANS> Florida-Edmonton trade (Perreault, BOS 2026 1st for Byfield, LA 2026 2nd)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -2637,9 +2637,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248129</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>BARLOW, COLBY</NAME>
@@ -6021,9 +6021,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210630</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAFRENIERE, ALEXIS</NAME>
