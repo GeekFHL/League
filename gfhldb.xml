@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>July 5, 2026</UPDATED>
-	<LASTTRANS> NY Rangers-Florida trade (Mercer, Dvorak for MTL 2026 1st, MTL 2027 1st)</LASTTRANS>
+	<UPDATED>July 30, 2026</UPDATED>
+	<LASTTRANS> Toronto-Florida trade (Nurse for Ohgren, VAN 2027 2nd, DAL 2027 2nd)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -3618,9 +3618,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244120</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>YUROV, DANILA</NAME>
@@ -11232,9 +11232,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=131921</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>KRUG, TOREY</NAME>
