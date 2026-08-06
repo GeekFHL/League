@@ -144,7 +144,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271171</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>22</SLOT>
 		</Player>
@@ -1836,7 +1836,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261388</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>15</SLOT>
 		</Player>
@@ -2862,9 +2862,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161083</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOLDUC, SAMUEL</NAME>
@@ -4860,7 +4860,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228217</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>15</SLOT>
 		</Player>
