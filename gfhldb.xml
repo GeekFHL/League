@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 6, 2026</UPDATED>
-	<LASTTRANS> Florida-Anaheim trade (Levshunov, Horcoff, FLA 2026 1st for L. Hughes, Joshua, Detroit 2026 3rd, Anaheim 2026 3rd)</LASTTRANS>
+	<UPDATED>August 13, 2026</UPDATED>
+	<LASTTRANS> Edmonton-Detroit trade (P. Kane for TOR 2026 2nd, DET 2027 2nd)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -21,6 +21,15 @@
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -10307,7 +10316,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130608</WEB>
 			<TEAM>DET</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>FAST, JESPER</NAME>
@@ -11448,9 +11457,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96554</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>MALKIN, EVGENI</NAME>
