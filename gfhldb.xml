@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 13, 2026</UPDATED>
-	<LASTTRANS> Chicago-Detroit trade (Landeskog for TB 2026 1st)</LASTTRANS>
+	<LASTTRANS> Dallas-Anaheim trade (Howard for Graf)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -1494,9 +1494,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226641</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>LILLEBERG, EMIL</NAME>
@@ -3582,9 +3582,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238276</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEINONEN, TOPIAS</NAME>
