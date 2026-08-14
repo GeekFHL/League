@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 13, 2026</UPDATED>
-	<LASTTRANS> Edmonton-Detroit trade (P. Kane for TOR 2026 2nd, DET 2027 2nd)</LASTTRANS>
+	<LASTTRANS> Chicago-Detroit trade (Landeskog for TB 2026 1st)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -1667,7 +1667,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235312</WEB>
 			<TEAM>DET</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>FEDOTOV, IVAN</NAME>
@@ -3728,7 +3728,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241535</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEKKERIMAKI, JONATHAN</NAME>
@@ -9054,9 +9054,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118530</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>GRANLUND, MARKUS</NAME>
@@ -10944,9 +10944,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210177</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>LARSSON, FILIP</NAME>
