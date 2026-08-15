@@ -52,7 +52,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
@@ -61,7 +61,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
@@ -142,7 +142,7 @@
 		<Player>
 			<NAME>SOLOVYOV, ILYA</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227265</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
@@ -1483,7 +1483,7 @@
 		<Player>
 			<NAME>UNGAR, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219994</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>GLT</POS>
@@ -1987,7 +1987,7 @@
 		<Player>
 			<NAME>GULYAYEV, MIKHAIL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=260632</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
@@ -3283,7 +3283,7 @@
 		<Player>
 			<NAME>XHEKAJ, ARBER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216624</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
@@ -3760,7 +3760,7 @@
 		<Player>
 			<NAME>JIRICEK, DAVID</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=234936</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
