@@ -2608,7 +2608,7 @@
 		<Player>
 			<NAME>YAGER, BRAYDEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240700</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
@@ -3508,7 +3508,7 @@
 		<Player>
 			<NAME>KELLY, PARKER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229345</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
@@ -5290,7 +5290,7 @@
 		<Player>
 			<NAME>STENLUND, KEVIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180806</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
@@ -9187,7 +9187,7 @@
 		<Player>
 			<NAME>DESMITH, CASEY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123307</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>GLT</POS>
@@ -9511,7 +9511,7 @@
 		<Player>
 			<NAME>PELECH, ADAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130615</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
@@ -10510,7 +10510,7 @@
 		<Player>
 			<NAME>BURNS, BRENT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=71733</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
@@ -10708,7 +10708,7 @@
 		<Player>
 			<NAME>STAAL, JORDAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80489</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
@@ -11329,7 +11329,7 @@
 		<Player>
 			<NAME>BEAUVILLIER, ANTHONY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169563</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
