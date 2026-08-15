@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 13, 2026</UPDATED>
-	<LASTTRANS> Dallas-Anaheim trade (Howard for Graf)</LASTTRANS>
+	<UPDATED>August 14, 2026</UPDATED>
+	<LASTTRANS> Calgary-Detroit trade (Zuccarello for Utah 2026 1st (23rd overall))</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -21,6 +21,15 @@
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
+		</Player>
+		Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>CGY</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -8433,9 +8442,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117131</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOPITAR, ANZE</NAME>
@@ -11214,9 +11223,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105385</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PANARIN, ARTEMI</NAME>
