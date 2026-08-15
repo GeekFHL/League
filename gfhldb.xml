@@ -520,7 +520,7 @@
 		<Player>
 			<NAME>SASSON, MAX</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208440</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -547,7 +547,7 @@
 		<Player>
 			<NAME>HALLANDER, FILIP</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=200224</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -3931,7 +3931,7 @@
 		<Player>
 			<NAME>PERBIX, NICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=205480</WEB>
 			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
@@ -4462,7 +4462,7 @@
 		<Player>
 			<NAME>DACH, COLTON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227279</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -10042,7 +10042,7 @@
 		<Player>
 			<NAME>SKINNER, JEFF</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116085</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -10735,7 +10735,7 @@
 		<Player>
 			<NAME>PALAT, ONDREJ</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122662</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -12022,7 +12022,7 @@
 		<Player>
 			<NAME>HEIDT, RILEY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241129/</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
@@ -12139,7 +12139,7 @@
 		<Player>
 			<NAME>FRANK, ETHEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179667</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
