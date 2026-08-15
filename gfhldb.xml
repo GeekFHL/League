@@ -3139,7 +3139,7 @@
 		<Player>
 			<NAME>NOESEN, STEFAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122895</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
@@ -3589,7 +3589,7 @@
 		<Player>
 			<NAME>LEINONEN, TOPIAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=250696</WEB>
 			<TEAM>STL</TEAM>
 			<POS>GLT</POS>
@@ -5686,7 +5686,7 @@
 		<Player>
 			<NAME>BERGGREN, JONATAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210840</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
@@ -5704,7 +5704,7 @@
 		<Player>
 			<NAME>REICHEL, LUKAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226504</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
@@ -9250,7 +9250,7 @@
 		<Player>
 			<NAME>SAAD, BRANDON</NAME>
 			<CAPTAIN>A</CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123396</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
@@ -9520,7 +9520,7 @@
 		<Player>
 			<NAME>SEELER, NICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143106</WEB>
 			<TEAM>STL</TEAM>
 			<POS>DEF</POS>
@@ -11914,7 +11914,7 @@
 		<Player>
 			<NAME>NIEDERREITER, NINO</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123014</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
