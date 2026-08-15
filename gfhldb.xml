@@ -484,7 +484,7 @@
 		<Player>
 			<NAME>D'ASTOUS, CHARLE-EDOUARD</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=186178</WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
@@ -493,7 +493,7 @@
 		<Player>
 			<NAME>JOHANSSON, MARCUS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98452</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
@@ -502,7 +502,7 @@
 		<Player>
 			<NAME>CREVIER, LOUIS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217748</WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
@@ -2545,7 +2545,7 @@
 		<Player>
 			<NAME>BUT, DANIIL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265421</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
@@ -7000,7 +7000,7 @@
 		<Player>
 			<NAME>MANGIAPANE, ANDREW</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170147</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
@@ -8206,7 +8206,7 @@
 		<Player>
 			<NAME>COUTURIER, SEAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=115908</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
@@ -8296,7 +8296,7 @@
 		<Player>
 			<NAME>FROST, MORGAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187447</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
@@ -10843,7 +10843,7 @@
 		<Player>
 			<NAME>IAFALLO, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145488</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
