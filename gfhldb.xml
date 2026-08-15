@@ -6694,7 +6694,7 @@
 		<Player>
 			<NAME>CLIFTON, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145656</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>DEF</POS>
@@ -7954,7 +7954,7 @@
 		<Player>
 			<NAME>LUNDESTROM, ISAC</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192083</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
@@ -8080,7 +8080,7 @@
 		<Player>
 			<NAME>TANEV, BRANDON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130410</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
@@ -10834,7 +10834,7 @@
 		<Player>
 			<NAME>JARNKROK, CALLE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127561</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
@@ -10933,7 +10933,7 @@
 		<Player>
 			<NAME>BROSSOIT, LAURENT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118258</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>GLT</POS>
@@ -11104,7 +11104,7 @@
 		<Player>
 			<NAME>LILJEGREN, TIMOTHY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191378</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>DEF</POS>
@@ -11131,7 +11131,7 @@
 		<Player>
 			<NAME>DANAULT, PHILLIP</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122605</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
