@@ -7,7 +7,7 @@
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230661</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
@@ -1177,7 +1177,7 @@
                  <Player>
 			<NAME>SLAGGERT, LANDON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217367</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
@@ -3301,7 +3301,7 @@
 		<Player>
 			<NAME>MINER, TRENT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=212566</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>GLT</POS>
@@ -3679,7 +3679,7 @@
 		<Player>
 			<NAME>PICKERING, OWEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240695</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
@@ -5335,7 +5335,7 @@
 		<Player>
 			<NAME>JONES, ZAC</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217053</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
@@ -7279,7 +7279,7 @@
 		<Player>
 			<NAME>JOSEPH, PIERRE-OLIVIER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=188337</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
