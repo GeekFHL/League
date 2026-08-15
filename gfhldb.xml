@@ -736,7 +736,7 @@
 		<Player>
 			<NAME>LUND, CAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235428</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
@@ -1276,7 +1276,7 @@
 		<Player>
 			<NAME>HUTTON, BEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=141927</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>DEF</POS>
@@ -2536,7 +2536,7 @@
 		<Player>
 			<NAME>MUSTY, QUENTIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248733</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
@@ -4147,7 +4147,7 @@
 		<Player>
 			<NAME>MIDDLETON, JACOB</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160296</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>DEF</POS>
@@ -8845,7 +8845,7 @@
 		<Player>
 			<NAME>QUICK, JONATHAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=87893</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>GLT</POS>
@@ -9853,7 +9853,7 @@
 		<Player>
 			<NAME>LOWRY, ADAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122998</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
@@ -11797,7 +11797,7 @@
 		<Player>
 			<NAME>VAN RIEMSDYK, JAMES</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105417</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
@@ -11905,7 +11905,7 @@
 		<Player>
 			<NAME>FOLIGNO, MARCUS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106815</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
