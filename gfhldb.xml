@@ -799,7 +799,7 @@
 		<Player>
 			<NAME>TOEWS, JONATHAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=93829</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
@@ -1186,7 +1186,7 @@
                  <Player>
 			<NAME>JOHANSSON, ALBERT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218279</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
@@ -2329,7 +2329,7 @@
 		<Player>
 			<NAME>KAISER, WYATT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227811</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
@@ -4822,7 +4822,7 @@
 		<Player>
 			<NAME>SVECHKOV, FEDOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241830</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
@@ -5812,7 +5812,7 @@
 		<Player>
 			<NAME>SCHNEIDER, BRADEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=202373</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
@@ -7090,7 +7090,7 @@
 		<Player>
 			<NAME>ROMANOV, ALEXANDER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213745</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
@@ -12076,7 +12076,7 @@
 		<Player>
 			<NAME>HELLESON, DREW</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209478</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
