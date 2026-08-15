@@ -79,7 +79,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
@@ -88,7 +88,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
@@ -2518,7 +2518,7 @@
 		<Player>
 			<NAME>KOVACEVIC, JOHNATHAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175803</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
@@ -4309,7 +4309,7 @@
 		<Player>
 			<NAME>DUHAIME, BRANDON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171261</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
@@ -4318,7 +4318,7 @@
 		<Player>
 			<NAME>KOLOSOV, ALEKSEI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=237650</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
@@ -5524,7 +5524,7 @@
 		<Player>
 			<NAME>ROY, NICOLAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169632</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
@@ -11860,7 +11860,7 @@
 		<Player>
 			<NAME>TALBOT, CAMERON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=100197</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
