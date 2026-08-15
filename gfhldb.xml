@@ -97,7 +97,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
@@ -1312,7 +1312,7 @@
 		<Player>
 			<NAME>MANCINI, VICTOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219756</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
@@ -3625,7 +3625,7 @@
 		<Player>
 			<NAME>OHGREN, LIAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244120</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
@@ -3985,7 +3985,7 @@
 		<Player>
 			<NAME>DEWAR, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187314</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
@@ -5038,7 +5038,7 @@
 		<Player>
 			<NAME>OLIVIER, MATHIEU</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169622</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
@@ -5074,7 +5074,7 @@
 		<Player>
 			<NAME>GADJOVICH, JONAH</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177566</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
@@ -8386,7 +8386,7 @@
 		<Player>
 			<NAME>COLE, IAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105381</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
@@ -8440,7 +8440,7 @@
 		<Player>
 			<NAME>KOPITAR, ANZE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=83457</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
@@ -8620,7 +8620,7 @@
 		<Player>
 			<NAME>GAUDETTE, ADAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177644</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
@@ -8998,7 +8998,7 @@
 		<Player>
 			<NAME>GEORGIEV, ALEXANDAR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=181052</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>GLT</POS>
@@ -9529,7 +9529,7 @@
 		<Player>
 			<NAME>DILLON, BRENDEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106892</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
@@ -9682,7 +9682,7 @@
 		<Player>
 			<NAME>PERRY, COREY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=59656</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
@@ -10024,7 +10024,7 @@
 		<Player>
 			<NAME>COMPHER, JT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145443</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
@@ -10672,7 +10672,7 @@
 		<Player>
 			<NAME>STOLARZ, ANTHONY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144264</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
@@ -11410,7 +11410,7 @@
 		<Player>
 			<NAME>LYON, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139929</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
@@ -11869,7 +11869,7 @@
 		<Player>
 			<NAME>RITTICH, DAVID</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176770</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>GLT</POS>
