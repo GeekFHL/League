@@ -295,7 +295,7 @@
 		<Player>
 			<NAME>GREENE, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228468</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -655,7 +655,7 @@
 		<Player>
 			<NAME>HRYCKOWIAN, JUSTIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227810</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -3481,7 +3481,7 @@
 		<Player>
 			<NAME>BLANKENBURG, NICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207892</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
@@ -7423,7 +7423,7 @@
 		<Player>
 			<NAME>TEXIER, ALEXANDRE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -7675,7 +7675,7 @@
 		<Player>
 			<NAME>DONATO, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175315</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -10519,7 +10519,7 @@
 		<Player>
 			<NAME>LETANG, KRISTOPHER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80459</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
@@ -10924,7 +10924,7 @@
 		<Player>
 			<NAME>ANDERSON, JOSH</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=138920</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -11428,7 +11428,7 @@
 		<Player>
 			<NAME>COMRIE, ERIC</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132742</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
