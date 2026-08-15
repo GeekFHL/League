@@ -457,7 +457,7 @@
 		<Player>
 			<NAME>WINTERTON, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227270</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
@@ -1978,7 +1978,7 @@
 		<Player>
 			<NAME>TSYPLAKOV, MAXIM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207683</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
@@ -2275,7 +2275,7 @@
 		<Player>
 			<NAME>KORCZAK, KAEDAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=200229</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
@@ -3004,7 +3004,7 @@
 		<Player>
 			<NAME>BENOIT, SIMON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=186185</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
@@ -7198,7 +7198,7 @@
 		<Player>
 			<NAME>KULAK, BRETT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130818</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
@@ -7270,7 +7270,7 @@
 		<Player>
 			<NAME>BOQVIST, JESPER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192047</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
@@ -8944,7 +8944,7 @@
 		<Player>
 			<NAME>JOKIHARJU, HENRI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196298</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
