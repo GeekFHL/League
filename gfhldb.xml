@@ -259,7 +259,7 @@
 		<Player>
 			<NAME>KUZNETSOV, YAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217058</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
@@ -268,7 +268,7 @@
 		<Player>
 			<NAME>MOORE, IAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229101</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
@@ -2419,7 +2419,7 @@
 		<Player>
 			<NAME>MILIC, THOMAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230583</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>GLT</POS>
@@ -7936,7 +7936,7 @@
 		<Player>
 			<NAME>STROME, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122942</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
@@ -8035,7 +8035,7 @@
 		<Player>
 			<NAME>VALIMAKI, JUUSO</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187366</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
@@ -9790,7 +9790,7 @@
 		<Player>
 			<NAME>GALLAGHER, BRENDAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116134</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
@@ -11383,7 +11383,7 @@
 		<Player>
 			<NAME>GRZELCYK, MATT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130900</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
@@ -11626,7 +11626,7 @@
 		<Player>
 			<NAME>GLASS, CODY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179680</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
