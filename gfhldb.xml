@@ -286,7 +286,7 @@
 		<Player>
 			<NAME>HALLIDAY, STEPHEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211040</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
@@ -1609,7 +1609,7 @@
 		<Player>
 			<NAME>CLARA, DAMIAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=252163</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>GLT</POS>
@@ -2212,7 +2212,7 @@
 		<Player>
 			<NAME>KLEVEN, TYLER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217762</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
@@ -2815,7 +2815,7 @@
 		<Player>
 			<NAME>KYROU, CHRISTIAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228638</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
@@ -4804,7 +4804,7 @@
 		<Player>
 			<NAME>BOLDUC, ZACHARY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227918</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
@@ -7594,7 +7594,7 @@
 		<Player>
 			<NAME>KAKKO, KAAPO</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211199</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
@@ -12040,7 +12040,7 @@
 		<Player>
 			<NAME>KAPANEN, OLIVER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241782</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
