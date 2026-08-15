@@ -34,7 +34,7 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -5263,7 +5263,7 @@
 		<Player>
 			<NAME>EVANS, JAKE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145580</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -5416,7 +5416,7 @@
 		<Player>
 			<NAME>ANDERSON, MICHAEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187480</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
@@ -5551,7 +5551,7 @@
 		<Player>
 			<NAME>SAMBERG, DYLAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=202503</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
@@ -5974,7 +5974,7 @@
 		<Player>
 			<NAME>HOLTZ, ALEXANDER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=222890</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -7972,7 +7972,7 @@
 		<Player>
 			<NAME>BACKLUND, MIKAEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=104255</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -9574,7 +9574,7 @@
 		<Player>
 			<NAME>GRUBAUER, PHILIPP</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=112814</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
@@ -10105,7 +10105,7 @@
 		<Player>
 			<NAME>MCDONAGH, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=99570</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
