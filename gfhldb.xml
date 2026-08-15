@@ -250,7 +250,7 @@
 		<Player>
 			<NAME>HAYES, AVERY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216617</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
@@ -880,7 +880,7 @@
 		<Player>
 			<NAME>MRTKA, RADIM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273612</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
@@ -2572,7 +2572,7 @@
 		<Player>
 			<NAME>STENBERG, OTTO</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248005</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
@@ -2986,7 +2986,7 @@
 		<Player>
 			<NAME>BAHL, KEVIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195846</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
@@ -4813,7 +4813,7 @@
 		<Player>
 			<NAME>SILLINGER, COLE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218022</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
@@ -6730,7 +6730,7 @@
 		<Player>
 			<NAME>SIEGENTHALER, JONAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175024</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
@@ -7288,7 +7288,7 @@
 		<Player>
 			<NAME>BRINK, BOBBY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213331</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
@@ -9943,7 +9943,7 @@
 		<Player>
 			<NAME>KOTKANIEMI, JESPERI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207533</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
