@@ -23,6 +23,15 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
+			<NAME>STENBERG, IVAR</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273059</WEB>
+			<TEAM>WPG</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
