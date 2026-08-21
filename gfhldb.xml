@@ -187,6 +187,15 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>LA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>EDM</TEAM>
@@ -8566,11 +8575,11 @@
 		<Player>
 			<NAME>GRANLUND, MIKAEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118389</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>SMITH, REILLY</NAME>
