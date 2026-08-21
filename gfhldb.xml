@@ -86,6 +86,15 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
+			<NAME>SMITS, ALBERTS</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>WSH</TEAM>
+			<POS>DEF</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
