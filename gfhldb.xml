@@ -32,6 +32,15 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
+			<NAME>BJORCK, VIGGO</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>DAL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
