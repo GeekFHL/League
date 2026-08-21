@@ -59,6 +59,15 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
+			<NAME>LAWRENCE, TYNAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=288029</WEB>
+			<TEAM>SEA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
