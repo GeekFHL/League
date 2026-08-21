@@ -77,6 +77,15 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
+			<NAME>CULLEN, WYATT</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>DET</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
