@@ -113,6 +113,15 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
+			<NAME>RUCK, LIAM</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272268</WEB>
+			<TEAM>COL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
