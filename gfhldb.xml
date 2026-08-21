@@ -124,6 +124,15 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>TOR</TEAM>
+			<POS>GLT</POS>
+			<SLOT>21</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>EDM</TEAM>
@@ -3733,7 +3742,7 @@
 		<Player>
 			<NAME>OHGREN, LIAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244120</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
@@ -8494,7 +8503,7 @@
 		<Player>
 			<NAME>COLE, IAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105381</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
@@ -8548,7 +8557,7 @@
 		<Player>
 			<NAME>KOPITAR, ANZE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=83457</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
@@ -9790,7 +9799,7 @@
 		<Player>
 			<NAME>PERRY, COREY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=59656</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
@@ -10780,7 +10789,7 @@
 		<Player>
 			<NAME>STOLARZ, ANTHONY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144264</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
