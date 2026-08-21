@@ -104,6 +104,15 @@
 			<SLOT>25</SLOT>
 		</Player>
 		<Player>
+			<NAME>BELCHETZ, ETHAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=284384</WEB>
+			<TEAM>DET</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
