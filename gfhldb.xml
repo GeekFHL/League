@@ -196,6 +196,15 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>COL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>6</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>EDM</TEAM>
@@ -8422,11 +8431,11 @@
 		<Player>
 			<NAME>FROST, MORGAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187447</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>CHEKHOVICH, IVAN</NAME>
