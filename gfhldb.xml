@@ -185,12 +185,12 @@
 			<SLOT>10</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
+			<NAME>LIN, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
-			<WEB></WEB>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272045</WEB>
 			<TEAM>ANA</TEAM>
-			<POS>FWD</POS>
+			<POS>DEF</POS>
 			<SLOT>18</SLOT>
 		</Player>
 		<Player>
