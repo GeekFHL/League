@@ -131,6 +131,15 @@
 			<SLOT>21</SLOT>
 		</Player>
 		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>FLA</TEAM>
+			<POS>DEF</POS>
+			<SLOT>24</SLOT>
+		</Player>
+		<Player>
 			<NAME>BLEYL, TOMMY</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -1006,11 +1015,11 @@
 		<Player>
 			<NAME>MRTKA, RADIM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273612</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>BUF</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARBONNEAU, JUSTIN</NAME>
