@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (SEAN WALKER SELECTION - 54TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (ALEXANDER ROMANOV SELECTION - 55TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -767,7 +767,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=186178</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHANSSON, MARCUS</NAME>
@@ -7369,11 +7369,11 @@
 		<Player>
 			<NAME>ROMANOV, ALEXANDER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213745</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>RUBTSOV, GERMAN</NAME>
