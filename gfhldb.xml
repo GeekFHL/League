@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (CHANDLER STEPHENSON SELECTION - 33RD OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (FABIAN ZETTERLUND SELECTION - 34TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -228,15 +228,6 @@
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>2</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>VAN</TEAM>
-			<POS>FWD</POS>
-			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -4426,11 +4417,11 @@
 		<Player>
 			<NAME>ZETTERLUND, FABIAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192064</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>O'CONNOR, LOGAN</NAME>
@@ -8642,7 +8633,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118389</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>SMITH, REILLY</NAME>
