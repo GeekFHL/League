@@ -3796,7 +3796,7 @@
 		<Player>
 			<NAME>KELLY, PARKER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229345</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
@@ -5578,7 +5578,7 @@
 		<Player>
 			<NAME>STENLUND, KEVIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180806</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
@@ -9799,7 +9799,7 @@
 		<Player>
 			<NAME>PELECH, ADAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130615</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
@@ -10798,7 +10798,7 @@
 		<Player>
 			<NAME>BURNS, BRENT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=71733</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
@@ -10996,7 +10996,7 @@
 		<Player>
 			<NAME>STAAL, JORDAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80489</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
@@ -11617,7 +11617,7 @@
 		<Player>
 			<NAME>BEAUVILLIER, ANTHONY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169563</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
