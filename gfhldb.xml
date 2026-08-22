@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (COLE SILLINGER SELECTION - 38TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (PATRIK LAINE SELECTION - 39TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -138,15 +138,6 @@
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>6</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>BOS</TEAM>
-			<POS>FWD</POS>
-			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -11185,11 +11176,11 @@
 		<Player>
 			<NAME>LAINE, PATRIK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176922</WEB>
-			<TEAM>NYI</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>BENNETT, SAM</NAME>
