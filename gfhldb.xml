@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (CAM FOWLER SELECTION - 45TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (SHAKIR MUKHAMADULLIN SELECTION - 46TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -146,7 +146,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270454</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>BELCHETZ, ETHAN</NAME>
@@ -412,7 +412,7 @@
 		<Player>
 			<NAME>HUTSON, QUINN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238540</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -646,7 +646,7 @@
 		<Player>
 			<NAME>BOWMAN, BRAEDEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229976</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -2653,11 +2653,11 @@
 		<Player>
 			<NAME>MUKHAMADULLIN, SHAKIR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225854</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>SAMOSKEVICH, MATTHEW</NAME>
@@ -6289,7 +6289,7 @@
 		<Player>
 			<NAME>LUNDKVIST, NILS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210202</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
@@ -6361,7 +6361,7 @@
 		<Player>
 			<NAME>LAUZON, JEREMY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169608</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
@@ -8359,7 +8359,7 @@
 		<Player>
 			<NAME>MONTEMBEAULT, SAMUEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169617</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>GLT</POS>
