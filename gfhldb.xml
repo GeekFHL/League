@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 21, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (QUENTIN MUSTY SELECTION - 29TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (OSCAR HEMMING SELECTION - 30TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -11,6 +11,15 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230661</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
+			<SLOT>23</SLOT>
+		</Player>
+		<Player>
+			<NAME>HEMMING, OSCAR</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=298634</WEB>
+			<TEAM>UTA</TEAM>
+			<POS>FWD</POS>
 			<SLOT>23</SLOT>
 		</Player>
 		<Player>
