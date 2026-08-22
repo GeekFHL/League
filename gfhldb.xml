@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (DAVID JIRICEK SELECTION - 36TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (COLE SILLINGER SELECTION - 38TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -259,6 +259,15 @@
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>FLA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>4</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>EDM</TEAM>
@@ -439,7 +448,7 @@
 		<Player>
 			<NAME>HAYES, AVERY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216617</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
@@ -2761,7 +2770,7 @@
 		<Player>
 			<NAME>STENBERG, OTTO</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248005</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
@@ -3175,7 +3184,7 @@
 		<Player>
 			<NAME>BAHL, KEVIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195846</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
@@ -5002,11 +5011,11 @@
 		<Player>
 			<NAME>SILLINGER, COLE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218022</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>SVECHKOV, FEDOR</NAME>
@@ -6919,7 +6928,7 @@
 		<Player>
 			<NAME>SIEGENTHALER, JONAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175024</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
@@ -7477,7 +7486,7 @@
 		<Player>
 			<NAME>BRINK, BOBBY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213331</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
@@ -10132,7 +10141,7 @@
 		<Player>
 			<NAME>KOTKANIEMI, JESPERI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207533</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
