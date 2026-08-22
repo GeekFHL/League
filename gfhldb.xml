@@ -144,6 +144,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>BOS</TEAM>
+			<POS>FWD</POS>
+			<SLOT>2</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>4</SLOT>
@@ -5587,11 +5596,11 @@
 		<Player>
 			<NAME>LUOSTARINEN, EETU</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197649</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDERSON, MICHAEL</NAME>
