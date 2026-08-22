@@ -153,6 +153,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>NYI</TEAM>
+			<POS>FWD</POS>
+			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
 			<SLOT>14</SLOT>
@@ -2338,7 +2347,7 @@
 		<Player>
 			<NAME>EMBERSON, TY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196110</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>DEF</POS>
@@ -4813,7 +4822,7 @@
 		<Player>
 			<NAME>JEANNOT, TANNER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=174618</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
@@ -5281,7 +5290,7 @@
 		<Player>
 			<NAME>KOLESAR, KEEGAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162464</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
@@ -7801,7 +7810,7 @@
 		<Player>
 			<NAME>MOORE, TREVOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145526</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
@@ -9511,7 +9520,7 @@
 		<Player>
 			<NAME>HAGUE, NICOLAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187433</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>DEF</POS>
@@ -10393,7 +10402,7 @@
 		<Player>
 			<NAME>RODRIGUES, EVAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=125404</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
