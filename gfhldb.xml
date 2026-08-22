@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 21, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (CHARLE-EDOUARD D'ASTOUS SELECTION - 32ND OVERALL)</LASTTRANS>
+	<UPDATED>August 22, 2026</UPDATED>
+	<LASTTRANS> GFHL DRAFT (CHANDLER STEPHENSON SELECTION - 33RD OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -138,6 +138,15 @@
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>6</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>LA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -1285,7 +1294,7 @@
 		<Player>
 			<NAME>HAMEENAHO, LENNI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251537</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
@@ -5803,7 +5812,7 @@
 		<Player>
 			<NAME>SUTER, PIUS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170175</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
@@ -6559,11 +6568,11 @@
 		<Player>
 			<NAME>STEPHENSON, CHANDLER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130705</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>ACCIARI, NOEL</NAME>
@@ -8908,7 +8917,7 @@
 		<Player>
 			<NAME>INGRAM, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172859</WEB>
 			<TEAM>LA</TEAM>
 			<POS>GLT</POS>
@@ -9016,7 +9025,7 @@
 		<Player>
 			<NAME>BRODIN, JONAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127571</WEB>
 			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
@@ -10564,7 +10573,7 @@
 		<Player>
 			<NAME>KLINGBERG, JOHN</NAME>
 			<CAPTAIN>A</CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127778</WEB>
 			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
@@ -12022,7 +12031,7 @@
 		<Player>
 			<NAME>ORLOV, DMITRI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106574</WEB>
 			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
