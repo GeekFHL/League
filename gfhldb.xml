@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (FABIAN ZETTERLUND SELECTION - 34TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (TONY DEANGELO SELECTION - 35TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -1622,7 +1622,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191621</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOLYACHONOK, VLADISLAV</NAME>
@@ -11320,11 +11320,11 @@
 		<Player>
 			<NAME>DEANGELO, TONY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130876</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>JENSEN, NICK</NAME>
