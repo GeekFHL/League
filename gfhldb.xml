@@ -610,7 +610,7 @@
 		<Player>
 			<NAME>TOLOPILO, NIKITA</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232637</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
@@ -1726,7 +1726,7 @@
 		<Player>
 			<NAME>BALINSKIS, UVIS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191621</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
@@ -7090,7 +7090,7 @@
 		<Player>
 			<NAME>BLUEGER, TEDDY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155334</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
@@ -7099,7 +7099,7 @@
 		<Player>
 			<NAME>FERRARO, MARIO</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176062</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
@@ -10546,7 +10546,7 @@
 		<Player>
 			<NAME>PAGEAU, JEAN-GABRIEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122661</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
@@ -11608,7 +11608,7 @@
 		<Player>
 			<NAME>YAMAMOTO, KAILER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177091</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
