@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (BENJAMIN RAUTIAINEN SELECTION - 44TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (CAM FOWLER SELECTION - 45TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -165,6 +165,15 @@
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>6</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>BOS</TEAM>
+			<POS>DEF</POS>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -772,7 +781,7 @@
 		<Player>
 			<NAME>CROZIER, MAXWELL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208615</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
@@ -853,7 +862,7 @@
 		<Player>
 			<NAME>SHEA, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179361</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
@@ -1429,7 +1438,7 @@
 		<Player>
 			<NAME>MEWS, HENRY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262251</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
@@ -8235,9 +8244,9 @@
 			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120956</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>VALIMAKI, JUUSO</NAME>
@@ -8935,7 +8944,7 @@
 		<Player>
 			<NAME>OLOFSSON, VICTOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=142605</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
@@ -9979,7 +9988,7 @@
 		<Player>
 			<NAME>DROUIN, JONATHAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=148882</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
@@ -11122,7 +11131,7 @@
 		<Player>
 			<NAME>LINDELL, ESA</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155341</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
