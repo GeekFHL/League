@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (TONY DEANGELO SELECTION - 35TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (DAVID JIRICEK SELECTION - 36TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -3940,11 +3940,11 @@
 		<Player>
 			<NAME>JIRICEK, DAVID</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=234936</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>UTA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>SAVOIE, MATTHEW</NAME>
@@ -11324,7 +11324,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130876</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>JENSEN, NICK</NAME>
