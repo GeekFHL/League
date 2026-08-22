@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (JULIUS MIETTINEN SELECTION - 47TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (MARKUS RUCK SELECTION - 48TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -163,6 +163,15 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=284384</WEB>
 			<TEAM>DET</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
+		</Player>
+		<Player>
+			<NAME>RUCK, MARKUS</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272332</WEB>
+			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>25</SLOT>
 		</Player>
