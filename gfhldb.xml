@@ -225,15 +225,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>SJ</TEAM>
-			<POS>DEF</POS>
-			<SLOT>13</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
@@ -381,15 +372,6 @@
 			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>24</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>NSH</TEAM>
-			<POS>DEF</POS>
-			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
