@@ -20,7 +20,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=298634</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>LETOURNEAU, DEAN</NAME>
@@ -138,15 +138,6 @@
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>6</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>UTA</TEAM>
-			<POS>FWD</POS>
-			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
