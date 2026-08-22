@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (BROOKS ROGOWSKI SELECTION - 52ND OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (ARTUR AKHTYAMOV SELECTION - 53RD OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>23</SLOT>
+		</Player>
+		<Player>
+			<NAME>AKHTYAMOV, ARTUR</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235521</WEB>
+			<TEAM>FLA</TEAM>
+			<POS>GLT</POS>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>ROGOWSKI, BROOKS</NAME>
@@ -264,15 +273,6 @@
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
 			<SLOT>9</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>FLA</TEAM>
-			<POS>DEF</POS>
-			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>BLEYL, TOMMY</NAME>
