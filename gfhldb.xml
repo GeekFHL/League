@@ -135,6 +135,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>UTA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>24</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
 			<SLOT>9</SLOT>
