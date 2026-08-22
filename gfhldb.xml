@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (A.J. GREER SELECTION - 41ST OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (ANTON FORSBERG SELECTION - 42ND OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -394,7 +394,7 @@
 		<Player>
 			<NAME>HUTSON, QUINN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238540</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -628,7 +628,7 @@
 		<Player>
 			<NAME>BOWMAN, BRAEDEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229976</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -2635,7 +2635,7 @@
 		<Player>
 			<NAME>MUKHAMADULLIN, SHAKIR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225854</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
@@ -6271,7 +6271,7 @@
 		<Player>
 			<NAME>LUNDKVIST, NILS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210202</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
@@ -6343,7 +6343,7 @@
 		<Player>
 			<NAME>LAUZON, JEREMY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169608</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
@@ -8341,11 +8341,11 @@
 		<Player>
 			<NAME>MONTEMBEAULT, SAMUEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169617</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>CHYTIL, FILIP</NAME>
@@ -9612,9 +9612,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143099</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>STEEL, SAM</NAME>
