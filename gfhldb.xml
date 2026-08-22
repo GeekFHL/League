@@ -988,7 +988,7 @@
 		<Player>
 			<NAME>POTTER, CULLEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271182</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
@@ -3607,7 +3607,7 @@
 		<Player>
 			<NAME>GUSHCHIN, DANIL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217074</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
@@ -4642,7 +4642,7 @@
 		<Player>
 			<NAME>GAUDREAU, FREDERICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143870</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
@@ -9844,7 +9844,7 @@
 		<Player>
 			<NAME>PETTERSSON, MARCUS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172754</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>DEF</POS>
@@ -9889,7 +9889,7 @@
 		<Player>
 			<NAME>DICKINSON, JASON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145034</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
@@ -10915,7 +10915,7 @@
 		<Player>
 			<NAME>MURPHY, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123373</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>DEF</POS>
