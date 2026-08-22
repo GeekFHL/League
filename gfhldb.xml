@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (ADAM KLAPKA SELECTION - 60TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (ERIK CERNAK SELECTION - 61ST OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -210,6 +210,15 @@
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>6</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>SJ</TEAM>
+			<POS>DEF</POS>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -9403,11 +9412,11 @@
 		<Player>
 			<NAME>CERNAK, ERIK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176845</WEB>
-			<TEAM>SJ</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAN, JAKE</NAME>
