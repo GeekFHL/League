@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (ERIK CERNAK SELECTION - 61ST OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (RYAN GREENE SELECTION - 62ND OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -210,6 +210,15 @@
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>6</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>MIN</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -565,11 +574,11 @@
 		<Player>
 			<NAME>GREENE, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228468</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEE, RYKER</NAME>
@@ -3751,7 +3760,7 @@
 		<Player>
 			<NAME>BLANKENBURG, NICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207892</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
@@ -7693,7 +7702,7 @@
 		<Player>
 			<NAME>TEXIER, ALEXANDRE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -7945,7 +7954,7 @@
 		<Player>
 			<NAME>DONATO, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175315</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -10789,7 +10798,7 @@
 		<Player>
 			<NAME>LETANG, KRISTOPHER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80459</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
@@ -11194,7 +11203,7 @@
 		<Player>
 			<NAME>ANDERSON, JOSH</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=138920</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
@@ -11698,7 +11707,7 @@
 		<Player>
 			<NAME>COMRIE, ERIC</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132742</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
