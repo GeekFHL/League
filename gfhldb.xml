@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (MICHAL POSTAVA SELECTION - 40TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (A.J. GREER SELECTION - 41ST OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -147,6 +147,15 @@
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>6</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -3454,11 +3463,11 @@
 		<Player>
 			<NAME>GREER, A.J.</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171577</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>KALLGREN, ERIK</NAME>
