@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 21, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (OSCAR HEMMING SELECTION - 30TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (SAMUEL GIRARD SELECTION - 31ST OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -219,6 +219,15 @@
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
 			<SLOT>5</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>CGY</TEAM>
+			<POS>DEF</POS>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -4696,7 +4705,7 @@
 		<Player>
 			<NAME>POSPISIL, MARTIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209457</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
@@ -4930,7 +4939,7 @@
 		<Player>
 			<NAME>BUNTING, MICHAEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170104</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
@@ -8008,7 +8017,7 @@
 		<Player>
 			<NAME>SKJEI, BRADY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130995</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
@@ -8170,11 +8179,11 @@
 		<Player>
 			<NAME>GIRARD, SAMUEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176679</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>FOWLER, CAM</NAME>
@@ -10978,7 +10987,7 @@
 		<Player>
 			<NAME>TERAVAINEN, TEUVO</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144613</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
@@ -11941,7 +11950,7 @@
 		<Player>
 			<NAME>DOMI, MAX</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130519</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
