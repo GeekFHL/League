@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (TOBIAS TREJBAL SELECTION - 72ND OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (JOSHUA ROY SELECTION - 73RD OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -1015,7 +1015,7 @@
 		<Player>
 			<NAME>WEST, MASON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=292148</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
@@ -1996,7 +1996,7 @@
 		<Player>
 			<NAME>DEL MASTRO, ETHAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227237</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>DEF</POS>
@@ -2275,7 +2275,7 @@
 		<Player>
 			<NAME>REMPE, MATT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216250</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
@@ -3742,7 +3742,7 @@
 		<Player>
 			<NAME>ROY, JOSHUA</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227346</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
@@ -9466,7 +9466,7 @@
 		<Player>
 			<NAME>CARLO, BRANDON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161688</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>DEF</POS>
@@ -12337,7 +12337,7 @@
 		<Player>
 			<NAME>RASMUSSEN, MICHAEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=178651</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
