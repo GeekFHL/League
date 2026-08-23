@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 23, 2026</UPDATED>
-	<LASTTRANS> PIT-VAN TRADE (VGK2 2027 FOR YAGER)</LASTTRANS>
+	<LASTTRANS> EDM-NSH TRADE (FLA2 2027 FOR T.J. HUGHES)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -54,9 +54,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=223516</WEB>
-			<TEAM>NSH</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>HURLBERT, J.P.</NAME>
@@ -345,15 +345,6 @@
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
 			<SLOT>18</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>EDM</TEAM>
-			<POS>FWD</POS>
-			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>KLEPOV, NIKITA</NAME>
