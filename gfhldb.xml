@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 23, 2026</UPDATED>
-	<LASTTRANS> TOR-DAL TRADE (MIETTINEN, DAL2 2027 FOR HURLBERT, STEPHENSON)</LASTTRANS>
+	<LASTTRANS> NYI-SEA TRADE (SALOMONSSON FOR D'ASTOUS, D.COOLEY)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -792,9 +792,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=186178</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>NYI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHANSSON, MARCUS</NAME>
@@ -1458,9 +1458,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238776</WEB>
-			<TEAM>NYI</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
         <Player>
 			<NAME>LARDIS, NICK</NAME>
@@ -1548,7 +1548,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179757</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>NYI</TEAM>
 			<POS>GLT</POS>
 			<SLOT>25</SLOT>
 		</Player>
