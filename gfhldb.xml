@@ -126,9 +126,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=288544</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>HEMMING, OSCAR</NAME>
@@ -288,15 +288,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>ANA</TEAM>
-			<POS>FWD</POS>
-			<SLOT>6</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
 			<SLOT>14</SLOT>
@@ -336,15 +327,6 @@
 			<TEAM>CAR</TEAM>
 			<POS>GLT</POS>
 			<SLOT>20</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>EDM</TEAM>
-			<POS>FWD</POS>
-			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
