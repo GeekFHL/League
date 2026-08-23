@@ -3112,7 +3112,7 @@
 		<Player>
 			<NAME>TUCKER, TYLER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191525</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>DEF</POS>
@@ -5668,7 +5668,7 @@
 		<Player>
 			<NAME>KURASHEV, PHILIPP</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195945</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
@@ -9664,7 +9664,7 @@
 		<Player>
 			<NAME>ARMIA, JOEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130454</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
@@ -10123,7 +10123,7 @@
 		<Player>
 			<NAME>DEMELO, DYLAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122857</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>DEF</POS>
@@ -10996,7 +10996,7 @@
 		<Player>
 			<NAME>PRIMEAU, CAYDEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196138</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>GLT</POS>
@@ -11419,7 +11419,7 @@
 		<Player>
 			<NAME>FOLIGNO, NICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80212</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
@@ -12283,7 +12283,7 @@
 		<Player>
 			<NAME>VARLAMOV, SEMYON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89271</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>GLT</POS>
