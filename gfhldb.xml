@@ -128,7 +128,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=288544</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>25</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>HEMMING, OSCAR</NAME>
@@ -371,7 +371,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=290848</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -1080,9 +1080,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235428</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>REID, CAMERON</NAME>
@@ -1440,9 +1440,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=250774</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>HAMEENAHO, LENNI</NAME>
@@ -4997,7 +4997,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>TKACHEV, VLADIMIR</NAME>
@@ -11882,7 +11882,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123400</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARLSON, JOHN</NAME>
