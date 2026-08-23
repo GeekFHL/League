@@ -3580,7 +3580,7 @@
 		<Player>
 			<NAME>BARRON, MORGAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196572</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
@@ -4831,7 +4831,7 @@
 		<Player>
 			<NAME>STANLEY, LOGAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177612</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
@@ -6811,7 +6811,7 @@
 		<Player>
 			<NAME>ROBINSON, ERIC</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170338</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
@@ -8188,7 +8188,7 @@
 		<Player>
 			<NAME>MCNABB, BRAYDEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98196</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
@@ -8764,7 +8764,7 @@
 		<Player>
 			<NAME>SMITH, REILLY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=115612</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
@@ -8989,7 +8989,7 @@
 		<Player>
 			<NAME>MAHURA, JOSH</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172634</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
@@ -9412,7 +9412,7 @@
 		<Player>
 			<NAME>KAPANEN, KASPERI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162338</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
@@ -9475,7 +9475,7 @@
 		<Player>
 			<NAME>GUDBRANSON, ERIK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116033</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
