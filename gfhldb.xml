@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (J.P. HURLBERT SELECTION - 65TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (T.J. HUGHES SELECTION - 66TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>23</SLOT>
+		</Player>
+		<Player>
+			<NAME>HUGHES, T.J.</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=223516</WEB>
+			<TEAM>NSH</TEAM>
+			<POS>FWD</POS>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>HURLBERT, J.P.</NAME>
