@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 23, 2026</UPDATED>
-	<LASTTRANS> DALLAS RELEASES (BOQVIST, TSYPLAKOV, KULAK, JOKIHARJU)</LASTTRANS>
+	<LASTTRANS> MTL-NYI TRADE (ROGOWSKI, MTL2 2028 FOR MUKHAMADULLIN, D. COOLEY)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -81,7 +81,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=288776</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
 			<SLOT>24</SLOT>
 		</Player>
@@ -1539,7 +1539,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179757</WEB>
-			<TEAM>NYI</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
 			<SLOT>25</SLOT>
 		</Player>
@@ -2727,7 +2727,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225854</WEB>
-			<TEAM>NYI</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
 			<SLOT>24</SLOT>
 		</Player>
