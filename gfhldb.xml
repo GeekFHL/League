@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (T.J. HUGHES SELECTION - 66TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (TOMAS GALVAS SELECTION - 67TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>23</SLOT>
+		</Player>
+		<Player>
+			<NAME>GALVAS, TOMAS</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265616</WEB>
+			<TEAM>PIT</TEAM>
+			<POS>DEF</POS>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUGHES, T.J.</NAME>
