@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 23, 2026</UPDATED>
-	<LASTTRANS> CAR-DET TRADE (TARASENKO FOR LAMOUREUX, KEMELL)</LASTTRANS>
+	<LASTTRANS> DALLAS RELEASES (BOQVIST, TSYPLAKOV, KULAK, JOKIHARJU)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -101,7 +101,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270157</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>RAUTIAINEN, BENJAMIN</NAME>
@@ -173,7 +173,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=286518</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>REID, CHASE</NAME>
@@ -596,7 +596,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228468</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEE, RYKER</NAME>
@@ -1127,7 +1127,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271649</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>AITCHESON, KASHAWN</NAME>
@@ -2036,7 +2036,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=268690</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOISVERT, SACHA</NAME>
@@ -2277,9 +2277,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207683</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GULYAYEV, MIKHAIL</NAME>
@@ -3305,7 +3305,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=186185</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>NOVAK, THOMAS</NAME>
@@ -7497,9 +7497,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130818</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>NYGARD, JOAKIM</NAME>
@@ -7569,9 +7569,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192047</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>FA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSEPH, PIERRE-OLIVIER</NAME>
@@ -9243,9 +9243,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196298</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FOX, ADAM</NAME>
