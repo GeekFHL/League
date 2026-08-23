@@ -1852,7 +1852,7 @@
 		<Player>
 			<NAME>DUKE, DYLAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228211</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
@@ -3238,7 +3238,7 @@
 		<Player>
 			<NAME>CHATFIELD, JALEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177555</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
@@ -3301,7 +3301,7 @@
 		<Player>
 			<NAME>ERSSON, SAMUEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210178</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>GLT</POS>
@@ -6514,7 +6514,7 @@
 		<Player>
 			<NAME>WHITECLOUD, ZACH</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=165828</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
@@ -9133,7 +9133,7 @@
 		<Player>
 			<NAME>MYERS, TYLER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=94206</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
@@ -9754,7 +9754,7 @@
 		<Player>
 			<NAME>DUCLAIR, ANTHONY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143840</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
