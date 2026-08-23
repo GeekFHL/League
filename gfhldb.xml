@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (TOMAS GALVAS SELECTION - 67TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (ARBER XHEKAJ SELECTION - 68TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -252,9 +252,18 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>MIN</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -430,7 +439,7 @@
 		<Player>
 			<NAME>SOLOVYOV, ILYA</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227265</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
@@ -1771,7 +1780,7 @@
 		<Player>
 			<NAME>UNGAR, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219994</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>GLT</POS>
@@ -2275,7 +2284,7 @@
 		<Player>
 			<NAME>GULYAYEV, MIKHAIL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=260632</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
@@ -3571,11 +3580,11 @@
 		<Player>
 			<NAME>XHEKAJ, ARBER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216624</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>PEZZETTA, MICHAEL</NAME>
