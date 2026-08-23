@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (JOSHUA ROY SELECTION - 73RD OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (BILL ZONNON SELECTION - 74TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>23</SLOT>
+		</Player>
+		<Player>
+			<NAME>ZONNON, BILL</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261571</WEB>
+			<TEAM>FLA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>TREJBAL, TOBIAS</NAME>
@@ -408,15 +417,6 @@
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>8</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>FLA</TEAM>
-			<POS>FWD</POS>
-			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
