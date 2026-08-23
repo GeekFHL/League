@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 23, 2026</UPDATED>
-	<LASTTRANS> MIN-NYI TRADE (HUBERDEAU FOR ROGOWSKI)</LASTTRANS>
+	<LASTTRANS> PIT RELEASES Z.JONES</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -11,7 +11,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230661</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>SMOLIN, ALEXANDER</NAME>
@@ -5634,9 +5634,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217053</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHENN, LUKE</NAME>
