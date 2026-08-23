@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (ARBER XHEKAJ SELECTION - 68TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (NICOLAS ROY SELECTION - 69TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -235,6 +235,15 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272268</WEB>
 			<TEAM>COL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>6</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>6</SLOT>
 		</Player>
@@ -5821,11 +5830,11 @@
 		<Player>
 			<NAME>ROY, NICOLAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169632</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOKK, DOMINIK</NAME>
