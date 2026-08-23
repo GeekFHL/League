@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (ALEXANDER SMOLIN SELECTION - 76TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (BRADEN SCHNEIDER SELECTION - 77TH OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -324,9 +324,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -1141,7 +1141,7 @@
 		<Player>
 			<NAME>TOEWS, JONATHAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=93829</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
@@ -1525,10 +1525,10 @@
 			<POS>FWD</POS>
 			<SLOT>2</SLOT>
 		</Player>
-                 <Player>
+        <Player>
 			<NAME>JOHANSSON, ALBERT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218279</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
@@ -2671,7 +2671,7 @@
 		<Player>
 			<NAME>KAISER, WYATT</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227811</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
@@ -5164,7 +5164,7 @@
 		<Player>
 			<NAME>SVECHKOV, FEDOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241830</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>FWD</POS>
@@ -6154,11 +6154,11 @@
 		<Player>
 			<NAME>SCHNEIDER, BRADEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=202373</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAPIERRE, HENDRIX</NAME>
@@ -12418,7 +12418,7 @@
 		<Player>
 			<NAME>HELLESON, DREW</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209478</WEB>
 			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
