@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 22, 2026</UPDATED>
-	<LASTTRANS> GFHL DRAFT (DYLAN SAMBERG SELECTION - 70TH OVERALL)</LASTTRANS>
+	<LASTTRANS> GFHL DRAFT (PHILIPP GRUBAUER SELECTION - 71ST OVERALL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -237,6 +237,15 @@
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>6</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>CHI</TEAM>
+			<POS>GLT</POS>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -5587,7 +5596,7 @@
 		<Player>
 			<NAME>EVANS, JAKE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145580</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -5740,7 +5749,7 @@
 		<Player>
 			<NAME>ANDERSON, MICHAEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187480</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
@@ -6298,7 +6307,7 @@
 		<Player>
 			<NAME>HOLTZ, ALEXANDER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=222890</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -8296,7 +8305,7 @@
 		<Player>
 			<NAME>BACKLUND, MIKAEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=104255</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
@@ -9898,11 +9907,11 @@
 		<Player>
 			<NAME>GRUBAUER, PHILIPP</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=112814</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>JENNER, BOONE</NAME>
@@ -10429,7 +10438,7 @@
 		<Player>
 			<NAME>MCDONAGH, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=99570</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
