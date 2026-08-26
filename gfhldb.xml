@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 23, 2026</UPDATED>
-	<LASTTRANS> TOR RELEASES (KOPITAR, I.COLE)</LASTTRANS>
+	<UPDATED>August 25, 2026</UPDATED>
+	<LASTTRANS> MTL RELEASES TOLOPILO</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -630,9 +630,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232637</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>NYSTROM, JOEL</NAME>
