@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> NJ signs Hathaway, releases Stanley </LASTTRANS>
+	<LASTTRANS> VAN releases C. Kyrou </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -1388,7 +1388,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=269199</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAR, CARTER</NAME>
@@ -3080,7 +3080,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249530</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>REINBACHER, DAVID</NAME>
@@ -3186,9 +3186,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228638</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HILDEBY, DENNIS</NAME>
@@ -3620,7 +3620,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171577</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>KALLGREN, ERIK</NAME>
@@ -4556,7 +4556,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=212466</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>PROTAS, ALIAKSEI</NAME>
@@ -8381,7 +8381,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176679</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>FOWLER, CAM</NAME>
@@ -11954,7 +11954,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170113</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZADOROV, NIKITA</NAME>
