@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> EDM-DET TRADE (BLEYL, LA1 2027 FOR QUINN, FUTURES)</LASTTRANS>
+	<LASTTRANS> COL-TB TRADE (COL1 2027, COL2 2028 FOR BARZAL)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -345,6 +345,15 @@
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>4</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>TB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -810,9 +819,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98452</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CREVIER, LOUIS</NAME>
@@ -10035,9 +10044,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162987</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>POEHLING, RYAN</NAME>
