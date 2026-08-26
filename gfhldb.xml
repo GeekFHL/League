@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> EDM signs Eloffson </LASTTRANS>
+	<LASTTRANS> CGY signs Gustafsson, releases Domi </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>17</SLOT>
+		</Player>
+		<Player>
+			<NAME>GUSTAFSSON, MALTE</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=288661</WEB>
+			<TEAM>CGY</TEAM>
+			<POS>DEF</POS>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>ELOFSSON, AXEL</NAME>
@@ -12132,9 +12141,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130519</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHENN, BRAYDEN</NAME>
