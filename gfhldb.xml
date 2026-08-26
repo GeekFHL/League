@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> ANA SIGNS BORICHEV (G)</LASTTRANS>
+	<LASTTRANS> MTL SIGNS PALMIERI, RELEASES YAMAMOTO</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -8901,9 +8901,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120908</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>KAPRIZOV, KIRILL</NAME>
@@ -11655,9 +11655,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177091</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAUVILLIER, ANTHONY</NAME>
