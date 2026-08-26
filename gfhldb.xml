@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> CHI SIGNS COMMAND </LASTTRANS>
+	<LASTTRANS> WSH SIGNS JONSSON, RELEASES FOLIGNO, KURASHEV </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -1301,13 +1301,22 @@
 			<SLOT>22</SLOT>
 		</Player>
 		<Player>
+			<NAME>JONSSON, SAMUEL</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=243838</WEB>
+			<TEAM>WSH</TEAM>
+			<POS>GLT</POS>
+			<SLOT>24</SLOT>
+		</Player>
+		<Player>
 			<NAME>EKLUND, VICTOR</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265173</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>MCQUEEN, ROGER</NAME>
@@ -12458,7 +12467,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270607</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>MERILAINEN, LEEVI</NAME>
