@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> NYR SIGNS SCHWARTZ, RELEASES GULYAYEV, UNGAR</LASTTRANS>
+	<LASTTRANS> EDM SIGNS LUC KOBLAR </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>17</SLOT>
+		</Player>
+		<Player>
+			<NAME>KOBLAR, TINUS-LUC</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273110</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>O'REILLY, SAM</NAME>
@@ -281,15 +290,6 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=291813</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>EDM</TEAM>
-			<POS>FWD</POS>
 			<SLOT>22</SLOT>
 		</Player>
 		<Player>
