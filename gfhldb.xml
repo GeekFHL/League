@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> CHI-NSH TRADE (COYLE, BACKLUND FOR DIPIETRO, DEWAR, NSH RELEASES GAUDETTE)</LASTTRANS>
+	<LASTTRANS> BOS-CLB TRADE (BOS2 2028 FOR ROSEN)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -1550,7 +1550,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265424</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>COOLEY, DEVIN</NAME>
@@ -5058,9 +5058,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233734</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>RUOTSALAINEN, ARTTU</NAME>
@@ -11306,7 +11306,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176922</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>BENNETT, SAM</NAME>
