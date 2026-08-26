@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> UTAH signs L. Del Bel Belluz, releases Hutton </LASTTRANS>
+	<LASTTRANS> LA signs Fink </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>17</SLOT>
+		</Player>
+		<Player>
+			<NAME>FINK, AIDAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=246282</WEB>
+			<TEAM>LA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>PUGACHYOV, GLEB</NAME>
@@ -408,15 +417,6 @@
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>2</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>LA</TEAM>
-			<POS>FWD</POS>
-			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>LIN, RYAN</NAME>
