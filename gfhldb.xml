@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> SEATTLE CLAIMS KULAK OFF WAIVERS</LASTTRANS>
+	<LASTTRANS> ANA-PHI TRADE (RUDOLPH, KORCHINSKI, FIRKUS FOR SEIDER, LAUGHTON)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -270,6 +270,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>ANA</TEAM>
+			<POS>DEF</POS>
+			<SLOT>13</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
 			<SLOT>22</SLOT>
@@ -396,9 +405,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=287657</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARELS, CARSON</NAME>
@@ -1845,9 +1854,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228211</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MURASHOV, SERGEI</NAME>
@@ -3816,9 +3825,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229345</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>DUFOUR, WILLIAM</NAME>
@@ -4014,9 +4023,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229107</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>NAZAR, FRANK</NAME>
@@ -6507,7 +6516,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=165828</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>14</SLOT>
 		</Player>
@@ -7391,7 +7400,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213745</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>RUBTSOV, GERMAN</NAME>
@@ -7832,7 +7841,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=212672</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOLDY, MATTHEW</NAME>
@@ -8109,9 +8118,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=128062</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>MATTHEWS, AUSTON</NAME>
@@ -9126,9 +9135,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=94206</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BRODIN, JONAS</NAME>
