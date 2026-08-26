@@ -351,15 +351,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>NSH</TEAM>
-			<POS>DEF</POS>
-			<SLOT>22</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
 			<SLOT>2</SLOT>
@@ -8912,7 +8903,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=115984</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>GIBSON, JOHN</NAME>
@@ -9902,7 +9893,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106892</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>HARRINGTON, SCOTT</NAME>
@@ -10397,7 +10388,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145443</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>SKINNER, JEFF</NAME>
