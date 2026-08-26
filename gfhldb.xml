@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> LA claims Jokiharju off waivers, releases Brodin </LASTTRANS>
+	<LASTTRANS> MIN-BUF Trade (Letang for BUF2 2028) </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -345,6 +345,15 @@
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
 			<SLOT>2</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>MIN</TEAM>
+			<POS>DEF</POS>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -9947,7 +9956,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145034</WEB>
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>KONECNY, TRAVIS</NAME>
@@ -10863,9 +10872,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80459</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>BUF</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZBORIL, JAKUB</NAME>
