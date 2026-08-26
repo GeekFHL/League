@@ -270,6 +270,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>BOS</TEAM>
+			<POS>FWD</POS>
+			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>BUF</TEAM>
 			<POS>FWD</POS>
 			<SLOT>2</SLOT>
