@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> MTL RELEASES TOLOPILO</LASTTRANS>
+	<LASTTRANS> MIN-BOS TRADE (PROVOROV FOR BEAUDOIN, BOS1 2028)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -866,7 +866,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208615</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>DOUGLAS, CURTIS</NAME>
@@ -1890,9 +1890,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251173</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>UFKO, RYAN</NAME>
@@ -3791,7 +3791,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207892</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>SALO, ROBIN</NAME>
@@ -10073,7 +10073,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=148882</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>MEIER, TIMO</NAME>
@@ -10269,9 +10269,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170336</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>BLACKWOOD, MACKENZIE</NAME>
