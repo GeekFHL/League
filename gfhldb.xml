@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> LA CLAIMS JONES, RELEASES KLINGBERG </LASTTRANS>
+	<LASTTRANS> MIN SIGNS PUGACHYOV </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>17</SLOT>
+		</Player>
+		<Player>
+			<NAME>PUGACHYOV, GLEB</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=293680</WEB>
+			<TEAM>MIN</TEAM>
+			<POS>FWD</POS>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>COMMAND, ALEXANDER</NAME>
@@ -371,16 +380,7 @@
 			<WEB></WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>MIN</TEAM>
-			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -7787,7 +7787,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195106</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANCOUZ, PAVEL</NAME>
@@ -9110,7 +9110,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145634</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>FORSBERG, FILIP</NAME>
