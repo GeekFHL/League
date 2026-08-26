@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> EDM SIGNS LUC KOBLAR </LASTTRANS>
+	<LASTTRANS> LA SIGNS SCHMIDT </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>17</SLOT>
+		</Player>
+		<Player>
+			<NAME>SCHMIDT, CAMERON</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265007</WEB>
+			<TEAM>LA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOBLAR, TINUS-LUC</NAME>
@@ -306,15 +315,6 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
-			<TEAM>PHI</TEAM>
-			<POS>FWD</POS>
-			<SLOT>9</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>12</SLOT>
@@ -363,15 +363,6 @@
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
 			<SLOT>9</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>LA</TEAM>
-			<POS>FWD</POS>
-			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
