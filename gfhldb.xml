@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> LA signs Fink </LASTTRANS>
+	<LASTTRANS> MTL signs Hermansson, releases Balinskis </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>17</SLOT>
+		</Player>
+		<Player>
+			<NAME>HERMANSSON, ELTON</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272067</WEB>
+			<TEAM>MTL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>FINK, AIDAN</NAME>
@@ -1782,9 +1791,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191621</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KOLYACHONOK, VLADISLAV</NAME>
@@ -2774,7 +2783,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225854</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>SAMOSKEVICH, MATTHEW</NAME>
