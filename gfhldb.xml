@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> UTA SIGNS HUSSO, RELEASES QUICK </LASTTRANS>
+	<LASTTRANS> CHI SIGNS COMMAND </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>17</SLOT>
+		</Player>
+		<Player>
+			<NAME>COMMAND, ALEXANDER</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=290460</WEB>
+			<TEAM>CHI</TEAM>
+			<POS>FWD</POS>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDSTEIN, THEO</NAME>
