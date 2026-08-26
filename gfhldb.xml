@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> VAN releases C. Kyrou </LASTTRANS>
+	<LASTTRANS> LA claims Jokiharju off waivers, releases Brodin </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -327,15 +327,6 @@
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
 			<SLOT>22</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>ANA</TEAM>
-			<POS>DEF</POS>
-			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -9189,9 +9180,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127571</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>QUICK, JONATHAN</NAME>
@@ -9297,9 +9288,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196298</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>FOX, ADAM</NAME>
