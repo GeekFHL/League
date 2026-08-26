@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> ANA-PHI TRADE (RUDOLPH, KORCHINSKI, FIRKUS FOR SEIDER, LAUGHTON)</LASTTRANS>
+	<LASTTRANS> EDM-DET TRADE (BLEYL, LA1 2027 FOR QUINN, FUTURES)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -270,6 +270,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
 			<SLOT>13</SLOT>
@@ -351,9 +360,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=290848</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -6255,9 +6264,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208510</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>CHINAKHOV, YEGOR</NAME>
@@ -11774,7 +11783,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96554</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>MALKIN, EVGENI</NAME>
