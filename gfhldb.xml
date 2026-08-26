@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> BOS-CLB TRADE (BOS2 2028 FOR ROSEN)</LASTTRANS>
+	<LASTTRANS> SEATTLE CLAIMS KULAK OFF WAIVERS</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -318,15 +318,6 @@
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
 			<SLOT>9</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>SEA</TEAM>
-			<POS>DEF</POS>
-			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -7515,9 +7506,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130818</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>NYGARD, JOAKIM</NAME>
