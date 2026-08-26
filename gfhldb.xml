@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> COL-TB TRADE (COL1 2027, COL2 2028 FOR BARZAL)</LASTTRANS>
+	<LASTTRANS> ANA SIGNS BORICHEV (G)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -264,6 +264,15 @@
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
 			<SLOT>6</SLOT>
+		</Player>
+		<Player>
+			<NAME>BORICHEV, DMITRY</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=291813</WEB>
+			<TEAM>ANA</TEAM>
+			<POS>GLT</POS>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -2405,7 +2414,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213346</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUNT, DAEMON</NAME>
