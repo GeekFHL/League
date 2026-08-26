@@ -279,6 +279,15 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
+			<TEAM>PHI</TEAM>
+			<POS>FWD</POS>
+			<SLOT>9</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
 			<SLOT>22</SLOT>
