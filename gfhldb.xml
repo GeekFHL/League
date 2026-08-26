@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> SEATTLE RELEASES (J.TOEWS, SVECHKOV, ZELLERS)</LASTTRANS>
+	<LASTTRANS> CHI-NSH TRADE (COYLE, BACKLUND FOR DIPIETRO, DEWAR, NSH RELEASES GAUDETTE)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -271,6 +271,15 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB></WEB>
 			<TEAM>BOS</TEAM>
+			<POS>DEF</POS>
+			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
 			<SLOT>22</SLOT>
 		</Player>
@@ -4293,9 +4302,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187314</WEB>
-			<TEAM>NSH</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>PETROV, MATVEY</NAME>
@@ -4367,7 +4376,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176927</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>LARSSON, JOHAN</NAME>
@@ -6284,7 +6293,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=222890</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>PERFETTI, COLE</NAME>
@@ -7301,7 +7310,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151662</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>MANGIAPANE, ANDREW</NAME>
@@ -8217,9 +8226,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187458</WEB>
-			<TEAM>NSH</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>STEPHENS, MITCHELL</NAME>
@@ -8280,9 +8289,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=104255</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>HAMILTON, DOUGIE</NAME>
@@ -8928,9 +8937,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177644</WEB>
-			<TEAM>NSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GUENTZEL, JAKE</NAME>
@@ -9108,9 +9117,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127797</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>BONINO, NICK</NAME>
@@ -9839,7 +9848,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106892</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>HARRINGTON, SCOTT</NAME>
