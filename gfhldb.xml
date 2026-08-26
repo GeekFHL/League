@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> CGY signs Gustafsson, releases Domi </LASTTRANS>
+	<LASTTRANS> CLB signs E. Hemming, releases Q. Hutson </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
 			<SLOT>17</SLOT>
+		</Player>
+		<Player>
+			<NAME>HEMMING, EMIL</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270638</WEB>
+			<TEAM>CLB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>GUSTAFSSON, MALTE</NAME>
@@ -540,9 +549,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238540</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HENSLER, LOGAN</NAME>
