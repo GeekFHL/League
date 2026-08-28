@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 27, 2026</UPDATED>
-	<LASTTRANS> VAN-OTT trade (Kapanen for TOR2 2028) </LASTTRANS>
+	<LASTTRANS> DAL claims Yamamoto, releases Pelletier </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -1199,7 +1199,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271649</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>AITCHESON, KASHAWN</NAME>
@@ -5760,9 +5760,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209005</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>WALSH, REILLY</NAME>
@@ -11700,9 +11700,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177091</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAUVILLIER, ANTHONY</NAME>
