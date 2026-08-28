@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 27, 2026</UPDATED>
-	<LASTTRANS> TOR-CHI Trade (Perry, TOR 2 2028 for Skinner) </LASTTRANS>
+	<LASTTRANS> VAN claims Svechkov </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -372,15 +372,6 @@
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
 			<SLOT>22</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>VAN</TEAM>
-			<POS>FWD</POS>
-			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -5193,9 +5184,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241830</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>EDVINSSON, SIMON</NAME>
