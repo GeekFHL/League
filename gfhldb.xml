@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 27, 2026</UPDATED>
-	<LASTTRANS> FLA releases Kotkaniemi </LASTTRANS>
+	<LASTTRANS> VAN-OTT trade (Kapanen for TOR2 2028) </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -372,6 +372,15 @@
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
 			<SLOT>22</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>VAN</TEAM>
+			<POS>FWD</POS>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME></NAME>
@@ -1172,7 +1181,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271401</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>RESCHNY, COLE</NAME>
@@ -4214,7 +4223,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229104</WEB>
 			<TEAM>OTT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>STEEVES, ALEX</NAME>
@@ -11520,7 +11529,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116513</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
 		</Player>
@@ -12105,9 +12114,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=110237</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FABBRO, DANTE</NAME>
@@ -12411,9 +12420,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241782</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOIVUNEN, VILLE</NAME>
