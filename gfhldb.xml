@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 27, 2026</UPDATED>
-	<LASTTRANS> VAN claims Svechkov </LASTTRANS>
+	<LASTTRANS> MTL signs Suvanto, releases Blueger </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -237,6 +237,15 @@
 			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>23</SLOT>
+		</Player>
+		<Player>
+			<NAME>SUVANTO, OLIVER</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=294181</WEB>
+			<TEAM>MTL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>LETOURNEAU, DEAN</NAME>
@@ -7164,9 +7173,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155334</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FERRARO, MARIO</NAME>
