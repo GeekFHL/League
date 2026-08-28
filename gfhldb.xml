@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 27, 2026</UPDATED>
-	<LASTTRANS> NJ signs Copley, releases R.Smith </LASTTRANS>
+	<LASTTRANS> FLA releases Kotkaniemi </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -128,7 +128,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261571</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>TREJBAL, TOBIAS</NAME>
@@ -614,7 +614,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216617</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>KUZNETSOV, YAN</NAME>
@@ -2945,7 +2945,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248005</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>HRABAL, MICHAEL</NAME>
@@ -3260,7 +3260,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161083</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOLDUC, SAMUEL</NAME>
@@ -3656,7 +3656,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216624</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>PEZZETTA, MICHAEL</NAME>
@@ -5042,7 +5042,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217763</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>THOMPSON, LOGAN</NAME>
@@ -10314,9 +10314,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207533</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CHOLOWSKI, DENNIS</NAME>
@@ -10595,7 +10595,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161358</WEB>
 			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>DRAISAITL, LEON</NAME>
