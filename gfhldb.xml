@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 27, 2026</UPDATED>
-	<LASTTRANS> ANA signs Paul, releases Talbot </LASTTRANS>
+	<LASTTRANS> NYR claims Q. Hutson, waives Solovyov </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -443,7 +443,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=287477</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>LIN, RYAN</NAME>
@@ -504,9 +504,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227265</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CIHAR, VOJTECH</NAME>
@@ -549,9 +549,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238540</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>HENSLER, LOGAN</NAME>
@@ -6185,7 +6185,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=202373</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAPIERRE, HENDRIX</NAME>
@@ -8390,7 +8390,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120956</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>VALIMAKI, JUUSO</NAME>
@@ -8696,7 +8696,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118953</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>KILLORN, ALEXANDER</NAME>
