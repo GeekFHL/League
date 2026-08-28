@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 27, 2026</UPDATED>
-	<LASTTRANS> DAL claims Yamamoto, releases Pelletier </LASTTRANS>
+	<LASTTRANS> TB signs Gardiner </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -410,10 +410,10 @@
 			<SLOT>17</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
+			<NAME>GARDINER, BRAD</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248709</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
 			<SLOT>3</SLOT>
