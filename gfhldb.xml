@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 25, 2026</UPDATED>
-	<LASTTRANS> CLB signs E. Hemming, releases Q. Hutson </LASTTRANS>
+	<UPDATED>August 27, 2026</UPDATED>
+	<LASTTRANS> BOS claims Stanley, releases Lindstein </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -81,9 +81,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=245906</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHMIDT, CAMERON</NAME>
@@ -1586,7 +1586,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262251</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>POHLKAMP, ERIC</NAME>
@@ -4896,9 +4896,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177612</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>POSPISIL, MARTIN</NAME>
