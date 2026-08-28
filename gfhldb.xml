@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 27, 2026</UPDATED>
-	<LASTTRANS> BOS claims Stanley, releases Lindstein </LASTTRANS>
+	<LASTTRANS> ANA signs Trenin, releases Kolosov </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -4689,9 +4689,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=237650</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MARCHMENT, MASON</NAME>
@@ -6903,9 +6903,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176691</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>KAMENEV, VLADISLAV</NAME>
