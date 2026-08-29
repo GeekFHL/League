@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 27, 2026</UPDATED>
-	<LASTTRANS> ANA claims Domi, waives Kovacevic </LASTTRANS>
+	<UPDATED>August 29, 2026</UPDATED>
+	<LASTTRANS> NJ-FLA trade (B. Tkachuk, McNabb for Stankoven, L. Hughes, FLA1 2028</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -5031,9 +5031,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217763</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>THOMPSON, LOGAN</NAME>
@@ -5238,9 +5238,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228217</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>WALLSTEDT, JESPER</NAME>
@@ -8244,9 +8244,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98196</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARKSTROM, JACOB</NAME>
@@ -12003,12 +12003,12 @@
 		</Player>
 		<Player>
 			<NAME>TKACHUK, BRADY</NAME>
-			<CAPTAIN>A</CAPTAIN>
+			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187580</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>THOMPSON, TAGE</NAME>
