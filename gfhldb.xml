@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 30, 2026</UPDATED>
-	<LASTTRANS> TB signs L. Schenn, releases Perbix</LASTTRANS>
+	<LASTTRANS> EDM signs Solberg, releases Schmidt</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -38,7 +38,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=286328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>HERMANSSON, ELTON</NAME>
@@ -1989,9 +1989,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272901</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUTSON, COLE</NAME>
@@ -11898,9 +11898,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123400</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CARLSON, JOHN</NAME>
