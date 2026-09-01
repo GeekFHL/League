@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>August 31, 2026</UPDATED>
-	<LASTTRANS>LA signs Jonas Lagerberg-Hoen (F) and releases Pius Suter (F)</LASTTRANS>
+	<LASTTRANS>Vancouver signs William Zellers (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>LAGERBERG-Hoen, JONAS</NAME>
@@ -576,9 +576,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=266403</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>BENAK, ADAM</NAME>
@@ -1386,7 +1386,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=269199</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
 		</Player>
@@ -2178,9 +2178,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262565</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>DICKINSON, SAM</NAME>
@@ -9477,9 +9477,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162338</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>NIETO, MATTHEW</NAME>
@@ -11250,7 +11250,7 @@
 			<CAPTAIN>C</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177557</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
 		</Player>
