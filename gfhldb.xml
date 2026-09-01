@@ -5,6 +5,24 @@
 	<LASTTRANS>Vancouver signs William Zellers (F)</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>TB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>3</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>TB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>4</SLOT>
+		</Player>
+		<Player>
 			<NAME>LAGERBERG-Hoen, JONAS</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
