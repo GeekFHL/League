@@ -621,9 +621,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217058</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MOORE, IAN</NAME>
@@ -1388,7 +1388,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=269199</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAR, CARTER</NAME>
@@ -1404,9 +1404,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265955</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDREYONOV, PYOTR</NAME>
@@ -1757,7 +1757,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=250995</WEB>
 			<TEAM>VAN</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>GAJAN, ADAM</NAME>
@@ -2943,9 +2943,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248005</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>HRABAL, MICHAEL</NAME>
@@ -5193,9 +5193,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241830</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>EDVINSSON, SIMON</NAME>
@@ -5924,7 +5924,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=202503</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>GEEKIE, MORGAN</NAME>
@@ -10062,7 +10062,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=121736</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>VAN</TEAM>
 			<POS>GLT</POS>
 			<SLOT>20</SLOT>
 		</Player>
@@ -10073,7 +10073,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172631</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>ULLMARK, LINUS</NAME>
@@ -10836,9 +10836,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=164346</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>RANTANEN, MIKKO</NAME>
@@ -12060,9 +12060,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175324</WEB>
-			<TEAM>VAN</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>MAKAR, CALE</NAME>
