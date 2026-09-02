@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 1st, 2026</UPDATED>
-	<LASTTRANS>ANA signs Kolovosv, releases Domi</LASTTRANS>
+	<LASTTRANS>LA-CLB Trade (Panarin for Johnson, CLB1 2027)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -5238,9 +5238,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210854</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>COSSA, SEBASTIAN</NAME>
@@ -11610,9 +11610,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117198</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>BURAKOVSKY, ANDRE</NAME>
