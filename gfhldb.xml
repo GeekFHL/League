@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 1st, 2026</UPDATED>
-	<LASTTRANS></LASTTRANS>
+	<LASTTRANS>WPG-NJ Trade (Leonard, Harley, PIT1 2027 for Knight, Fabbro)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -299,7 +299,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=273059</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>BJORCK, VIGGO</NAME>
@@ -7830,9 +7830,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209480</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>BROBERG, PHILIP</NAME>
@@ -9524,7 +9524,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176845</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>DEF</POS>
-			<SLOT>25</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAN, JAKE</NAME>
@@ -11313,9 +11313,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118258</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>WAHLSTROM, OLIVER</NAME>
@@ -11484,9 +11484,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191378</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FOLIGNO, NICK</NAME>
@@ -12123,9 +12123,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170098</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>TIMMINS, CONOR</NAME>
