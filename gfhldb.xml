@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>August 31, 2026</UPDATED>
-	<LASTTRANS>Vancouver signs William Zellers (F)</LASTTRANS>
+	<UPDATED>September 1st, 2026</UPDATED>
+	<LASTTRANS></LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -3123,9 +3123,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248126</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARLSSON, LEO</NAME>
@@ -6887,7 +6887,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170338</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>GAVRIKOV, VLADISLAV</NAME>
@@ -7767,9 +7767,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208563</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>SUZUKI, RYAN</NAME>
