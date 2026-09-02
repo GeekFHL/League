@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 1st, 2026</UPDATED>
-	<LASTTRANS>WPG-NJ Trade (Leonard, Harley, PIT1 2027 for Knight, Fabbro)</LASTTRANS>
+	<LASTTRANS>TB-NJ Trade (Voronkov for TB1 2028, TB2 2028)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -55,6 +55,15 @@
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=288661</WEB>
 			<TEAM>CGY</TEAM>
+			<POS>DEF</POS>
+			<SLOT>21</SLOT>
+		</Player>
+		<Player>
+			<NAME>SOKOLOVSKII, MAKSIM</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=295351</WEB>
+			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
 			<SLOT>21</SLOT>
 		</Player>
@@ -2736,9 +2745,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=223335</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>TOMKINS, MATT</NAME>
@@ -3512,7 +3521,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219620</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>NOESEN, STEFAN</NAME>
