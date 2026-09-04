@@ -18,9 +18,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=287740</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>LAGERBERG-HOEN, JONAS</NAME>
@@ -200,7 +200,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=289266</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>AKHTYAMOV, ARTUR</NAME>
@@ -12366,9 +12366,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89271</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
-			<SLOT></SLOT>
+			<SLOT24</SLOT>
 		</Player>
 		<Player>
 			<NAME>SHESTERKIN, IGOR</NAME>
