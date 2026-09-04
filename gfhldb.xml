@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 3, 2026</UPDATED>
-	<LASTTRANS>PHI claims Kuznetsov, releases Chatfield</LASTTRANS>
+	<LASTTRANS>CHI-TB Trade (Strome, Stamkos for Burakovsky, 2027 NYR1, 2028 EDM2)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -9171,7 +9171,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170174</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
 			<SLOT>4</SLOT>
 		</Player>
@@ -11610,9 +11610,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152839</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>NURSE, DARNELL</NAME>
