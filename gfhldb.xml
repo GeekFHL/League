@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 3, 2026</UPDATED>
-	<LASTTRANS>VGK claims Suter off waivers, releases Moore</LASTTRANS>
+	<LASTTRANS>TB claims Domi off waivers, releases C.Dach</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -4842,9 +4842,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227279</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>WEISSBACH, LINUS</NAME>
@@ -12168,9 +12168,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130519</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHENN, BRAYDEN</NAME>
