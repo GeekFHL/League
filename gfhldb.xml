@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 3, 2026</UPDATED>
-	<LASTTRANS>TOR signs Dagenais</LASTTRANS>
+	<LASTTRANS>TOR-PHI trade (Stolarz for Ivanov, PHI2 2028)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -2799,7 +2799,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240671</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>GLT</POS>
 			<SLOT>22</SLOT>
 		</Player>
@@ -3386,7 +3386,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210178</WEB>
 			<TEAM>PHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>BENOIT, SIMON</NAME>
@@ -11061,9 +11061,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144264</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>GUSTAVSSON, FILIP</NAME>
