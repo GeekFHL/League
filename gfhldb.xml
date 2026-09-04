@@ -1289,7 +1289,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270715</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHAEFER, MATTHEW</NAME>
@@ -12375,9 +12375,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=178651</WEB>
-			<TEAM>SJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BATHERSON, DRAKE</NAME>
