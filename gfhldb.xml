@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 3, 2026</UPDATED>
-	<LASTTRANS>CHI-TB Trade (Strome, Stamkos for Burakovsky, 2027 NYR1, 2028 EDM2)</LASTTRANS>
+	<LASTTRANS>NSH releases Gadjovich (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -5454,9 +5454,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177566</WEB>
-			<TEAM>NSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BLACKWELL, COLIN</NAME>
@@ -6912,7 +6912,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176691</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
 			<SLOT>18</SLOT>
 		</Player>
@@ -7040,7 +7040,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151714</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>RICHARD, ANTHONY</NAME>
@@ -8784,9 +8784,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120930</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>KREIDER, CHRIS</NAME>
@@ -11936,7 +11936,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98634</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>WOOD, MILES</NAME>
