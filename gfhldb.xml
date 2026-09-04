@@ -5942,7 +5942,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=202503</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>GEEKIE, MORGAN</NAME>
@@ -6012,9 +6012,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170175</WEB>
-			<TEAM>VEG</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>JARVENTIE, ROBY</NAME>
@@ -8876,7 +8876,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80463</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>DADONOV, EVGENY</NAME>
@@ -11765,7 +11765,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130900</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>CLAGUE, KALE</NAME>
