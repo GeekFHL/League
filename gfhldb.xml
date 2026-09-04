@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 3, 2026</UPDATED>
-	<LASTTRANS>SJ releases Rempe</LASTTRANS>
+	<LASTTRANS>TOR signs Dagenais</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -14,7 +14,16 @@
 			<SLOT>8</SLOT>
 		</Player>
 		<Player>
-			<NAME>LAGERBERG-Hoen, JONAS</NAME>
+			<NAME>DAGENAIS, MADDOX</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=287740</WEB>
+			<TEAM>TOR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>18</SLOT>
+		</Player>
+		<Player>
+			<NAME>LAGERBERG-HOEN, JONAS</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=289128</WEB>
