@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>September 1st, 2026</UPDATED>
-	<LASTTRANS>LA-CLB Trade (Panarin for Johnson, CLB1 2027)</LASTTRANS>
+	<UPDATED>September 3, 2026</UPDATED>
+	<LASTTRANS>PHI claims Kuznetsov, releases Chatfield</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -630,9 +630,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217058</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>MOORE, IAN</NAME>
@@ -3312,9 +3312,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177555</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHAEFER, REID</NAME>
