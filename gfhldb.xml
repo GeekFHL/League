@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 3, 2026</UPDATED>
-	<LASTTRANS>BOS-NTR Trade (Keller for Rossi, NYR1 2028, NYR2 2028)</LASTTRANS>
+	<LASTTRANS>NJ-NYR Trade (M.Tkachuk for Desnoyers, MTL1 2027, SJ1 2027)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -1323,9 +1323,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270395</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>JONSSON, SAMUEL</NAME>
@@ -8541,9 +8541,9 @@
 			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170348</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>DUBOIS, PIERRE-LUC</NAME>
