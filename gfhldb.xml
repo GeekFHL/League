@@ -6405,7 +6405,7 @@
 		</Player>
 		<Player>
 			<NAME>RAYMOND, LUCAS</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218392</WEB>
 			<TEAM>TB</TEAM>
@@ -6414,7 +6414,7 @@
 		</Player>
 		<Player>
 			<NAME>ST&#220;TZLE, TIM</NAME>
-			<CAPTAIN>A</CAPTAIN>
+			<CAPTAIN>C</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226509</WEB>
 			<TEAM>TB</TEAM>
@@ -8732,7 +8732,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96607</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>MCGINN, BROCK</NAME>
@@ -12093,7 +12093,7 @@
 		</Player>
 		<Player>
 			<NAME>HEISKANEN, MIRO</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195238</WEB>
 			<TEAM>TB</TEAM>
@@ -12170,7 +12170,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130519</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHENN, BRAYDEN</NAME>
