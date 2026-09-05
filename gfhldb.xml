@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 3, 2026</UPDATED>
-	<LASTTRANS>TB claims Domi off waivers, releases C.Dach</LASTTRANS>
+	<LASTTRANS>BOS-NTR Trade (Keller for Rossi, NYR1 2028, NYR2 2028)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -6399,9 +6399,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216636</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>RAYMOND, LUCAS</NAME>
@@ -10440,9 +10440,9 @@
 			<CAPTAIN>C</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177805</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDHOLM, ELIAS</NAME>
