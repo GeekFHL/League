@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>September 3, 2026</UPDATED>
+	<UPDATED>September 7, 2026</UPDATED>
 	<LASTTRANS>NJ-CAR Trade (Pinto, TB2 2028 for Samuelsson)</LASTTRANS>
 	<DB>
 		<Player>
@@ -86,7 +86,7 @@
 			<SLOT>24</SLOT>
 		</Player>
 		<Player>
-			<NAME>FINK, AIDAN</NAME>
+			<NAME>FINK, AIDEN</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=246282</WEB>
@@ -2607,7 +2607,7 @@
 		</Player>
 		<Player>
 			<NAME>RADDYSH, DARREN</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162334</WEB>
 			<TEAM>LA</TEAM>
