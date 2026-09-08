@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 7, 2026</UPDATED>
-	<LASTTRANS>NJ-CAR Trade (Pinto, TB2 2028 for Samuelsson)</LASTTRANS>
+	<LASTTRANS>STL releases Noesen, Saad, Reichel</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -299,7 +299,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261969</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>STENBERG, IVAR</NAME>
@@ -3528,9 +3528,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122895</WEB>
-			<TEAM>STL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PETRUZZELLI, KEITH</NAME>
@@ -5798,7 +5798,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197649</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDERSON, MICHAEL</NAME>
@@ -5915,7 +5915,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169632</WEB>
 			<TEAM>STL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOKK, DOMINIK</NAME>
@@ -6093,9 +6093,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226504</WEB>
-			<TEAM>STL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BERDIN, MIKHAIL</NAME>
@@ -9639,9 +9639,9 @@
 			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123396</WEB>
-			<TEAM>STL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>RUST, BRYAN</NAME>
