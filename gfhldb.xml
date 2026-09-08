@@ -419,24 +419,6 @@
 			<SLOT>22</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>MIN</TEAM>
-			<POS>DEF</POS>
-			<SLOT>12</SLOT>
-		</Player>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>MIN</TEAM>
-			<POS>FWD</POS>
-			<SLOT>17</SLOT>
-		</Player>
-		<Player>
 			<NAME>GARDINER, BRAD</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
