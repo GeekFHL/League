@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 7, 2026</UPDATED>
-	<LASTTRANS>MIN claims Moore off waivers</LASTTRANS>
+	<LASTTRANS>DET releases Oleksiak, Mrazek</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -10539,9 +10539,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122893</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>NYLANDER, ALEXANDER</NAME>
@@ -11538,9 +11538,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117317</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GUSTAFSSON, ERIK</NAME>
@@ -11792,7 +11792,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139929</WEB>
 			<TEAM>DET</TEAM>
 			<POS>GLT</POS>
-			<SLOT>25</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDGREN, CHARLIE</NAME>
