@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 7, 2026</UPDATED>
-	<LASTTRANS>MIN-BOS Trade (Hanifin for Nestrasil, NYR1 2028)</LASTTRANS>
+	<LASTTRANS>MIN claims Moore off waivers</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -648,9 +648,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229101</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>MATINPALO, NIKOLAS</NAME>
