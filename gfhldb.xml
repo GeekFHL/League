@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 7, 2026</UPDATED>
-	<LASTTRANS>CHI claims Rasmussen off waivers</LASTTRANS>
+	<LASTTRANS>WPG releases Lundestrom (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -5186,7 +5186,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218022</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>SVECHKOV, FEDOR</NAME>
@@ -8325,9 +8325,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192083</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>DENISENKO, GRIGORI</NAME>
