@@ -2,17 +2,8 @@
 
 <GFHL>
 	<UPDATED>September 7, 2026</UPDATED>
-	<LASTTRANS>DET releases Oleksiak, Mrazek</LASTTRANS>
+	<LASTTRANS>CHI claims Rasmussen off waivers</LASTTRANS>
 	<DB>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>CHI</TEAM>
-			<POS>FWD</POS>
-			<SLOT>8</SLOT>
-		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -12375,9 +12366,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=178651</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>BATHERSON, DRAKE</NAME>
