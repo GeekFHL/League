@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 10, 2026</UPDATED>
-	<LASTTRANS>OTT claims Reichel off waivers, releases Wood</LASTTRANS>
+	<LASTTRANS>TB claims Oleksiak off waivers, releases Hallander</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -918,9 +918,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=200224</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CROZIER, MAXWELL</NAME>
@@ -5726,7 +5726,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89981</WEB>
 			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>GROSENICK, TROY</NAME>
@@ -11538,9 +11538,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117317</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>GUSTAFSSON, ERIK</NAME>
@@ -12161,7 +12161,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130519</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHENN, BRAYDEN</NAME>
