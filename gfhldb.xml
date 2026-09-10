@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 10, 2026</UPDATED>
-	<LASTTRANS>DET signs Samsonov, releases Murray</LASTTRANS>
+	<LASTTRANS>PHI signs Schmidt, releases Hensler</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -585,9 +585,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262569</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>VANACKER, MAREK</NAME>
@@ -11934,9 +11934,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123400</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARLSON, JOHN</NAME>
