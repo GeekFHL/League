@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 10, 2026</UPDATED>
-	<LASTTRANS>LA signs Vyazovoi, releases Hameenaho</LASTTRANS>
+	<LASTTRANS>DET signs Samsonov, releases Murray</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -8298,9 +8298,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180628</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>GLT</POS>
-			<SLOT></SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>DIPIETRO, MICHAEL</NAME>
@@ -10710,9 +10710,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130608</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FAST, JESPER</NAME>
