@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 10, 2026</UPDATED>
-	<LASTTRANS>TOR signs Formenton, releases Varlamov</LASTTRANS>
+	<LASTTRANS>LA signs Vyazovoi, releases Hameenaho</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -30,6 +30,15 @@
 			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT></SLOT>
+		</Player>
+		<Player>
+			<NAME>VYAZOVOI, SEMYON</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241837</WEB>
+			<TEAM>GLT</TEAM>
+			<POS>FWD</POS>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>FORMENTON, ALEX</NAME>
@@ -1494,9 +1503,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251537</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>XHEKAJ, FLORIAN</NAME>
