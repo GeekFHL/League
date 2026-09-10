@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 10, 2026</UPDATED>
-	<LASTTRANS>TB claims Oleksiak off waivers, releases Hallander</LASTTRANS>
+	<LASTTRANS>TOR signs Formenton, releases Varlamov</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -30,6 +30,15 @@
 			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT></SLOT>
+		</Player>
+		<Player>
+			<NAME>FORMENTON, ALEX</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=185947</WEB>
+			<TEAM>TOR</TEAM>
+			<POS>FWD</POS>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAGERBERG-HOEN, JONAS</NAME>
@@ -12357,9 +12366,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89271</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SHESTERKIN, IGOR</NAME>
