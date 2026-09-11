@@ -2,17 +2,8 @@
 
 <GFHL>
 	<UPDATED>September 10, 2026</UPDATED>
-	<LASTTRANS>BOS signs Brunet, releases Olofsson</LASTTRANS>
+	<LASTTRANS>MIN signs Lindstein (D)</LASTTRANS>
 	<DB>
-		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>MIN</TEAM>
-			<POS>DEF</POS>
-			<SLOT>14</SLOT>
-		</Player>
 		<Player>
 			<NAME></NAME>
 			<CAPTAIN></CAPTAIN>
@@ -153,9 +144,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=245906</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHMIDT, CAMERON</NAME>
