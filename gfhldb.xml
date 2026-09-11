@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 10, 2026</UPDATED>
-	<LASTTRANS>PHI signs Schmidt, releases Hensler</LASTTRANS>
+	<LASTTRANS>BOS signs Brunet, releases Olofsson</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME></NAME>
@@ -21,6 +21,15 @@
 			<TEAM>DET</TEAM>
 			<POS>DEF</POS>
 			<SLOT>13</SLOT>
+		</Player>
+		<Player>
+			<NAME>BRUNET, FREDERIC</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230637</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>DEF</POS>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>DAGENAIS, MADDOX</NAME>
@@ -9117,9 +9126,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=142605</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>INGRAM, CONNOR</NAME>
