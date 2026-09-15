@@ -5,13 +5,13 @@
 <html>    
 
 <head>      
-<title>2025-26 GFHL Standings</title>      
+<title>2026-27 GFHL Standings</title>      
 <link rel="stylesheet" type="text/css" href="gfhlmain.css" />
 </head>    
 
 <body>   
 <center>
-<h1><b>2025-26 Standings</b></h1>
+<h1><b>2026-27 Standings</b></h1>
 
 <table class="noborder">
 <tr>
@@ -415,7 +415,40 @@
 	</td>
 </tr>
 </table>
+<table>
+	<tr>
+		<td class="no">
+			<a class="url" href="2025-26/overall.xml" >2025-26</a>
+		</td>
+		<td class="no">
 
+		</td>
+		<td class="no">
+
+		</td>
+		<td class="no">
+
+		</td>
+		<td class="no">
+
+		</td>
+		<td class="no">
+
+		</td>
+		<td class="no">
+
+		</td>
+		<td class="no">
+
+		</td>
+		<td class="no">
+
+		</td>
+		<td class="no">
+
+		</td>
+	</tr>
+</table>
 </center>   
 </body> 
 
