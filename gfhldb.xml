@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 17, 2026</UPDATED>
-	<LASTTRANS>Anaheim signs Jeffrey Viel (F) and releases Brandon Duhaime (F)</LASTTRANS>
+	<LASTTRANS>New Jersey signs Jaxon Cover (F) and releases Maksim Sokolovskii (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>16</SLOT>
+		</Player>
+		<Player>
+			<NAME>COVER, JAXON</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=291132</WEB>
+			<TEAM>NJ</TEAM>
+			<POS>FWD</POS>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>VIEL, JEFFREY</NAME>
@@ -90,9 +99,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=295351</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ELOFSSON, AXEL</NAME>
