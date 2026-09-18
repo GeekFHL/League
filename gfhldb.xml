@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 17, 2026</UPDATED>
-	<LASTTRANS>New Jersey signs Alexander Command (F) and releases Phoenix Copley (G)</LASTTRANS>
+	<LASTTRANS>Anaheim signs Jeffrey Viel (F) and releases Brandon Duhaime (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>16</SLOT>
+		</Player>
+		<Player>
+			<NAME>VIEL, JEFFREY</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171886</WEB>
+			<TEAM>ANA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>DAGENAIS, MADDOX</NAME>
@@ -4698,9 +4707,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171261</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KOLOSOV, ALEKSEI</NAME>
