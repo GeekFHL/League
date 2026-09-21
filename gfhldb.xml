@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 21, 2026</UPDATED>
-	<LASTTRANS>Edmonton releases Elofsson, signs Lombardi</LASTTRANS>
+	<LASTTRANS>Nashville releases Georgiev, signs Killorn</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -8757,9 +8757,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105394</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>STAMKOS, STEVEN</NAME>
@@ -9423,9 +9423,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=181052</WEB>
-			<TEAM>NSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SUZUKI, NICK</NAME>
