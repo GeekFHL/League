@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>September 17, 2026</UPDATED>
-	<LASTTRANS>New Jersey signs Jaxon Cover (F) and releases Maksim Sokolovskii (D)</LASTTRANS>
+	<UPDATED>September 21, 2026</UPDATED>
+	<LASTTRANS>MIN-LA Trade (Kuemper for LA1 2028)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>16</SLOT>
+		</Player>
+		<Player>
+			<NAME></NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB></WEB>
+			<TEAM>MIN</TEAM>
+			<POS>DEF</POS>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>COVER, JAXON</NAME>
@@ -47,7 +56,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241837</WEB>
 			<TEAM>LA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>FORMENTON, ALEX</NAME>
@@ -749,7 +758,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262578</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>CLATTENBURG, CONNOR</NAME>
@@ -1512,9 +1521,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251537</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>XHEKAJ, FLORIAN</NAME>
@@ -9261,7 +9270,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=102649</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>GLT</POS>
 			<SLOT>19</SLOT>
 		</Player>
@@ -11837,7 +11846,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132742</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>BELLOWS, KIEFFER</NAME>
