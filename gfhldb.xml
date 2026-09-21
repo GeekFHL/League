@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 21, 2026</UPDATED>
-	<LASTTRANS>MIN-LA Trade (Kuemper for LA1 2028)</LASTTRANS>
+	<LASTTRANS>Edmonton releases Elofsson, signs Lombardi</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -21,6 +21,15 @@
 			<TEAM>MIN</TEAM>
 			<POS>DEF</POS>
 			<SLOT>23</SLOT>
+		</Player>
+		<Player>
+			<NAME>LOMBARDI, AMADEUS</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232327</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>FWD</POS>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>COVER, JAXON</NAME>
@@ -117,9 +126,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=286328</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HERMANSSON, ELTON</NAME>
@@ -2045,7 +2054,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272901</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUTSON, COLE</NAME>
