@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 24, 2026</UPDATED>
-	<LASTTRANS>Anaheim signs Johansson, releases Lagerberg-Hoen</LASTTRANS>
+	<LASTTRANS>Edmonton signs Duhaime, releases Pelletier</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -38,7 +38,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232327</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>COVER, JAXON</NAME>
@@ -4743,9 +4743,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171261</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOLOSOV, ALEKSEI</NAME>
@@ -5814,9 +5814,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209005</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>WALSH, REILLY</NAME>
