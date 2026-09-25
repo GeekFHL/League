@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 24, 2026</UPDATED>
-	<LASTTRANS>Edmonton signs Duhaime, releases Pelletier</LASTTRANS>
+	<LASTTRANS>Washington claims Hameenaho off waivers, releases Armia</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -1539,9 +1539,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251537</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>XHEKAJ, FLORIAN</NAME>
@@ -9792,9 +9792,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130454</WEB>
-			<TEAM>WSH</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>KORPISALO, JOONAS</NAME>
