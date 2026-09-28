@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 28, 2026</UPDATED>
-	<LASTTRANS>Minnesota signs Aspirot</LASTTRANS>
+	<LASTTRANS>Minnesota claims Pelletier off waivers</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -5832,9 +5832,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209005</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>25</SLOT>
 		</Player>
 		<Player>
 			<NAME>WALSH, REILLY</NAME>
