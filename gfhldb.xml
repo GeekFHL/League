@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>September 24, 2026</UPDATED>
+	<UPDATED>September 28, 2026</UPDATED>
 	<LASTTRANS>Washington claims Hameenaho off waivers, releases Armia</LASTTRANS>
 	<DB>
 		<Player>
@@ -344,7 +344,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=294181</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>LETOURNEAU, DEAN</NAME>
@@ -9002,7 +9002,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120908</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>KAPRIZOV, KIRILL</NAME>
@@ -9425,7 +9425,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172202</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>GEORGIEV, ALEXANDAR</NAME>
@@ -12224,7 +12224,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106939</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>VAN RIEMSDYK, JAMES</NAME>
