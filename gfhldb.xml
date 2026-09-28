@@ -2319,7 +2319,7 @@
 		</Player>
 		<Player>
 			<NAME>CELEBRINI, MACKLIN</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>C</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261744</WEB>
 			<TEAM>ANA</TEAM>
@@ -7971,7 +7971,7 @@
 		</Player>
 		<Player>
 			<NAME>SEIDER, MORITZ</NAME>
-			<CAPTAIN></CAPTAIN>
+			<CAPTAIN>A</CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=212672</WEB>
 			<TEAM>ANA</TEAM>
@@ -13057,7 +13057,7 @@
 			<Champ></Champ>
 			<Commissioner></Commissioner>
 			<Committee>Y</Committee>
-			<HeadCoach></HeadCoach>
+			<HeadCoach>RYAN GETZLAF</HeadCoach>
 		</GM>
 		<GM>
 			<Team>CGY</Team>
