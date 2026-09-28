@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 28, 2026</UPDATED>
-	<LASTTRANS>Vegas signs Suniev, releases Suter</LASTTRANS>
+	<LASTTRANS>Minnesota signs Aspirot</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>16</SLOT>
+		</Player>
+		<Player>
+			<NAME>ASPIROT, JONATHAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195904</WEB>
+			<TEAM>MIN</TEAM>
+			<POS>DEF</POS>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>SUNIEV, AYDAR</NAME>
