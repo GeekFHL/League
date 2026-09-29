@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 28, 2026</UPDATED>
-	<LASTTRANS>UTA-MIN Trade (Lowry, UTA1 2028 for Stone, futures)</LASTTRANS>
+	<LASTTRANS>LA signs Stevenson, releases Fink</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -162,9 +162,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=246282</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PUGACHYOV, GLEB</NAME>
@@ -200,7 +200,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265007</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOBLAR, TINUS-LUC</NAME>
@@ -2367,9 +2367,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208292</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>GLT</POS>
-			<SLOT></SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>REMPE, MATT</NAME>
