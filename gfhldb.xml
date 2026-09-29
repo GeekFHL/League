@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 28, 2026</UPDATED>
-	<LASTTRANS>Detroit claims Armia off waivers, signs Brindley, releases Kaliyev and Buchelnikov</LASTTRANS>
+	<LASTTRANS>WPG-TOR Trade (Bear for Stephenson, Formenton)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -99,9 +99,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=185947</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAGERBERG-HOEN, JONAS</NAME>
@@ -1334,7 +1334,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=264854</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>MISA, MICHAEL</NAME>
@@ -1476,7 +1476,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=264349</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>24</SLOT>
 		</Player>
@@ -6831,9 +6831,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130705</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>ACCIARI, NOEL</NAME>
@@ -8534,7 +8534,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130410</WEB>
 			<TEAM>WPG</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>PYSYK, MARK</NAME>
@@ -11286,9 +11286,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127561</WEB>
-			<TEAM>WPG</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>IAFALLO, ALEX</NAME>
