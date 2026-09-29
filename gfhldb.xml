@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 28, 2026</UPDATED>
-	<LASTTRANS>TOR-MIN Trade (Hurlbert, CAR2 2027, VAN2 2027 for Kadri, Ovechkin)</LASTTRANS>
+	<LASTTRANS>UTA-MIN Trade (Lowry, UTA1 2028 for Stone, futures)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -8732,7 +8732,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=159892</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>FROST, MORGAN</NAME>
@@ -9216,9 +9216,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116184</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>UTA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>MARNER, MITCH</NAME>
@@ -10296,9 +10296,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122998</WEB>
-			<TEAM>UTA</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>VASILEVSKIY, ANDREI</NAME>
@@ -11864,7 +11864,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145506</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>COMRIE, ERIC</NAME>
