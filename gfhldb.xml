@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 28, 2026</UPDATED>
-	<LASTTRANS>LA signs Stevenson, releases Fink</LASTTRANS>
+	<LASTTRANS>Dallas signs Vilmanis, releases Garand</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -3825,9 +3825,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210112</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MCBAIN, JACK</NAME>
@@ -12510,9 +12510,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244113</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>HELLESON, DREW</NAME>
