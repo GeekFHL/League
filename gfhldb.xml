@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>September 28, 2026</UPDATED>
-	<LASTTRANS>WPG-TOR Trade (Bear for Stephenson, Formenton)</LASTTRANS>
+	<LASTTRANS>TOR-MIN Trade (Hurlbert, CAR2 2027, VAN2 2027 for Kadri, Ovechkin)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -6698,7 +6698,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=178965</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>BROWN, JOSH</NAME>
@@ -8505,9 +8505,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=63735</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSEPH, MATHIEU</NAME>
@@ -11655,7 +11655,7 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96553</WEB>
-			<TEAM>MIN</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>4</SLOT>
 		</Player>
