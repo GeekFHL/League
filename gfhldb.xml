@@ -41,15 +41,6 @@
 			<SLOT>23</SLOT>
 		</Player>
 		<Player>
-			<NAME></NAME>
-			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
-			<WEB></WEB>
-			<TEAM>MIN</TEAM>
-			<POS>DEF</POS>
-			<SLOT>23</SLOT>
-		</Player>
-		<Player>
 			<NAME>LOMBARDI, AMADEUS</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -279,9 +270,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=289266</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>AKHTYAMOV, ARTUR</NAME>
@@ -2036,7 +2027,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251173</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>UFKO, RYAN</NAME>
@@ -5834,7 +5825,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209005</WEB>
 			<TEAM>MIN</TEAM>
 			<POS>FWD</POS>
-			<SLOT>25</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>WALSH, REILLY</NAME>
