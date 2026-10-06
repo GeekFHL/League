@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 5, 2026</UPDATED>
-	<LASTTRANS>Edmonton signs Cotter (F), releases Unger Sorum (F)</LASTTRANS>
+	<LASTTRANS>Tampa Bay signs Michaels (F), releases Drouin (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ALLEN, NOLAN</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
+		</Player>
+		<Player>
+			<NAME>MICHAELS, OWEN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218702</WEB>
+			<TEAM>TB</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>POIRIER, REMI</NAME>
@@ -10215,9 +10224,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=148882</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MEIER, TIMO</NAME>
