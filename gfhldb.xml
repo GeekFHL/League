@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 5, 2026</UPDATED>
-	<LASTTRANS>Tampa Bay signs Michaels (F), releases Drouin (F)</LASTTRANS>
+	<LASTTRANS>Florida signs Cizikas (F) and Carlile (D), releases Joshua (F) and Siegenthaler (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ALLEN, NOLAN</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
+		</Player>
+		<Player>
+			<NAME>CARLILE, DECLAN</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207499</WEB>
+			<TEAM>FLA</TEAM>
+			<POS>DEF</POS>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>MICHAELS, OWEN</NAME>
@@ -3348,9 +3357,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161083</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BOLDUC, SAMUEL</NAME>
@@ -7191,9 +7200,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175024</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>DE LA ROSE, JACOB</NAME>
@@ -11979,9 +11988,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106989</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEDDY, NICK</NAME>
