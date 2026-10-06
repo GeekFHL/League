@@ -2153,7 +2153,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235312</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>FEDOTOV, IVAN</NAME>
@@ -3980,7 +3980,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229345</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>FIRKUS, JAGGER</NAME>
@@ -9983,7 +9983,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130615</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>SEELER, NICK</NAME>
@@ -10487,7 +10487,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117125</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>COMPHER, JT</NAME>
