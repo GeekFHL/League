@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>oCTOBER 1, 2026</UPDATED>
-	<LASTTRANS>Bostob signs Nolan Allen (D), releases Maxwell Crozier (D)</LASTTRANS>
+	<UPDATED>October 5, 2026</UPDATED>
+	<LASTTRANS>New Jersey signs Lapierre (F), releases Parssinen (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ALLEN, NOLAN</NAME>
@@ -3582,9 +3582,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219620</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>NOESEN, STEFAN</NAME>
@@ -6273,9 +6273,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216556</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRISSON, BRENDAN</NAME>
