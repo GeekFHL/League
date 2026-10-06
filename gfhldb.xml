@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 5, 2026</UPDATED>
-	<LASTTRANS>Florida signs Cizikas (F) and Carlile (D), releases Joshua (F) and Siegenthaler (D)</LASTTRANS>
+	<LASTTRANS>Anaheim signs Kartye (F), releases Laughton (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>ALLEN, NOLAN</NAME>
@@ -2862,9 +2862,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216266</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>FEDOTOV, IVAN</NAME>
@@ -8280,9 +8280,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=128062</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MATTHEWS, AUSTON</NAME>
