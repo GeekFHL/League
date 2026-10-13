@@ -1595,7 +1595,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251537</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>XHEKAJ, FLORIAN</NAME>
@@ -3872,7 +3872,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210112</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>MCBAIN, JACK</NAME>
@@ -6275,7 +6275,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210851</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOURQUE, MAVRIK</NAME>
@@ -12476,7 +12476,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=173069</WEB>
 			<TEAM>WSH</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>RASMUSSEN, MICHAEL</NAME>
