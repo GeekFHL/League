@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 12, 2026</UPDATED>
-	<LASTTRANS>Columbus signs Tung (G), releases E. Hemming (F)</LASTTRANS>
+	<LASTTRANS>St. Louis signs Soderblom (G), releases Leinonen (G)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BAUER, TYREL</NAME>
@@ -4068,9 +4068,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=250696</WEB>
-			<TEAM>STL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CASEY, SEAMUS</NAME>
@@ -4392,9 +4392,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=201663</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>STL</TEAM>
 			<POS>GLT</POS>
-			<SLOT></SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>PERBIX, NICK</NAME>
@@ -6698,7 +6698,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170670</WEB>
 			<TEAM>STL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZAMULA, EGOR</NAME>
