@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 12, 2026</UPDATED>
-	<LASTTRANS>Los Angeles claims Nolan Allan (D) off waivers, releases Jonas Brodin (D)</LASTTRANS>
+	<LASTTRANS>Columbus signs Tung, releases E. Hemming (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BAUER, TYREL</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
 			<SLOT>18</SLOT>
+		</Player>
+		<Player>
+			<NAME>TUNG, CALLUM</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262352</WEB>
+			<TEAM>CLB</TEAM>
+			<POS>GLT</POS>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARLILE, DECLAN</NAME>
@@ -153,9 +162,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270638</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GUSTAFSSON, MALTE</NAME>
@@ -8606,7 +8615,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169617</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>CHYTIL, FILIP</NAME>
