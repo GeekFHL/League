@@ -2,16 +2,16 @@
 
 <GFHL>
 	<UPDATED>October 12, 2026</UPDATED>
-	<LASTTRANS>St. Louis signs Soderblom (G), releases Leinonen (G)</LASTTRANS>
+	<LASTTRANS>Edmonton signs Winterton (F), releases Bauer (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BAUER, TYREL</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209990</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>TUNG, CALLUM</NAME>
@@ -936,9 +936,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227270</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>WARREN, MARSHALL</NAME>
