@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>October 8, 2026</UPDATED>
-	<LASTTRANS>Boston signs Andrew Peeke (D), releases Nolan Allen (D)</LASTTRANS>
+	<UPDATED>October 12, 2026</UPDATED>
+	<LASTTRANS>Calgary signs Wallinder (D), releases Gustafsson (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BAUER, TYREL</NAME>
@@ -171,9 +171,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=288661</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SOKOLOVSKII, MAKSIM</NAME>
@@ -3339,9 +3339,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229805</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>HARPUR, BEN</NAME>
