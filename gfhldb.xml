@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 12, 2026</UPDATED>
-	<LASTTRANS>Calgary signs Wallinder (D), releases Gustafsson (D)</LASTTRANS>
+	<LASTTRANS>Los Angeles claims Nolan Allan (D) off waivers, releases Jonas Brodin (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BAUER, TYREL</NAME>
@@ -1818,9 +1818,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217929</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZAVRAGIN, YEGOR</NAME>
@@ -9315,9 +9315,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127571</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>QUICK, JONATHAN</NAME>
