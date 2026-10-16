@@ -5,6 +5,15 @@
 	<LASTTRANS>Boston signs Jayden Perron (F), releases Andrew Peeke (D)</LASTTRANS>
 	<DB>
 		<Player>
+			<NAME>MITTELSTADT, LUKE</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238133</WEB>
+			<TEAM>EDM</TEAM>
+			<POS>DEF</POS>
+			<SLOT>15</SLOT>
+		</Player>
+		<Player>
 			<NAME>BAUER, TYREL</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -254,7 +263,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265007</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOBLAR, TINUS-LUC</NAME>
@@ -1827,9 +1836,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217929</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ZAVRAGIN, YEGOR</NAME>
@@ -2628,9 +2637,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195850</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>EMBERSON, TY</NAME>
@@ -4088,7 +4097,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238267</WEB>
 			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAMBERT, BRAD</NAME>
@@ -6111,9 +6120,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170175</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>JARVENTIE, ROBY</NAME>
@@ -7578,9 +7587,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=213745</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>RUBTSOV, GERMAN</NAME>
@@ -11655,9 +11664,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144637</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>COMTOIS, MAXIME</NAME>
