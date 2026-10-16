@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>October 12, 2026</UPDATED>
-	<LASTTRANS>Boston signs Jayden Perron (F), releases Andrew Peeke (D)</LASTTRANS>
+	<UPDATED>October 15, 2026</UPDATED>
+	<LASTTRANS>Boston signs Noah Warren (D), releases Jayden Perron (F)</LASTTRANS>
 	<DB>
+		<Player>
+			<NAME>WARREN, NOAH</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238133</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>DEF</POS>
+			<SLOT>11</SLOT>
+		</Player>
 		<Player>
 			<NAME>MITTELSTADT, LUKE</NAME>
 			<CAPTAIN></CAPTAIN>
@@ -27,9 +36,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=247723</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>TUNG, CALLUM</NAME>
@@ -1026,9 +1035,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=163398</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>LABA, NOAH</NAME>
@@ -3404,7 +3413,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=224483</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>HELLBERG, MAGNUS</NAME>
@@ -5897,7 +5906,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226016</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>LUOSTARINEN, EETU</NAME>
@@ -6642,9 +6651,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187555</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDERSSON, RASMUS</NAME>
@@ -10460,7 +10469,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170336</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>BLACKWOOD, MACKENZIE</NAME>
@@ -11468,7 +11477,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172722</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>HAYES, KEVIN</NAME>
@@ -12521,7 +12530,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187102</WEB>
 			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>SVOZIL, STANISLAV</NAME>
