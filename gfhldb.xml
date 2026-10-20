@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 19, 2026</UPDATED>
-	<LASTTRANS>Florida signs Edstrom (F), releases Kuzmenko (F)</LASTTRANS>
+	<LASTTRANS>Anaheim signs R. Schaefer (F), releases Viel (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -135,9 +135,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171886</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>DAGENAIS, MADDOX</NAME>
@@ -3447,9 +3447,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226598</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>ALEXANDROV, NIKITA</NAME>
