@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 19, 2026</UPDATED>
-	<LASTTRANS>Tampa Bay signs Holmberg (F), releases Michaels (F)</LASTTRANS>
+	<LASTTRANS>Los Angeles signs Dominic James (F), releases Max Plante (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -855,9 +855,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262578</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CLATTENBURG, CONNOR</NAME>
@@ -945,9 +945,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218690</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>NESTERENKO, NIKITA</NAME>
