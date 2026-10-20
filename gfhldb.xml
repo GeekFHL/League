@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 19, 2026</UPDATED>
-	<LASTTRANS>Anaheim signs R. Schaefer (F), releases Viel (F)</LASTTRANS>
+	<LASTTRANS>Tampa Bay signs Holmberg (F), releases Michaels (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -63,9 +63,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218702</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>POIRIER, REMI</NAME>
@@ -4437,9 +4437,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211454</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>MEYERS, BEN</NAME>
