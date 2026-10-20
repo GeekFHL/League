@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 19, 2026</UPDATED>
-	<LASTTRANS>Vegas claims Allan (D) off waivers, releases Gallagher (F)</LASTTRANS>
+	<LASTTRANS>Florida signs Edstrom (F), releases Kuzmenko (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -4554,9 +4554,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180618</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>10</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MIKKOLA, NIKO</NAME>
@@ -12645,9 +12645,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218031</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>A</NAME>
