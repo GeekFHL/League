@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>October 19, 2026</UPDATED>
-	<LASTTRANS>Los Angeles signs Dominic James (F), releases Max Plante (F)</LASTTRANS>
+	<UPDATED>October 22, 2026</UPDATED>
+	<LASTTRANS>Detroit claims Max Plante (F), releases Vladimir Tarasenko (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -74,7 +74,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217632</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -407,7 +407,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=288544</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>HEMMING, OSCAR</NAME>
@@ -855,9 +855,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262578</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>CLATTENBURG, CONNOR</NAME>
@@ -1692,9 +1692,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218279</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GALIMOV, ARTYOM</NAME>
@@ -8399,7 +8399,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=112727</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>SAMSONOV, ILYA</NAME>
@@ -8795,7 +8795,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=159892</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>FROST, MORGAN</NAME>
@@ -8993,7 +8993,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80463</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>DADONOV, EVGENY</NAME>
@@ -9011,7 +9011,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120964</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>GOSTISBEHERE, SHAYNE</NAME>
@@ -11529,9 +11529,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117204</WEB>
-			<TEAM>DET</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MCAVOY, CHARLIE</NAME>
@@ -12627,9 +12627,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=223783</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANK, ETHEN</NAME>
