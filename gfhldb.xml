@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 26, 2026</UPDATED>
-	<LASTTRANS>Vegas signs Valimaki (D), releases Glass (F)</LASTTRANS>
+	<LASTTRANS>Tampa Bay signs Black (G), releases Gardiner (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
+		</Player>
+		<Player>
+			<NAME>BLACK, COOPER</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227034</WEB>
+			<TEAM>TB</TEAM>
+			<POS>GLT</POS>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>MITTELSTADT, LUKE</NAME>
@@ -567,9 +576,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248709</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BLEYL, TOMMY</NAME>
