@@ -1746,9 +1746,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262251</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>POHLKAMP, ERIC</NAME>
@@ -2943,9 +2943,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240671</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>MILIC, THOMAS</NAME>
@@ -9245,7 +9245,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=146146</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>OLOFSSON, VICTOR</NAME>
