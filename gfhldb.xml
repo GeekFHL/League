@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 26, 2026</UPDATED>
-	<LASTTRANS>Chicago signs Carrier (F), releases Evans (F)</LASTTRANS>
+	<LASTTRANS>Boston signs Fleury (D), releases Lindell (D)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -2126,7 +2126,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227942</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>PARASCAK, TERIK</NAME>
@@ -10496,7 +10496,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170336</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>BLACKWOOD, MACKENZIE</NAME>
@@ -11439,9 +11439,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155341</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ZACHA, PAVEL</NAME>
@@ -12249,9 +12249,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=148769</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>OETTINGER, JAKE</NAME>
