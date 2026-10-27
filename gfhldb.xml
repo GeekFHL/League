@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 26, 2026</UPDATED>
-	<LASTTRANS>Tampa Bay signs Black (G), releases Gardiner (F)</LASTTRANS>
+	<LASTTRANS>Colorado signs Knuble (F), Meyers (F), Kotkaniemi (F) releases Mangiapane (F), Grebenkin (F), Garland (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
+		</Player>
+		<Player>
+			<NAME>KNUBLE, COLE</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=239560</WEB>
+			<TEAM>COL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>BLACK, COOPER</NAME>
@@ -1188,9 +1197,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241769</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>LOCMELIS, DANS</NAME>
@@ -4455,9 +4464,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196578</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>FIX-WOLANSKY, TREY</NAME>
@@ -7515,9 +7524,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170147</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>WEAL, JORDAN</NAME>
@@ -8703,9 +8712,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=158171</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDBLOM, OSKAR</NAME>
@@ -10458,9 +10467,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207533</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>CHOLOWSKI, DENNIS</NAME>
