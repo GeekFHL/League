@@ -14,6 +14,15 @@
 			<SLOT>11</SLOT>
 		</Player>
 		<Player>
+			<NAME>CAULFIELD, JUDD</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209487</WEB>
+			<TEAM>MTL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>7</SLOT>
+		</Player>
+		<Player>
 			<NAME>KNUBLE, COLE</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
@@ -243,9 +252,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272067</WEB>
-			<TEAM>MTL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FINK, AIDEN</NAME>
@@ -9515,7 +9524,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172202</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>GEORGIEV, ALEXANDAR</NAME>
@@ -12314,7 +12323,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106939</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>VAN RIEMSDYK, JAMES</NAME>
