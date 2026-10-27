@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 26, 2026</UPDATED>
-	<LASTTRANS>Colorado signs Knuble (F), Meyers (F), Kotkaniemi (F) releases Mangiapane (F), Grebenkin (F), Garland (F)</LASTTRANS>
+	<LASTTRANS>Montreal signs Caulfield (F), releases Hermansson (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -488,7 +488,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=286518</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>REID, CHASE</NAME>
@@ -2468,7 +2468,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216250</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRINDLEY, GAVIN</NAME>
@@ -2909,7 +2909,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248738</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>PUUSTINEN, VALTTERI</NAME>
@@ -12602,7 +12602,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244113</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>HELLESON, DREW</NAME>
