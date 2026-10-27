@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>October 26, 2026</UPDATED>
-	<LASTTRANS>Montreal signs Caulfield (F), releases Hermansson (F)</LASTTRANS>
+	<LASTTRANS>Chicago signs Carrier (F), releases Evans (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -5796,9 +5796,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145580</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FREDERIC, TRENT</NAME>
@@ -6984,9 +6984,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=129676</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>WALKER, NATHAN</NAME>
