@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>October 26, 2026</UPDATED>
-	<LASTTRANS>Boston signs Haydn Fleury (D), releases Esa Lindell (D)</LASTTRANS>
+	<UPDATED>October 29, 2026</UPDATED>
+	<LASTTRANS>Toronto trades Henry Mews (D) to Chicago for Blake Coleman (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -261,9 +261,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=246282</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>PUGACHYOV, GLEB</NAME>
@@ -1629,9 +1629,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=250774</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HAMEENAHO, LENNI</NAME>
@@ -1746,9 +1746,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262251</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>DEF</POS>
-			<SLOT>22</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>POHLKAMP, ERIC</NAME>
@@ -2052,9 +2052,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=239563</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>BLAKE, JACKSON</NAME>
@@ -2133,9 +2133,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265268</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CLARA, DAMIAN</NAME>
@@ -2279,7 +2279,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261371</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>NABOKOV, ILYA</NAME>
@@ -4986,9 +4986,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227279</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>WEISSBACH, LINUS</NAME>
@@ -6156,9 +6156,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170175</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>JARVENTIE, ROBY</NAME>
@@ -6410,7 +6410,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208600</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>RATHBONE, JACK</NAME>
@@ -6779,7 +6779,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=178965</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>BROWN, JOSH</NAME>
@@ -7803,9 +7803,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192047</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSEPH, PIERRE-OLIVIER</NAME>
@@ -7949,7 +7949,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209485</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
-			<SLOT>23</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>TEXIER, ALEXANDRE</NAME>
@@ -8264,7 +8264,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=121460</WEB>
 			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>HILL, ADIN</NAME>
@@ -8604,9 +8604,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123293</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>6</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>TANEV, BRANDON</NAME>
@@ -8721,9 +8721,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=158171</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDBLOM, OSKAR</NAME>
@@ -9542,7 +9542,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187477</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEMSTROM, EMIL</NAME>
@@ -9992,7 +9992,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89823</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>BERTUZZI, TYLER</NAME>
@@ -10215,9 +10215,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=59656</WEB>
-			<TEAM>CHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BINNINGTON, JORDAN</NAME>
@@ -10550,7 +10550,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117125</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>COMPHER, JT</NAME>
@@ -11144,7 +11144,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180592</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>KURALY, SEAN</NAME>
@@ -11439,9 +11439,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155341</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>SEA</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZACHA, PAVEL</NAME>
@@ -11846,7 +11846,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124022</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player>
 			<NAME>YAMAMOTO, KAILER</NAME>
@@ -11864,7 +11864,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169563</WEB>
 			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>SISSONS, COLTON</NAME>
@@ -12249,9 +12249,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=148769</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>OETTINGER, JAKE</NAME>
@@ -12654,9 +12654,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=223783</WEB>
-			<TEAM>SEA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>FRANK, ETHEN</NAME>
