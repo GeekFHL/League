@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 2, 2026</UPDATED>
-	<LASTTRANS>Boston signs Kaskimaki, releases Boqvist</LASTTRANS>
+	<LASTTRANS>Anaheim signs Tomasino, releases Smith </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -1674,9 +1674,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251364</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PACHAL, BRAYDEN</NAME>
@@ -4124,7 +4124,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238276</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEINONEN, TOPIAS</NAME>
@@ -6714,9 +6714,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208686</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>TINORDI, JARRED</NAME>
