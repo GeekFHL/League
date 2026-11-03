@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 2, 2026</UPDATED>
-	<LASTTRANS>Toronto signs Jankowski, Tampa releases Domi</LASTTRANS>
+	<LASTTRANS>Anaheim signs Engstrom, releases R. Schaefer</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -873,9 +873,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244126</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>PLANTE, MAX</NAME>
@@ -3474,9 +3474,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226598</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ALEXANDROV, NIKITA</NAME>
