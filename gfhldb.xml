@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>October 29, 2026</UPDATED>
-	<LASTTRANS>Toronto trades Henry Mews (D) to Chicago for Blake Coleman (F)</LASTTRANS>
+	<UPDATED>November 2, 2026</UPDATED>
+	<LASTTRANS>Toronto signs Jankowski, Tampa releases Domi</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -2891,7 +2891,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=223335</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>TOMKINS, MATT</NAME>
@@ -8604,9 +8604,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123293</WEB>
-			<TEAM>TOR</TEAM>
+			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>TANEV, BRANDON</NAME>
@@ -12312,9 +12312,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130519</WEB>
-			<TEAM>TB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHENN, BRAYDEN</NAME>
@@ -12429,9 +12429,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155332</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>FOLIGNO, MARCUS</NAME>
