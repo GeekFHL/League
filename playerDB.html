@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8">
+<!-- Restores XSLTProcessor, which Chrome is removing (xslt-polyfill 1.0.34, hosted locally) -->
+<script src="xslt-polyfill.min.js"></script>
 <script>
 function loadXMLDoc(filename)
 {
@@ -8,7 +11,7 @@ if (window.ActiveXObject)
   {
   xhttp = new ActiveXObject("Msxml2.XMLHTTP");
   }
-else 
+else
   {
   xhttp = new XMLHttpRequest();
   }
@@ -40,6 +43,6 @@ else if (document.implementation && document.implementation.createDocument)
 </script>
 </head>
 <body onload="displayResult()">
-<div id="example" />
+<div id="example"></div>
 </body>
 </html>
