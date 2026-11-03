@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 2, 2026</UPDATED>
-	<LASTTRANS>Ottawa claims Unger-Sorum off waivers, releases Fink </LASTTRANS>
+	<LASTTRANS>NY Islanders trade Evan Rodrigues (F), MTL2 2028 to Vagas for VAN2 2028 </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -4635,9 +4635,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196236</WEB>
-			<TEAM>VGK</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>7</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>MOSER, J.J.</NAME>
@@ -8570,7 +8570,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187366</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player>
 			<NAME>ANDERSEN, FREDERIK</NAME>
@@ -8604,9 +8604,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172231</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NYI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>COLEMAN, BLAKE</NAME>
@@ -9065,7 +9065,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139048</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>15</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>RIELLY, MORGAN</NAME>
@@ -10746,9 +10746,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=125404</WEB>
-			<TEAM>NYI</TEAM>
+			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player>
 			<NAME>VESEY, JIMMY</NAME>
