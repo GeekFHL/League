@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 2, 2026</UPDATED>
-	<LASTTRANS>Chicago claims Suter off waivers, releases Burakovsky </LASTTRANS>
+	<LASTTRANS>Ottawa claims Unger-Sorum off waivers, releases Fink </LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -270,9 +270,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=246282</WEB>
-			<TEAM>OTT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>9</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>PUGACHYOV, GLEB</NAME>
@@ -1634,13 +1634,13 @@
 			<SLOT></SLOT>
 		</Player>
 		<Player>
-			<NAME>UNGER SORUM, FELIX</NAME>
+			<NAME>UNGER-SORUM, FELIX</NAME>
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=250774</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>OTT</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player>
 			<NAME>HAMEENAHO, LENNI</NAME>
