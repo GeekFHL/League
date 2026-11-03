@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>GFHL Standings</title>
+<link rel="stylesheet" type="text/css" href="gfhlmain.css">
+<!-- Restores XSLTProcessor, which Chrome is removing -->
+<script src="https://cdn.jsdelivr.net/npm/xslt-polyfill@latest/xslt-polyfill.min.js"></script>
+</head>
+<body>
+<p id="loading">Loading standings...</p>
+<script>
+// Loads overall.xml and overall.xsl fresh each visit and shows the result.
+// Editors only ever need to change overall.xml.
+(async function () {
+  try {
+    const get = async (url) => {
+      const r = await fetch(url + "?t=" + Date.now(), { cache: "no-store" });
+      if (!r.ok) throw new Error(url + " returned " + r.status);
+      return new DOMParser().parseFromString(await r.text(), "application/xml");
+    };
+    const [xml, xsl] = await Promise.all([get("overall.xml"), get("overall.xsl")]);
+
+    const processor = new XSLTProcessor();
+    processor.importStylesheet(xsl);
+    const result = processor.transformToDocument(xml);
+
+    document.open();
+    document.write("<!DOCTYPE html>" + result.documentElement.outerHTML);
+    document.close();
+  } catch (e) {
+    document.getElementById("loading").textContent =
+      "Sorry, the standings could not be loaded. (" + e.message + ")";
+  }
+})();
+</script>
+<noscript>This page needs JavaScript turned on to show the standings.</noscript>
+</body>
+</html>
