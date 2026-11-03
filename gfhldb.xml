@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 2, 2026</UPDATED>
-	<LASTTRANS>Anaheim signs Engstrom, releases R. Schaefer</LASTTRANS>
+	<LASTTRANS>Boston signs Kaskimaki, releases Boqvist</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
+		</Player>
+		<Player>
+			<NAME>KASKIMAKI, ALEKSANTERI</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251090</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>CAULFIELD, JUDD</NAME>
@@ -7803,9 +7812,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192047</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSEPH, PIERRE-OLIVIER</NAME>
