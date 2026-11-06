@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>November 2, 2026</UPDATED>
-	<LASTTRANS>NY Islanders trade Evan Rodrigues (F), MTL2 2028 to Vagas for VAN2 2028 </LASTTRANS>
+	<UPDATED>November 6, 2026</UPDATED>
+	<LASTTRANS>NY Islanders claim Aidan Fink (F) and release Dominic James (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -63,9 +63,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209990</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>PERRON, JAYDEN</NAME>
@@ -110,7 +110,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217632</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
-			<SLOT>23</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRUNET, FREDERIC</NAME>
@@ -270,9 +270,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=246282</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>PUGACHYOV, GLEB</NAME>
@@ -362,7 +362,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265616</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>HUGHES, T.J.</NAME>
@@ -443,7 +443,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=288544</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>HEMMING, OSCAR</NAME>
@@ -999,9 +999,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227270</WEB>
-			<TEAM>EDM</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>WARREN, MARSHALL</NAME>
@@ -1062,9 +1062,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208440</WEB>
-			<TEAM>PHI</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>WOTHERSPOON, PARKER</NAME>
@@ -1271,7 +1271,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235428</WEB>
 			<TEAM>PIT</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>REID, CAMERON</NAME>
@@ -1719,9 +1719,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217367</WEB>
-			<TEAM>PIT</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT></SLOT>
 		</Player>
         <Player>
 			<NAME>JOHANSSON, ALBERT</NAME>
@@ -2565,9 +2565,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232378</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>PHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>COWAN, EASTON</NAME>
@@ -5078,7 +5078,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209457</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>CARRIER, ALEXANDRE</NAME>
@@ -5310,9 +5310,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170104</WEB>
-			<TEAM>CGY</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>RATY, AATU</NAME>
@@ -5760,9 +5760,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175199</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>SKINNER, STUART</NAME>
@@ -8390,7 +8390,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130995</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>13</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>TROUBA, JACOB</NAME>
@@ -8435,7 +8435,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=112727</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player>
 			<NAME>SAMSONOV, ILYA</NAME>
@@ -8597,7 +8597,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=63735</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>5</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOSEPH, MATHIEU</NAME>
@@ -8831,7 +8831,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=159892</WEB>
 			<TEAM>UTA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>20</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>FROST, MORGAN</NAME>
@@ -9551,7 +9551,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187477</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEMSTROM, EMIL</NAME>
@@ -11709,9 +11709,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144637</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>COMTOIS, MAXIME</NAME>
