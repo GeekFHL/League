@@ -1831,7 +1831,7 @@ a: hover, a: active {
 				<td class="TeamName"><center>
 					<table class="noborder">
 						<tr><td class="TeamInfoTB">
-							TAMPA BAY LIGHTING
+							TAMPA BAY LIGHTNING
 						</td></tr>
 						<xsl:for-each select="GFHL/DB/GM[Team='TB']">
 							<tr><td class="TeamInfoTB">
