@@ -1,738 +1,508 @@
-<html>
-<head>
-<Title>GFHL Current Transactions</title>
+
+<!-- saved from url=(0046)https://geekfhl.github.io/League/transfeb.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>GFHL Current Transactions</title>
 <style>
-	body
-	{
-		background-color:#000000; 
-	        color:#FFFFFF; 	
-	        font-family: Arial, sans-serif;
-	        font-size:12px;
-	}
-	table 
-	{	border-width:1px;	
-	        font-size:12px; 	
-	        border-color:#61979F; 	
-	        border-style:ridge;  
-	        border-collapse:collapse;
-		width:600px;
-	 	align:left;
-	}      
-	
-	table.trade
-	{	border-width:1px;	
-	        font-size:12px; 	
-	        border-color:#61979F; 	
-	        border-style:ridge;  
-	        border-collapse:collapse;
-		width:600px;
-	        align:left;
-	}      
-	
-	tr
-	{	border-style:ridge;   
-	        padding:0px;
-	        color:#FFFFFF;
-	        align:left;
-	}
-	
-	tr.noborder
-	{	border-style:none;   
-	        padding:0px;
-	        color:#FFFFFF;
-	        align:left;
-	}
-	
-	td
-	{
-		align:left;
-	}
-	td.noborder
-	{
-		border-style:none;   
-		padding:0px;
-		color:#FFFFFF;
-		align:left;
-	}
-	td.imageNoBorderLeft  
-	{	border-width: 3px; 
-	 	border-style: none; 
-	 	padding: px; 
-	 	border-color: #000000; 
-	 	background-color:#FFFFFF;
-	 	align:left;
-	 	width:75px;
-	}
-	td.imageNoBorderRight  
-	{	border-width: 3px; 
-	 	border-style: none; 
-	 	padding: 0px; 
-	 	border-color: #000000; 
-	 	background-color:#FFFFFF;
-	 	align:right;
-	 	width:75px;
-	}
-	a, a:link, a:visited {
-		text-decoration: none; 
-		font-family: Arial, sans-serif;
-		color:#FFFFFF}
-	
-	a:hover, a:active {
-		text-decoration: underline;}
+body
+{
+	background-color:#000000; 
+        color:#FFFFFF; 	
+        font-family: Arial, sans-serif;
+        font-size:12px;
+}
+table 
+{	border-width:1px;	
+        font-size:12px; 	
+        border-color:#61979F; 	
+        border-style:ridge;  
+        border-collapse:collapse;
+	width:600px;
+ 	align:left;
+}      
+
+table.trade
+{	border-width:1px;	
+        font-size:12px; 	
+        border-color:#61979F; 	
+        border-style:ridge;  
+        border-collapse:collapse;
+	width:600px;
+        align:left;
+}      
+
+tr
+{	border-style:ridge;   
+        padding:0px;
+        color:#FFFFFF;
+        align:left;
+}
+
+tr.noborder
+{	border-style:none;   
+        padding:0px;
+        color:#FFFFFF;
+        align:left;
+}
+
+td
+{
+	align:left;
+}
+td.noborder
+{
+	border-style:none;   
+	padding:0px;
+	color:#FFFFFF;
+	align:left;
+}
+td.imageNoBorderLeft  
+{	border-width: 3px; 
+ 	border-style: none; 
+ 	padding: px; 
+ 	border-color: #000000; 
+ 	background-color:#FFFFFF;
+ 	align:left;
+ 	width:75px;
+}
+td.imageNoBorderRight  
+{	border-width: 3px; 
+ 	border-style: none; 
+ 	padding: 0px; 
+ 	border-color: #000000; 
+ 	background-color:#FFFFFF;
+ 	align:right;
+ 	width:75px;
+}
+a, a:link, a:visited {
+	text-decoration: none; 
+	font-family: Arial, sans-serif;
+	color:#FFFFFF}
+
+a:hover, a:active {
+	text-decoration: underline;}
+
 </style>
 
-</head>
+<style>undefined</style><style id="speechify-theme">:root { --speechify-bg-prim-w-b: #000000;
+--speechify-bg-prim-w-110: #121212;
+--speechify-bg-prim-w-100: #1f1f1f;
+--speechify-bg-prim-w-90: #262626;
+--speechify-bg-prim-w-80: #2e2e2e;
+--speechify-bg-prim-w-70: #363636;
+--speechify-bg-prim-inv-b-w: #ffffff;
+--speechify-bg-prim-cta: #4759f7;
+--speechify-bg-sec-0-110: #121212;
+--speechify-bg-sec-0-100: #1f1f1f;
+--speechify-bg-sec-0-90: #262626;
+--speechify-bg-sec-0-80: #2e2e2e;
+--speechify-bg-sec-0-70: #363636;
+--speechify-bg-sec-inv-100-0: #f5f5f5;
+--speechify-bg-sec-cta: #5c6ae5;
+--speechify-bg-tert-10-90: #262626;
+--speechify-bg-tert-10-80: #2e2e2e;
+--speechify-bg-tert-10-70: #363636;
+--speechify-bg-tert-20-60: #3d3d3d;
+--speechify-bg-tert-inv-60-20: #e0e0e0;
+--speechify-bg-tert-inv-80-10: #ececec;
+--speechify-bg-accent: #3d3d3d;
+--speechify-bg-blue: #262940;
+--speechify-bg-alert: #3d2c13;
+--speechify-bg-success: #0b2e18;
+--speechify-bg-crit: #3d1513;
+--speechify-bg-dimmer: rgba(0, 0, 0, 0.4);
+--speechify-sf-prim-cta: #4759f7;
+--speechify-sf-prim-cta-hov: #4454e3;
+--speechify-sf-prim-cta-pres: #3d4ac4;
+--speechify-sf-prim-w-b: #000000;
+--speechify-sf-prim-hov-w-b: #121212;
+--speechify-sf-prim-pres-w-b: #262626;
+--speechify-sf-prim-w-110: #121212;
+--speechify-sf-prim-hov-w-110: #1f1f1f;
+--speechify-sf-prim-pres-w-110: #2e2e2e;
+--speechify-sf-prim-w-100: #1f1f1f;
+--speechify-sf-prim-hov-w-100: #262626;
+--speechify-sf-prim-pres-w-100: #363636;
+--speechify-sf-prim-w-90: #262626;
+--speechify-sf-prim-hov-w-90: #2e2e2e;
+--speechify-sf-prim-pres-w-90: #3d3d3d;
+--speechify-sf-prim-w-80: #2e2e2e;
+--speechify-sf-prim-hov-w-80: #363636;
+--speechify-sf-prim-pres-w-80: #3d3d3d;
+--speechify-sf-sec-0-110: #121212;
+--speechify-sf-sec-hov-0-110: #1f1f1f;
+--speechify-sf-sec-pres-0-110: #2e2e2e;
+--speechify-sf-sec-0-100: #1f1f1f;
+--speechify-sf-sec-hov-0-100: #262626;
+--speechify-sf-sec-pres-0-100: #363636;
+--speechify-sf-sec-0-90: #262626;
+--speechify-sf-sec-hov-0-90: #363636;
+--speechify-sf-sec-pres-0-90: #3d3d3d;
+--speechify-sf-sec-0-80: #2e2e2e;
+--speechify-sf-sec-hov-0-80: #363636;
+--speechify-sf-sec-pres-0-80: #3d3d3d;
+--speechify-sf-act-electric-blue: #8894fe;
+--speechify-sf-act-blue: #262940;
+--speechify-sf-act-blue-80: #2e2e2e;
+--speechify-sf-act-blue-70: #363636;
+--speechify-sf-act-blue-60: #3d3d3d;
+--speechify-sf-crit: #eb3830;
+--speechify-sf-crit-hov: #d4362f;
+--speechify-sf-crit-pres: #bd342d;
+--speechify-sf-prim-cta-electric-w: #ffffff;
+--speechify-sf-prim-cta-hov-electric-w: #f5f5f5;
+--speechify-sf-prim-cta-pres-electric-w: #ececec;
+--speechify-brdr-prim-10-100: #1f1f1f;
+--speechify-brdr-prim-10-80: #2e2e2e;
+--speechify-brdr-prim-inv-80-10: #ececec;
+--speechify-brdr-prim-hov: #363636;
+--speechify-brdr-prim-foc: #ffffff;
+--speechify-brdr-prim-cta: #5c6ae5;
+--speechify-brdr-sec-20-60: #3d3d3d;
+--speechify-brdr-sec-cta: #5c6ae5;
+--speechify-brdr-tert-40-50: #9f9f9f;
+--speechify-brdr-quat-30-70: #363636;
+--speechify-brdr-blue: #8894fe;
+--speechify-brdr-crit: #eb3830;
+--speechify-icn-txt-white: #ffffff;
+--speechify-icn-txt-black: #000000;
+--speechify-icn-txt-prim: #ffffff;
+--speechify-icn-txt-prim-inv: #000000;
+--speechify-icn-txt-sec: #9f9f9f;
+--speechify-icn-txt-tert: #7a7a7a;
+--speechify-icn-txt-quat: #3d3d3d;
+--speechify-icn-txt-prim-electric: #5c6ae5;
+--speechify-icn-txt-accent: #ffffff;
+--speechify-icn-txt-blue: #8894fe;
+--speechify-icn-txt-success: #23ae75;
+--speechify-icn-txt-alert: #e68600;
+--speechify-icn-txt-crit: #eb3830;
+--speechify-hglt-prim: var(--speechify-hglt-default-prim);
+--speechify-hglt-sec: var(--speechify-hglt-default-sec);
+--speechify-hglt-hov-sec: #2c2d2ebf;
+--speechify-logo-speechify-logo: #ffffff;
+--speechify-logo-speechify-logo-txt: #ffffff;
+--speechify-hglt-default-prim: #5666f0;
+--speechify-hglt-default-sec: #444766;
+--speechify-hglt-pink-prim: #ab21be;
+--speechify-hglt-pink-sec: #5f4064;
+--speechify-hglt-red-prim: #b82929;
+--speechify-hglt-red-sec: #663231;
+--speechify-hglt-orange-prim: #a36319;
+--speechify-hglt-orange-sec: #4c3921;
+--speechify-hglt-green-prim: #218359;
+--speechify-hglt-green-sec: #254b3f;
+--speechify-bg-toolbar-preview: #35363A;
+--speechify-toolbar-star-icon: #F1F3F4;
+--speechify-toolbar-preview-background: #35363A;
+--speechify-toolbar-preview-color: #F1F3F4;
+--speechify-toolbar-spacer-background: #202124;
+--speechify-toolbar-spacer-color: #F1F3F4;
+--speechify-toolbar-separator: #4B4C4C;
+--speechify-icn-txt-prim-light: #000000;
+--speechify-icn-txt-prim-dark: #ffffff;
+--speechify-hglt-hov-sec-light: #fff1de;
+--speechify-hglt-hov-sec-dark: #2c2d2ebf;
+--speechify-hglt-prim-light: #abb3fe;
+--speechify-hglt-sec-light: #e0e3ff;
+--speechify-hglt-prim-dark: #5666f0;
+--speechify-hglt-sec-dark: #444766; --speechify-hglt-blend: lighten; }</style><style>.f1l1o3bf{font-family:Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif, Arial;font-style:normal;font-weight:400}.f1l1o3bf button, .f1l1o3bf input, .f1l1o3bf textarea{font-family:inherit}.f4ofdyf{border:0.5px solid var(--origin-color-border-base-subdued);border-radius:8px;cursor:pointer;height:24px;transition:width 150ms cubic-bezier(0.05, 0.6, 0, 1), height 150ms cubic-bezier(0.05, 0.6, 0, 1), border-radius 150ms cubic-bezier(0.05, 0.6, 0, 1);width:24px}.f137tu7e{flex-shrink:0;transform:scale(1);transition:transform 150ms cubic-bezier(0.05, 0.6, 0, 1)}[data-origin-mode="dark"] .f137tu7e{--origin-color-logo-grammarly-light:var(--origin-color-logo-grammarly-dark);--origin-color-logo-grammarly-primary:var(--origin-color-logo-grammarly-default)}.ftwgcg0{-moz-appearance:none;-webkit-appearance:none;align-items:flex-start;appearance:none;background:transparent;border:none;color:inherit;cursor:pointer;display:flex;font:inherit;height:32px;justify-content:flex-start;padding:0;width:32px}.ftwgcg0:hover .f4ofdyf{border-radius:12px;height:32px;width:32px}.ftwgcg0:hover .f137tu7e{transform:scale(1.25)}.f13cnbb7 .f4ofdyf{border-radius:12px;height:32px;width:32px}.f13cnbb7 .f137tu7e{transform:scale(1.25)}.f8ia88a{--origin-color-button-ghost-content-default:#714cb6;--origin-color-button-ghost-content-states:#533192;--origin-color-button-primary-fill-active:#3f256f;--origin-color-button-primary-fill-default:#714cb6;--origin-color-button-primary-fill-hover:#533192;--origin-font-weight-heading-xsmall:600}[data-origin-mode="dark"] .f8ia88a{--origin-color-button-ghost-content-default:#d4c7ff;--origin-color-button-ghost-content-states:#bea1f5;--origin-color-button-primary-content-default:#141413;--origin-color-button-primary-fill-active:#e8e0ff;--origin-color-button-primary-fill-default:#bea1f5;--origin-color-button-primary-fill-hover:#d4c7ff}.f347vxz{font-weight:600}</style></head>
 
-<noscript><NoEmbed><XMP><body><!--'"</title></head>-->
+<body data-new-gr-c-s-check-loaded="14.1346.0" data-gr-ext-installed=""><noscript><NoEmbed><XMP>
+<body>
 </xmp></NoEmbed></noscript>
 
 <h1><b><center>Transactions</center></b></h1>
-<p />
-<h2><b><center>February's Transactions</center></b></h2>
-<p />
-<div><span style="font-weight:bold;">Past Trades
-<br />
+<p>
+</p><h2><b><center>February Transactions</center></b></h2>
+<p>
+</p><div><span style="font-weight:bold;">Past Trades
+<br>
 <center>
-<br />
-<a href="transjan.html">January</a>&#160;&#160;&#160;&#160;
-<a href="transfeb.html">February</a>&#160;&#160;&#160;&#160;
-<a href="transmar.html">March</a>&#160;&#160;&#160;&#160;
-<a href="transapr.html">April</a>&#160;&#160;&#160;&#160;
-<a href="transmay.html">May</a>&#160;&#160;&#160;&#160;
-<a href="transjune.html">June</a>&#160;&#160;&#160;&#160;
-<a href="transjuly.html">July</a>&#160;&#160;&#160;&#160;
-<a href="transaug.html">August</a>&#160;&#160;&#160;&#160;
-<a href="transsept.html">September</a>&#160;&#160;&#160;&#160;
-<a href="transoct.html">October</a>&#160;&#160;&#160;&#160;
-<a href="transnov.html">November</a>&#160;&#160;&#160;&#160;
-<a href="transdec.html">December</a>
+<br>
+<a href="https://geekfhl.github.io/League/transjan.html">January</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transfeb.html">February</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transmar.html">March</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transapr.html">April</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transmay.html">May</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transjune.html">June</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transjuly.html">July</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transaug.html">August</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transsept.html">September</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transoct.html">October</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transnov.html">November</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transdec.html">December</a>
 </center>
 </span></div>
-<p />
-<p />
-<center>
-
+<p>
+</p><p>
+</p><center>
+	
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Edmonton" style="width:75px;height:50px"></td>
-<td> signs Landon Slaggert (F) and Eric Comrie (G) and </p>releases Jamie Oleksiak (D) and Joel Armia (F)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Dallas" style="width:75px;height:50px"></td>
+		<td>signs Ryan Winterton (F) and releases Mason Appleton (F)</td>
+	</tr></tbody>
 </table>
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td> signs Jack Thompson (D) and releases Nick Perbix (D)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Montreal" style="width:75px;height:50px"></td>
+		<td>signs Nikita Tolopilo (G) and releases Yakov Trenin (F)</td>
+	</tr></tbody>
 </table>
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Boston" style="width:75px;height:50px"></td>
-<td> signs Collin Graf (F) and releases Henry Mews (D)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/LosAngeles" style="width:75px;height:50px"></td>
+		<td>signs Ethan Wyttenbach (F) and releases Nate Schmidt (D)</td>
+	</tr></tbody>
 </table>
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Vancouver" style="width:75px;height:50px"></td>
-<td>claims Henry Mews (F) off waivers (*1 claim) and releases Akira Schmid (G)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Washington" style="width:75px;height:50px"></td>
-<td>claims Joel Armia (F) off waivers (*1 claim) and releases Teddy Blueger (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Seattle" style="width:75px;height:50px"></td>
-<td>signs Drew Helleson (D) and releases Henri Jokiharju (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Washington" style="width:75px;height:50px"></td>
-<td>signs Dylan DeMelo (D) and releases Blake Lizotte (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Boston" style="width:75px;height:50px"></td>
-<td>signs Gage Goncalves (F) and releases Colton Dach (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td> signs Nick Perbix (D) and releases Uvis Balinskis (D)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/NewYorkRangers" style="width:75px;height:50px"></td>
+		<td>signs Connor Ungar (G) and releases Ivan Fedotov (G)</td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Vancouver" style="width:75px;height:50px"></td>
-<td>Eduard Sale (F) <p/>Edmonton's 2025 1st Round pick</td>
-<td align="right">Matthew Savoie (F) <p/>Tampa Bay's 2026 2nd Round pick</td>
-<td class="imageNoBorderRight"><img src="TampaBay" style="width:75px;height:50px"></td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Boston" style="width:75px;height:50px"></td>
+		<td>Mikael Granlund (F) <p> Dmitri Orlov (D)</p></td>
+		<td align="right">Cole Beaudoin (F) <p> Victor Olofsson (F) </p><p> Carolina 2026 2nd Round Pick</p></td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/LosAngeles" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Edmonton" style="width:75px;height:50px"></td>
-<td> signs Mikhail Yegorov (G) and releases Eric Comrie (G)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Florida" style="width:75px;height:50px"></td>
+		<td>signs Avery Hayes (F) and releases Yanni Gourde (F)</td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Florida" style="width:75px;height:50px"></td>
-<td>Colby Barlow (F)<p/>Toronto's 2025 1st Round pick</td>
-<td align="right">Joel Farabee (F)</td>
-<td class="imageNoBorderRight"><img src="TampaBay" style="width:75px;height:50px"></td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Toronto" style="width:75px;height:50px"></td>
+		<td>James Reimer (G) <p> Boston 2026 1st Round Pick </p><p> Buffalo 2026 2nd Round Pick</p></td>
+		<td align="right">Anthony Mantha (F) <p> Edmonton 2026 1st Round Pick</p></td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Florida" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Boston" style="width:75px;height:50px"></td>
-<td>Phillip Kurashev (F)<p/>Nikolai Kovalenko (F)<p/>Ilya Protas (F)</td>
-<td align="right">Nino Niederrieter (F)<p/>Noah Cates (F)<p/>&nbsp;</td>
-<td class="imageNoBorderRight"><img src="Washington" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Boston" style="width:75px;height:50px"></td>
-<td>signs Nick Lardis (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Washington" style="width:75px;height:50px"></td>
-<td>releases Nils Lundkvist (D)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/LosAngeles" style="width:75px;height:50px"></td>
+		<td>Casey Mittelstadt (F) <p> Ryan Ufko (D) </p><p> Maxwell Crozier (D) </p><p> Vaclav Nestrasil (F) </p><p> Los Angeles 2027 1st Round Pick</p></td>
+		<td align="right">Chandler Stephenson (F) <p> Mark Kastelic (F) </p><p> Mason Lohrei (D) </p><p> Jaden Schwartz (F)</p></td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Boston" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Ottawa" style="width:75px;height:50px"></td>
-<td>Taylor Hall</td>
-<td align="right">Cody Glass (F)<p/>Toronto's 2025 2nd Round pick</td>
-<td class="imageNoBorderRight"><img src="Vegas" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Boston" style="width:75px;height:50px"></td>
-<td>signs Alex Steeves (F) releases David Perron (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td>signs Elias Salomonsson (D) releases Nick Perbix (D)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Anaheim" style="width:75px;height:50px"></td>
+		<td>Liam Ohgren (F) <p> Montreal 2026 1st Round Pick </p><p> Los Angeles 2026 2nd Round Pick</p></td>
+		<td align="right">Kevin Korchinski (D)</td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Florida" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Edmonton" style="width:75px;height:50px"></td>
-<td>John Tavares</td>
-<td align="right">Axel Sandin-Pelikka (D)<p/>Pittsburgh's 2025 1st Round pick</td>
-<td class="imageNoBorderRight"><img src="Pittsburgh" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Edmonton" style="width:75px;height:50px"></td>
-<td>signs Jesper Boqvist (F) releases Landon Slaggert (F)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Boston" style="width:75px;height:50px"></td>
+		<td>Nate Danielson (F)<p> Los Angeles 2027 1st Round Pick</p></td>
+		<td align="right">Ryan McLeod (F)<p> Vancouver 2026 2nd Round Pick</p></td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Vancouver" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Edmonton" style="width:75px;height:50px"></td>
-<td>John Gibson (G), <p/>Gabe Perreault (F), <p/>Sam Rinzel (D), <p/>Pittsburgh's 2025 1st Round pick, <p/>Pittsburgh's 2025 2nd Round pick</td>
-<td align="right">Filip Gustavsson (G) <p/>and Quinton Byfield (F)</td>
-<td class="imageNoBorderRight"><img src="Florida" style="width:75px;height:50px"></td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Calgary" style="width:75px;height:50px"></td>
+		<td>Owen Tippett (F) <p> Thomas Novak (F) </p><p> and futures</p></td>
+		<td align="right">Dylan Larkin (F)</td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Carolina" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Edmonton" style="width:75px;height:50px"></td>
-<td>signs Brayden Pachal (D)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Carolina" style="width:75px;height:50px"></td>
+		<td>releases Hendrix LaPierre (F)</td>
+	</tr></tbody>
 </table>
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Florida" style="width:75px;height:50px"></td>
-<td>releases Vasily Ponomarev (F)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Calgary" style="width:75px;height:50px"></td>
+		<td>signs Yegor Surin (F)</td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Toronto" style="width:75px;height:50px"></td>
-<td>Zeev Buium, Maxim Tsyplakov, futures</td>
-<td align="right">Jake Guentzel <p/> Alex Lyon</td>
-<td class="imageNoBorderRight"><img src="Dallas" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Dallas" style="width:75px;height:50px"></td>
-<td>signs Will Borgen (D) releases Joakim Kemell (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Ottawa" style="width:75px;height:50px"></td>
-<td>signs Joel Edmundson (D) and Eric Comrie (G), <p/>releases Jan Rutta (D) and Lars Eller (F)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Toronto" style="width:75px;height:50px"></td>
+		<td>Porter Martone (F)<p>Cam Talbot (G)</p><p>Edmonton 2026 1st Round Pick</p></td>
+		<td align="right">Pavel Mintyukov (D) <p>Logan Hensler (D)</p><p>Anaheim 2026 2nd Round Pick</p><p>Montreal 2026 2nd Round Pick</p><p>Anaheim 2027 2nd Round Pick</p></td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Anaheim" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Detroit" style="width:75px;height:50px"></td>
-<td>Karel Vejmelka (G)</td>
-<td align="right">Trevor Van Riemsdyk (D) <p/> Montreal 2025 1st round pick</td>
-<td class="imageNoBorderRight"><img src="Montreal" style="width:75px;height:50px"></td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Toronto" style="width:75px;height:50px"></td>
+		<td>Logan Hensler (D)</td>
+		<td align="right">Anze Kopitar (F)</td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Philadelphia" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Montreal" style="width:75px;height:50px"></td>
-<td>Pavel Dorofoyev (F) <p/> Montreal 2026 1st round pick <p/> Future Considerations </td>
-<td align="right">Troy Terry (F) <p/> Valeri Nichushkin (F)</td>
-<td class="imageNoBorderRight"><img src="Anaheim" style="width:75px;height:50px"></td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Utah" style="width:75px;height:50px"></td>
+		<td>Owen Beck (F)<p>Utah 2027 2nd Round Pick</p></td>
+		<td align="right">Alex Carrier (D)</td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Philadelphia" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Anaheim" style="width:75px;height:50px"></td>
-<td>signs Tarin Smith (D)</td>
-</tr>
-</table>	
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Montreal" style="width:75px;height:50px"></td>
-<td>signs Ales Stezka (G), releases Jonas Johansson (G)</td>
-</tr>
-</table>	
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Edmonton" style="width:75px;height:50px"></td>
-<td>Cole Hutson (D) <p/> Mikhail Yegorov (G) <p/> Chicago 2025 1st round pick </td>
-<td align="right">David Pastrnak (F) <p/> Nate Schmidt (D)</td>
-<td class="imageNoBorderRight"><img src="Winnipeg" style="width:75px;height:50px"></td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/LosAngeles" style="width:75px;height:50px"></td>
+		<td>signs Pius Suter (F) and releases Jaden Schwartz (F)</td>
+	</tr></tbody>
 </table>
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Anaheim" style="width:75px;height:50px"></td>
-<td>signs Corey Perry (F), releases Topi Niemela (D)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Pittsburgh" style="width:75px;height:50px"></td>
+		<td>signs Trent Miner (G) and Charles-Alexis Legault (D) and releases Mads Sogaard (G) and Ty Smith (D)</td>
+	</tr></tbody>
+</table>
+<table>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Edmonton" style="width:75px;height:50px"></td>
+		<td>signs Nate Schmidt (D) and releases Alex Steeves (F)</td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Boston" style="width:75px;height:50px"></td>
-<td>Nick Lardis (F) </td>
-<td align="right">Morgan Geekie (F)</td>
-<td class="imageNoBorderRight"><img src="Anaheim" style="width:75px;height:50px"></td>
-</tr>
-</table>	
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Edmonton" style="width:75px;height:50px"></td>
-<td>signs Florian Xhekaj (F), releases Brayden Pachal (D)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Edmonton" style="width:75px;height:50px"></td>
+		<td>Bryce Pickford (D)</td>
+		<td align="right">Lawson Crouse (F)</td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/NewYorkRangers" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Nashville" style="width:75px;height:50px"></td>
-<td>Nashville 2026 1st round pick </td>
-<td align="right">Chris Krieder (F)</td>
-<td class="imageNoBorderRight"><img src="Dallas" style="width:75px;height:50px"></td>
-</tr>
-</table>	
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Dallas" style="width:75px;height:50px"></td>
-<td>signs Henri Jokiharju (D)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Calgary" style="width:75px;height:50px"></td>
+		<td>Alex Newhook (F)<p> Marek Vanacker (F) </p><p>Boston 2026 2nd Round Pick</p></td>
+		<td align="right">Matt Duchene (F) <p> Samuel Girard (D)</p></td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Philadelphia" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Nashville" style="width:75px;height:50px"></td>
-<td>releases Brett Berard (F)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Philadelphia" style="width:75px;height:50px"></td>
+		<td>signs Zach Whitecloud (D) and releases Mike Amadio (F)</td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Carolina" style="width:75px;height:50px"></td>
-<td>Mason McTavish (F) <p/> Oliver Kapanen (F) </td>
-<td align="right">Tij Iginla (F) <p/> Colorado 2025 1st Round Pick</td>
-<td class="imageNoBorderRight"><img src="Colorado" style="width:75px;height:50px"></td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Montreal" style="width:75px;height:50px"></td>
+		<td>Linus Karlsson (F)</td>
+		<td align="right">Warren Foegele (F) <p> Boston 2026 2nd Round Pick</p></td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Philadelphia" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Carolina" style="width:75px;height:50px"></td>
-<td>signs Landon Slaggert (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Colorado" style="width:75px;height:50px"></td>
-<td>releases Cole Koepke (F)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Montreal" style="width:75px;height:50px"></td>
+		<td>signs Kailer Yamamoto (F) and releases Warren Foegele (F)</td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Calgary" style="width:75px;height:50px"></td>
-<td>Samuel Girard (D) <p/> William Karlsson (F) <p/> future considerations </td>
-<td align="right">Morgan Rielly (D)</td>
-<td class="imageNoBorderRight"><img src="Philadelphia" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Calgary" style="width:75px;height:50px"></td>
-<td>signs Jani Nyman (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Philadelphia" style="width:75px;height:50px"></td>
-<td>releases Daniel Sprong (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Columbus" style="width:75px;height:50px"></td>
-<td>signs Lenni Hameenaho (F) and releases Logan Couture (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Ottawa" style="width:75px;height:50px"></td>
-<td>signs Felix Unger Sorum (F), William Dufour (F) and Yegor Sidorov (F), <p/>releases Joel Kiviranta (F), Dennis Cholowski (D) and Nikita Grebyonkin (F)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Utah" style="width:75px;height:50px"></td>
+		<td>Mike Matheson (D)</td>
+		<td align="right">Tanner Molendyk (D)</td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Vegas" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Vancouver" style="width:75px;height:50px"></td>
-<td>Marcus Pettersson (D) <p/> Nicolas Roy (F) </td>
-<td align="right">Buffalo 2025 1st round pick</td>
-<td class="imageNoBorderRight"><img src="Buffalo" style="width:75px;height:50px"></td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Montreal" style="width:75px;height:50px"></td>
+		<td>Brad Marchand (F)</td>
+		<td align="right">Egor Zamula (D) <p> Calgary 2026 1st Round Pick</p></td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Vegas" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Vancouver" style="width:75px;height:50px"></td>
-<td>signs Christian Dvorak (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Vancouver" style="width:75px;height:50px"></td>
-<td>claims Brayden Pachal (D) off waivers (2 claims)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Buffalo" style="width:75px;height:50px"></td>
-<td>releases Corson Ceulemans (D) and Nathan Bastian (F)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Montreal" style="width:75px;height:50px"></td>
+		<td>signs Teddy Blueger (F) and releases Egor Zamula (D)</td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Ottawa" style="width:75px;height:50px"></td>
-<td>Nazem Kadri (F) </td>
-<td align="right">Jesse Puljujarvi (F) <p/> Minnesota 2026 1st round pick <p/> Minnesota 2025 2nd round pick</td>
-<td class="imageNoBorderRight"><img src="Minnesota" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Chicago" style="width:75px;height:50px"></td>
-<td>signs Damian Clara (G), releases Brian Dumoulin (D)</td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Florida" style="width:75px;height:50px"></td>
+		<td>Peyton Krebs (F)</td>
+		<td align="right">Pavol Regenda (F) <p> Montreal 2027 1st Round Pick</p></td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Montreal" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td>Martin Pospisil (F) <p/> Brady Skjei (D) <p/> Patrick Kane (F) </td>
-<td align="right">Nate Danielson (F) <p/> Declan Chisholm (D) <p/> Jani Nyman (F) <p/> Calgary 2026 1st round pick <p/> Calgary 2025 2nd round pick</td>
-<td class="imageNoBorderRight"><img src="Calgary" style="width:75px;height:50px"></td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/Calgary" style="width:75px;height:50px"></td>
+		<td>Oliver Bjorkstrand (F)</td>
+		<td align="right">Mats Zuccarello (F)</td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Montreal" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
 <table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Anaheim" style="width:75px;height:50px"></td>
-<td>Lucas Raymond (F) <p/> Philip Tomasino (F) </td>
-<td align="right">Shane Wright (F) <p/> Brandt Clarke (D)</td>
-<td class="imageNoBorderRight"><img src="Florida" style="width:75px;height:50px"></td>
-</tr>
+	<tbody><tr>
+		<td class="imageNoBorderLeft"><img src="./transfeb_files/NewYorkRangers" style="width:75px;height:50px"></td>
+		<td>Josh Doan (F)<p> Pyotr Andreyonov (G) </p><p> New York Rangers 2027 1st Round Pick</p></td>
+		<td align="right">Marco Rossi (F)<p> Christian Dvorak (F) </p></td>
+		<td class="imageNoBorderRight"><img src="./transfeb_files/Vancouver" style="width:75px;height:50px"></td>
+	</tr></tbody>
 </table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td>Alex DeBrincat (F) <p/> Vincent Trocheck (F) <p/> Jackson Blake (F) <p/> Mats Zuccarello (F) <p/> Calgary 2026 1st round pick <p/> Calgary 2025 2nd round pick </td>
-<td align="right">Nikita Kucherov (F) <p/> Arvid Soderblom (G) <p/> Luke Kunin (F)</td>
-<td class="imageNoBorderRight"><img src="Montreal" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td>signs Nick Perbix (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Montreal" style="width:75px;height:50px"></td>
-<td>releases Michael Essyimont (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="NewYorkRangers" style="width:75px;height:50px"></td>
-<td>signing Jeremie Poirier (F) and releasing Jordan Harris (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Boston" style="width:75px;height:50px"></td>
-<td>signing Emil Bemstrom (F) and releasing Robby Fabbi (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Boston" style="width:75px;height:50px"></td>
-<td>signs Georgii Merkulov (F) and releases Gage Goncalves (F)</td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Toronto" style="width:75px;height:50px"></td>
-<td>Logan Stankoven (F) <p/> Jesper Wallstedt (G)</td>
-<td align="right">Sam Reinhart (F) <p/>Adin Hill (G)<p/> Pittsburgh 2026 2nd round pick</td>
-<td class="imageNoBorderRight"><img src="Winnipeg" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Winnipeg" style="width:75px;height:50px"></td>
-<td>Chaz Lucius (F) <p/> Brendan Gallagher (F)</td>
-<td align="right">Anthony Mantha (F) <p/>Taylor Raddysh (F)</td>
-<td class="imageNoBorderRight"><img src="Vegas" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Vancouver" style="width:75px;height:50px"></td>
-<td>Dawson Mercer (F) <p/> Nikita Zadorov (D)</td>
-<td align="right">Ryan McLeod (F) <p/>Jaxson Stauber (G) <p/> New Jersey 2026 2nd round pick</td>
-<td class="imageNoBorderRight"><img src="NewYorkRangers" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Vancouver" style="width:75px;height:50px"></td>
-<td>releases Riley Heidt (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Chicago" style="width:75px;height:50px"></td>
-<td>signs Jamie Oleksiak (D) and releases Luke Schenn (D)</td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Edmonton" style="width:75px;height:50px"></td>
-<td>Brad Marchand (F)</td>
-<td align="right">Jackson Blake (F) <p/> Calgary 2026 1st round pick</td>
-<td class="imageNoBorderRight"><img src="Montreal" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Ottawa" style="width:75px;height:50px"></td>
-<td>Jean-Gabriel Pageau (F)</td>
-<td align="right">Dakota Joshua (F) <p/> Calgary 2025 2nd round pick</td>
-<td class="imageNoBorderRight"><img src="Montreal" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Calgary" style="width:75px;height:50px"></td>
-<td>Florida's 2025 2nd round pick (F)</td>
-<td align="right">Mattias Ekholm (D)</td>
-<td class="imageNoBorderRight"><img src="LosAngeles" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Calgary" style="width:75px;height:50px"></td>
-<td> releases Juuso Parssinen (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="LosAngeles" style="width:75px;height:50px"></td>
-<td> signs Vladislav Kolyachonok (D)</td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Calgary" style="width:75px;height:50px"></td>
-<td>Mattias Ekholm (D)</td>
-<td align="right">Max Domi (F)</td>
-<td class="imageNoBorderRight"><img src="Montreal" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Edmonton" style="width:75px;height:50px"></td>
-<td> signs Brandon Duhaime (F) and releases Florian Xhekaj (F)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Minnesota" style="width:75px;height:50px"></td>
-<td> signs Uvis Balinskis (D) and releases Nolan Allan (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Vancouver" style="width:75px;height:50px"></td>
-<td> signs Oskar Back (F)</td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Minnesota" style="width:75px;height:50px"></td>
-<td>J.J. Moser (D) <p/> Dylan Duke (F)</td>
-<td align="right">MacKenzie Weegar (D)</td>
-<td class="imageNoBorderRight"><img src="Washington" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Minnesota" style="width:75px;height:50px"></td>
-<td> signs Jonas Johansson (G)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Washington" style="width:75px;height:50px"></td>
-<td> releases Brandon Bussi (G)</td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Calgary" style="width:75px;height:50px"></td>
-<td>Arturs Silovs (G) <p/> Dallas 2025 2nd round pick</td>
-<td align="right">John Gibson (G) <p/> Los Angeles 2025 2nd round pick</td>
-<td class="imageNoBorderRight"><img src="Florida" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Ottawa" style="width:75px;height:50px"></td>
-<td>Mathew Barzal (F) <p/> Toronto 2025 2nd round pick <p/> Minnesota 2025 2nd round pick</td>
-<td align="right">Adin Hill (G) <p/> Boston 2025 1st round pick <p/> Pittsburgh 2026 2nd round pick</td>
-<td class="imageNoBorderRight"><img src="Toronto" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Anaheim" style="width:75px;height:50px"></td>
-<td>Carter George (G) <p/> Adam Jiricek (D) <p/> Washington 2025 2nd round pick</td>
-<td align="right">Pavel Mintyukov (D)</td>
-<td class="imageNoBorderRight"><img src="Philadelphia" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Anaheim" style="width:75px;height:50px"></td>
-<td>signs Evan Gardner (G)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Philadelphia" style="width:75px;height:50px"></td>
-<td>releases Kaapo Kahkonen (G)</td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Philadelphia" style="width:75px;height:50px"></td>
-<td>Kirill Kaprizov (F) <p/> Scott Laughton (F) <p/> Christian Kyrou (D)</td>
-<td align="right">Matt Duchene (F) <p/>Jiri Kulich (F) <p/>Axel Sandin-Pelikka (D)</td>
-<td class="imageNoBorderRight"><img src="Edmonton" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Edmonton" style="width:75px;height:50px"></td>
-<td>signs Tyson Jugnauth (D), releases Christian Kyrou (D)</td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Boston" style="width:75px;height:50px"></td>
-<td>signs Ian Mitchell (D), releases Alex Steeves (F)</td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Anaheim" style="width:75px;height:50px"></td>
-<td>Dylan Holloway (F) <p/> Alexandre Carrier (D) <p/> Stuart Skinner (G)</td>
-<td align="right">Jack Quinn (F) <p/>Jackson Lacombe (D) <p/>Alex Nedeljkovic (G)</td>
-<td class="imageNoBorderRight"><img src="Boston" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="NewYorkRangers" style="width:75px;height:50px"></td>
-<td>claims Florian Xhekaj (F) off waivers (1 claim), releases Jayden Struble (D)</td>
-</tr>
-</table>
-<table class="trade">
-<tr>
-<td class="imageNoBorderLeft"><img src="Calgary" style="width:75px;height:50px"></td>
-<td>Spencer Knight (G)</td>
-<td align="right">Seth Jarvis (F) <p/> New Jersey 2026 1st round pick <p/> Seattle 2025 2nd round pick</td>
-<td class="imageNoBorderRight"><img src="NewJersey" style="width:75px;height:50px"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td class="imageNoBorderLeft"><img src="Boston" style="width:75px;height:50px"></td>
-<td>claims Christian Kyrou (D) off waivers (1 claim), releases Emil Bemstrom (F)</td>
-</tr>
-</table>
-
-
-
-
 
 </center>
 <div>
 <center>
-<br />
+<br>
 <span style="font-weight:bold;">
-<a href="transjan.html">January</a>&#160;&#160;&#160;&#160;
-<a href="transfeb.html">February</a>&#160;&#160;&#160;&#160;
-<a href="transmar.html">March</a>&#160;&#160;&#160;&#160;
-<a href="transapr.html">April</a>&#160;&#160;&#160;&#160;
-<a href="transmay.html">May</a>&#160;&#160;&#160;&#160;
-<a href="transjune.html">June</a>&#160;&#160;&#160;&#160;
-<a href="transjuly.html">July</a>&#160;&#160;&#160;&#160;
-<a href="transaug.html">August</a>&#160;&#160;&#160;&#160;
-<a href="transsept.html">September</a>&#160;&#160;&#160;&#160;
-<a href="transoct.html">October</a>&#160;&#160;&#160;&#160;
-<a href="transnov.html">November</a>&#160;&#160;&#160;&#160;
-<a href="transdec.html">December</a>
+<a href="https://geekfhl.github.io/League/transjan.html">January</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transfeb.html">February</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transmar.html">March</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transapr.html">April</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transmay.html">May</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transjune.html">June</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transjuly.html">July</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transaug.html">August</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transsept.html">September</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transoct.html">October</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transnov.html">November</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://geekfhl.github.io/League/transdec.html">December</a>
 </span>
 </center>
 </div>
-<br />
+<br>
 
-<noscript><NoEmbed><XMP></body></xmp></NoEmbed></noscript>
+<noscript><NoEmbed><XMP>
+</body>
+</xmp></NoEmbed></noscript>
 
-</html>
+
+<div id="speechify-global-notifications"><template shadowrootmode="open"><div id="speechify-global-notifications-root" style="position: fixed; top: 0px; left: 0px; width: 100vw; z-index: 2147483644; height: 0px;"><div class="notifications-emotion-cache-1ad7coa"></div><div class="notifications-emotion-cache-6wg75d"><div class="notifications-emotion-cache-166iudr"></div></div><style data-emotion="notifications-emotion-cache" data-s="">.notifications-emotion-cache-1ad7coa{width:100%;height:100%;-webkit-transition:opacity 0.33s cubic-bezier(0.17, 0.89, 0.32, 1.27),-webkit-transform 0.33s cubic-bezier(0.17, 0.89, 0.32, 1.27);transition:opacity 0.33s cubic-bezier(0.17, 0.89, 0.32, 1.27),transform 0.33s cubic-bezier(0.17, 0.89, 0.32, 1.27);opacity:0;-webkit-transform:translateY(-20px);-moz-transform:translateY(-20px);-ms-transform:translateY(-20px);transform:translateY(-20px);pointer-events:none;}</style><style data-emotion="notifications-emotion-cache" data-s="">.notifications-emotion-cache-6wg75d{background:var(--speechify-bg-prim-w-100);box-shadow:0px 8px 24px 0px #00000029;border-radius:20px;color:var(--speechify-icn-txt-prim);cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;overflow:visible;pointer-events:auto;position:fixed;visibility:hidden;opacity:0;left:-4px;top:36px;}</style><style data-emotion="notifications-emotion-cache" data-s="">.notifications-emotion-cache-6wg75d.initial{-webkit-transition:none;transition:none;}</style><style data-emotion="notifications-emotion-cache" data-s="">.notifications-emotion-cache-6wg75d::before{background:var(--speechify-bg-prim-w-100);content:'';height:12px;position:absolute;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);width:12px;top:-5px;left:20px;}</style><style data-emotion="notifications-emotion-cache" data-s="">.notifications-emotion-cache-166iudr{font-family:system-ui,sans-serif;height:100%;min-width:230px;padding:0;width:100%;}</style></div></template></div><div id="speechify-screenshot-mode" style="position: fixed; top: 0px; right: 0px; width: 100%; min-height: 100%; z-index: 2147483640; display: none !important;"><template shadowrootmode="open"><div id="speechify-screenshot-mode-root" style="width: 100%; height: 100%; position: relative;"></div></template></div><div id="speechify-scroll-to-highlight" style="position: absolute; bottom: 0px; right: 0px;"><template shadowrootmode="open"><div id="speechify-scroll-to-highlight-root" style="position: fixed; z-index: 2147483646; top: 0px; left: 50%; transform: translateX(-50%); height: fit-content; font-size: initial;"></div></template></div><div id="speechify-hover-player-shadow-root"><template shadowrootmode="open"><div id="speechify-hover-player-container"></div></template></div><div id="speechify-settings-modal" style="position: absolute; bottom: 0px; right: 0px;"><template shadowrootmode="open"><div id="speechify-settings-modal-root" style="position: fixed; z-index: 2147483646; top: 0px; left: 0px; height: fit-content; font-size: initial;"></div></template></div><div id="speechify-mic-button" style="z-index: 2147483644; position: absolute; top: 0px; left: 0px; height: 0px; width: 0px;"><template shadowrootmode="open"><style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+  </style></template></div><div id="speechify-side-player-settings" style="position: fixed; top: 0px; left: 0px; width: 0px; height: 0px; z-index: 2147483647;"><template shadowrootmode="open"><div id="speechify-side-player-settings-root"></div></template></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true" style="visibility: visible !important;"><template shadowrootmode="open"><style>
+      div.grammarly-desktop-integration {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select:none;
+        user-select:none;
+      }
+
+      div.grammarly-desktop-integration:before {
+        content: attr(data-content);
+      }
+    </style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integration></html>
