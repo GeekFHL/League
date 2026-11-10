@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 9, 2026</UPDATED>
-	<LASTTRANS>LA signs Perron, releases Stevenson</LASTTRANS>
+	<LASTTRANS>Florida signs Brodin, releases Bahl</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -3546,9 +3546,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195846</WEB>
-			<TEAM>FLA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>ERSSON, SAMUEL</NAME>
@@ -9396,9 +9396,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127571</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>FLA</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>QUICK, JONATHAN</NAME>
