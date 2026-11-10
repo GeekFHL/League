@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 9, 2026</UPDATED>
-	<LASTTRANS>New Jersey signs Schock, releases Soucy</LASTTRANS>
+	<LASTTRANS>Dallas signs Brossoit, Hyry, Christiansen, releases Greene, Benoit, Laba</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
+		</Player>
+		<Player>
+			<NAME>HYRY, ARTTU</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=237659</WEB>
+			<TEAM>DAL</TEAM>
+			<POS>FWD</POS>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHOCK, DREW</NAME>
@@ -846,9 +855,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228468</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>LEE, RYKER</NAME>
@@ -1089,9 +1098,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238417</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>8</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>HALLANDER, FILIP</NAME>
@@ -2486,7 +2495,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216250</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>24</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>BRINDLEY, GAVIN</NAME>
@@ -3555,9 +3564,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=186185</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>NOVAK, THOMAS</NAME>
@@ -4689,9 +4698,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187311</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>14</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>MIDDLETON, JACOB</NAME>
@@ -11484,9 +11493,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118258</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>GLT</POS>
-			<SLOT></SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>WAHLSTROM, OLIVER</NAME>
@@ -11873,7 +11882,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177091</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>4</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAUVILLIER, ANTHONY</NAME>
@@ -12530,7 +12539,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89271</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>SHESTERKIN, IGOR</NAME>
@@ -12620,7 +12629,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244113</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>HELLESON, DREW</NAME>
