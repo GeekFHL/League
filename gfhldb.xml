@@ -155,7 +155,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251765</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>JOHANSSON, ANTON</NAME>
@@ -1901,7 +1901,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217929</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>ZAVRAGIN, YEGOR</NAME>
@@ -4169,7 +4169,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230223</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>17</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>NELSON, TY</NAME>
@@ -9047,7 +9047,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=80463</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>FWD</POS>
-			<SLOT>22</SLOT>
+			<SLOT>1</SLOT>
 		</Player>
 		<Player>
 			<NAME>DADONOV, EVGENY</NAME>
@@ -9083,7 +9083,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139048</WEB>
 			<TEAM>VGK</TEAM>
 			<POS>DEF</POS>
-			<SLOT>18</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>RIELLY, MORGAN</NAME>
