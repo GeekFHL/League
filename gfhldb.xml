@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 9, 2026</UPDATED>
-	<LASTTRANS>Pittsburgh signs Pesce, releases Joseph</LASTTRANS>
+	<LASTTRANS>New Jersey signs Schock, releases Soucy</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>WARREN, NOAH</NAME>
@@ -12,6 +12,15 @@
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
 			<SLOT>11</SLOT>
+		</Player>
+		<Player>
+			<NAME>SCHOCK, DREW</NAME>
+			<CAPTAIN></CAPTAIN>
+			<UNPROTECTED></UNPROTECTED>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=271184</WEB>
+			<TEAM>NJ</TEAM>
+			<POS>DEF</POS>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>KASKIMAKI, ALEKSANTERI</NAME>
@@ -1559,7 +1568,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=269199</WEB>
 			<TEAM>NJ</TEAM>
 			<POS>DEF</POS>
-			<SLOT>24</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>BEAR, CARTER</NAME>
@@ -6957,9 +6966,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152151</WEB>
-			<TEAM>NJ</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>12</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>DOSTAL, LUKAS</NAME>
