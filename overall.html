@@ -15,7 +15,8 @@
 (async function () {
   try {
     // Wait for the polyfill's WebAssembly engine to finish loading
-    if (window.xsltPolyfillReady) await window.xsltPolyfillReady;
+    // (xsltPolyfillReady is a function that returns the promise)
+    if (typeof window.xsltPolyfillReady === "function") await window.xsltPolyfillReady();
 
     const get = async (url) => {
       const r = await fetch(url + "?t=" + Date.now(), { cache: "no-store" });

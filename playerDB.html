@@ -42,7 +42,7 @@ else if (document.implementation && document.implementation.createDocument)
 }
 </script>
 </head>
-<body onload="Promise.resolve(window.xsltPolyfillReady).then(displayResult)">
+<body onload="(typeof xsltPolyfillReady === 'function' ? xsltPolyfillReady() : Promise.resolve()).then(displayResult)">
 <div id="example"></div>
 </body>
 </html>
