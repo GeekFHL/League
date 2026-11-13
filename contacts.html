@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <!-- Restores XSLTProcessor, which Chrome is removing (xslt-polyfill 1.0.34, hosted locally) -->
+<script>window.xsltUsePolyfillAlways = false; // use the browser's own XSLT when it still has one</script>
 <script src="xslt-polyfill.min.js"></script>
 <script>
 function loadXMLDoc(filename)
