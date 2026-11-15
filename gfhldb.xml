@@ -79,7 +79,7 @@
 		<Player>
 			<NAME>CAULFIELD, JUDD</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209487</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
@@ -1231,7 +1231,7 @@
 		<Player>
 			<NAME>SHEA, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179361</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
@@ -1834,7 +1834,7 @@
 		<Player>
 			<NAME>COOLEY, DEVIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179757</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
@@ -4813,7 +4813,7 @@
 		<Player>
 			<NAME>MCLEOD, RYAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187431</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
@@ -5020,7 +5020,7 @@
 		<Player>
 			<NAME>VEJMELKA, KAREL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176778</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>GLT</POS>
@@ -6271,7 +6271,7 @@
 		<Player>
 			<NAME>SWAYMAN, JEREMY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196280</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>GLT</POS>
@@ -9286,7 +9286,7 @@
 		<Player>
 			<NAME>EKHOLM, MATTIAS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=112754</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
@@ -9304,7 +9304,7 @@
 		<Player>
 			<NAME>DEMKO, THATCHER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=146146</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>GLT</POS>
@@ -9637,7 +9637,7 @@
 		<Player>
 			<NAME>BJORKSTRAND, OLIVER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155408</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
@@ -10330,7 +10330,7 @@
 		<Player>
 			<NAME>ARVIDSSON, VIKTOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139983</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
@@ -10339,7 +10339,7 @@
 		<Player>
 			<NAME>MITTELSTADT, CASEY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192483</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
@@ -10528,7 +10528,7 @@
 		<Player>
 			<NAME>NICHUSHKIN, VALERI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=162486</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>FWD</POS>
@@ -10555,7 +10555,7 @@
 		<Player>
 			<NAME>PROVOROV, IVAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170336</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>DEF</POS>
@@ -10654,7 +10654,7 @@
 		<Player>
 			<NAME>LINDHOLM, ELIAS</NAME>
 			<CAPTAIN>C</CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152765</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
@@ -11401,7 +11401,7 @@
 		<Player>
 			<NAME>RAKELL, RICKARD</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130557</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
@@ -12418,7 +12418,7 @@
 		<Player>
 			<NAME>DOUGHTY, DREW</NAME>
 			<CAPTAIN>C</CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89731</WEB>
 			<TEAM>MTL</TEAM>
 			<POS>DEF</POS>
