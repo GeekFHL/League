@@ -25,7 +25,7 @@
 		<Player>
 			<NAME>GAUTHIER, TAYLOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208722</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
@@ -205,7 +205,7 @@
 		<Player>
 			<NAME>LOMBARDI, AMADEUS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232327</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
@@ -2014,7 +2014,7 @@
 		<Player>
 			<NAME>SLUKYNSKY, HAMPTON</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=266370</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
@@ -2221,7 +2221,7 @@
 		<Player>
 			<NAME>SOLBERG, STIAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272901</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>DEF</POS>
@@ -3661,7 +3661,7 @@
 		<Player>
 			<NAME>COTTER, PAUL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195694</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
@@ -5245,7 +5245,7 @@
 		<Player>
 			<NAME>L'HEUREUX, ZACHARY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227328</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
@@ -7387,7 +7387,7 @@
 		<Player>
 			<NAME>AMADIO, MIKE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160248</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>FWD</POS>
