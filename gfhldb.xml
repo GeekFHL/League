@@ -781,7 +781,7 @@
 		<Player>
 			<NAME>HUTSON, QUINN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238540</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
@@ -1618,7 +1618,7 @@
 		<Player>
 			<NAME>BEAR, CARTER</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=264349</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
@@ -4786,7 +4786,7 @@
 		<Player>
 			<NAME>PROTAS, ALIAKSEI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216675</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>FWD</POS>
@@ -6406,7 +6406,7 @@
 		<Player>
 			<NAME>SCHNEIDER, BRADEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=202373</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
@@ -7441,7 +7441,7 @@
 		<Player>
 			<NAME>COPP, ANDREW</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=134193</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
@@ -8611,7 +8611,7 @@
 		<Player>
 			<NAME>FOWLER, CAM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120956</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
@@ -9043,7 +9043,7 @@
 		<Player>
 			<NAME>GRANLUND, MIKAEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118389</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
@@ -9655,7 +9655,7 @@
 		<Player>
 			<NAME>LANDESKOG, GABRIEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118530</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
@@ -9952,7 +9952,7 @@
 		<Player>
 			<NAME>ARMIA, JOEL</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130454</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
@@ -11734,7 +11734,7 @@
 		<Player>
 			<NAME>DEANGELO, TONY</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130876</WEB>
 			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
@@ -11752,7 +11752,7 @@
 		<Player>
 			<NAME>OLEKSIAK, JAMIE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117317</WEB>
 			<TEAM>TB</TEAM>
 			<POS>DEF</POS>
@@ -12049,7 +12049,7 @@
 		<Player>
 			<NAME>KANE, PATRICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96554</WEB>
 			<TEAM>DET</TEAM>
 			<POS>FWD</POS>
@@ -12490,7 +12490,7 @@
 		<Player>
 			<NAME>JANKOWSKI, MARK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155332</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
