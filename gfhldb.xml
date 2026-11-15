@@ -9151,7 +9151,7 @@
 		<Player>
 			<NAME>BOBROVSKY, SERGEI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98874</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
@@ -11275,7 +11275,7 @@
 		<Player>
 			<NAME>GUSTAVSSON, FILIP</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192086</WEB>
 			<TEAM>EDM</TEAM>
 			<POS>GLT</POS>
