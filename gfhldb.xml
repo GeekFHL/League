@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 16, 2026</UPDATED>
-	<LASTTRANS>CLB claims Larsson, releases Tung</LASTTRANS>
+	<LASTTRANS>Boston signs Elton Hermansson (F), releases Isak Rosen (F)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BERGLUND, JACK</NAME>
@@ -315,9 +315,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=272067</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player>
 			<NAME>FINK, AIDEN</NAME>
@@ -5337,9 +5337,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=233734</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>RUOTSALAINEN, ARTTU</NAME>
