@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 16, 2026</UPDATED>
-	<LASTTRANS>DAL-TB Trade (Kapanen for COL2 2027)</LASTTRANS>
+	<LASTTRANS>DAL signs Drury, releases Rempe</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BERGLUND, JACK</NAME>
@@ -2529,9 +2529,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216250</WEB>
-			<TEAM>DAL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>18</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>BRINDLEY, GAVIN</NAME>
@@ -4689,9 +4689,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196236</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>MOSER, J.J.</NAME>
@@ -5816,7 +5816,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175199</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>23</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>SKINNER, STUART</NAME>
