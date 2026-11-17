@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 16, 2026</UPDATED>
-	<LASTTRANS>Florida signs Eller (F), Boqvist (F), releases Wennberg (F) and Hayes (F)</LASTTRANS>
+	<LASTTRANS>LA signs Jones, releases Crozier</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BERGLUND, JACK</NAME>
@@ -1152,9 +1152,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208615</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
-			<SLOT>11</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>DOUGLAS, CURTIS</NAME>
@@ -5931,9 +5931,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217053</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>SCHENN, LUKE</NAME>
