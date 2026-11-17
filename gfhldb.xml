@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <GFHL>
-	<UPDATED>November 13, 2026</UPDATED>
+	<UPDATED>November 16, 2026</UPDATED>
 	<LASTTRANS>Colorado signs Jack Berglund (F) and releases Markus Ruck (F)</LASTTRANS>
 	<DB>
 		<Player>
@@ -475,7 +475,7 @@
 		<Player>
 			<NAME>RAUTIAINEN, BENJAMIN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=266362</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -1015,7 +1015,7 @@
 		<Player>
 			<NAME>BOWMAN, BRAEDEN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=229976</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -1591,7 +1591,7 @@
 		<Player>
 			<NAME>SHABANOV, MAXIM</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249103</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -7747,7 +7747,7 @@
 		<Player>
 			<NAME>ROBERTSON, NICK</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197139</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -7927,7 +7927,7 @@
 		<Player>
 			<NAME>MCMICHAEL, CONNOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196952</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
@@ -8647,7 +8647,7 @@
 		<Player>
 			<NAME>OVECHKIN, ALEX</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=63735</WEB>
 			<TEAM>TOR</TEAM>
 			<POS>FWD</POS>
@@ -9259,7 +9259,7 @@
 		<Player>
 			<NAME>EBERLE, JORDAN</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96639</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -9313,7 +9313,7 @@
 		<Player>
 			<NAME>OLOFSSON, VICTOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=142605</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -10960,7 +10960,7 @@
 		<Player>
 			<NAME>BENN, JAMIE</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=102290</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
@@ -11815,7 +11815,7 @@
 		<Player>
 			<NAME>PANARIN, ARTEMI</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED></UNPROTECTED>
+			<UNPROTECTED>Y</UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=117198</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>FWD</POS>
