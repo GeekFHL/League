@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 16, 2026</UPDATED>
-	<LASTTRANS>LA claims Ruck, releases Fink</LASTTRANS>
+	<LASTTRANS>CLB claims Larsson, releases Tung</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>BERGLUND, JACK</NAME>
@@ -135,9 +135,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262352</WEB>
-			<TEAM>CLB</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>19</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>CARLILE, DECLAN</NAME>
@@ -614,7 +614,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=270454</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
-			<SLOT>16</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>BELCHETZ, ETHAN</NAME>
@@ -2351,7 +2351,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240647</WEB>
 			<TEAM>CLB</TEAM>
 			<POS>GLT</POS>
-			<SLOT>21</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player>
 			<NAME>HAGE, MICHAEL</NAME>
@@ -11367,9 +11367,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118565</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CLB</TEAM>
 			<POS>DEF</POS>
-			<SLOT></SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>PETERSEN, CAL</NAME>
