@@ -2,7 +2,7 @@
 
 <GFHL>
 	<UPDATED>November 23, 2026</UPDATED>
-	<LASTTRANS>Vancouver signs Boucher (F), release Lambert (F)</LASTTRANS>
+	<LASTTRANS>Anaheim signs Jonas Lagerberg-Hoen (F), releases Dmitri Borichev (G)</LASTTRANS>
 	<DB>
 		<Player>
 			<NAME>OSBURN, LUKE</NAME>
@@ -279,9 +279,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=289128</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT></SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEGAULT, CHARLES-ALEXIS</NAME>
@@ -666,9 +666,9 @@
 			<CAPTAIN></CAPTAIN>
 			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=291813</WEB>
-			<TEAM>ANA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
-			<SLOT>22</SLOT>
+			<SLOT></SLOT>
 		</Player>
 		<Player>
 			<NAME>GARDINER, BRAD</NAME>
@@ -3404,7 +3404,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240679</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>3</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>BERNI, TIM</NAME>
@@ -4196,7 +4196,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238276</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>21</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player>
 			<NAME>LEINONEN, TOPIAS</NAME>
