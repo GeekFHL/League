@@ -11,7 +11,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=249134</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
-			<SLOT>2</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>OSBURN, LUKE</NAME>
@@ -52,7 +52,7 @@
 		<Player>
 			<NAME>GAUTHIER, TAYLOR</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208722</WEB>
 			<TEAM>fa</TEAM>
 			<POS>GLT</POS>
@@ -232,7 +232,7 @@
 		<Player>
 			<NAME>LOMBARDI, AMADEUS</NAME>
 			<CAPTAIN></CAPTAIN>
-			<UNPROTECTED>Y</UNPROTECTED>
+			<UNPROTECTED></UNPROTECTED>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232327</WEB>
 			<TEAM>BOS</TEAM>
 			<POS>FWD</POS>
